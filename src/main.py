@@ -33,7 +33,15 @@ def run(force: bool = False) -> int:
 
     # --- 2. Receptivity check (account snapshot + model decision) ---
     snap = risk.snapshot()
-    decisions = agent.decide(cands, snap)
+    try:
+        decisions = agent.decide(cands, snap)
+    except Exception as e:
+        # e.g. Anthropic credits exhausted -> stop trading, no crash, resume
+        # automatically on the next run once credits are topped up.
+        print(f"[{day}] agent unavailable -> no trades ({e})")
+        journal.write({"day": day, "equity": snap["equity"], "candidates": cands,
+                       "decisions": [], "orders": [], "note": f"agent_unavailable: {e}"})
+        return 0
     approved, rejected = risk.vet(decisions, snap, cands, _spent_today(snap))
     print(f"[{day}] decisions={len(decisions)} approved={len(approved)} "
           f"rejected={len(rejected)}")
