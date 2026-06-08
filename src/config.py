@@ -26,8 +26,8 @@ ALPACA_API_KEY = os.getenv("ALPACA_API_KEY", "")
 ALPACA_SECRET_KEY = os.getenv("ALPACA_SECRET_KEY", "")
 ALPACA_PAPER = os.getenv("ALPACA_PAPER", "true").lower() == "true"
 
-ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "")
-ANTHROPIC_MODEL = os.getenv("ANTHROPIC_MODEL", "claude-sonnet-4-6")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
+GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.0-flash")
 
 FINNHUB_API_KEY = os.getenv("FINNHUB_API_KEY", "")
 
@@ -48,7 +48,7 @@ def require_keys() -> None:
     missing = [k for k, v in {
         "ALPACA_API_KEY": ALPACA_API_KEY,
         "ALPACA_SECRET_KEY": ALPACA_SECRET_KEY,
-        "ANTHROPIC_API_KEY": ANTHROPIC_API_KEY,
+        "GEMINI_API_KEY": GEMINI_API_KEY,
         "FINNHUB_API_KEY": FINNHUB_API_KEY,
     }.items() if not v]
     if missing:

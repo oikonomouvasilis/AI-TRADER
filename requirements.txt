@@ -1,4 +1,4 @@
 alpaca-py>=0.42
-anthropic>=0.69
+google-genai>=1.0
 requests>=2.31
 python-dotenv>=1.0
