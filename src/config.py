@@ -27,7 +27,7 @@ ALPACA_SECRET_KEY = os.getenv("ALPACA_SECRET_KEY", "")
 ALPACA_PAPER = os.getenv("ALPACA_PAPER", "true").lower() == "true"
 
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
-GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.0-flash")
+GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
 
 FINNHUB_API_KEY = os.getenv("FINNHUB_API_KEY", "")
 
