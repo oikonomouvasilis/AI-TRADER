@@ -3,6 +3,7 @@ from datetime import datetime, timedelta, timezone
 
 from alpaca.data.requests import StockBarsRequest, MostActivesRequest
 from alpaca.data.timeframe import TimeFrame
+from alpaca.data.enums import DataFeed
 
 from . import config, clients
 
@@ -21,10 +22,11 @@ def _momentum(symbols: list[str]) -> dict[str, dict]:
     """5-day momentum + latest price from daily bars."""
     if not symbols:
         return {}
-    end = datetime.now(timezone.utc)
+    # free plan = IEX feed; SIP within 15 min is forbidden, so buffer end back.
+    end = datetime.now(timezone.utc) - timedelta(minutes=20)
     start = end - timedelta(days=10)
     req = StockBarsRequest(symbol_or_symbols=symbols, timeframe=TimeFrame.Day,
-                           start=start, end=end)
+                           start=start, end=end, feed=DataFeed.IEX)
     out: dict[str, dict] = {}
     try:
         bars = clients.stock_data().get_stock_bars(req).data

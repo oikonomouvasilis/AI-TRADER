@@ -33,8 +33,10 @@ FINNHUB_API_KEY = os.getenv("FINNHUB_API_KEY", "")
 
 
 def position_dollar_caps(equity: float) -> dict:
-    """Dollar caps scaled to live equity (falls back to BASE_EQUITY)."""
-    base = equity if equity > 0 else BASE_EQUITY
+    """Dollar caps locked to the $1000 simulation base (CLAUDE.md §2).
+    The live paper account may hold $100k; caps must stay $50/$250/$100.
+    Only shrink below base if live equity drops under it."""
+    base = min(equity, BASE_EQUITY) if equity > 0 else BASE_EQUITY
     return {
         "per_position": base * MAX_POSITION_PCT,
         "per_sector": base * MAX_SECTOR_PCT,
