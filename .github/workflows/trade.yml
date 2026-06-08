@@ -1,0 +1,45 @@
+name: daily-trade
+
+on:
+  schedule:
+    # US market open 9:30 ET. GitHub cron is UTC w/o DST, so cover both:
+    - cron: "35 13 * * 1-5"   # 13:35 UTC = 09:35 EDT (summer)
+    - cron: "35 14 * * 1-5"   # 14:35 UTC = 09:35 EST (winter)
+  workflow_dispatch:          # manual run button
+
+concurrency:
+  group: daily-trade
+  cancel-in-progress: false
+
+jobs:
+  trade:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write          # commit the journal back
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Run daily pipeline
+        env:
+          ALPACA_API_KEY: ${{ secrets.ALPACA_API_KEY }}
+          ALPACA_SECRET_KEY: ${{ secrets.ALPACA_SECRET_KEY }}
+          ALPACA_PAPER: "true"
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL || 'claude-sonnet-4-6' }}
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+        run: python -m src.main
+
+      - name: Commit journal
+        run: |
+          git config user.name "trading-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add journal/
+          git diff --staged --quiet || git commit -m "chore: journal $(date -u +%F)"
+          git push

@@ -1,0 +1,4 @@
+alpaca-py>=0.42
+anthropic>=0.69
+requests>=2.31
+python-dotenv>=1.0
