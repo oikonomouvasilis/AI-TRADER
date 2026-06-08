@@ -1,10 +1,15 @@
 """Single daily decision call to Gemini Flash (free tier, value-driven momentum PM)."""
 import json
+import time
 
 from google import genai
 from google.genai import types
+from google.genai import errors as genai_errors
 
 from . import config
+
+_RETRY_STATUS = {503, 429, 500}
+_MAX_TRIES = 3
 
 _SYSTEM = (
     "You are an institutional Quant Portfolio Manager running a $1000 paper "
@@ -33,17 +38,24 @@ def decide(candidates: list[dict], snap: dict) -> list[dict]:
                     "open_positions": snap["positions"]},
         "candidates": candidates,
     }
-    resp = client.models.generate_content(
-        model=config.GEMINI_MODEL,
-        contents=f"{_INSTRUCTION}\n\nDATA:\n{json.dumps(payload)}",
-        config=types.GenerateContentConfig(
-            system_instruction=_SYSTEM,
-            response_mime_type="application/json",
-            max_output_tokens=1024,
-            temperature=0.3,
-        ),
+    cfg = types.GenerateContentConfig(
+        system_instruction=_SYSTEM,
+        response_mime_type="application/json",
+        max_output_tokens=1024,
+        temperature=0.3,
     )
-    return _parse(resp.text or "")
+    contents = f"{_INSTRUCTION}\n\nDATA:\n{json.dumps(payload)}"
+    for attempt in range(1, _MAX_TRIES + 1):
+        try:
+            resp = client.models.generate_content(
+                model=config.GEMINI_MODEL, contents=contents, config=cfg)
+            return _parse(resp.text or "")
+        except genai_errors.APIError as e:
+            transient = getattr(e, "code", None) in _RETRY_STATUS
+            if transient and attempt < _MAX_TRIES:
+                time.sleep(2 ** attempt)   # 2s, 4s backoff
+                continue
+            raise
 
 
 def _parse(text: str) -> list[dict]:
