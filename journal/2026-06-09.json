@@ -1,0 +1,143 @@
+{
+  "day": "2026-06-09",
+  "equity": 99998.52,
+  "candidates": [
+    {
+      "symbol": "PAVS",
+      "price": 10.0,
+      "momentum_pct": 792.86,
+      "sector": "Consumer products",
+      "headlines": [
+        "These stocks are moving in today's session",
+        "12 Consumer Staples Stocks Moving In Monday's After-Market Session"
+      ]
+    },
+    {
+      "symbol": "CCTG",
+      "price": 3.29,
+      "momentum_pct": 551.49,
+      "sector": "Electrical Equipment",
+      "headlines": [
+        "Nasdaq Gains 1%; United Natural Foods Earnings Miss Views",
+        "12 Information Technology Stocks Moving In Tuesday's Pre-Market Session",
+        "Why Nuvalent Shares Are Trading Higher By 38%; Here Are 20 Stocks Moving Premarket",
+        "12 Information Technology Stocks Moving In Monday's After-Market Session"
+      ]
+    },
+    {
+      "symbol": "AZI",
+      "price": 5.71,
+      "momentum_pct": 441.71,
+      "sector": "Retail",
+      "headlines": [
+        "Nasdaq Gains 1%; United Natural Foods Earnings Miss Views"
+      ]
+    },
+    {
+      "symbol": "AHMA",
+      "price": 3.89,
+      "momentum_pct": 208.73,
+      "sector": "Media",
+      "headlines": [
+        "Nasdaq Gains 1%; United Natural Foods Earnings Miss Views"
+      ]
+    },
+    {
+      "symbol": "CHAI",
+      "price": 2.89,
+      "momentum_pct": 177.88,
+      "sector": "Communications",
+      "headlines": [
+        "12 Information Technology Stocks Moving In Tuesday's Pre-Market Session",
+        "Why Nuvalent Shares Are Trading Higher By 38%; Here Are 20 Stocks Moving Premarket",
+        "12 Information Technology Stocks Moving In Monday's After-Market Session"
+      ]
+    },
+    {
+      "symbol": "SLGB",
+      "price": 1.26,
+      "momentum_pct": 155.56,
+      "sector": "Road & Rail",
+      "headlines": [
+        "Get insights into the top gainers and losers of Tuesday's pre-market session.",
+        "12 Industrials Stocks Moving In Tuesday's Pre-Market Session",
+        "12 Industrials Stocks Moving In Monday's After-Market Session"
+      ]
+    },
+    {
+      "symbol": "RGNT",
+      "price": 3.19,
+      "momentum_pct": 89.32,
+      "sector": "Unknown",
+      "headlines": [
+        "Get insights into the top gainers and losers of Tuesday's pre-market session.",
+        "12 Health Care Stocks Moving In Tuesday's Pre-Market Session",
+        "Why Nuvalent Shares Are Trading Higher By 38%; Here Are 20 Stocks Moving Premarket",
+        "12 Health Care Stocks Moving In Monday's After-Market Session"
+      ]
+    },
+    {
+      "symbol": "ELPW",
+      "price": 1.43,
+      "momentum_pct": 65.17,
+      "sector": "Electrical Equipment",
+      "headlines": [
+        "Which stocks are gapping on Tuesday?",
+        "Get insights into the top gainers and losers of Tuesday's pre-market session.",
+        "12 Industrials Stocks Moving In Tuesday's Pre-Market Session"
+      ]
+    },
+    {
+      "symbol": "JZXN",
+      "price": 1.79,
+      "momentum_pct": 34.08,
+      "sector": "Retail",
+      "headlines": [
+        "These stocks are moving in today's session"
+      ]
+    },
+    {
+      "symbol": "SQQQ",
+      "price": 45.23,
+      "momentum_pct": 20.85,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "SNDQ",
+      "price": 6.22,
+      "momentum_pct": 14.12,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "SOXS",
+      "price": 6.86,
+      "momentum_pct": 9.5,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "TZA",
+      "price": 4.79,
+      "momentum_pct": 9.24,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "SPDN",
+      "price": 8.98,
+      "momentum_pct": 4.42,
+      "sector": "Unknown",
+      "headlines": [
+        "Concentration, AI Disruption, And Earnings: What's Behind Recent Market Volatility",
+        "Is Tech Sector Growth Sustainable, And How Are Expected Q2 '26 S&P 500 EPS Estimates Faring?",
+        "S&P 500 Retreats After Jobs Report Raises Prospect Of Rate Hikes"
+      ]
+    }
+  ],
+  "decisions": [],
+  "rejected": [],
+  "orders": [],
+  "written_at": "2026-06-09T16:19:57.276143+00:00"
+}
