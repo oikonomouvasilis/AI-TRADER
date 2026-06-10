@@ -1,0 +1,140 @@
+{
+  "day": "2026-06-10",
+  "equity": 99997.76,
+  "candidates": [
+    {
+      "symbol": "CPOP",
+      "price": 1.39,
+      "momentum_pct": 330.21,
+      "sector": "Media",
+      "headlines": [
+        "Which stocks are moving after the closing bell on Tuesday?",
+        "Let's take a look at the stocks that are in motion in today's session.",
+        "Which stocks are gapping on Tuesday?",
+        "12 Communication Services Stocks Moving In Monday's Pre-Market Session"
+      ]
+    },
+    {
+      "symbol": "DSY",
+      "price": 7.99,
+      "momentum_pct": 327.27,
+      "sector": "Consumer products",
+      "headlines": [
+        "Dow Tumbles 350 Points; US Inflation Rate Accelerates In May"
+      ]
+    },
+    {
+      "symbol": "VSME",
+      "price": 2.43,
+      "momentum_pct": 179.31,
+      "sector": "Media",
+      "headlines": [
+        "Dow Tumbles 350 Points; US Inflation Rate Accelerates In May",
+        "12 Communication Services Stocks Moving In Wednesday's Pre-Market Session"
+      ]
+    },
+    {
+      "symbol": "WCT",
+      "price": 2.17,
+      "momentum_pct": 85.47,
+      "sector": "Technology",
+      "headlines": [
+        "Wednesday's session: gap up and gap down stocks",
+        "Wednesday's pre-market session: top gainers and losers",
+        "12 Information Technology Stocks Moving In Wednesday's Pre-Market Session",
+        "Why Cracker Barrel Shares Are Trading Higher By Over 8%; Here Are 20 Stocks Moving Premarket"
+      ]
+    },
+    {
+      "symbol": "BATL",
+      "price": 2.5,
+      "momentum_pct": 50.6,
+      "sector": "Energy",
+      "headlines": [
+        "Why Marvell Technology Shares Are Trading Higher By 7%; Here Are 20 Stocks Moving Premarket"
+      ]
+    },
+    {
+      "symbol": "CIIT",
+      "price": 1.83,
+      "momentum_pct": 45.24,
+      "sector": "Marine",
+      "headlines": [
+        "Dow Tumbles 350 Points; US Inflation Rate Accelerates In May",
+        "12 Industrials Stocks Moving In Wednesday's Pre-Market Session",
+        "Why Cracker Barrel Shares Are Trading Higher By Over 8%; Here Are 20 Stocks Moving Premarket",
+        "Which stocks are moving after the closing bell on Monday?",
+        "12 Industrials Stocks Moving In Monday's After-Market Session"
+      ]
+    },
+    {
+      "symbol": "BQ",
+      "price": 1.02,
+      "momentum_pct": 33.39,
+      "sector": "Retail",
+      "headlines": [
+        "Wednesday's session: gap up and gap down stocks",
+        "Wednesday's pre-market session: top gainers and losers"
+      ]
+    },
+    {
+      "symbol": "NVD",
+      "price": 5.17,
+      "momentum_pct": 20.23,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "SQQQ",
+      "price": 44.62,
+      "momentum_pct": 19.21,
+      "sector": "Unknown",
+      "headlines": [
+        "Tech Stocks' Relief Rally Crumbles: SOXL Craters 15%, AMD Sheds 6% As Recovery Fizzles"
+      ]
+    },
+    {
+      "symbol": "UVIX",
+      "price": 4.56,
+      "momentum_pct": 13.43,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "SNDQ",
+      "price": 5.8,
+      "momentum_pct": 6.42,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "TZA",
+      "price": 4.61,
+      "momentum_pct": 5.02,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "SPDN",
+      "price": 8.94,
+      "momentum_pct": 3.95,
+      "sector": "Unknown",
+      "headlines": [
+        "Concentration, AI Disruption, And Earnings: What's Behind Recent Market Volatility",
+        "Is Tech Sector Growth Sustainable, And How Are Expected Q2 '26 S&P 500 EPS Estimates Faring?",
+        "S&P 500 Retreats After Jobs Report Raises Prospect Of Rate Hikes"
+      ]
+    },
+    {
+      "symbol": "SOXS",
+      "price": 6.49,
+      "momentum_pct": 3.67,
+      "sector": "Unknown",
+      "headlines": []
+    }
+  ],
+  "decisions": [],
+  "rejected": [],
+  "orders": [],
+  "written_at": "2026-06-10T16:49:10.575134+00:00"
+}
