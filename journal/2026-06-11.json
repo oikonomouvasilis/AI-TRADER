@@ -1,0 +1,150 @@
+{
+  "day": "2026-06-11",
+  "equity": 99997.47,
+  "candidates": [
+    {
+      "symbol": "EDHL",
+      "price": 7.26,
+      "momentum_pct": 135.71,
+      "sector": "Media",
+      "headlines": [
+        "Which stocks are experiencing notable movement on Thursday?",
+        "Dow Jumps Over 250 Points; US Initial Jobless Claims Rise",
+        "Get insights into the top gainers and losers of Wednesday's after-hours session."
+      ]
+    },
+    {
+      "symbol": "GELS",
+      "price": 1.14,
+      "momentum_pct": 135.29,
+      "sector": "Pharmaceuticals",
+      "headlines": []
+    },
+    {
+      "symbol": "PPCB",
+      "price": 3.15,
+      "momentum_pct": 75.0,
+      "sector": "Biotechnology",
+      "headlines": [
+        "Wondering what's happening in today's pre-market session?",
+        "Dow Jumps Over 250 Points; US Initial Jobless Claims Rise",
+        "Propanc Biopharma Announces $5M Common Stock Buyback Plan",
+        "12 Health Care Stocks Moving In Thursday's Pre-Market Session"
+      ]
+    },
+    {
+      "symbol": "GLXG",
+      "price": 2.14,
+      "momentum_pct": 59.7,
+      "sector": "Professional Services",
+      "headlines": [
+        "Dow Jumps Over 250 Points; US Initial Jobless Claims Rise",
+        "12 Industrials Stocks Moving In Thursday's Pre-Market Session",
+        "Why Navan Shares Are Trading Higher By Around 20%; Here Are 20 Stocks Moving Premarket",
+        "On Tuesday, there are stocks with unusual volume. Let's take a look.",
+        "Get insights into the top gainers and losers of Tuesday's pre-market session."
+      ]
+    },
+    {
+      "symbol": "WTO",
+      "price": 1.38,
+      "momentum_pct": 38.03,
+      "sector": "Electrical Equipment",
+      "headlines": [
+        "Which stocks are experiencing notable movement on Thursday?",
+        "Traders are paying attention to the gapping stocks in Thursday's session.",
+        "Wondering what's happening in today's pre-market session?",
+        "12 Information Technology Stocks Moving In Thursday's Pre-Market Session",
+        "Why Navan Shares Are Trading Higher By Around 20%; Here Are 20 Stocks Moving Premarket"
+      ]
+    },
+    {
+      "symbol": "RKDA",
+      "price": 1.33,
+      "momentum_pct": 33.0,
+      "sector": "Food Products",
+      "headlines": [
+        "Which stocks are experiencing notable movement on Thursday?",
+        "Traders are paying attention to the gapping stocks in Thursday's session."
+      ]
+    },
+    {
+      "symbol": "SPCE",
+      "price": 5.77,
+      "momentum_pct": 25.98,
+      "sector": "Aerospace & Defense",
+      "headlines": [
+        "Stitch Fix, Intel, KLA And Other Big Stocks Moving Higher On Thursday"
+      ]
+    },
+    {
+      "symbol": "BATL",
+      "price": 1.81,
+      "momentum_pct": 21.89,
+      "sector": "Energy",
+      "headlines": [
+        "Why Navan Shares Are Trading Higher By Around 20%; Here Are 20 Stocks Moving Premarket",
+        "Here are the top movers in Wednesday's session."
+      ]
+    },
+    {
+      "symbol": "NVD",
+      "price": 5.27,
+      "momentum_pct": 21.01,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "SQQQ",
+      "price": 44.03,
+      "momentum_pct": 19.32,
+      "sector": "Unknown",
+      "headlines": [
+        "Tech Stocks' Relief Rally Crumbles: SOXL Craters 15%, AMD Sheds 6% As Recovery Fizzles"
+      ]
+    },
+    {
+      "symbol": "SOXS",
+      "price": 5.91,
+      "momentum_pct": 14.33,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "AMC",
+      "price": 2.23,
+      "momentum_pct": 9.02,
+      "sector": "Media",
+      "headlines": [
+        "Why Is AMC Entertainment Stock Surging Wednesday?"
+      ]
+    },
+    {
+      "symbol": "TZA",
+      "price": 4.54,
+      "momentum_pct": 6.32,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "SPDN",
+      "price": 8.98,
+      "momentum_pct": 4.6,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "LASE",
+      "price": 2.48,
+      "momentum_pct": 2.27,
+      "sector": "Machinery",
+      "headlines": [
+        "Laser Photonics Announces Completed Final Assembly Of Its Laser Shield Anti-Drone Prototype"
+      ]
+    }
+  ],
+  "decisions": [],
+  "rejected": [],
+  "orders": [],
+  "written_at": "2026-06-11T17:09:25.368741+00:00"
+}
