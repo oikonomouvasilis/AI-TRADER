@@ -1,0 +1,121 @@
+{
+  "day": "2026-06-12",
+  "equity": 99998.88,
+  "candidates": [
+    {
+      "symbol": "GMM",
+      "price": 3.76,
+      "momentum_pct": 3017.74,
+      "sector": "Media",
+      "headlines": [
+        "Why Friedman Industries Shares Are Trading Higher By Around 10%; Here Are 20 Stocks Moving Premarket",
+        "Crude Oil Gains 3%; Core & Main Earnings Top Views",
+        "Dow Tumbles 350 Points; US Inflation Rate Accelerates In May",
+        "Why Cracker Barrel Shares Are Trading Higher By Over 8%; Here Are 20 Stocks Moving Premarket"
+      ]
+    },
+    {
+      "symbol": "CAST",
+      "price": 1.8,
+      "momentum_pct": 140.03,
+      "sector": "Media",
+      "headlines": [
+        "12 Communication Services Stocks Moving In Friday's Pre-Market Session",
+        "Top movers in Thursday's after hours session",
+        "12 Communication Services Stocks Moving In Thursday's After-Market Session",
+        "FreeCast Announces Expanded DirecTV Relationship To Offer Services Via DTC Residential And Its Ecosystem Of PaaS Partners",
+        "12 Communication Services Stocks Moving In Wednesday's After-Market Session"
+      ]
+    },
+    {
+      "symbol": "VSME",
+      "price": 1.55,
+      "momentum_pct": 87.88,
+      "sector": "Media",
+      "headlines": [
+        "Traders are paying attention to the gapping stocks in Friday's session.",
+        "These stocks that are showing activity before the opening bell on Friday.",
+        "Dow Jumps Over 150 Points; Adobe Shares Fall After Q2 Results",
+        "12 Communication Services Stocks Moving In Friday's Pre-Market Session",
+        "Why Friedman Industries Shares Are Trading Higher By Around 10%; Here Are 20 Stocks Moving Premarket"
+      ]
+    },
+    {
+      "symbol": "BYAH",
+      "price": 2.04,
+      "momentum_pct": 69.58,
+      "sector": "Retail",
+      "headlines": [
+        "Traders are paying attention to the gapping stocks in Friday's session.",
+        "These stocks that are showing activity before the opening bell on Friday.",
+        "Dow Jumps Over 150 Points; Adobe Shares Fall After Q2 Results",
+        "Why Friedman Industries Shares Are Trading Higher By Around 10%; Here Are 20 Stocks Moving Premarket",
+        "Top movers in Thursday's after hours session"
+      ]
+    },
+    {
+      "symbol": "CUPR",
+      "price": 4.28,
+      "momentum_pct": 48.95,
+      "sector": "Health Care",
+      "headlines": [
+        "12 Health Care Stocks Moving In Wednesday's Pre-Market Session"
+      ]
+    },
+    {
+      "symbol": "AAL",
+      "price": 14.99,
+      "momentum_pct": 10.42,
+      "sector": "Airlines",
+      "headlines": [
+        "American Airlines (AAL) Soars 9.2%: Is Further Upside Left in the Stock?",
+        "American Airlines (AAL) Aligns Governance, Equity Plan and Google SAF Deal Is the Strategy Coherent?",
+        "Stocks Settle Sharply Higher on Middle East Peace Hopes",
+        "These stocks are the most active in today's session",
+        "World Cup Economics: How Much Boost Could The US Get?"
+      ]
+    },
+    {
+      "symbol": "SQQQ",
+      "price": 40.25,
+      "momentum_pct": 8.23,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "NVD",
+      "price": 5.04,
+      "momentum_pct": 7.92,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "RZLV",
+      "price": 2.75,
+      "momentum_pct": 7.23,
+      "sector": "Technology",
+      "headlines": [
+        "Traders are paying attention to the gapping stocks in Friday's session.",
+        "Rezolve AI, Bakkt, Seagate And Other Big Stocks Moving Higher On Friday"
+      ]
+    },
+    {
+      "symbol": "DRIP",
+      "price": 4.67,
+      "momentum_pct": 4.94,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "SPDN",
+      "price": 8.82,
+      "momentum_pct": 1.97,
+      "sector": "Unknown",
+      "headlines": []
+    }
+  ],
+  "decisions": [],
+  "rejected": [],
+  "orders": [],
+  "written_at": "2026-06-12T16:33:38.884213+00:00"
+}
