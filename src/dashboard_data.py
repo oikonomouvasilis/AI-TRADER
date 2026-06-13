@@ -132,13 +132,16 @@ def build_portfolio(trades: dict, smap: dict[str, str]) -> dict:
     eq = ph.equity or []
     pl = getattr(ph, "profit_loss", None) or [None] * len(ts)
     plpc = getattr(ph, "profit_loss_pct", None) or [None] * len(ts)
-    curve = [
+    curve_all = [
         {"t": datetime.fromtimestamp(t, timezone.utc).date().isoformat(),
          "equity": _f(eq[i]),
          "pl": _f(pl[i]) if i < len(pl) and pl[i] is not None else None,
          "pl_pct": round(_f(plpc[i]) * 100, 2) if i < len(plpc) and plpc[i] is not None else None}
         for i, t in enumerate(ts) if i < len(eq)
     ]
+    # Drop pre-funding points (0 -> 100k ramp) that would dwarf real P&L.
+    nonzero = [c for c in curve_all if c["equity"] > 1.0]
+    curve = nonzero if len(nonzero) >= 2 else curve_all
 
     open_pos = trades["open"]
     unreal = round(sum(p["unrealized_pl"] for p in open_pos), 2)

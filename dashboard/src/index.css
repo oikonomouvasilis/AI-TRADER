@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  @apply bg-base text-slate-200 font-sans antialiased;
+  background-image:
+    radial-gradient(800px 400px at 15% -10%, rgba(34, 211, 238, 0.08), transparent),
+    radial-gradient(700px 400px at 100% 0%, rgba(232, 121, 249, 0.08), transparent);
+  background-attachment: fixed;
+}
+
+/* Neon grid overlay */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+  background-size: 44px 44px;
+  mask-image: radial-gradient(ellipse 100% 80% at 50% 0%, #000 40%, transparent 100%);
+}
+
+@layer components {
+  .card {
+    @apply rounded-2xl border border-white/10 bg-white/[0.03] backdrop-blur-sm
+           shadow-[0_8px_30px_rgba(0,0,0,0.4)];
+  }
+  .neon-text {
+    text-shadow: 0 0 12px currentColor;
+  }
+  .pill {
+    @apply inline-flex items-center gap-1 rounded-full border border-white/10
+           bg-white/5 px-2.5 py-0.5 text-xs font-medium;
+  }
+  .input {
+    @apply rounded-lg border border-white/10 bg-white/5 px-3 py-1.5 text-sm
+           text-slate-100 outline-none transition focus:border-neon-cyan/60
+           focus:shadow-glow focus:shadow-neon-cyan/30 placeholder:text-slate-500;
+  }
+}
+
+/* Thin neon scrollbars */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-thumb {
+  @apply rounded-full bg-white/10;
+}
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-neon-cyan/40;
+}
