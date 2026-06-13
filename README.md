@@ -3,6 +3,8 @@
 Short-term **value-driven momentum** on an Alpaca **paper** account ($1000 sim).
 Runs once per trading day at US market open via GitHub Actions.
 
+**📊 Live dashboard:** https://oikonomouvasilis.github.io/AI-TRADER/ (dark-neon, auto-updates each run)
+
 ## Flow
 `research → receptivity check → execute`
 
@@ -29,6 +31,16 @@ Optional var `GEMINI_MODEL` (default `gemini-2.0-flash`).
 
 ## Limits (CLAUDE.md compliance)
 Defined in `src/config.py`. Paper account → no real-capital risk.
+
+## Dashboard (dev)
+React + Vite + Tailwind + Recharts in `dashboard/`, built to `docs/` (GitHub Pages,
+source = main `/docs`). Data layer `src/dashboard_data.py` writes `docs/data/*.json`
+each run; the static app fetches them at runtime, so **data refreshes need no rebuild**.
+```bash
+cd dashboard && npm install
+npm run dev      # local preview
+npm run build    # outputs to ../docs (preserves docs/data)
+```
 
 ## Notes
 - Fractional shares can't carry a native broker stop-loss, so the universe is capped to
