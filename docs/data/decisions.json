@@ -1,6 +1,560 @@
 {
-  "updated_at": "2026-06-13T08:00:29.980316+00:00",
+  "updated_at": "2026-06-13T08:03:22.096787+00:00",
   "days": [
+    {
+      "day": "2026-06-12",
+      "equity": 99998.88,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "GMM",
+          "price": 3.76,
+          "momentum_pct": 3017.74,
+          "sector": "Media",
+          "headlines": [
+            "Why Friedman Industries Shares Are Trading Higher By Around 10%; Here Are 20 Stocks Moving Premarket",
+            "Crude Oil Gains 3%; Core & Main Earnings Top Views",
+            "Dow Tumbles 350 Points; US Inflation Rate Accelerates In May",
+            "Why Cracker Barrel Shares Are Trading Higher By Over 8%; Here Are 20 Stocks Moving Premarket"
+          ]
+        },
+        {
+          "symbol": "CAST",
+          "price": 1.8,
+          "momentum_pct": 140.03,
+          "sector": "Media",
+          "headlines": [
+            "12 Communication Services Stocks Moving In Friday's Pre-Market Session",
+            "Top movers in Thursday's after hours session",
+            "12 Communication Services Stocks Moving In Thursday's After-Market Session",
+            "FreeCast Announces Expanded DirecTV Relationship To Offer Services Via DTC Residential And Its Ecosystem Of PaaS Partners",
+            "12 Communication Services Stocks Moving In Wednesday's After-Market Session"
+          ]
+        },
+        {
+          "symbol": "VSME",
+          "price": 1.55,
+          "momentum_pct": 87.88,
+          "sector": "Media",
+          "headlines": [
+            "Traders are paying attention to the gapping stocks in Friday's session.",
+            "These stocks that are showing activity before the opening bell on Friday.",
+            "Dow Jumps Over 150 Points; Adobe Shares Fall After Q2 Results",
+            "12 Communication Services Stocks Moving In Friday's Pre-Market Session",
+            "Why Friedman Industries Shares Are Trading Higher By Around 10%; Here Are 20 Stocks Moving Premarket"
+          ]
+        },
+        {
+          "symbol": "BYAH",
+          "price": 2.04,
+          "momentum_pct": 69.58,
+          "sector": "Retail",
+          "headlines": [
+            "Traders are paying attention to the gapping stocks in Friday's session.",
+            "These stocks that are showing activity before the opening bell on Friday.",
+            "Dow Jumps Over 150 Points; Adobe Shares Fall After Q2 Results",
+            "Why Friedman Industries Shares Are Trading Higher By Around 10%; Here Are 20 Stocks Moving Premarket",
+            "Top movers in Thursday's after hours session"
+          ]
+        },
+        {
+          "symbol": "CUPR",
+          "price": 4.28,
+          "momentum_pct": 48.95,
+          "sector": "Health Care",
+          "headlines": [
+            "12 Health Care Stocks Moving In Wednesday's Pre-Market Session"
+          ]
+        },
+        {
+          "symbol": "AAL",
+          "price": 14.99,
+          "momentum_pct": 10.42,
+          "sector": "Airlines",
+          "headlines": [
+            "American Airlines (AAL) Soars 9.2%: Is Further Upside Left in the Stock?",
+            "American Airlines (AAL) Aligns Governance, Equity Plan and Google SAF Deal Is the Strategy Coherent?",
+            "Stocks Settle Sharply Higher on Middle East Peace Hopes",
+            "These stocks are the most active in today's session",
+            "World Cup Economics: How Much Boost Could The US Get?"
+          ]
+        },
+        {
+          "symbol": "SQQQ",
+          "price": 40.25,
+          "momentum_pct": 8.23,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "NVD",
+          "price": 5.04,
+          "momentum_pct": 7.92,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "RZLV",
+          "price": 2.75,
+          "momentum_pct": 7.23,
+          "sector": "Technology",
+          "headlines": [
+            "Traders are paying attention to the gapping stocks in Friday's session.",
+            "Rezolve AI, Bakkt, Seagate And Other Big Stocks Moving Higher On Friday"
+          ]
+        },
+        {
+          "symbol": "DRIP",
+          "price": 4.67,
+          "momentum_pct": 4.94,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "SPDN",
+          "price": 8.82,
+          "momentum_pct": 1.97,
+          "sector": "Unknown",
+          "headlines": []
+        }
+      ],
+      "decisions": [],
+      "rejected": [],
+      "orders": []
+    },
+    {
+      "day": "2026-06-11",
+      "equity": 99997.47,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "EDHL",
+          "price": 7.26,
+          "momentum_pct": 135.71,
+          "sector": "Media",
+          "headlines": [
+            "Which stocks are experiencing notable movement on Thursday?",
+            "Dow Jumps Over 250 Points; US Initial Jobless Claims Rise",
+            "Get insights into the top gainers and losers of Wednesday's after-hours session."
+          ]
+        },
+        {
+          "symbol": "GELS",
+          "price": 1.14,
+          "momentum_pct": 135.29,
+          "sector": "Pharmaceuticals",
+          "headlines": []
+        },
+        {
+          "symbol": "PPCB",
+          "price": 3.15,
+          "momentum_pct": 75.0,
+          "sector": "Biotechnology",
+          "headlines": [
+            "Wondering what's happening in today's pre-market session?",
+            "Dow Jumps Over 250 Points; US Initial Jobless Claims Rise",
+            "Propanc Biopharma Announces $5M Common Stock Buyback Plan",
+            "12 Health Care Stocks Moving In Thursday's Pre-Market Session"
+          ]
+        },
+        {
+          "symbol": "GLXG",
+          "price": 2.14,
+          "momentum_pct": 59.7,
+          "sector": "Professional Services",
+          "headlines": [
+            "Dow Jumps Over 250 Points; US Initial Jobless Claims Rise",
+            "12 Industrials Stocks Moving In Thursday's Pre-Market Session",
+            "Why Navan Shares Are Trading Higher By Around 20%; Here Are 20 Stocks Moving Premarket",
+            "On Tuesday, there are stocks with unusual volume. Let's take a look.",
+            "Get insights into the top gainers and losers of Tuesday's pre-market session."
+          ]
+        },
+        {
+          "symbol": "WTO",
+          "price": 1.38,
+          "momentum_pct": 38.03,
+          "sector": "Electrical Equipment",
+          "headlines": [
+            "Which stocks are experiencing notable movement on Thursday?",
+            "Traders are paying attention to the gapping stocks in Thursday's session.",
+            "Wondering what's happening in today's pre-market session?",
+            "12 Information Technology Stocks Moving In Thursday's Pre-Market Session",
+            "Why Navan Shares Are Trading Higher By Around 20%; Here Are 20 Stocks Moving Premarket"
+          ]
+        },
+        {
+          "symbol": "RKDA",
+          "price": 1.33,
+          "momentum_pct": 33.0,
+          "sector": "Food Products",
+          "headlines": [
+            "Which stocks are experiencing notable movement on Thursday?",
+            "Traders are paying attention to the gapping stocks in Thursday's session."
+          ]
+        },
+        {
+          "symbol": "SPCE",
+          "price": 5.77,
+          "momentum_pct": 25.98,
+          "sector": "Aerospace & Defense",
+          "headlines": [
+            "Stitch Fix, Intel, KLA And Other Big Stocks Moving Higher On Thursday"
+          ]
+        },
+        {
+          "symbol": "BATL",
+          "price": 1.81,
+          "momentum_pct": 21.89,
+          "sector": "Energy",
+          "headlines": [
+            "Why Navan Shares Are Trading Higher By Around 20%; Here Are 20 Stocks Moving Premarket",
+            "Here are the top movers in Wednesday's session."
+          ]
+        },
+        {
+          "symbol": "NVD",
+          "price": 5.27,
+          "momentum_pct": 21.01,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "SQQQ",
+          "price": 44.03,
+          "momentum_pct": 19.32,
+          "sector": "Unknown",
+          "headlines": [
+            "Tech Stocks' Relief Rally Crumbles: SOXL Craters 15%, AMD Sheds 6% As Recovery Fizzles"
+          ]
+        },
+        {
+          "symbol": "SOXS",
+          "price": 5.91,
+          "momentum_pct": 14.33,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "AMC",
+          "price": 2.23,
+          "momentum_pct": 9.02,
+          "sector": "Media",
+          "headlines": [
+            "Why Is AMC Entertainment Stock Surging Wednesday?"
+          ]
+        },
+        {
+          "symbol": "TZA",
+          "price": 4.54,
+          "momentum_pct": 6.32,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "SPDN",
+          "price": 8.98,
+          "momentum_pct": 4.6,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "LASE",
+          "price": 2.48,
+          "momentum_pct": 2.27,
+          "sector": "Machinery",
+          "headlines": [
+            "Laser Photonics Announces Completed Final Assembly Of Its Laser Shield Anti-Drone Prototype"
+          ]
+        }
+      ],
+      "decisions": [],
+      "rejected": [],
+      "orders": []
+    },
+    {
+      "day": "2026-06-10",
+      "equity": 99997.76,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "CPOP",
+          "price": 1.39,
+          "momentum_pct": 330.21,
+          "sector": "Media",
+          "headlines": [
+            "Which stocks are moving after the closing bell on Tuesday?",
+            "Let's take a look at the stocks that are in motion in today's session.",
+            "Which stocks are gapping on Tuesday?",
+            "12 Communication Services Stocks Moving In Monday's Pre-Market Session"
+          ]
+        },
+        {
+          "symbol": "DSY",
+          "price": 7.99,
+          "momentum_pct": 327.27,
+          "sector": "Consumer products",
+          "headlines": [
+            "Dow Tumbles 350 Points; US Inflation Rate Accelerates In May"
+          ]
+        },
+        {
+          "symbol": "VSME",
+          "price": 2.43,
+          "momentum_pct": 179.31,
+          "sector": "Media",
+          "headlines": [
+            "Dow Tumbles 350 Points; US Inflation Rate Accelerates In May",
+            "12 Communication Services Stocks Moving In Wednesday's Pre-Market Session"
+          ]
+        },
+        {
+          "symbol": "WCT",
+          "price": 2.17,
+          "momentum_pct": 85.47,
+          "sector": "Technology",
+          "headlines": [
+            "Wednesday's session: gap up and gap down stocks",
+            "Wednesday's pre-market session: top gainers and losers",
+            "12 Information Technology Stocks Moving In Wednesday's Pre-Market Session",
+            "Why Cracker Barrel Shares Are Trading Higher By Over 8%; Here Are 20 Stocks Moving Premarket"
+          ]
+        },
+        {
+          "symbol": "BATL",
+          "price": 2.5,
+          "momentum_pct": 50.6,
+          "sector": "Energy",
+          "headlines": [
+            "Why Marvell Technology Shares Are Trading Higher By 7%; Here Are 20 Stocks Moving Premarket"
+          ]
+        },
+        {
+          "symbol": "CIIT",
+          "price": 1.83,
+          "momentum_pct": 45.24,
+          "sector": "Marine",
+          "headlines": [
+            "Dow Tumbles 350 Points; US Inflation Rate Accelerates In May",
+            "12 Industrials Stocks Moving In Wednesday's Pre-Market Session",
+            "Why Cracker Barrel Shares Are Trading Higher By Over 8%; Here Are 20 Stocks Moving Premarket",
+            "Which stocks are moving after the closing bell on Monday?",
+            "12 Industrials Stocks Moving In Monday's After-Market Session"
+          ]
+        },
+        {
+          "symbol": "BQ",
+          "price": 1.02,
+          "momentum_pct": 33.39,
+          "sector": "Retail",
+          "headlines": [
+            "Wednesday's session: gap up and gap down stocks",
+            "Wednesday's pre-market session: top gainers and losers"
+          ]
+        },
+        {
+          "symbol": "NVD",
+          "price": 5.17,
+          "momentum_pct": 20.23,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "SQQQ",
+          "price": 44.62,
+          "momentum_pct": 19.21,
+          "sector": "Unknown",
+          "headlines": [
+            "Tech Stocks' Relief Rally Crumbles: SOXL Craters 15%, AMD Sheds 6% As Recovery Fizzles"
+          ]
+        },
+        {
+          "symbol": "UVIX",
+          "price": 4.56,
+          "momentum_pct": 13.43,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "SNDQ",
+          "price": 5.8,
+          "momentum_pct": 6.42,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "TZA",
+          "price": 4.61,
+          "momentum_pct": 5.02,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "SPDN",
+          "price": 8.94,
+          "momentum_pct": 3.95,
+          "sector": "Unknown",
+          "headlines": [
+            "Concentration, AI Disruption, And Earnings: What's Behind Recent Market Volatility",
+            "Is Tech Sector Growth Sustainable, And How Are Expected Q2 '26 S&P 500 EPS Estimates Faring?",
+            "S&P 500 Retreats After Jobs Report Raises Prospect Of Rate Hikes"
+          ]
+        },
+        {
+          "symbol": "SOXS",
+          "price": 6.49,
+          "momentum_pct": 3.67,
+          "sector": "Unknown",
+          "headlines": []
+        }
+      ],
+      "decisions": [],
+      "rejected": [],
+      "orders": []
+    },
+    {
+      "day": "2026-06-09",
+      "equity": 99998.52,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "PAVS",
+          "price": 10.0,
+          "momentum_pct": 792.86,
+          "sector": "Consumer products",
+          "headlines": [
+            "These stocks are moving in today's session",
+            "12 Consumer Staples Stocks Moving In Monday's After-Market Session"
+          ]
+        },
+        {
+          "symbol": "CCTG",
+          "price": 3.29,
+          "momentum_pct": 551.49,
+          "sector": "Electrical Equipment",
+          "headlines": [
+            "Nasdaq Gains 1%; United Natural Foods Earnings Miss Views",
+            "12 Information Technology Stocks Moving In Tuesday's Pre-Market Session",
+            "Why Nuvalent Shares Are Trading Higher By 38%; Here Are 20 Stocks Moving Premarket",
+            "12 Information Technology Stocks Moving In Monday's After-Market Session"
+          ]
+        },
+        {
+          "symbol": "AZI",
+          "price": 5.71,
+          "momentum_pct": 441.71,
+          "sector": "Retail",
+          "headlines": [
+            "Nasdaq Gains 1%; United Natural Foods Earnings Miss Views"
+          ]
+        },
+        {
+          "symbol": "AHMA",
+          "price": 3.89,
+          "momentum_pct": 208.73,
+          "sector": "Media",
+          "headlines": [
+            "Nasdaq Gains 1%; United Natural Foods Earnings Miss Views"
+          ]
+        },
+        {
+          "symbol": "CHAI",
+          "price": 2.89,
+          "momentum_pct": 177.88,
+          "sector": "Communications",
+          "headlines": [
+            "12 Information Technology Stocks Moving In Tuesday's Pre-Market Session",
+            "Why Nuvalent Shares Are Trading Higher By 38%; Here Are 20 Stocks Moving Premarket",
+            "12 Information Technology Stocks Moving In Monday's After-Market Session"
+          ]
+        },
+        {
+          "symbol": "SLGB",
+          "price": 1.26,
+          "momentum_pct": 155.56,
+          "sector": "Road & Rail",
+          "headlines": [
+            "Get insights into the top gainers and losers of Tuesday's pre-market session.",
+            "12 Industrials Stocks Moving In Tuesday's Pre-Market Session",
+            "12 Industrials Stocks Moving In Monday's After-Market Session"
+          ]
+        },
+        {
+          "symbol": "RGNT",
+          "price": 3.19,
+          "momentum_pct": 89.32,
+          "sector": "Unknown",
+          "headlines": [
+            "Get insights into the top gainers and losers of Tuesday's pre-market session.",
+            "12 Health Care Stocks Moving In Tuesday's Pre-Market Session",
+            "Why Nuvalent Shares Are Trading Higher By 38%; Here Are 20 Stocks Moving Premarket",
+            "12 Health Care Stocks Moving In Monday's After-Market Session"
+          ]
+        },
+        {
+          "symbol": "ELPW",
+          "price": 1.43,
+          "momentum_pct": 65.17,
+          "sector": "Electrical Equipment",
+          "headlines": [
+            "Which stocks are gapping on Tuesday?",
+            "Get insights into the top gainers and losers of Tuesday's pre-market session.",
+            "12 Industrials Stocks Moving In Tuesday's Pre-Market Session"
+          ]
+        },
+        {
+          "symbol": "JZXN",
+          "price": 1.79,
+          "momentum_pct": 34.08,
+          "sector": "Retail",
+          "headlines": [
+            "These stocks are moving in today's session"
+          ]
+        },
+        {
+          "symbol": "SQQQ",
+          "price": 45.23,
+          "momentum_pct": 20.85,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "SNDQ",
+          "price": 6.22,
+          "momentum_pct": 14.12,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "SOXS",
+          "price": 6.86,
+          "momentum_pct": 9.5,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "TZA",
+          "price": 4.79,
+          "momentum_pct": 9.24,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "SPDN",
+          "price": 8.98,
+          "momentum_pct": 4.42,
+          "sector": "Unknown",
+          "headlines": [
+            "Concentration, AI Disruption, And Earnings: What's Behind Recent Market Volatility",
+            "Is Tech Sector Growth Sustainable, And How Are Expected Q2 '26 S&P 500 EPS Estimates Faring?",
+            "S&P 500 Retreats After Jobs Report Raises Prospect Of Rate Hikes"
+          ]
+        }
+      ],
+      "decisions": [],
+      "rejected": [],
+      "orders": []
+    },
     {
       "day": "2026-06-08",
       "equity": 100000.03,
