@@ -36,10 +36,10 @@ jobs:
           FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
         run: python -m src.main
 
-      - name: Commit journal
+      - name: Commit journal + dashboard data
         run: |
           git config user.name "trading-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add journal/
-          git diff --staged --quiet || git commit -m "chore: journal $(date -u +%F)"
+          git add journal/ docs/data/
+          git diff --staged --quiet || git commit -m "chore: journal + dashboard $(date -u +%F)"
           git push

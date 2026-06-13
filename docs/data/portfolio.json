@@ -1,0 +1,174 @@
+{
+  "updated_at": "2026-06-13T08:00:29.979643+00:00",
+  "account": {
+    "equity": 99999.09,
+    "cash": 99954.57,
+    "buying_power": 399942.94,
+    "long_market_value": 44.52,
+    "last_equity": 99998.7
+  },
+  "curve": [
+    {
+      "t": "2026-05-13",
+      "equity": 0.0,
+      "pl": 0.0,
+      "pl_pct": 0.0
+    },
+    {
+      "t": "2026-05-14",
+      "equity": 0.0,
+      "pl": 0.0,
+      "pl_pct": 0.0
+    },
+    {
+      "t": "2026-05-15",
+      "equity": 0.0,
+      "pl": 0.0,
+      "pl_pct": 0.0
+    },
+    {
+      "t": "2026-05-16",
+      "equity": 0.0,
+      "pl": 0.0,
+      "pl_pct": 0.0
+    },
+    {
+      "t": "2026-05-19",
+      "equity": 0.0,
+      "pl": 0.0,
+      "pl_pct": 0.0
+    },
+    {
+      "t": "2026-05-20",
+      "equity": 0.0,
+      "pl": 0.0,
+      "pl_pct": 0.0
+    },
+    {
+      "t": "2026-05-21",
+      "equity": 0.0,
+      "pl": 0.0,
+      "pl_pct": 0.0
+    },
+    {
+      "t": "2026-05-22",
+      "equity": 0.0,
+      "pl": 0.0,
+      "pl_pct": 0.0
+    },
+    {
+      "t": "2026-05-23",
+      "equity": 0.0,
+      "pl": 0.0,
+      "pl_pct": 0.0
+    },
+    {
+      "t": "2026-05-27",
+      "equity": 0.0,
+      "pl": 0.0,
+      "pl_pct": 0.0
+    },
+    {
+      "t": "2026-05-28",
+      "equity": 0.0,
+      "pl": 0.0,
+      "pl_pct": 0.0
+    },
+    {
+      "t": "2026-05-29",
+      "equity": 0.0,
+      "pl": 0.0,
+      "pl_pct": 0.0
+    },
+    {
+      "t": "2026-05-30",
+      "equity": 0.0,
+      "pl": 0.0,
+      "pl_pct": 0.0
+    },
+    {
+      "t": "2026-06-02",
+      "equity": 0.0,
+      "pl": 0.0,
+      "pl_pct": 0.0
+    },
+    {
+      "t": "2026-06-03",
+      "equity": 0.0,
+      "pl": 0.0,
+      "pl_pct": 0.0
+    },
+    {
+      "t": "2026-06-04",
+      "equity": 100000.0,
+      "pl": 0.0,
+      "pl_pct": 0.0
+    },
+    {
+      "t": "2026-06-05",
+      "equity": 100000.0,
+      "pl": 0.0,
+      "pl_pct": 0.0
+    },
+    {
+      "t": "2026-06-06",
+      "equity": 100000.0,
+      "pl": 0.0,
+      "pl_pct": 0.0
+    },
+    {
+      "t": "2026-06-09",
+      "equity": 99999.57,
+      "pl": -0.43,
+      "pl_pct": 0.0
+    },
+    {
+      "t": "2026-06-10",
+      "equity": 99999.42,
+      "pl": -0.15,
+      "pl_pct": 0.0
+    },
+    {
+      "t": "2026-06-11",
+      "equity": 99997.47,
+      "pl": -1.95,
+      "pl_pct": 0.0
+    },
+    {
+      "t": "2026-06-12",
+      "equity": 99998.7,
+      "pl": 1.23,
+      "pl_pct": 0.0
+    }
+  ],
+  "base_value": 0.0,
+  "positions": [
+    {
+      "symbol": "F",
+      "qty": 3.0,
+      "entry_price": 15.14,
+      "current_price": 14.84,
+      "market_value": 44.52,
+      "unrealized_pl": -0.9,
+      "unrealized_plpc": -1.98,
+      "sector": "Automobiles"
+    }
+  ],
+  "sector_allocation": [
+    {
+      "sector": "Automobiles",
+      "market_value": 44.52,
+      "pct": 100.0
+    }
+  ],
+  "kpis": {
+    "equity": 99999.09,
+    "total_pl": -0.9,
+    "total_pl_pct": 0.0,
+    "realized_pl": 0,
+    "unrealized_pl": -0.9,
+    "open_positions": 1,
+    "num_closed_trades": 0,
+    "win_rate": 0.0
+  }
+}

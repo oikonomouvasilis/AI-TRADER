@@ -1,0 +1,27 @@
+{
+  "updated_at": "2026-06-13T08:00:29.709597+00:00",
+  "fills": [
+    {
+      "t": "2026-06-08T18:25:43.162492+00:00",
+      "symbol": "F",
+      "side": "buy",
+      "qty": 3.0,
+      "price": 15.14,
+      "value": 45.42,
+      "order_id": "f039c001-b24b-452e-abcb-18cd4147832b"
+    }
+  ],
+  "closed": [],
+  "open": [
+    {
+      "symbol": "F",
+      "qty": 3.0,
+      "entry_price": 15.14,
+      "current_price": 14.84,
+      "market_value": 44.52,
+      "unrealized_pl": -0.9,
+      "unrealized_plpc": -1.98,
+      "sector": "Automobiles"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "updated_at": "2026-06-13T08:00:29.980316+00:00",
+  "days": [
+    {
+      "day": "2026-06-08",
+      "equity": 100000.03,
+      "note": "agent_unavailable: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+      "candidates": [
+        {
+          "symbol": "INHD",
+          "price": 20.97,
+          "momentum_pct": 1538.28,
+          "sector": "Metals & Mining",
+          "headlines": [
+            "These stocks are the most active in today's session",
+            "Crude Oil Gains Over 1%; Motorcar Parts Of America Shares Surge After Q4 Earnings",
+            "Nasdaq Jumps Over 200 Points; Campbell's Posts Upbeat Q3 Earnings",
+            "INNO Executes $3M Development Services Agreement With Undisclosed Hong Kong-Based AI Service Provider To Develop AI-Powered Used Mobile Phone Sales Agent System"
+          ]
+        },
+        {
+          "symbol": "NPT",
+          "price": 10.37,
+          "momentum_pct": 716.54,
+          "sector": "Trading Companies & Distributors",
+          "headlines": [
+            "12 Industrials Stocks Moving In Monday's Intraday Session"
+          ]
+        },
+        {
+          "symbol": "SUNE",
+          "price": 6.42,
+          "momentum_pct": 394.23,
+          "sector": "Electrical Equipment",
+          "headlines": [
+            "These stocks are the most active in today's session",
+            "Top stock movements in today's session.",
+            "These stocks are gapping in today's session",
+            "12 Industrials Stocks Moving In Monday's Intraday Session",
+            "Clean Energy Stocks Are Trending \u2014 Here's Why"
+          ]
+        },
+        {
+          "symbol": "SMTK",
+          "price": 1.13,
+          "momentum_pct": 260.68,
+          "sector": "Semiconductors",
+          "headlines": [
+            "These stocks are the most active in today's session",
+            "12 Information Technology Stocks Moving In Monday's Intraday Session",
+            "Shares of semiconductor companies are trading higher amid optimism that the Middle East conflict will come to a swifter conclusion, which may help assuage concerns about inflation and higher rates affecting demand.",
+            "Monday's pre-market session: top gainers and losers",
+            "12 Information Technology Stocks Moving In Monday's Pre-Market Session"
+          ]
+        },
+        {
+          "symbol": "ABAT",
+          "price": 4.17,
+          "momentum_pct": 16.62,
+          "sector": "Metals & Mining",
+          "headlines": [
+            "Monday's pre-market session: top gainers and losers",
+            "Clean Energy Stocks Are Trending \u2014 Here's Why",
+            "Tango Therapeutics, American Battery Technology, Intel And Other Big Stocks Moving Higher On Monday",
+            "American Battery Stock Jumps After DOE Reinstates Grant For $115M Lithium Project (CORRECTED)",
+            "Market-Moving News for June 8th"
+          ]
+        },
+        {
+          "symbol": "NVD",
+          "price": 4.86,
+          "momentum_pct": 13.02,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "SQQQ",
+          "price": 40.78,
+          "momentum_pct": 8.95,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "TZA",
+          "price": 4.54,
+          "momentum_pct": 3.53,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "SPDN",
+          "price": 8.8,
+          "momentum_pct": 2.33,
+          "sector": "Unknown",
+          "headlines": [
+            "Is Tech Sector Growth Sustainable, And How Are Expected Q2 '26 S&P 500 EPS Estimates Faring?",
+            "S&P 500 Retreats After Jobs Report Raises Prospect Of Rate Hikes"
+          ]
+        }
+      ],
+      "decisions": [],
+      "rejected": [],
+      "orders": []
+    }
+  ]
+}

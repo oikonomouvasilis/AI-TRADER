@@ -1,7 +1,16 @@
 """Daily pipeline: research -> receptivity check -> execute (once per day)."""
 import sys
 
-from . import config, clients, screener, news, risk, agent, execute, journal
+from . import (config, clients, screener, news, risk, agent, execute, journal,
+               dashboard_data)
+
+
+def _emit_dashboard() -> None:
+    """Refresh docs/data/*.json. Isolated: never breaks the trading run."""
+    try:
+        dashboard_data.write_all()
+    except Exception as e:
+        print(f"dashboard data emit failed (non-fatal): {e}")
 
 
 def _spent_today(snap: dict) -> float:
@@ -29,6 +38,7 @@ def run(force: bool = False) -> int:
     if not cands:
         journal.write({"day": day, "decisions": [], "orders": [],
                        "note": "no candidates"})
+        _emit_dashboard()
         return 0
 
     # --- 2. Receptivity check (account snapshot + model decision) ---
@@ -41,6 +51,7 @@ def run(force: bool = False) -> int:
         print(f"[{day}] agent unavailable -> no trades ({e})")
         journal.write({"day": day, "equity": snap["equity"], "candidates": cands,
                        "decisions": [], "orders": [], "note": f"agent_unavailable: {e}"})
+        _emit_dashboard()
         return 0
     approved, rejected = risk.vet(decisions, snap, cands, _spent_today(snap))
     print(f"[{day}] decisions={len(decisions)} approved={len(approved)} "
@@ -60,6 +71,7 @@ def run(force: bool = False) -> int:
         "rejected": rejected,
         "orders": orders,
     })
+    _emit_dashboard()
     return 0
 
 
