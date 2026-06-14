@@ -33,27 +33,41 @@ def _momentum(symbols: list[str]) -> dict[str, dict]:
     except Exception:
         return out
     for sym, series in bars.items():
-        if len(series) < 2:
+        if len(series) < config.MIN_BARS:
             continue
-        first, last = series[0].close, series[-1].close
+        closes = [b.close for b in series]
+        first, last = closes[0], closes[-1]
         if first <= 0:
             continue
+        avg_dollar_vol = sum(b.close * b.volume for b in series) / len(series)
+        max_day_jump = max(
+            (closes[i] - closes[i - 1]) / closes[i - 1]
+            for i in range(1, len(closes)) if closes[i - 1] > 0
+        )
         out[sym] = {
             "price": round(last, 2),
             "momentum_pct": round((last - first) / first * 100, 2),
+            "avg_dollar_vol": round(avg_dollar_vol),
+            "max_day_jump_pct": round(max_day_jump * 100, 2),
         }
     return out
 
 
 def candidates() -> list[dict]:
-    """Top pre-screened candidates: priced <= MAX_PRICE (whole-share + stop),
-    ranked by momentum. Returns list of {symbol, price, momentum_pct}."""
+    """Top pre-screened candidates, ranked by momentum. Quality gates:
+    price in [1, MAX_PRICE] (whole-share + stop fits $50 cap), momentum above
+    MIN_MOMENTUM_PCT, liquidity above MIN_AVG_DOLLAR_VOL, and no single-day
+    jump above MAX_DAILY_SPIKE_PCT (anti-pump). Returns list of
+    {symbol, price, momentum_pct, avg_dollar_vol, max_day_jump_pct}."""
     syms = _universe()
     mom = _momentum(syms)
     rows = [
         {"symbol": s, **d}
         for s, d in mom.items()
-        if 1.0 <= d["price"] <= config.MAX_PRICE and d["momentum_pct"] > 0
+        if 1.0 <= d["price"] <= config.MAX_PRICE
+        and d["momentum_pct"] >= config.MIN_MOMENTUM_PCT
+        and d["avg_dollar_vol"] >= config.MIN_AVG_DOLLAR_VOL
+        and d["max_day_jump_pct"] <= config.MAX_DAILY_SPIKE_PCT
     ]
     rows.sort(key=lambda r: r["momentum_pct"], reverse=True)
     return rows[: config.CANDIDATE_LIMIT]

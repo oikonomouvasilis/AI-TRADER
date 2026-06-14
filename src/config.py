@@ -21,6 +21,14 @@ NEWS_PER_SYMBOL = 5           # headlines per symbol
 # so we only consider names where >=1 share fits the $50 cap.
 MAX_PRICE = BASE_EQUITY * MAX_POSITION_PCT   # $50
 
+# --- Screening quality filters ---
+MIN_MOMENTUM_PCT = 3.0        # min multi-day momentum (%) to qualify
+MIN_BARS = 4                  # min daily bars for a reliable momentum read
+# Liquidity floor on IEX-feed daily $ volume (free plan = partial volume,
+# a fraction of consolidated); a thin-name guard, not a true ADV figure.
+MIN_AVG_DOLLAR_VOL = 100_000
+MAX_DAILY_SPIKE_PCT = 20.0    # anti-spike: reject if any 1-day jump exceeds this (%)
+
 # --- Credentials ---
 ALPACA_API_KEY = os.getenv("ALPACA_API_KEY", "")
 ALPACA_SECRET_KEY = os.getenv("ALPACA_SECRET_KEY", "")
