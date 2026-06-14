@@ -8,7 +8,8 @@ from . import clients
 
 def submit(approved: list[dict]) -> list[dict]:
     """Place each approved order as a BRACKET (entry + take-profit + hard stop).
-    Returns execution results for the journal."""
+    GTC so the protective stop persists past the entry day (a DAY bracket would
+    cancel the stop at the close). Returns execution results for the journal."""
     tc = clients.trading()
     results = []
     for a in approved:
@@ -16,7 +17,7 @@ def submit(approved: list[dict]) -> list[dict]:
             symbol=a["symbol"],
             qty=a["shares"],
             side=OrderSide.BUY,
-            time_in_force=TimeInForce.DAY,
+            time_in_force=TimeInForce.GTC,
             order_class=OrderClass.BRACKET,
             take_profit=TakeProfitRequest(limit_price=a["take_profit_price"]),
             stop_loss=StopLossRequest(stop_price=a["stop_price"]),

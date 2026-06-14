@@ -23,6 +23,11 @@ def load(day: str | None = None) -> dict:
     return json.loads(p.read_text()) if p.exists() else {}
 
 
+def days() -> list[str]:
+    """All journalled days, most recent first."""
+    return sorted((p.stem for p in _DIR.glob("*.json")), reverse=True)
+
+
 def write(record: dict, day: str | None = None) -> Path:
     _DIR.mkdir(exist_ok=True)
     p = _path(day or today())

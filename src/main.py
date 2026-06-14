@@ -2,7 +2,7 @@
 import sys
 
 from . import (config, clients, screener, news, risk, agent, execute, journal,
-               dashboard_data)
+               reconcile, dashboard_data)
 
 
 def _emit_dashboard() -> None:
@@ -32,17 +32,23 @@ def run(force: bool = False) -> int:
         if journal.exists(day):
             print(f"[{day}] already traded today -> skip"); return 0
 
-    # --- 1. Research ---
+    # --- 1. Account snapshot + stop-loss persistence (every run) ---
+    snap = risk.snapshot()
+    stops = reconcile.ensure_stops(snap)
+    for s in stops:
+        print(f"  stop {s['status']}: {s['symbol']} x{s.get('qty')} "
+              f"@ {s.get('stop_price')}")
+
+    # --- 2. Research ---
     cands = news.enrich(screener.candidates())
     print(f"[{day}] candidates: {len(cands)}")
     if not cands:
-        journal.write({"day": day, "decisions": [], "orders": [],
-                       "note": "no candidates"})
+        journal.write({"day": day, "equity": snap["equity"], "decisions": [],
+                       "orders": [], "stops": stops, "note": "no candidates"})
         _emit_dashboard()
         return 0
 
-    # --- 2. Receptivity check (account snapshot + model decision) ---
-    snap = risk.snapshot()
+    # --- 3. Receptivity check (model decision) ---
     try:
         decisions = agent.decide(cands, snap)
     except Exception as e:
@@ -50,14 +56,15 @@ def run(force: bool = False) -> int:
         # automatically on the next run once credits are topped up.
         print(f"[{day}] agent unavailable -> no trades ({e})")
         journal.write({"day": day, "equity": snap["equity"], "candidates": cands,
-                       "decisions": [], "orders": [], "note": f"agent_unavailable: {e}"})
+                       "decisions": [], "orders": [], "stops": stops,
+                       "note": f"agent_unavailable: {e}"})
         _emit_dashboard()
         return 0
     approved, rejected = risk.vet(decisions, snap, cands, _spent_today(snap))
     print(f"[{day}] decisions={len(decisions)} approved={len(approved)} "
           f"rejected={len(rejected)}")
 
-    # --- 3. Execute ---
+    # --- 4. Execute ---
     orders = execute.submit(approved) if approved else []
     for o in orders:
         print(f"  {o['status']}: {o['symbol']} x{o.get('shares')} "
@@ -70,6 +77,7 @@ def run(force: bool = False) -> int:
         "decisions": decisions,
         "rejected": rejected,
         "orders": orders,
+        "stops": stops,
     })
     _emit_dashboard()
     return 0
