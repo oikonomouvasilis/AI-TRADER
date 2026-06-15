@@ -1,0 +1,78 @@
+{
+  "day": "2026-06-15",
+  "equity": 99999.18,
+  "candidates": [
+    {
+      "symbol": "AAL",
+      "price": 15.48,
+      "momentum_pct": 13.78,
+      "avg_dollar_vol": 40463822,
+      "max_day_jump_pct": 9.08,
+      "sector": "Airlines",
+      "headlines": [
+        "Market Rallies On Peace Plan Hopes; These Stocks Set To Break Out",
+        "Travel Sector Rallies as Iran Agreement Sends Oil Prices Lower",
+        "Iran Truce Sealed, SpaceX Storms Wall Street and Warsh Steps to the Mic",
+        "AAL, UAL, DAL, LUV Stocks Surge Overnight: Airline Stocks Catch A Tailwind As US-Iran Deal Cools Fuel Fears"
+      ]
+    },
+    {
+      "symbol": "MSTU",
+      "price": 4.06,
+      "momentum_pct": 7.41,
+      "avg_dollar_vol": 3462882,
+      "max_day_jump_pct": 15.01,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "GRAB",
+      "price": 3.52,
+      "momentum_pct": 5.7,
+      "avg_dollar_vol": 8021447,
+      "max_day_jump_pct": 6.66,
+      "sector": "Road & Rail",
+      "headlines": [
+        "10 Industrials Stocks With Whale Alerts In Today's Session",
+        "Ouster, Datavault AI, Paranovus Entertainment Technology And Other Big Stocks Moving Higher On Monday",
+        "Sea Limited: Brazil's Success Opens A New Chapter Of Growth",
+        "Uber: The Delivery Hero Transaction Enhances A Powerful Growth Story"
+      ]
+    },
+    {
+      "symbol": "BITO",
+      "price": 9.08,
+      "momentum_pct": 5.34,
+      "avg_dollar_vol": 252577854,
+      "max_day_jump_pct": 5.03,
+      "sector": "Unknown",
+      "headlines": [
+        "Weekly Commentary: SpaceX And A Z.1 (Q1 2026)",
+        "Whale's Insight: Bitcoin Near The Cycle Floor: Buy The Dip, Or Wait For Capitulation?"
+      ]
+    },
+    {
+      "symbol": "BMNU",
+      "price": 1.16,
+      "momentum_pct": 4.5,
+      "avg_dollar_vol": 5540289,
+      "max_day_jump_pct": 16.0,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "SOFI",
+      "price": 17.15,
+      "momentum_pct": 3.94,
+      "avg_dollar_vol": 25001729,
+      "max_day_jump_pct": 5.04,
+      "sector": "Financial Services",
+      "headlines": []
+    }
+  ],
+  "decisions": [],
+  "rejected": [],
+  "orders": [],
+  "stops": [],
+  "written_at": "2026-06-15T18:14:08.027722+00:00"
+}

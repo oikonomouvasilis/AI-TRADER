@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-13T08:21:17.130737+00:00",
+  "updated_at": "2026-06-15T18:14:08.444223+00:00",
   "account": {
-    "equity": 99999.09,
+    "equity": 99999.2,
     "cash": 99954.57,
-    "buying_power": 399942.94,
-    "long_market_value": 44.52,
-    "last_equity": 99998.7
+    "buying_power": 399943.23,
+    "long_market_value": 44.63,
+    "last_equity": 99999.09
   },
   "curve": [
     {
@@ -49,6 +49,12 @@
       "equity": 99998.7,
       "pl": 1.23,
       "pl_pct": 0.0
+    },
+    {
+      "t": "2026-06-13",
+      "equity": 99999.09,
+      "pl": 0.39,
+      "pl_pct": 0.0
     }
   ],
   "base_value": 100000.0,
@@ -57,26 +63,26 @@
       "symbol": "F",
       "qty": 3.0,
       "entry_price": 15.14,
-      "current_price": 14.84,
-      "market_value": 44.52,
-      "unrealized_pl": -0.9,
-      "unrealized_plpc": -1.98,
+      "current_price": 14.875,
+      "market_value": 44.62,
+      "unrealized_pl": -0.8,
+      "unrealized_plpc": -1.75,
       "sector": "Automobiles"
     }
   ],
   "sector_allocation": [
     {
       "sector": "Automobiles",
-      "market_value": 44.52,
+      "market_value": 44.62,
       "pct": 100.0
     }
   ],
   "kpis": {
-    "equity": 99999.09,
-    "total_pl": -0.9,
+    "equity": 99999.2,
+    "total_pl": -0.8,
     "total_pl_pct": -0.0,
     "realized_pl": 0,
-    "unrealized_pl": -0.9,
+    "unrealized_pl": -0.8,
     "open_positions": 1,
     "num_closed_trades": 0,
     "win_rate": 0.0
