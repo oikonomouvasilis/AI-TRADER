@@ -41,8 +41,12 @@ def decide(candidates: list[dict], snap: dict) -> list[dict]:
     cfg = types.GenerateContentConfig(
         system_instruction=_SYSTEM,
         response_mime_type="application/json",
-        max_output_tokens=1024,
+        max_output_tokens=2048,
         temperature=0.3,
+        # Gemini 2.5 Flash is a thinking model; thinking tokens consume the
+        # output budget and were truncating the JSON answer (-> empty decisions
+        # every run). Disable thinking so the full budget goes to the response.
+        thinking_config=types.ThinkingConfig(thinking_budget=0),
     )
     contents = f"{_INSTRUCTION}\n\nDATA:\n{json.dumps(payload)}"
     for attempt in range(1, _MAX_TRIES + 1):
