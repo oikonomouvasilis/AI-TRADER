@@ -1,6 +1,144 @@
 {
-  "updated_at": "2026-06-15T18:14:08.444811+00:00",
+  "updated_at": "2026-06-16T18:19:26.131125+00:00",
   "days": [
+    {
+      "day": "2026-06-16",
+      "equity": 99998.95,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "RXT",
+          "price": 6.54,
+          "momentum_pct": 45.01,
+          "avg_dollar_vol": 3229487,
+          "max_day_jump_pct": 13.06,
+          "sector": "Technology",
+          "headlines": [
+            "Rackspace Technology, Inc. (RXT) Discusses Phased Deployment Agreement for AMD AI Compute and GPU-as-a-Service Collaboration - Slideshow",
+            "Tuesday's pre-market session: top gainers and losers",
+            "Wall Street Lunch: Yum! Brands Serves Up Pizza Hut In $2.7B Deal",
+            "Rackspace Technology, Inc. (RXT) Discusses Phased Deployment Agreement for AMD AI Compute and GPU-as-a-Service Collaboration Transcript",
+            "Why Is Rackspace Stock Surging Today?"
+          ]
+        },
+        {
+          "symbol": "BTBT",
+          "price": 2.14,
+          "momentum_pct": 20.56,
+          "avg_dollar_vol": 2125789,
+          "max_day_jump_pct": 11.17,
+          "sector": "Technology",
+          "headlines": [
+            "Simulations Plus, One Stop Systems, Space Exploration Technologies And Other Big Stocks Moving Higher On Tuesday"
+          ]
+        },
+        {
+          "symbol": "AAL",
+          "price": 15.91,
+          "momentum_pct": 16.9,
+          "avg_dollar_vol": 43527107,
+          "max_day_jump_pct": 9.08,
+          "sector": "Airlines",
+          "headlines": [
+            "American Airlines and United Airlines Shares Skyrocket, What You Need To Know",
+            "Trump Administration Clears Delta in CrowdStrike Outage Probe, Ends Investigation Into Travel Meltdown That Impacted 1.3 Million Passengers",
+            "Stock Market Today, June 15: American Airlines Group Jumps After Oil Prices Drop on U.S.-Iran Peace Agreement",
+            "Stocks Settle Sharply Higher as US-Iran Peace Deal Spurs Optimism",
+            "Discover the most active stocks in Monday's session."
+          ]
+        },
+        {
+          "symbol": "OPEN",
+          "price": 4.92,
+          "momentum_pct": 14.15,
+          "avg_dollar_vol": 5259002,
+          "max_day_jump_pct": 6.84,
+          "sector": "Real Estate",
+          "headlines": []
+        },
+        {
+          "symbol": "KEEL",
+          "price": 6.22,
+          "momentum_pct": 10.09,
+          "avg_dollar_vol": 8446284,
+          "max_day_jump_pct": 9.99,
+          "sector": "Technology",
+          "headlines": []
+        },
+        {
+          "symbol": "SOFI",
+          "price": 17.95,
+          "momentum_pct": 8.76,
+          "avg_dollar_vol": 28778538,
+          "max_day_jump_pct": 5.04,
+          "sector": "Financial Services",
+          "headlines": []
+        },
+        {
+          "symbol": "GRAB",
+          "price": 3.52,
+          "momentum_pct": 5.7,
+          "avg_dollar_vol": 8692175,
+          "max_day_jump_pct": 4.54,
+          "sector": "Road & Rail",
+          "headlines": [
+            "Shares of aerospace and defense companies are trading lower amid overall market weakness, as investors react to reports that air defenses were activated in Tehran and to President Trump's social media post. The industry may be weighed down by Lockheed Martin's Q1 earnings miss.",
+            "10 Industrials Stocks With Whale Alerts In Today's Session",
+            "Ouster, Datavault AI, Paranovus Entertainment Technology And Other Big Stocks Moving Higher On Monday",
+            "Sea Limited: Brazil's Success Opens A New Chapter Of Growth",
+            "Uber: The Delivery Hero Transaction Enhances A Powerful Growth Story"
+          ]
+        },
+        {
+          "symbol": "BITO",
+          "price": 8.98,
+          "momentum_pct": 4.18,
+          "avg_dollar_vol": 246459281,
+          "max_day_jump_pct": 4.68,
+          "sector": "Unknown",
+          "headlines": []
+        }
+      ],
+      "decisions": [
+        {
+          "symbol": "RXT",
+          "target_dollars": 50,
+          "rationale": "Strong momentum with clear catalyst: AMD AI Compute and GPU-as-a-Service collaboration."
+        },
+        {
+          "symbol": "AAL",
+          "target_dollars": 50,
+          "rationale": "Significant momentum supported by positive news on oil prices and US-Iran peace deal."
+        }
+      ],
+      "rejected": [],
+      "orders": [
+        {
+          "symbol": "RXT",
+          "shares": 7,
+          "entry_price": 6.54,
+          "stop_price": 6.34,
+          "take_profit_price": 7.19,
+          "notional": 45.78,
+          "sector": "Technology",
+          "rationale": "Strong momentum with clear catalyst: AMD AI Compute and GPU-as-a-Service collaboration.",
+          "status": "submitted",
+          "order_id": "d4eef69e-39ab-4d7b-920f-dc058ab592db"
+        },
+        {
+          "symbol": "AAL",
+          "shares": 1,
+          "entry_price": 15.91,
+          "stop_price": 15.43,
+          "take_profit_price": 17.5,
+          "notional": 15.91,
+          "sector": "Airlines",
+          "rationale": "Significant momentum supported by positive news on oil prices and US-Iran peace deal.",
+          "status": "submitted",
+          "order_id": "87ba6edc-98d6-4e86-bc10-3abc7bf96d36"
+        }
+      ]
+    },
     {
       "day": "2026-06-15",
       "equity": 99999.18,

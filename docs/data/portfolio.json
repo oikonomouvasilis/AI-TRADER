@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-15T18:14:08.444223+00:00",
+  "updated_at": "2026-06-16T18:19:26.130524+00:00",
   "account": {
-    "equity": 99999.2,
-    "cash": 99954.57,
-    "buying_power": 399943.23,
-    "long_market_value": 44.63,
-    "last_equity": 99999.09
+    "equity": 99998.95,
+    "cash": 99923.54,
+    "buying_power": 399843.43,
+    "long_market_value": 75.41,
+    "last_equity": 99998.77
   },
   "curve": [
     {
@@ -55,35 +55,56 @@
       "equity": 99999.09,
       "pl": 0.39,
       "pl_pct": 0.0
+    },
+    {
+      "t": "2026-06-16",
+      "equity": 99998.77,
+      "pl": -0.32,
+      "pl_pct": 0.0
     }
   ],
   "base_value": 100000.0,
   "positions": [
     {
+      "symbol": "AAL",
+      "qty": 2.0,
+      "entry_price": 15.51,
+      "current_price": 15.915,
+      "market_value": 31.83,
+      "unrealized_pl": 0.81,
+      "unrealized_plpc": 2.61,
+      "sector": "Airlines"
+    },
+    {
       "symbol": "F",
       "qty": 3.0,
       "entry_price": 15.14,
-      "current_price": 14.875,
-      "market_value": 44.62,
-      "unrealized_pl": -0.8,
-      "unrealized_plpc": -1.75,
+      "current_price": 14.525,
+      "market_value": 43.58,
+      "unrealized_pl": -1.84,
+      "unrealized_plpc": -4.06,
       "sector": "Automobiles"
     }
   ],
   "sector_allocation": [
     {
       "sector": "Automobiles",
-      "market_value": 44.62,
-      "pct": 100.0
+      "market_value": 43.58,
+      "pct": 57.8
+    },
+    {
+      "sector": "Airlines",
+      "market_value": 31.83,
+      "pct": 42.2
     }
   ],
   "kpis": {
-    "equity": 99999.2,
-    "total_pl": -0.8,
+    "equity": 99998.95,
+    "total_pl": -1.03,
     "total_pl_pct": -0.0,
     "realized_pl": 0,
-    "unrealized_pl": -0.8,
-    "open_positions": 1,
+    "unrealized_pl": -1.03,
+    "open_positions": 2,
     "num_closed_trades": 0,
     "win_rate": 0.0
   }
