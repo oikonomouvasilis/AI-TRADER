@@ -1,6 +1,123 @@
 {
-  "updated_at": "2026-06-16T18:19:26.131125+00:00",
+  "updated_at": "2026-06-17T16:47:46.660520+00:00",
   "days": [
+    {
+      "day": "2026-06-17",
+      "equity": 99996.44,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "AMC",
+          "price": 2.75,
+          "momentum_pct": 52.78,
+          "avg_dollar_vol": 3605818,
+          "max_day_jump_pct": 10.44,
+          "sector": "Media",
+          "headlines": [
+            "2 Monthly Dividend REITs, Only 1 Is A Buy Today",
+            "AMC Stock Climbs Tuesday: What's Driving The Move?"
+          ]
+        },
+        {
+          "symbol": "AAL",
+          "price": 15.8,
+          "momentum_pct": 16.09,
+          "avg_dollar_vol": 41519121,
+          "max_day_jump_pct": 9.08,
+          "sector": "Airlines",
+          "headlines": [
+            "American Airlines (AAL) Faces A Key Leadership Shift As Stephen L. Johnson Retires",
+            "American Airlines (AAL) Increases Despite Market Slip: Here's What You Need to Know",
+            "American Airlines Group (AAL) Stock Could Be 79.6% Undervalued After Oil Prices Fell",
+            "Broader Market Weakens as Energy and Software Stocks Fall",
+            "Stocks Supported by Lower Crude Oil Prices and Bond Yields"
+          ]
+        },
+        {
+          "symbol": "NU",
+          "price": 13.34,
+          "momentum_pct": 15.0,
+          "avg_dollar_vol": 46761510,
+          "max_day_jump_pct": 4.79,
+          "sector": "Banking",
+          "headlines": [
+            "10 Financials Stocks With Whale Alerts In Today's Session",
+            "Citigroup Downgrades Nu Holdings (NU)",
+            "Citigroup Downgrades Nu Holdings to Neutral, Lowers Price Target to $13",
+            "Sea Limited: Brazil's Success Opens A New Chapter Of Growth"
+          ]
+        },
+        {
+          "symbol": "SOFI",
+          "price": 18.36,
+          "momentum_pct": 11.3,
+          "avg_dollar_vol": 30294024,
+          "max_day_jump_pct": 5.04,
+          "sector": "Financial Services",
+          "headlines": [
+            "SOFI: The Market Distrusts The Book, The Numbers Say Otherwise",
+            "SoFi CEO Won't Stop Buying His Own Stock",
+            "Netflix, SoFi Technologies, Snap, Moderna And Our Bond AI: Why These 5 Stocks Are On Investors' Radars Today",
+            "SoFi Stock Is Climbing Despite A Broader Tech Selloff: What's Going On?"
+          ]
+        },
+        {
+          "symbol": "KEEL",
+          "price": 6.12,
+          "momentum_pct": 8.32,
+          "avg_dollar_vol": 8126137,
+          "max_day_jump_pct": 5.25,
+          "sector": "Technology",
+          "headlines": [
+            "Keel Infrastructure Stock Is Climbing Tuesday: What's Going On?"
+          ]
+        },
+        {
+          "symbol": "BITO",
+          "price": 8.97,
+          "momentum_pct": 4.06,
+          "avg_dollar_vol": 240417232,
+          "max_day_jump_pct": 4.68,
+          "sector": "Unknown",
+          "headlines": []
+        }
+      ],
+      "decisions": [
+        {
+          "symbol": "AAL",
+          "target_dollars": 50,
+          "rationale": "Strong momentum with positive news on leadership change and potential undervaluation due to falling oil prices."
+        },
+        {
+          "symbol": "SOFI",
+          "target_dollars": 50,
+          "rationale": "Positive momentum despite broader tech selloff, supported by CEO buying own stock and investor interest."
+        }
+      ],
+      "rejected": [
+        {
+          "symbol": "AAL",
+          "target_dollars": 50,
+          "rationale": "Strong momentum with positive news on leadership change and potential undervaluation due to falling oil prices.",
+          "reason": "no room within limits",
+          "price": 15.8
+        }
+      ],
+      "orders": [
+        {
+          "symbol": "SOFI",
+          "shares": 2,
+          "entry_price": 18.36,
+          "stop_price": 17.81,
+          "take_profit_price": 20.2,
+          "notional": 36.72,
+          "sector": "Financial Services",
+          "rationale": "Positive momentum despite broader tech selloff, supported by CEO buying own stock and investor interest.",
+          "status": "submitted",
+          "order_id": "c1456bc7-6cca-4be8-a70e-b67d5d4b0b93"
+        }
+      ]
+    },
     {
       "day": "2026-06-16",
       "equity": 99998.95,

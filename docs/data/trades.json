@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T18:19:26.100050+00:00",
+  "updated_at": "2026-06-17T16:47:46.600885+00:00",
   "fills": [
     {
       "t": "2026-06-08T18:25:43.162492+00:00",
@@ -18,29 +18,78 @@
       "price": 15.51,
       "value": 31.02,
       "order_id": "e4f45497-da01-431f-bd96-1c9e0168ff3f"
+    },
+    {
+      "t": "2026-06-16T18:19:26.683137+00:00",
+      "symbol": "AAL",
+      "side": "buy",
+      "qty": 1.0,
+      "price": 15.92,
+      "value": 15.92,
+      "order_id": "87ba6edc-98d6-4e86-bc10-3abc7bf96d36"
+    },
+    {
+      "t": "2026-06-16T18:19:27.070061+00:00",
+      "symbol": "RXT",
+      "side": "buy",
+      "qty": 7.0,
+      "price": 6.56,
+      "value": 45.92,
+      "order_id": "d4eef69e-39ab-4d7b-920f-dc058ab592db"
+    },
+    {
+      "t": "2026-06-16T18:33:39.054718+00:00",
+      "symbol": "RXT",
+      "side": "sell",
+      "qty": 7.0,
+      "price": 6.32,
+      "value": 44.24,
+      "order_id": "4bb3ed8e-f082-43c8-8ae5-295d66aa57cf"
+    },
+    {
+      "t": "2026-06-17T13:34:01.919603+00:00",
+      "symbol": "F",
+      "side": "sell",
+      "qty": 3.0,
+      "price": 14.3833,
+      "value": 43.15,
+      "order_id": "8b36b243-0948-4ba8-84d6-aa136d7ad124"
     }
   ],
-  "closed": [],
-  "open": [
+  "closed": [
     {
-      "symbol": "AAL",
-      "qty": 2.0,
-      "entry_price": 15.51,
-      "current_price": 15.915,
-      "market_value": 31.83,
-      "unrealized_pl": 0.81,
-      "unrealized_plpc": 2.61,
-      "sector": "Airlines"
+      "symbol": "RXT",
+      "qty": 7.0,
+      "entry_time": "2026-06-16T18:19:27.070061+00:00",
+      "entry_price": 6.56,
+      "exit_time": "2026-06-16T18:33:39.054718+00:00",
+      "exit_price": 6.32,
+      "pl": -1.68,
+      "pl_pct": -3.66,
+      "sector": "Technology"
     },
     {
       "symbol": "F",
       "qty": 3.0,
+      "entry_time": "2026-06-08T18:25:43.162492+00:00",
       "entry_price": 15.14,
-      "current_price": 14.525,
-      "market_value": 43.58,
-      "unrealized_pl": -1.84,
-      "unrealized_plpc": -4.06,
+      "exit_time": "2026-06-17T13:34:01.919603+00:00",
+      "exit_price": 14.3833,
+      "pl": -2.27,
+      "pl_pct": -5.0,
       "sector": "Automobiles"
+    }
+  ],
+  "open": [
+    {
+      "symbol": "AAL",
+      "qty": 3.0,
+      "entry_price": 15.6467,
+      "current_price": 15.785,
+      "market_value": 47.35,
+      "unrealized_pl": 0.41,
+      "unrealized_plpc": 0.88,
+      "sector": "Airlines"
     }
   ]
 }
