@@ -1,6 +1,86 @@
 {
-  "updated_at": "2026-06-17T16:47:46.660520+00:00",
+  "updated_at": "2026-06-18T16:46:19.407458+00:00",
   "days": [
+    {
+      "day": "2026-06-18",
+      "equity": 99995.32,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "SSPC",
+          "price": 10.81,
+          "momentum_pct": 18.01,
+          "avg_dollar_vol": 1879423,
+          "max_day_jump_pct": 19.05,
+          "sector": "Unknown",
+          "headlines": [
+            "SpaceX ETF Frenzy Reaches 'Bonkers' Levels As Volume Surges Past $1 Billion"
+          ]
+        },
+        {
+          "symbol": "AAL",
+          "price": 16.0,
+          "momentum_pct": 13.64,
+          "avg_dollar_vol": 43710892,
+          "max_day_jump_pct": 9.08,
+          "sector": "Airlines",
+          "headlines": [
+            "'A House Judiciary Subcommittee Will Hold A June 24 Hearing To Examine U.S. Airline Competition And Regulation Following Spirit Airlines' Collapse' - Devdiscourse",
+            "American Airlines (AAL) Faces A Key Leadership Shift As Stephen L. Johnson Retires",
+            "American Airlines (AAL) Increases Despite Market Slip: Here's What You Need to Know",
+            "American Airlines Group (AAL) Stock Could Be 79.6% Undervalued After Oil Prices Fell",
+            "Broader Market Weakens as Energy and Software Stocks Fall"
+          ]
+        },
+        {
+          "symbol": "SOFI",
+          "price": 17.7,
+          "momentum_pct": 7.43,
+          "avg_dollar_vol": 32269327,
+          "max_day_jump_pct": 5.04,
+          "sector": "Financial Services",
+          "headlines": [
+            "SOFI: The Market Distrusts The Book, The Numbers Say Otherwise",
+            "SoFi CEO Won't Stop Buying His Own Stock",
+            "Netflix, SoFi Technologies, Snap, Moderna And Our Bond AI: Why These 5 Stocks Are On Investors' Radars Today",
+            "SoFi Stock Is Climbing Despite A Broader Tech Selloff: What's Going On?"
+          ]
+        },
+        {
+          "symbol": "QS",
+          "price": 7.7,
+          "momentum_pct": 5.12,
+          "avg_dollar_vol": 5484226,
+          "max_day_jump_pct": 11.52,
+          "sector": "Auto Components",
+          "headlines": [
+            "QuantumScape Signs Agreement With Honda R&D To Advance QS Battery Platform Through Combined Contributions, Expertise"
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "symbol": "QS",
+          "target_dollars": 45,
+          "rationale": "Strong news catalyst with Honda R&D agreement, supporting momentum in Auto Components sector."
+        }
+      ],
+      "rejected": [],
+      "orders": [
+        {
+          "symbol": "QS",
+          "shares": 5,
+          "entry_price": 7.7,
+          "stop_price": 7.47,
+          "take_profit_price": 8.47,
+          "notional": 38.5,
+          "sector": "Auto Components",
+          "rationale": "Strong news catalyst with Honda R&D agreement, supporting momentum in Auto Components sector.",
+          "status": "submitted",
+          "order_id": "4e587ed8-c0eb-42b2-9b62-999c78b4e154"
+        }
+      ]
+    },
     {
       "day": "2026-06-17",
       "equity": 99996.44,

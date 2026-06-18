@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T16:47:46.600885+00:00",
+  "updated_at": "2026-06-18T16:46:19.377026+00:00",
   "fills": [
     {
       "t": "2026-06-08T18:25:43.162492+00:00",
@@ -54,6 +54,33 @@
       "price": 14.3833,
       "value": 43.15,
       "order_id": "8b36b243-0948-4ba8-84d6-aa136d7ad124"
+    },
+    {
+      "t": "2026-06-17T16:47:48.058016+00:00",
+      "symbol": "SOFI",
+      "side": "buy",
+      "qty": 2.0,
+      "price": 18.39,
+      "value": 36.78,
+      "order_id": "c1456bc7-6cca-4be8-a70e-b67d5d4b0b93"
+    },
+    {
+      "t": "2026-06-17T19:30:47.487637+00:00",
+      "symbol": "SOFI",
+      "side": "sell",
+      "qty": 2.0,
+      "price": 17.82,
+      "value": 35.64,
+      "order_id": "202db2cc-c9e2-4353-80b0-73b7451fa727"
+    },
+    {
+      "t": "2026-06-17T19:57:10.796568+00:00",
+      "symbol": "AAL",
+      "side": "sell",
+      "qty": 1.0,
+      "price": 15.43,
+      "value": 15.43,
+      "order_id": "dfd98dff-cbf6-43bc-bb2b-b19f995a7bbc"
     }
   ],
   "closed": [
@@ -78,17 +105,39 @@
       "pl": -2.27,
       "pl_pct": -5.0,
       "sector": "Automobiles"
+    },
+    {
+      "symbol": "SOFI",
+      "qty": 2.0,
+      "entry_time": "2026-06-17T16:47:48.058016+00:00",
+      "entry_price": 18.39,
+      "exit_time": "2026-06-17T19:30:47.487637+00:00",
+      "exit_price": 17.82,
+      "pl": -1.14,
+      "pl_pct": -3.1,
+      "sector": "Financial Services"
+    },
+    {
+      "symbol": "AAL",
+      "qty": 1.0,
+      "entry_time": "2026-06-15T18:20:24.028996+00:00",
+      "entry_price": 15.51,
+      "exit_time": "2026-06-17T19:57:10.796568+00:00",
+      "exit_price": 15.43,
+      "pl": -0.08,
+      "pl_pct": -0.52,
+      "sector": "Airlines"
     }
   ],
   "open": [
     {
       "symbol": "AAL",
-      "qty": 3.0,
-      "entry_price": 15.6467,
-      "current_price": 15.785,
-      "market_value": 47.35,
-      "unrealized_pl": 0.41,
-      "unrealized_plpc": 0.88,
+      "qty": 2.0,
+      "entry_price": 15.715,
+      "current_price": 15.99,
+      "market_value": 31.98,
+      "unrealized_pl": 0.55,
+      "unrealized_plpc": 1.75,
       "sector": "Airlines"
     }
   ]
