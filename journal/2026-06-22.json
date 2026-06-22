@@ -1,0 +1,88 @@
+{
+  "day": "2026-06-22",
+  "equity": 99999.96,
+  "candidates": [
+    {
+      "symbol": "HIVE",
+      "price": 5.06,
+      "momentum_pct": 27.78,
+      "avg_dollar_vol": 6862854,
+      "max_day_jump_pct": 17.95,
+      "sector": "Technology",
+      "headlines": [
+        "Apogee Therapeutics, Definium Therapeutics, Baldwin Insurance And Other Big Stocks Moving Higher On Monday"
+      ]
+    },
+    {
+      "symbol": "KEEL",
+      "price": 6.95,
+      "momentum_pct": 22.9,
+      "avg_dollar_vol": 8405367,
+      "max_day_jump_pct": 10.85,
+      "sector": "Technology",
+      "headlines": [
+        "Apogee Therapeutics, Definium Therapeutics, Baldwin Insurance And Other Big Stocks Moving Higher On Monday",
+        "12 Information Technology Stocks Moving In Monday's Pre-Market Session"
+      ]
+    },
+    {
+      "symbol": "SMCI",
+      "price": 36.6,
+      "momentum_pct": 18.6,
+      "avg_dollar_vol": 78581939,
+      "max_day_jump_pct": 19.37,
+      "sector": "Technology",
+      "headlines": [
+        "Curious about which S&P500 stocks are generating unusual volume on Monday? Find out below.",
+        "Explore the top gainers and losers within the S&P500 index in today's session.",
+        "Super Micro Jumps 11%, Dell Rises 5% as New NVIDIA Vera Rubin Systems Fuel the AI Server Trade",
+        "Super Micro Computer (SMCI) A Data Center Stock Cheaper Than the S&P",
+        "Supermicro Delivers NVIDIA Vera Rubin NVL4 End-to-End DCBBS Blueprint with Native FP64 Performance for Converged HPC and AI Infrastructure"
+      ]
+    },
+    {
+      "symbol": "AAL",
+      "price": 16.45,
+      "momentum_pct": 6.34,
+      "avg_dollar_vol": 49807188,
+      "max_day_jump_pct": 3.63,
+      "sector": "Airlines",
+      "headlines": [
+        "Airlines Gain on Pricing as 'Capacity Discipline' Becomes Key Into Summer, BofA Says",
+        "Jet Fuel Prices Are Crashing. These Airline Stocks Could Benefit Most"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "symbol": "SMCI",
+      "target_dollars": 50,
+      "rationale": "Strong momentum with clear AI server catalyst (NVIDIA Vera Rubin systems). High avg dollar vol."
+    }
+  ],
+  "rejected": [],
+  "orders": [
+    {
+      "symbol": "SMCI",
+      "shares": 1,
+      "entry_price": 36.6,
+      "stop_price": 35.5,
+      "take_profit_price": 40.26,
+      "notional": 36.6,
+      "sector": "Technology",
+      "rationale": "Strong momentum with clear AI server catalyst (NVIDIA Vera Rubin systems). High avg dollar vol.",
+      "status": "submitted",
+      "order_id": "36cd9e47-d807-4fa4-9095-2ee596507b5a"
+    }
+  ],
+  "stops": [
+    {
+      "symbol": "AAL",
+      "qty": 2,
+      "stop_price": 15.43,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"2\",\"held_for_orders\":\"2\",\"message\":\"insufficient qty available for order (requested: 2, available: 0)\",\"related_orders\":[\"80dee227-2865-4dd4-939c-fe1a6699ffbb\"],\"symbol\":\"AAL\"}"
+    }
+  ],
+  "written_at": "2026-06-22T18:06:10.672587+00:00"
+}

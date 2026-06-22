@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T16:46:19.377026+00:00",
+  "updated_at": "2026-06-22T18:06:11.013218+00:00",
   "fills": [
     {
       "t": "2026-06-08T18:25:43.162492+00:00",
@@ -81,6 +81,24 @@
       "price": 15.43,
       "value": 15.43,
       "order_id": "dfd98dff-cbf6-43bc-bb2b-b19f995a7bbc"
+    },
+    {
+      "t": "2026-06-18T16:46:19.976181+00:00",
+      "symbol": "QS",
+      "side": "buy",
+      "qty": 5.0,
+      "price": 7.72,
+      "value": 38.6,
+      "order_id": "4e587ed8-c0eb-42b2-9b62-999c78b4e154"
+    },
+    {
+      "t": "2026-06-22T14:00:01.435897+00:00",
+      "symbol": "QS",
+      "side": "sell",
+      "qty": 5.0,
+      "price": 8.472,
+      "value": 42.36,
+      "order_id": "418ae4ca-33ea-4597-9c02-cf6d91ab07e5"
     }
   ],
   "closed": [
@@ -127,6 +145,17 @@
       "pl": -0.08,
       "pl_pct": -0.52,
       "sector": "Airlines"
+    },
+    {
+      "symbol": "QS",
+      "qty": 5.0,
+      "entry_time": "2026-06-18T16:46:19.976181+00:00",
+      "entry_price": 7.72,
+      "exit_time": "2026-06-22T14:00:01.435897+00:00",
+      "exit_price": 8.472,
+      "pl": 3.76,
+      "pl_pct": 9.74,
+      "sector": "Auto Components"
     }
   ],
   "open": [
@@ -134,10 +163,10 @@
       "symbol": "AAL",
       "qty": 2.0,
       "entry_price": 15.715,
-      "current_price": 15.99,
-      "market_value": 31.98,
-      "unrealized_pl": 0.55,
-      "unrealized_plpc": 1.75,
+      "current_price": 16.435,
+      "market_value": 32.87,
+      "unrealized_pl": 1.44,
+      "unrealized_plpc": 4.58,
       "sector": "Airlines"
     }
   ]
