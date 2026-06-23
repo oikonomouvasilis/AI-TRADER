@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T18:06:11.013218+00:00",
+  "updated_at": "2026-06-23T16:13:18.314997+00:00",
   "fills": [
     {
       "t": "2026-06-08T18:25:43.162492+00:00",
@@ -99,6 +99,24 @@
       "price": 8.472,
       "value": 42.36,
       "order_id": "418ae4ca-33ea-4597-9c02-cf6d91ab07e5"
+    },
+    {
+      "t": "2026-06-22T18:06:11.314868+00:00",
+      "symbol": "SMCI",
+      "side": "buy",
+      "qty": 1.0,
+      "price": 36.64,
+      "value": 36.64,
+      "order_id": "36cd9e47-d807-4fa4-9095-2ee596507b5a"
+    },
+    {
+      "t": "2026-06-22T19:22:35.159977+00:00",
+      "symbol": "SMCI",
+      "side": "sell",
+      "qty": 1.0,
+      "price": 35.52,
+      "value": 35.52,
+      "order_id": "1fd611bb-d7c9-497e-9bb4-b1f47cadf023"
     }
   ],
   "closed": [
@@ -156,6 +174,17 @@
       "pl": 3.76,
       "pl_pct": 9.74,
       "sector": "Auto Components"
+    },
+    {
+      "symbol": "SMCI",
+      "qty": 1.0,
+      "entry_time": "2026-06-22T18:06:11.314868+00:00",
+      "entry_price": 36.64,
+      "exit_time": "2026-06-22T19:22:35.159977+00:00",
+      "exit_price": 35.52,
+      "pl": -1.12,
+      "pl_pct": -3.06,
+      "sector": "Technology"
     }
   ],
   "open": [
@@ -163,10 +192,10 @@
       "symbol": "AAL",
       "qty": 2.0,
       "entry_price": 15.715,
-      "current_price": 16.435,
-      "market_value": 32.87,
-      "unrealized_pl": 1.44,
-      "unrealized_plpc": 4.58,
+      "current_price": 16.3201,
+      "market_value": 32.64,
+      "unrealized_pl": 1.21,
+      "unrealized_plpc": 3.85,
       "sector": "Airlines"
     }
   ]

@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-22T18:06:11.183054+00:00",
+  "updated_at": "2026-06-23T16:13:18.491088+00:00",
   "account": {
-    "equity": 99999.96,
-    "cash": 99967.09,
-    "buying_power": 399923.81,
-    "long_market_value": 32.87,
-    "last_equity": 99996.91
+    "equity": 99998.59,
+    "cash": 99965.95,
+    "buying_power": 399874.44,
+    "long_market_value": 32.64,
+    "last_equity": 99998.11
   },
   "curve": [
     {
@@ -79,6 +79,12 @@
       "equity": 99996.91,
       "pl": 2.73,
       "pl_pct": 0.0
+    },
+    {
+      "t": "2026-06-23",
+      "equity": 99998.11,
+      "pl": 1.2,
+      "pl_pct": 0.0
     }
   ],
   "base_value": 100000.0,
@@ -87,28 +93,28 @@
       "symbol": "AAL",
       "qty": 2.0,
       "entry_price": 15.715,
-      "current_price": 16.435,
-      "market_value": 32.87,
-      "unrealized_pl": 1.44,
-      "unrealized_plpc": 4.58,
+      "current_price": 16.3201,
+      "market_value": 32.64,
+      "unrealized_pl": 1.21,
+      "unrealized_plpc": 3.85,
       "sector": "Airlines"
     }
   ],
   "sector_allocation": [
     {
       "sector": "Airlines",
-      "market_value": 32.87,
+      "market_value": 32.64,
       "pct": 100.0
     }
   ],
   "kpis": {
-    "equity": 99999.96,
-    "total_pl": 0.03,
+    "equity": 99998.59,
+    "total_pl": -1.32,
     "total_pl_pct": -0.0,
-    "realized_pl": -1.41,
-    "unrealized_pl": 1.44,
+    "realized_pl": -2.53,
+    "unrealized_pl": 1.21,
     "open_positions": 1,
-    "num_closed_trades": 5,
-    "win_rate": 20.0
+    "num_closed_trades": 6,
+    "win_rate": 16.7
   }
 }

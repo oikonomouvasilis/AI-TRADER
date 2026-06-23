@@ -1,0 +1,130 @@
+{
+  "day": "2026-06-23",
+  "equity": 99998.59,
+  "candidates": [
+    {
+      "symbol": "KEEL",
+      "price": 6.64,
+      "momentum_pct": 17.42,
+      "avg_dollar_vol": 8307476,
+      "max_day_jump_pct": 6.06,
+      "sector": "Technology",
+      "headlines": [
+        "Keel Infrastructure Corp. (KEEL) Discusses Transition From Bitcoin Mining to HPC AI Data Center Strategy and Power Advantages Transcript",
+        "Apogee Therapeutics, Definium Therapeutics, Baldwin Insurance And Other Big Stocks Moving Higher On Monday",
+        "Keel's AI Jackpot: One Lease Away From Repricing The Stock",
+        "Keel Infrastructure Stock Is Surging Monday: What's Driving The Move?",
+        "12 Information Technology Stocks Moving In Monday's Pre-Market Session"
+      ]
+    },
+    {
+      "symbol": "SMCI",
+      "price": 34.26,
+      "momentum_pct": 11.02,
+      "avg_dollar_vol": 79163608,
+      "max_day_jump_pct": 15.67,
+      "sector": "Technology",
+      "headlines": [
+        "Amdocs Advances aOS Network Workflows with Live, Multivendor AI-RAN Solution and Industry Blueprint",
+        "Supermicro Broadens AI at the Edge Solutions Portfolio with Intel-Powered Platforms Optimized for Low-Latency Inference and Industrial Deployments",
+        "Stock Futures Down as Tech Sell-Off Weighs on Sentiment",
+        "Super Micro-Backed AI Firm Bags $7.8 Billion Deals With Nvidia Chips in Demand",
+        "ValuEngine Weekly Market Summary And Commentary"
+      ]
+    },
+    {
+      "symbol": "SQQQ",
+      "price": 39.63,
+      "momentum_pct": 9.11,
+      "avg_dollar_vol": 40390263,
+      "max_day_jump_pct": 7.4,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "NVD",
+      "price": 5.09,
+      "momentum_pct": 9.11,
+      "avg_dollar_vol": 28194311,
+      "max_day_jump_pct": 5.6,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "AAL",
+      "price": 16.32,
+      "momentum_pct": 5.56,
+      "avg_dollar_vol": 46031758,
+      "max_day_jump_pct": 3.63,
+      "sector": "Airlines",
+      "headlines": [
+        "3 Unpopular Stocks We Steer Clear Of",
+        "These stocks are the most active in today's session",
+        "Airlines Gain on Pricing as 'Capacity Discipline' Becomes Key Into Summer, BofA Says",
+        "Jet Fuel Prices Are Crashing. These Airline Stocks Could Benefit Most",
+        "B of A Securities Maintains Neutral on American Airlines Group, Raises Price Target to $16"
+      ]
+    },
+    {
+      "symbol": "SOFI",
+      "price": 17.62,
+      "momentum_pct": 3.01,
+      "avg_dollar_vol": 34372271,
+      "max_day_jump_pct": 3.51,
+      "sector": "Financial Services",
+      "headlines": [
+        "What's Going On With SoFi Stock Monday?",
+        "Cramer Passes On NioCorp And SoundHound \u2014 But Says One Stock Is 'Time To Buy'"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "symbol": "KEEL",
+      "target_dollars": 50,
+      "rationale": "Strong momentum with clear catalyst: transition to HPC AI data center strategy and power advantages."
+    },
+    {
+      "symbol": "SMCI",
+      "target_dollars": 50,
+      "rationale": "Good momentum with news of broadening AI solutions and significant deals, despite broader tech sentiment."
+    }
+  ],
+  "rejected": [],
+  "orders": [
+    {
+      "symbol": "KEEL",
+      "shares": 7,
+      "entry_price": 6.64,
+      "stop_price": 6.44,
+      "take_profit_price": 7.3,
+      "notional": 46.48,
+      "sector": "Technology",
+      "rationale": "Strong momentum with clear catalyst: transition to HPC AI data center strategy and power advantages.",
+      "status": "submitted",
+      "order_id": "d3b2c1a5-e191-4220-932a-4e76de83038c"
+    },
+    {
+      "symbol": "SMCI",
+      "shares": 1,
+      "entry_price": 34.26,
+      "stop_price": 33.23,
+      "take_profit_price": 37.69,
+      "notional": 34.26,
+      "sector": "Technology",
+      "rationale": "Good momentum with news of broadening AI solutions and significant deals, despite broader tech sentiment.",
+      "status": "submitted",
+      "order_id": "84496fab-2938-4fe7-9fda-894988b65a91"
+    }
+  ],
+  "stops": [
+    {
+      "symbol": "AAL",
+      "qty": 2,
+      "stop_price": 15.43,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"2\",\"held_for_orders\":\"2\",\"message\":\"insufficient qty available for order (requested: 2, available: 0)\",\"related_orders\":[\"80dee227-2865-4dd4-939c-fe1a6699ffbb\"],\"symbol\":\"AAL\"}"
+    }
+  ],
+  "written_at": "2026-06-23T16:13:18.029884+00:00"
+}
