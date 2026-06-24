@@ -1,0 +1,83 @@
+{
+  "day": "2026-06-24",
+  "equity": 99997.48,
+  "candidates": [
+    {
+      "symbol": "PLTD",
+      "price": 9.07,
+      "momentum_pct": 16.36,
+      "avg_dollar_vol": 26022724,
+      "max_day_jump_pct": 7.11,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "AAL",
+      "price": 17.2,
+      "momentum_pct": 11.25,
+      "avg_dollar_vol": 46970590,
+      "max_day_jump_pct": 6.66,
+      "sector": "Airlines",
+      "headlines": [
+        "Stock Market Today, June 23: American Airlines Rallies After Jet-Fuel Price Drop Spurs Technical Breakout",
+        "US Airlines Seen Setting Q3 Profit Guidance Above Consensus, UBS Says",
+        "Tuesday's session: most active stocks",
+        "Cheaper Jet Fuel, Golden Cross And A Breakout: Is American Airlines Stock Ready For Takeoff?",
+        "American Airlines To Offer Premium Seats At Its Retrofitted Airbus A319, A320"
+      ]
+    },
+    {
+      "symbol": "NVD",
+      "price": 5.18,
+      "momentum_pct": 11.04,
+      "avg_dollar_vol": 31740541,
+      "max_day_jump_pct": 8.3,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "SQQQ",
+      "price": 39.41,
+      "momentum_pct": 8.51,
+      "avg_dollar_vol": 41111699,
+      "max_day_jump_pct": 9.99,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "KEEL",
+      "price": 6.09,
+      "momentum_pct": 7.69,
+      "avg_dollar_vol": 8567924,
+      "max_day_jump_pct": 6.06,
+      "sector": "Technology",
+      "headlines": [
+        "Keel Infrastructure Corp. (KEEL) Discusses Transition From Bitcoin Mining to HPC AI Data Center Strategy and Power Advantages Transcript",
+        "Apogee Therapeutics, Definium Therapeutics, Baldwin Insurance And Other Big Stocks Moving Higher On Monday",
+        "Keel's AI Jackpot: One Lease Away From Repricing The Stock",
+        "Keel Infrastructure Stock Is Surging Monday: What's Driving The Move?",
+        "12 Information Technology Stocks Moving In Monday's Pre-Market Session"
+      ]
+    },
+    {
+      "symbol": "SOFI",
+      "price": 18.0,
+      "momentum_pct": 5.17,
+      "avg_dollar_vol": 36208507,
+      "max_day_jump_pct": 4.08,
+      "sector": "Financial Services",
+      "headlines": [
+        "SoFi: Market Still Misunderstanding Its Flywheel",
+        "The SoFi Story Most Investors Miss",
+        "10 Financials Stocks Whale Activity In Today\u2019s Session",
+        "SoFi Stock Edges Higher Despite Market Dip: What's Going On?",
+        "What's Going On With SoFi Stock Monday?"
+      ]
+    }
+  ],
+  "decisions": [],
+  "orders": [],
+  "stops": [],
+  "note": "agent_unavailable: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+  "written_at": "2026-06-24T15:57:29.243443+00:00"
+}

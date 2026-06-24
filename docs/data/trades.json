@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T16:13:18.314997+00:00",
+  "updated_at": "2026-06-24T15:57:29.547520+00:00",
   "fills": [
     {
       "t": "2026-06-08T18:25:43.162492+00:00",
@@ -117,6 +117,51 @@
       "price": 35.52,
       "value": 35.52,
       "order_id": "1fd611bb-d7c9-497e-9bb4-b1f47cadf023"
+    },
+    {
+      "t": "2026-06-23T16:13:18.377858+00:00",
+      "symbol": "SMCI",
+      "side": "buy",
+      "qty": 1.0,
+      "price": 34.25,
+      "value": 34.25,
+      "order_id": "84496fab-2938-4fe7-9fda-894988b65a91"
+    },
+    {
+      "t": "2026-06-23T16:13:20.628957+00:00",
+      "symbol": "KEEL",
+      "side": "buy",
+      "qty": 7.0,
+      "price": 6.64,
+      "value": 46.48,
+      "order_id": "d3b2c1a5-e191-4220-932a-4e76de83038c"
+    },
+    {
+      "t": "2026-06-23T17:59:41.839391+00:00",
+      "symbol": "SMCI",
+      "side": "sell",
+      "qty": 1.0,
+      "price": 33.22,
+      "value": 33.22,
+      "order_id": "1023f8e6-66bb-4564-b2e0-7fc0c9622d2c"
+    },
+    {
+      "t": "2026-06-24T13:36:29.379253+00:00",
+      "symbol": "KEEL",
+      "side": "sell",
+      "qty": 7.0,
+      "price": 6.4257,
+      "value": 44.98,
+      "order_id": "3f371a23-5172-484b-91b6-0cfc54e51862"
+    },
+    {
+      "t": "2026-06-24T14:23:34.326970+00:00",
+      "symbol": "AAL",
+      "side": "sell",
+      "qty": 2.0,
+      "price": 17.04,
+      "value": 34.08,
+      "order_id": "80dee227-2865-4dd4-939c-fe1a6699ffbb"
     }
   ],
   "closed": [
@@ -185,18 +230,51 @@
       "pl": -1.12,
       "pl_pct": -3.06,
       "sector": "Technology"
-    }
-  ],
-  "open": [
+    },
+    {
+      "symbol": "SMCI",
+      "qty": 1.0,
+      "entry_time": "2026-06-23T16:13:18.377858+00:00",
+      "entry_price": 34.25,
+      "exit_time": "2026-06-23T17:59:41.839391+00:00",
+      "exit_price": 33.22,
+      "pl": -1.03,
+      "pl_pct": -3.01,
+      "sector": "Technology"
+    },
+    {
+      "symbol": "KEEL",
+      "qty": 7.0,
+      "entry_time": "2026-06-23T16:13:20.628957+00:00",
+      "entry_price": 6.64,
+      "exit_time": "2026-06-24T13:36:29.379253+00:00",
+      "exit_price": 6.4257,
+      "pl": -1.5,
+      "pl_pct": -3.23,
+      "sector": "Technology"
+    },
     {
       "symbol": "AAL",
-      "qty": 2.0,
-      "entry_price": 15.715,
-      "current_price": 16.3201,
-      "market_value": 32.64,
-      "unrealized_pl": 1.21,
-      "unrealized_plpc": 3.85,
+      "qty": 1.0,
+      "entry_time": "2026-06-15T18:20:24.028996+00:00",
+      "entry_price": 15.51,
+      "exit_time": "2026-06-24T14:23:34.326970+00:00",
+      "exit_price": 17.04,
+      "pl": 1.53,
+      "pl_pct": 9.86,
+      "sector": "Airlines"
+    },
+    {
+      "symbol": "AAL",
+      "qty": 1.0,
+      "entry_time": "2026-06-16T18:19:26.683137+00:00",
+      "entry_price": 15.92,
+      "exit_time": "2026-06-24T14:23:34.326970+00:00",
+      "exit_price": 17.04,
+      "pl": 1.12,
+      "pl_pct": 7.04,
       "sector": "Airlines"
     }
-  ]
+  ],
+  "open": []
 }
