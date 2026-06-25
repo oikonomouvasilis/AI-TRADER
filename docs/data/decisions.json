@@ -1,6 +1,141 @@
 {
-  "updated_at": "2026-06-24T15:57:29.686904+00:00",
+  "updated_at": "2026-06-25T16:07:38.827997+00:00",
   "days": [
+    {
+      "day": "2026-06-25",
+      "equity": 99997.46,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "BTCZ",
+          "price": 6.51,
+          "momentum_pct": 20.78,
+          "avg_dollar_vol": 11011031,
+          "max_day_jump_pct": 8.09,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "KUST",
+          "price": 1.65,
+          "momentum_pct": 13.79,
+          "avg_dollar_vol": 127485,
+          "max_day_jump_pct": 17.86,
+          "sector": "Electrical Equipment",
+          "headlines": [
+            "These stocks are gapping in today's session",
+            "Which stocks are moving before the opening bell on Thursday?",
+            "Dow Surges 250 Points; Micron Posts Upbeat Q3 Earnings",
+            "12 Information Technology Stocks Moving In Thursday's Pre-Market Session",
+            "Kustom Entertainment Inks Agreement To Divest Its Video Solutions Division To Cycurion For $5.5M"
+          ]
+        },
+        {
+          "symbol": "AAL",
+          "price": 17.68,
+          "momentum_pct": 12.61,
+          "avg_dollar_vol": 46704306,
+          "max_day_jump_pct": 8.09,
+          "sector": "Airlines",
+          "headlines": [
+            "This High-Yield Bond Investor Favors High-Quality Issuers, Like United, American Airlines",
+            "Why Is American Airlines (AAL) Stock Soaring Today",
+            "US Equity Markets Mixed as Crude Oil Prices, Government Bond Yields Fall",
+            "AAL, UAL, ALK, JBLU And Other Airline Stocks Are Flying Higher Today \u2014 Crude Prices Fall To Multi-Week Lows",
+            "Which stocks are most active on Wednesday?"
+          ]
+        },
+        {
+          "symbol": "BB",
+          "price": 10.32,
+          "momentum_pct": 12.47,
+          "avg_dollar_vol": 13886364,
+          "max_day_jump_pct": 19.78,
+          "sector": "Technology",
+          "headlines": [
+            "Acuity Posts Strong Q3 Results, Joins BlackBerry, MillerKnoll, Qualcomm And Other Big Stocks Moving Higher On Thursday",
+            "Earnings Scheduled For June 25, 2026",
+            "BlackBerry Stock Rallies As Analyst Sees More Upside: What Investors Need To Know",
+            "This Take-Two Interactive Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Wednesday",
+            "Stifel Initiates Coverage On BlackBerry with Buy Rating, Announces Price Target of $12"
+          ]
+        },
+        {
+          "symbol": "NVD",
+          "price": 5.43,
+          "momentum_pct": 11.04,
+          "avg_dollar_vol": 34600320,
+          "max_day_jump_pct": 8.3,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "SQQQ",
+          "price": 39.49,
+          "momentum_pct": 3.03,
+          "avg_dollar_vol": 45879779,
+          "max_day_jump_pct": 9.99,
+          "sector": "Unknown",
+          "headlines": []
+        }
+      ],
+      "decisions": [
+        {
+          "symbol": "KUST",
+          "target_dollars": 49.5,
+          "rationale": "Strong momentum with clear news catalyst: divestment agreement for $5.5M. Good value play."
+        },
+        {
+          "symbol": "AAL",
+          "target_dollars": 49.5,
+          "rationale": "Airline sector momentum driven by falling crude prices. Credible news support."
+        },
+        {
+          "symbol": "BB",
+          "target_dollars": 49.5,
+          "rationale": "Analyst upgrade with a 'Buy' rating and price target provides a strong catalyst."
+        }
+      ],
+      "rejected": [],
+      "orders": [
+        {
+          "symbol": "KUST",
+          "shares": 30,
+          "entry_price": 1.65,
+          "stop_price": 1.6,
+          "take_profit_price": 1.81,
+          "notional": 49.5,
+          "sector": "Electrical Equipment",
+          "rationale": "Strong momentum with clear news catalyst: divestment agreement for $5.5M. Good value play.",
+          "status": "submitted",
+          "order_id": "1dee988c-613c-40eb-96c4-0894298cee5f"
+        },
+        {
+          "symbol": "AAL",
+          "shares": 2,
+          "entry_price": 17.68,
+          "stop_price": 17.15,
+          "take_profit_price": 19.45,
+          "notional": 35.36,
+          "sector": "Airlines",
+          "rationale": "Airline sector momentum driven by falling crude prices. Credible news support.",
+          "status": "submitted",
+          "order_id": "f0857136-0da7-4a4c-beaf-b661a756ab37"
+        },
+        {
+          "symbol": "BB",
+          "shares": 1,
+          "entry_price": 10.32,
+          "stop_price": 10.01,
+          "take_profit_price": 11.35,
+          "notional": 10.32,
+          "sector": "Technology",
+          "rationale": "Analyst upgrade with a 'Buy' rating and price target provides a strong catalyst.",
+          "status": "submitted",
+          "order_id": "2cae647a-7d23-4640-9690-d6fc664565eb"
+        }
+      ]
+    },
     {
       "day": "2026-06-24",
       "equity": 99997.48,
