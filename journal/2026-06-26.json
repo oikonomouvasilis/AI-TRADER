@@ -1,0 +1,77 @@
+{
+  "day": "2026-06-26",
+  "equity": 99994.24,
+  "candidates": [
+    {
+      "symbol": "BB",
+      "price": 11.22,
+      "momentum_pct": 26.92,
+      "avg_dollar_vol": 15319929,
+      "max_day_jump_pct": 19.78,
+      "sector": "Technology",
+      "headlines": [
+        "Apogee Enterprises Posts Strong Q1 Earnings, Joins ACADIA Pharmaceuticals, Crocs And Other Big Stocks Moving Higher On Friday",
+        "BlackBerry Limited 2027 Q1 - Results - Earnings Call Presentation",
+        "BlackBerry Limited (BB:CA) Q1 2027 Earnings Call Transcript",
+        "12 Information Technology Stocks Moving In Thursday's Intraday Session",
+        "BlackBerry Limited (BB:CA) Shareholder/Analyst Call Transcript"
+      ]
+    },
+    {
+      "symbol": "AAL",
+      "price": 17.82,
+      "momentum_pct": 15.6,
+      "avg_dollar_vol": 48064289,
+      "max_day_jump_pct": 8.09,
+      "sector": "Airlines",
+      "headlines": [
+        "United Is About To Join American Airlines In An Exclusive Bullish Club Linked To Elon Musk",
+        "Why Did MU, AAL, AMAT Stocks Surge To 52-Week Highs?",
+        "Thursday's session: most active stocks",
+        "Evercore ISI Group Maintains In-Line on American Airlines Group, Raises Price Target to $17",
+        "This High-Yield Bond Investor Favors High-Quality Issuers, Like United, American Airlines"
+      ]
+    },
+    {
+      "symbol": "NVD",
+      "price": 5.55,
+      "momentum_pct": 10.56,
+      "avg_dollar_vol": 39155042,
+      "max_day_jump_pct": 8.3,
+      "sector": "Unknown",
+      "headlines": []
+    }
+  ],
+  "decisions": [
+    {
+      "symbol": "BB",
+      "target_dollars": 50,
+      "rationale": "Strong Q1 earnings and positive analyst call sentiment. Good momentum with clear catalyst."
+    }
+  ],
+  "rejected": [],
+  "orders": [
+    {
+      "symbol": "BB",
+      "shares": 4,
+      "entry_price": 11.22,
+      "stop_price": 10.88,
+      "take_profit_price": 12.34,
+      "notional": 44.88,
+      "sector": "Technology",
+      "rationale": "Strong Q1 earnings and positive analyst call sentiment. Good momentum with clear catalyst.",
+      "status": "submitted",
+      "order_id": "edbc33fd-feb9-494c-bfdb-447e27aa90ab"
+    }
+  ],
+  "stops": [
+    {
+      "symbol": "AAL",
+      "qty": 2,
+      "stop_price": 17.15,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"2\",\"held_for_orders\":\"2\",\"message\":\"insufficient qty available for order (requested: 2, available: 0)\",\"related_orders\":[\"598239cb-a9c9-40f9-9373-1ed33ae0839c\"],\"symbol\":\"AAL\"}"
+    }
+  ],
+  "written_at": "2026-06-26T15:57:37.514591+00:00"
+}
