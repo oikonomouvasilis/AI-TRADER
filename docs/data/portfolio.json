@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-26T15:57:37.642177+00:00",
+  "updated_at": "2026-06-29T16:46:30.579030+00:00",
   "account": {
-    "equity": 99994.25,
-    "cash": 99958.5,
-    "buying_power": 399753.74,
-    "long_market_value": 35.75,
-    "last_equity": 99993.67
+    "equity": 99997.89,
+    "cash": 99913.4,
+    "buying_power": 399728.54,
+    "long_market_value": 84.49,
+    "last_equity": 99994.74
   },
   "curve": [
     {
@@ -103,6 +103,12 @@
       "equity": 99993.67,
       "pl": -3.79,
       "pl_pct": 0.0
+    },
+    {
+      "t": "2026-06-27",
+      "equity": 99994.74,
+      "pl": 1.07,
+      "pl_pct": 0.0
     }
   ],
   "base_value": 100000.0,
@@ -111,27 +117,42 @@
       "symbol": "AAL",
       "qty": 2.0,
       "entry_price": 17.66,
-      "current_price": 17.875,
-      "market_value": 35.75,
-      "unrealized_pl": 0.43,
-      "unrealized_plpc": 1.22,
+      "current_price": 17.795,
+      "market_value": 35.59,
+      "unrealized_pl": 0.27,
+      "unrealized_plpc": 0.76,
       "sector": "Airlines"
+    },
+    {
+      "symbol": "BB",
+      "qty": 4.0,
+      "entry_price": 11.27,
+      "current_price": 12.225,
+      "market_value": 48.9,
+      "unrealized_pl": 3.82,
+      "unrealized_plpc": 8.47,
+      "sector": "Technology"
     }
   ],
   "sector_allocation": [
     {
+      "sector": "Technology",
+      "market_value": 48.9,
+      "pct": 57.9
+    },
+    {
       "sector": "Airlines",
-      "market_value": 35.75,
-      "pct": 100.0
+      "market_value": 35.59,
+      "pct": 42.1
     }
   ],
   "kpis": {
-    "equity": 99994.25,
-    "total_pl": -5.6,
-    "total_pl_pct": -0.01,
+    "equity": 99997.89,
+    "total_pl": -1.94,
+    "total_pl_pct": -0.0,
     "realized_pl": -6.03,
-    "unrealized_pl": 0.43,
-    "open_positions": 1,
+    "unrealized_pl": 4.09,
+    "open_positions": 2,
     "num_closed_trades": 12,
     "win_rate": 25.0
   }

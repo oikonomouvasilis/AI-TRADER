@@ -1,6 +1,122 @@
 {
-  "updated_at": "2026-06-26T15:57:37.643143+00:00",
+  "updated_at": "2026-06-29T16:46:30.580217+00:00",
   "days": [
+    {
+      "day": "2026-06-29",
+      "equity": 99997.93,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "NVD",
+          "price": 5.6,
+          "momentum_pct": 16.18,
+          "avg_dollar_vol": 46390288,
+          "max_day_jump_pct": 8.3,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "BTCZ",
+          "price": 6.43,
+          "momentum_pct": 15.23,
+          "avg_dollar_vol": 12640443,
+          "max_day_jump_pct": 8.09,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "AAL",
+          "price": 17.79,
+          "momentum_pct": 10.71,
+          "avg_dollar_vol": 48890782,
+          "max_day_jump_pct": 8.09,
+          "sector": "Airlines",
+          "headlines": [
+            "Bask Bank Offers FDIC-Insured Accounts with Cash Interest or AAdvantage Miles",
+            "Airline Stocks Spent 6 Years Below Covid Highs: Hormuz Snapped That Trend In Two Months",
+            "American Airlines (AAL) Gains 8% Over 30 Days, Can it Move Higher?",
+            "BofA Raises PT on American Airlines (AAL) \u2013 Here\u2019s Why"
+          ]
+        },
+        {
+          "symbol": "CMCSA",
+          "price": 24.68,
+          "momentum_pct": 10.62,
+          "avg_dollar_vol": 63531168,
+          "max_day_jump_pct": 6.66,
+          "sector": "Telecommunication",
+          "headlines": [
+            "Verizon falls 7%, AT&T hits 52-week low as SpaceX and cable rivals converge",
+            "Comcast to separate NBCUniversal and Sky in tax-free spinoff, shares rise",
+            "Top Midday Stories: Comcast Plans to Separate Into Two Publicly Traded Companies; Rocket Lab to Acquire Iridium in $8 Billion Deal",
+            "Sky\u2019s US owner to spin off media business ahead of ITV takeover",
+            "Comcast Sets Company Split. Is More M&A Coming? Telecom Stocks Fall."
+          ]
+        },
+        {
+          "symbol": "SQQQ",
+          "price": 38.77,
+          "momentum_pct": 5.07,
+          "avg_dollar_vol": 49332666,
+          "max_day_jump_pct": 9.99,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "SOFI",
+          "price": 17.86,
+          "momentum_pct": 4.47,
+          "avg_dollar_vol": 31741530,
+          "max_day_jump_pct": 3.3,
+          "sector": "Financial Services",
+          "headlines": []
+        },
+        {
+          "symbol": "OPEN",
+          "price": 4.44,
+          "momentum_pct": 3.5,
+          "avg_dollar_vol": 4449389,
+          "max_day_jump_pct": 2.07,
+          "sector": "Real Estate",
+          "headlines": []
+        }
+      ],
+      "decisions": [
+        {
+          "symbol": "AAL",
+          "target_dollars": 35,
+          "rationale": "Strong momentum with positive analyst sentiment and sector tailwinds. Good value play."
+        },
+        {
+          "symbol": "CMCSA",
+          "target_dollars": 49,
+          "rationale": "Positive news on company split and potential M&A, driving momentum. Good value."
+        }
+      ],
+      "rejected": [
+        {
+          "symbol": "AAL",
+          "target_dollars": 35,
+          "rationale": "Strong momentum with positive analyst sentiment and sector tailwinds. Good value play.",
+          "reason": "no room within limits",
+          "price": 17.79
+        }
+      ],
+      "orders": [
+        {
+          "symbol": "CMCSA",
+          "shares": 1,
+          "entry_price": 24.68,
+          "stop_price": 23.94,
+          "take_profit_price": 27.15,
+          "notional": 24.68,
+          "sector": "Telecommunication",
+          "rationale": "Positive news on company split and potential M&A, driving momentum. Good value.",
+          "status": "submitted",
+          "order_id": "17bd8734-8400-4da7-9e2c-177b161ca86b"
+        }
+      ]
+    },
     {
       "day": "2026-06-26",
       "equity": 99994.24,

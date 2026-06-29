@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T15:57:37.612249+00:00",
+  "updated_at": "2026-06-29T16:46:30.400394+00:00",
   "fills": [
     {
       "t": "2026-06-08T18:25:43.162492+00:00",
@@ -207,6 +207,15 @@
       "price": 10.31,
       "value": 10.31,
       "order_id": "d38a968c-e22b-4a40-87ac-a8bbe279bb3b"
+    },
+    {
+      "t": "2026-06-26T15:57:39.582479+00:00",
+      "symbol": "BB",
+      "side": "buy",
+      "qty": 4.0,
+      "price": 11.27,
+      "value": 45.08,
+      "order_id": "edbc33fd-feb9-494c-bfdb-447e27aa90ab"
     }
   ],
   "closed": [
@@ -348,11 +357,21 @@
       "symbol": "AAL",
       "qty": 2.0,
       "entry_price": 17.66,
-      "current_price": 17.875,
-      "market_value": 35.75,
-      "unrealized_pl": 0.43,
-      "unrealized_plpc": 1.22,
+      "current_price": 17.795,
+      "market_value": 35.59,
+      "unrealized_pl": 0.27,
+      "unrealized_plpc": 0.76,
       "sector": "Airlines"
+    },
+    {
+      "symbol": "BB",
+      "qty": 4.0,
+      "entry_price": 11.27,
+      "current_price": 12.225,
+      "market_value": 48.9,
+      "unrealized_pl": 3.82,
+      "unrealized_plpc": 8.47,
+      "sector": "Technology"
     }
   ]
 }
