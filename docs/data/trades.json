@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T16:46:30.400394+00:00",
+  "updated_at": "2026-06-30T16:10:25.355455+00:00",
   "fills": [
     {
       "t": "2026-06-08T18:25:43.162492+00:00",
@@ -216,6 +216,24 @@
       "price": 11.27,
       "value": 45.08,
       "order_id": "edbc33fd-feb9-494c-bfdb-447e27aa90ab"
+    },
+    {
+      "t": "2026-06-29T16:46:30.960897+00:00",
+      "symbol": "CMCSA",
+      "side": "buy",
+      "qty": 1.0,
+      "price": 24.7,
+      "value": 24.7,
+      "order_id": "17bd8734-8400-4da7-9e2c-177b161ca86b"
+    },
+    {
+      "t": "2026-06-29T17:05:09.055430+00:00",
+      "symbol": "BB",
+      "side": "sell",
+      "qty": 4.0,
+      "price": 12.34,
+      "value": 49.36,
+      "order_id": "7b5974d3-1947-40b1-bc9d-82fef4c47e3d"
     }
   ],
   "closed": [
@@ -350,6 +368,17 @@
       "pl": -0.02,
       "pl_pct": -0.19,
       "sector": "Technology"
+    },
+    {
+      "symbol": "BB",
+      "qty": 4.0,
+      "entry_time": "2026-06-26T15:57:39.582479+00:00",
+      "entry_price": 11.27,
+      "exit_time": "2026-06-29T17:05:09.055430+00:00",
+      "exit_price": 12.34,
+      "pl": 4.28,
+      "pl_pct": 9.49,
+      "sector": "Technology"
     }
   ],
   "open": [
@@ -357,21 +386,21 @@
       "symbol": "AAL",
       "qty": 2.0,
       "entry_price": 17.66,
-      "current_price": 17.795,
-      "market_value": 35.59,
-      "unrealized_pl": 0.27,
-      "unrealized_plpc": 0.76,
+      "current_price": 18.075,
+      "market_value": 36.15,
+      "unrealized_pl": 0.83,
+      "unrealized_plpc": 2.35,
       "sector": "Airlines"
     },
     {
-      "symbol": "BB",
-      "qty": 4.0,
-      "entry_price": 11.27,
-      "current_price": 12.225,
-      "market_value": 48.9,
-      "unrealized_pl": 3.82,
-      "unrealized_plpc": 8.47,
-      "sector": "Technology"
+      "symbol": "CMCSA",
+      "qty": 1.0,
+      "entry_price": 24.7,
+      "current_price": 24.48,
+      "market_value": 24.48,
+      "unrealized_pl": -0.22,
+      "unrealized_plpc": -0.89,
+      "sector": "Telecommunication"
     }
   ]
 }

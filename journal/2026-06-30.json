@@ -1,0 +1,115 @@
+{
+  "day": "2026-06-30",
+  "equity": 99998.69,
+  "candidates": [
+    {
+      "symbol": "AAL",
+      "price": 18.08,
+      "momentum_pct": 12.54,
+      "avg_dollar_vol": 45622334,
+      "max_day_jump_pct": 8.09,
+      "sector": "Airlines",
+      "headlines": [
+        "Most active stocks in Monday's session",
+        "Major Banks Poised for Strong Quarterly Results, Outlook, Deutsche Bank Says",
+        "Bask Bank Offers FDIC-Insured Accounts with Cash Interest or AAdvantage Miles",
+        "Airline Stocks Spent 6 Years Below Covid Highs: Hormuz Snapped That Trend In Two Months",
+        "Benzinga's 'Stock Whisper' Index: 5 Stocks Investors Secretly Monitor But Don't Talk About Yet"
+      ]
+    },
+    {
+      "symbol": "NVD",
+      "price": 5.3,
+      "momentum_pct": 9.96,
+      "avg_dollar_vol": 45055739,
+      "max_day_jump_pct": 8.3,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "CMCSA",
+      "price": 24.48,
+      "momentum_pct": 9.75,
+      "avg_dollar_vol": 69584556,
+      "max_day_jump_pct": 4.54,
+      "sector": "Telecommunication",
+      "headlines": [
+        "Comcast's NBCU split makes Wall Street's math easier",
+        "Media Thumbs Down: Big, Diverse Communications, Content Mergers Are Over",
+        "Stay updated with the S&P500 stocks that are on the move in today's pre-market session.",
+        "Comcast upgraded by Rosenblatt, Deutsche Bank after NBCUniversal spinoff plan",
+        "Comcast Just Split Itself Up: These 5 Conglomerates Could Be Next"
+      ]
+    },
+    {
+      "symbol": "OPEN",
+      "price": 4.66,
+      "momentum_pct": 8.51,
+      "avg_dollar_vol": 4979022,
+      "max_day_jump_pct": 5.98,
+      "sector": "Real Estate",
+      "headlines": []
+    },
+    {
+      "symbol": "SOFI",
+      "price": 17.86,
+      "momentum_pct": 4.47,
+      "avg_dollar_vol": 30622991,
+      "max_day_jump_pct": 3.3,
+      "sector": "Financial Services",
+      "headlines": [
+        "Robinhood Launches Trump Accounts App Ahead Of July 4 Rollout",
+        "Trump Accounts Could Land An Unexpected Boost As SpaceX Reportedly Weighs Stock Donation",
+        "SoFi Technologies: Expanding Margins And The Moat Fuel Strong Upside"
+      ]
+    },
+    {
+      "symbol": "TSLL",
+      "price": 13.95,
+      "momentum_pct": 3.72,
+      "avg_dollar_vol": 13773333,
+      "max_day_jump_pct": 17.13,
+      "sector": "Unknown",
+      "headlines": []
+    }
+  ],
+  "decisions": [
+    {
+      "symbol": "CMCSA",
+      "target_dollars": 50,
+      "rationale": "Strong momentum with clear catalyst from NBCU split and analyst upgrades. Good volume."
+    }
+  ],
+  "rejected": [],
+  "orders": [
+    {
+      "symbol": "CMCSA",
+      "shares": 1,
+      "entry_price": 24.48,
+      "stop_price": 23.75,
+      "take_profit_price": 26.93,
+      "notional": 24.48,
+      "sector": "Telecommunication",
+      "rationale": "Strong momentum with clear catalyst from NBCU split and analyst upgrades. Good volume.",
+      "status": "submitted",
+      "order_id": "aec6a6b3-cb94-44aa-94c7-d4b8f2d206ed"
+    }
+  ],
+  "stops": [
+    {
+      "symbol": "AAL",
+      "qty": 2,
+      "stop_price": 17.15,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"2\",\"held_for_orders\":\"2\",\"message\":\"insufficient qty available for order (requested: 2, available: 0)\",\"related_orders\":[\"598239cb-a9c9-40f9-9373-1ed33ae0839c\"],\"symbol\":\"AAL\"}"
+    },
+    {
+      "symbol": "CMCSA",
+      "qty": 1,
+      "stop_price": 23.94,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"1\",\"held_for_orders\":\"1\",\"message\":\"insufficient qty available for order (requested: 1, available: 0)\",\"related_orders\":[\"7070d7ae-039e-4397-9006-58c90e65a82a\"],\"symbol\":\"CMCSA\"}"
+    }
+  ],
+  "written_at": "2026-06-30T16:10:24.157757+00:00"
+}

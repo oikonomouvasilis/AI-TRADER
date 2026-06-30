@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-29T16:46:30.579030+00:00",
+  "updated_at": "2026-06-30T16:10:25.551540+00:00",
   "account": {
-    "equity": 99997.89,
-    "cash": 99913.4,
-    "buying_power": 399728.54,
-    "long_market_value": 84.49,
-    "last_equity": 99994.74
+    "equity": 99998.67,
+    "cash": 99938.04,
+    "buying_power": 399897.42,
+    "long_market_value": 60.63,
+    "last_equity": 99998.1
   },
   "curve": [
     {
@@ -109,6 +109,12 @@
       "equity": 99994.74,
       "pl": 1.07,
       "pl_pct": 0.0
+    },
+    {
+      "t": "2026-06-30",
+      "equity": 99998.1,
+      "pl": 3.36,
+      "pl_pct": 0.0
     }
   ],
   "base_value": 100000.0,
@@ -117,43 +123,43 @@
       "symbol": "AAL",
       "qty": 2.0,
       "entry_price": 17.66,
-      "current_price": 17.795,
-      "market_value": 35.59,
-      "unrealized_pl": 0.27,
-      "unrealized_plpc": 0.76,
+      "current_price": 18.075,
+      "market_value": 36.15,
+      "unrealized_pl": 0.83,
+      "unrealized_plpc": 2.35,
       "sector": "Airlines"
     },
     {
-      "symbol": "BB",
-      "qty": 4.0,
-      "entry_price": 11.27,
-      "current_price": 12.225,
-      "market_value": 48.9,
-      "unrealized_pl": 3.82,
-      "unrealized_plpc": 8.47,
-      "sector": "Technology"
+      "symbol": "CMCSA",
+      "qty": 1.0,
+      "entry_price": 24.7,
+      "current_price": 24.48,
+      "market_value": 24.48,
+      "unrealized_pl": -0.22,
+      "unrealized_plpc": -0.89,
+      "sector": "Telecommunication"
     }
   ],
   "sector_allocation": [
     {
-      "sector": "Technology",
-      "market_value": 48.9,
-      "pct": 57.9
+      "sector": "Airlines",
+      "market_value": 36.15,
+      "pct": 59.6
     },
     {
-      "sector": "Airlines",
-      "market_value": 35.59,
-      "pct": 42.1
+      "sector": "Telecommunication",
+      "market_value": 24.48,
+      "pct": 40.4
     }
   ],
   "kpis": {
-    "equity": 99997.89,
-    "total_pl": -1.94,
+    "equity": 99998.67,
+    "total_pl": -1.14,
     "total_pl_pct": -0.0,
-    "realized_pl": -6.03,
-    "unrealized_pl": 4.09,
+    "realized_pl": -1.75,
+    "unrealized_pl": 0.61,
     "open_positions": 2,
-    "num_closed_trades": 12,
-    "win_rate": 25.0
+    "num_closed_trades": 13,
+    "win_rate": 30.8
   }
 }
