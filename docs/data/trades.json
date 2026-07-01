@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T16:10:25.355455+00:00",
+  "updated_at": "2026-07-01T16:09:21.777119+00:00",
   "fills": [
     {
       "t": "2026-06-08T18:25:43.162492+00:00",
@@ -234,6 +234,24 @@
       "price": 12.34,
       "value": 49.36,
       "order_id": "7b5974d3-1947-40b1-bc9d-82fef4c47e3d"
+    },
+    {
+      "t": "2026-06-30T16:10:25.695720+00:00",
+      "symbol": "CMCSA",
+      "side": "buy",
+      "qty": 1.0,
+      "price": 24.49,
+      "value": 24.49,
+      "order_id": "aec6a6b3-cb94-44aa-94c7-d4b8f2d206ed"
+    },
+    {
+      "t": "2026-07-01T13:42:31.222571+00:00",
+      "symbol": "CMCSA",
+      "side": "sell",
+      "qty": 1.0,
+      "price": 23.94,
+      "value": 23.94,
+      "order_id": "16207f7f-ee61-4657-bcd8-612bbb9c38e1"
     }
   ],
   "closed": [
@@ -379,6 +397,17 @@
       "pl": 4.28,
       "pl_pct": 9.49,
       "sector": "Technology"
+    },
+    {
+      "symbol": "CMCSA",
+      "qty": 1.0,
+      "entry_time": "2026-06-29T16:46:30.960897+00:00",
+      "entry_price": 24.7,
+      "exit_time": "2026-07-01T13:42:31.222571+00:00",
+      "exit_price": 23.94,
+      "pl": -0.76,
+      "pl_pct": -3.08,
+      "sector": "Telecommunication"
     }
   ],
   "open": [
@@ -386,20 +415,20 @@
       "symbol": "AAL",
       "qty": 2.0,
       "entry_price": 17.66,
-      "current_price": 18.075,
-      "market_value": 36.15,
-      "unrealized_pl": 0.83,
-      "unrealized_plpc": 2.35,
+      "current_price": 18.245,
+      "market_value": 36.49,
+      "unrealized_pl": 1.17,
+      "unrealized_plpc": 3.31,
       "sector": "Airlines"
     },
     {
       "symbol": "CMCSA",
       "qty": 1.0,
-      "entry_price": 24.7,
-      "current_price": 24.48,
-      "market_value": 24.48,
-      "unrealized_pl": -0.22,
-      "unrealized_plpc": -0.89,
+      "entry_price": 24.595,
+      "current_price": 24.16,
+      "market_value": 24.16,
+      "unrealized_pl": -0.43,
+      "unrealized_plpc": -1.77,
       "sector": "Telecommunication"
     }
   ]

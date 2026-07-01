@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-30T16:10:25.551540+00:00",
+  "updated_at": "2026-07-01T16:09:21.914456+00:00",
   "account": {
-    "equity": 99998.67,
-    "cash": 99938.04,
-    "buying_power": 399897.42,
-    "long_market_value": 60.63,
-    "last_equity": 99998.1
+    "equity": 99998.13,
+    "cash": 99937.48,
+    "buying_power": 399882.65,
+    "long_market_value": 60.65,
+    "last_equity": 99998.78
   },
   "curve": [
     {
@@ -115,6 +115,12 @@
       "equity": 99998.1,
       "pl": 3.36,
       "pl_pct": 0.0
+    },
+    {
+      "t": "2026-07-01",
+      "equity": 99998.78,
+      "pl": 0.68,
+      "pl_pct": 0.0
     }
   ],
   "base_value": 100000.0,
@@ -123,43 +129,43 @@
       "symbol": "AAL",
       "qty": 2.0,
       "entry_price": 17.66,
-      "current_price": 18.075,
-      "market_value": 36.15,
-      "unrealized_pl": 0.83,
-      "unrealized_plpc": 2.35,
+      "current_price": 18.245,
+      "market_value": 36.49,
+      "unrealized_pl": 1.17,
+      "unrealized_plpc": 3.31,
       "sector": "Airlines"
     },
     {
       "symbol": "CMCSA",
       "qty": 1.0,
-      "entry_price": 24.7,
-      "current_price": 24.48,
-      "market_value": 24.48,
-      "unrealized_pl": -0.22,
-      "unrealized_plpc": -0.89,
+      "entry_price": 24.595,
+      "current_price": 24.16,
+      "market_value": 24.16,
+      "unrealized_pl": -0.43,
+      "unrealized_plpc": -1.77,
       "sector": "Telecommunication"
     }
   ],
   "sector_allocation": [
     {
       "sector": "Airlines",
-      "market_value": 36.15,
-      "pct": 59.6
+      "market_value": 36.49,
+      "pct": 60.2
     },
     {
       "sector": "Telecommunication",
-      "market_value": 24.48,
-      "pct": 40.4
+      "market_value": 24.16,
+      "pct": 39.8
     }
   ],
   "kpis": {
-    "equity": 99998.67,
-    "total_pl": -1.14,
+    "equity": 99998.13,
+    "total_pl": -1.77,
     "total_pl_pct": -0.0,
-    "realized_pl": -1.75,
-    "unrealized_pl": 0.61,
+    "realized_pl": -2.51,
+    "unrealized_pl": 0.74,
     "open_positions": 2,
-    "num_closed_trades": 13,
-    "win_rate": 30.8
+    "num_closed_trades": 14,
+    "win_rate": 28.6
   }
 }

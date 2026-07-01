@@ -1,6 +1,96 @@
 {
-  "updated_at": "2026-06-30T16:10:25.552553+00:00",
+  "updated_at": "2026-07-01T16:09:21.914978+00:00",
   "days": [
+    {
+      "day": "2026-07-01",
+      "equity": 99998.13,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "OPEN",
+          "price": 5.07,
+          "momentum_pct": 18.07,
+          "avg_dollar_vol": 5859216,
+          "max_day_jump_pct": 9.63,
+          "sector": "Real Estate",
+          "headlines": []
+        },
+        {
+          "symbol": "AAL",
+          "price": 18.23,
+          "momentum_pct": 13.48,
+          "avg_dollar_vol": 46264810,
+          "max_day_jump_pct": 8.09,
+          "sector": "Airlines",
+          "headlines": [
+            "FAA Moves to Bring Civilian Supersonic Flights Back Over US, Sean Duffy Hails Move as Step Toward 'Golden Age of Travel'",
+            "Curious about the most active stocks on Tuesday?",
+            "Wells Fargo Maintains Equal-Weight on American Airlines Group, Raises Price Target to $17",
+            "Most active stocks in Monday's session",
+            "Major Banks Poised for Strong Quarterly Results, Outlook, Deutsche Bank Says"
+          ]
+        },
+        {
+          "symbol": "TSLL",
+          "price": 14.68,
+          "momentum_pct": 9.14,
+          "avg_dollar_vol": 15110304,
+          "max_day_jump_pct": 17.13,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "SOFI",
+          "price": 18.54,
+          "momentum_pct": 8.42,
+          "avg_dollar_vol": 31215260,
+          "max_day_jump_pct": 3.4,
+          "sector": "Financial Services",
+          "headlines": [
+            "Why SoFi Looks Mispriced Again",
+            "Elon Musk's X Money \u2014 New Details On Bank Killer Super App",
+            "Robinhood Launches Trump Accounts App Ahead Of July 4 Rollout",
+            "Trump Accounts Could Land An Unexpected Boost As SpaceX Reportedly Weighs Stock Donation",
+            "SoFi Technologies: Expanding Margins And The Moat Fuel Strong Upside"
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "symbol": "AAL",
+          "target_dollars": 50,
+          "rationale": "Strong momentum with positive news from FAA and a price target raise from Wells Fargo."
+        },
+        {
+          "symbol": "SOFI",
+          "target_dollars": 50,
+          "rationale": "Solid momentum supported by positive analyst sentiment and expanding margins."
+        }
+      ],
+      "rejected": [
+        {
+          "symbol": "AAL",
+          "target_dollars": 50,
+          "rationale": "Strong momentum with positive news from FAA and a price target raise from Wells Fargo.",
+          "reason": "no room within limits",
+          "price": 18.23
+        }
+      ],
+      "orders": [
+        {
+          "symbol": "SOFI",
+          "shares": 2,
+          "entry_price": 18.54,
+          "stop_price": 17.98,
+          "take_profit_price": 20.39,
+          "notional": 37.08,
+          "sector": "Financial Services",
+          "rationale": "Solid momentum supported by positive analyst sentiment and expanding margins.",
+          "status": "submitted",
+          "order_id": "d1af8241-965e-47dd-8918-6f9efcb4f012"
+        }
+      ]
+    },
     {
       "day": "2026-06-30",
       "equity": 99998.69,
