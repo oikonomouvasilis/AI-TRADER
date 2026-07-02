@@ -1,6 +1,113 @@
 {
-  "updated_at": "2026-07-01T16:09:21.914978+00:00",
+  "updated_at": "2026-07-02T15:54:44.044728+00:00",
   "days": [
+    {
+      "day": "2026-07-02",
+      "equity": 99995.97,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "BB",
+          "price": 11.67,
+          "momentum_pct": 32.16,
+          "avg_dollar_vol": 19588402,
+          "max_day_jump_pct": 19.78,
+          "sector": "Technology",
+          "headlines": [
+            "BlackBerry Stock Hits 52-Week Highs: What Investors Need to Know",
+            "BlackBerry: Too Far Too Fast (Rating Downgrade)",
+            "BlackBerry (BB) Price Target Increased by 112.08% to 7.01"
+          ]
+        },
+        {
+          "symbol": "RIVN",
+          "price": 18.95,
+          "momentum_pct": 27.18,
+          "avg_dollar_vol": 22173100,
+          "max_day_jump_pct": 10.43,
+          "sector": "Automobiles",
+          "headlines": [
+            "EV Company News For The Month Of June 2026",
+            "California vs. Elon Musk: Tesla Snubbed as New EV Incentives Boost Rivian, Lucid",
+            "10 Consumer Discretionary Stocks With Whale Alerts In Today\u2019s Session"
+          ]
+        },
+        {
+          "symbol": "AAL",
+          "price": 17.93,
+          "momentum_pct": 11.19,
+          "avg_dollar_vol": 47018662,
+          "max_day_jump_pct": 8.09,
+          "sector": "Airlines",
+          "headlines": [
+            "2 Cash-Producing Stocks with Competitive Advantages and 1 That Underwhelm",
+            "Why Did PANW, AAL, MRNA Surge To 52-Week Highs?",
+            "Check out the stocks that are attracting the most attention and driving market activity.",
+            "Higher Airfares Are Sticking After Spring Price Hikes, Analyst Says",
+            "Bernstein Maintains Market Outperform on American Airlines Group, Raises Price Target to $23"
+          ]
+        },
+        {
+          "symbol": "SOXS",
+          "price": 4.38,
+          "momentum_pct": 8.15,
+          "avg_dollar_vol": 107656586,
+          "max_day_jump_pct": 19.29,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "TSLL",
+          "price": 12.72,
+          "momentum_pct": 7.8,
+          "avg_dollar_vol": 15487420,
+          "max_day_jump_pct": 17.13,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "NVD",
+          "price": 5.52,
+          "momentum_pct": 5.75,
+          "avg_dollar_vol": 47253696,
+          "max_day_jump_pct": 4.12,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "SOFI",
+          "price": 18.13,
+          "momentum_pct": 4.86,
+          "avg_dollar_vol": 32881271,
+          "max_day_jump_pct": 3.3,
+          "sector": "Financial Services",
+          "headlines": [
+            "Lemonade shares are trading higher after the company reported better-than-expected Q1 financial results and raised its FY26 sales guidance above estimates.",
+            "What's Going on With SoFi Technologies Stock Wednesday?",
+            "Why SoFi Looks Mispriced Again",
+            "Micron Joins Dell, SoFi and JPMorgan in Backing Trump Accounts Ahead of the Program's July 4 Nationwide Rollout",
+            "Elon Musk's X Money \u2014 New Details On Bank Killer Super App"
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "symbol": "AAL",
+          "target_dollars": 50,
+          "rationale": "Strong analyst upgrade and positive news on airfares sticking. Good momentum with clear catalyst."
+        }
+      ],
+      "rejected": [
+        {
+          "symbol": "AAL",
+          "target_dollars": 50,
+          "rationale": "Strong analyst upgrade and positive news on airfares sticking. Good momentum with clear catalyst.",
+          "reason": "no room within limits",
+          "price": 17.93
+        }
+      ],
+      "orders": []
+    },
     {
       "day": "2026-07-01",
       "equity": 99998.13,

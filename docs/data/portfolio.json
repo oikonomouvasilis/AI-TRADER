@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-01T16:09:21.914456+00:00",
+  "updated_at": "2026-07-02T15:54:44.042600+00:00",
   "account": {
-    "equity": 99998.13,
-    "cash": 99937.48,
-    "buying_power": 399882.65,
-    "long_market_value": 60.65,
-    "last_equity": 99998.78
+    "equity": 99995.96,
+    "cash": 99960.07,
+    "buying_power": 399940.77,
+    "long_market_value": 35.89,
+    "last_equity": 99997.31
   },
   "curve": [
     {
@@ -121,6 +121,12 @@
       "equity": 99998.78,
       "pl": 0.68,
       "pl_pct": 0.0
+    },
+    {
+      "t": "2026-07-02",
+      "equity": 99997.31,
+      "pl": -1.47,
+      "pl_pct": 0.0
     }
   ],
   "base_value": 100000.0,
@@ -129,43 +135,28 @@
       "symbol": "AAL",
       "qty": 2.0,
       "entry_price": 17.66,
-      "current_price": 18.245,
-      "market_value": 36.49,
-      "unrealized_pl": 1.17,
-      "unrealized_plpc": 3.31,
+      "current_price": 17.945,
+      "market_value": 35.89,
+      "unrealized_pl": 0.57,
+      "unrealized_plpc": 1.61,
       "sector": "Airlines"
-    },
-    {
-      "symbol": "CMCSA",
-      "qty": 1.0,
-      "entry_price": 24.595,
-      "current_price": 24.16,
-      "market_value": 24.16,
-      "unrealized_pl": -0.43,
-      "unrealized_plpc": -1.77,
-      "sector": "Telecommunication"
     }
   ],
   "sector_allocation": [
     {
       "sector": "Airlines",
-      "market_value": 36.49,
-      "pct": 60.2
-    },
-    {
-      "sector": "Telecommunication",
-      "market_value": 24.16,
-      "pct": 39.8
+      "market_value": 35.89,
+      "pct": 100.0
     }
   ],
   "kpis": {
-    "equity": 99998.13,
-    "total_pl": -1.77,
+    "equity": 99995.96,
+    "total_pl": -3.82,
     "total_pl_pct": -0.0,
-    "realized_pl": -2.51,
-    "unrealized_pl": 0.74,
-    "open_positions": 2,
-    "num_closed_trades": 14,
-    "win_rate": 28.6
+    "realized_pl": -4.39,
+    "unrealized_pl": 0.57,
+    "open_positions": 1,
+    "num_closed_trades": 16,
+    "win_rate": 25.0
   }
 }
