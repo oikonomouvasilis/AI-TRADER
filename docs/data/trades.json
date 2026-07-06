@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T15:54:44.006319+00:00",
+  "updated_at": "2026-07-06T16:42:28.286348+00:00",
   "fills": [
     {
       "t": "2026-06-08T18:25:43.162492+00:00",
@@ -464,10 +464,10 @@
       "symbol": "AAL",
       "qty": 2.0,
       "entry_price": 17.66,
-      "current_price": 17.945,
-      "market_value": 35.89,
-      "unrealized_pl": 0.57,
-      "unrealized_plpc": 1.61,
+      "current_price": 17.875,
+      "market_value": 35.75,
+      "unrealized_pl": 0.43,
+      "unrealized_plpc": 1.22,
       "sector": "Airlines"
     }
   ]
