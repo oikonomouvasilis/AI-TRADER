@@ -1,6 +1,83 @@
 {
-  "updated_at": "2026-07-06T16:42:28.330247+00:00",
+  "updated_at": "2026-07-07T16:07:02.081531+00:00",
   "days": [
+    {
+      "day": "2026-07-07",
+      "equity": 99923.99,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "SOXS",
+          "price": 4.86,
+          "momentum_pct": 30.69,
+          "avg_dollar_vol": 91255101,
+          "max_day_jump_pct": 19.29,
+          "sector": "Unknown",
+          "headlines": [
+            "SOXS Could Be A Great Hedge For Semiconductor Positions, But Only With The Right Strategy",
+            "SK Hynix ETF Race Heats Up As Direxion Files 2X Leveraged Fund"
+          ]
+        },
+        {
+          "symbol": "MSTU",
+          "price": 2.12,
+          "momentum_pct": 14.91,
+          "avg_dollar_vol": 8390944,
+          "max_day_jump_pct": 15.95,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "OPEN",
+          "price": 5.03,
+          "momentum_pct": 9.11,
+          "avg_dollar_vol": 10826277,
+          "max_day_jump_pct": 6.82,
+          "sector": "Real Estate",
+          "headlines": [
+            "These stocks are making the most noise in today's session."
+          ]
+        },
+        {
+          "symbol": "BITO",
+          "price": 8.67,
+          "momentum_pct": 5.8,
+          "avg_dollar_vol": 217209022,
+          "max_day_jump_pct": 3.54,
+          "sector": "Unknown",
+          "headlines": [
+            "Bitcoin: One More Flush Before The Bottom"
+          ]
+        },
+        {
+          "symbol": "SQQQ",
+          "price": 40.35,
+          "momentum_pct": 5.68,
+          "avg_dollar_vol": 47622455,
+          "max_day_jump_pct": 5.3,
+          "sector": "Unknown",
+          "headlines": [
+            "ValuEngine Weekly Market Summary And Commentary"
+          ]
+        },
+        {
+          "symbol": "NU",
+          "price": 13.74,
+          "momentum_pct": 4.68,
+          "avg_dollar_vol": 44257582,
+          "max_day_jump_pct": 3.23,
+          "sector": "Banking",
+          "headlines": [
+            "Nu Holdings: The Growth Runway Is Huge, The Risks Are Real",
+            "Nu Holdings: Soaring NII Growth, Profitable And Cheap",
+            "Nu Holdings: Cheap For No Good Reason"
+          ]
+        }
+      ],
+      "decisions": [],
+      "rejected": [],
+      "orders": []
+    },
     {
       "day": "2026-07-06",
       "equity": 99995.8,
