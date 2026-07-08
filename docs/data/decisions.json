@@ -1,6 +1,59 @@
 {
-  "updated_at": "2026-07-07T16:07:02.081531+00:00",
+  "updated_at": "2026-07-08T15:52:43.741690+00:00",
   "days": [
+    {
+      "day": "2026-07-08",
+      "equity": 99993.22,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "SOXS",
+          "price": 4.91,
+          "momentum_pct": 32.17,
+          "avg_dollar_vol": 95249871,
+          "max_day_jump_pct": 19.29,
+          "sector": "Unknown",
+          "headlines": [
+            "SOXS Could Be A Great Hedge For Semiconductor Positions, But Only With The Right Strategy",
+            "SK Hynix ETF Race Heats Up As Direxion Files 2X Leveraged Fund"
+          ]
+        },
+        {
+          "symbol": "SQQQ",
+          "price": 41.68,
+          "momentum_pct": 9.17,
+          "avg_dollar_vol": 47420198,
+          "max_day_jump_pct": 5.38,
+          "sector": "Unknown",
+          "headlines": [
+            "ValuEngine Weekly Market Summary And Commentary"
+          ]
+        },
+        {
+          "symbol": "TZA",
+          "price": 4.18,
+          "momentum_pct": 8.57,
+          "avg_dollar_vol": 87442935,
+          "max_day_jump_pct": 5.29,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "KWEB",
+          "price": 26.36,
+          "momentum_pct": 8.5,
+          "avg_dollar_vol": 37339015,
+          "max_day_jump_pct": 3.35,
+          "sector": "Unknown",
+          "headlines": [
+            "Emerging Markets Show Greater War Resilience To Outpace Advanced Economies"
+          ]
+        }
+      ],
+      "decisions": [],
+      "rejected": [],
+      "orders": []
+    },
     {
       "day": "2026-07-07",
       "equity": 99923.99,
