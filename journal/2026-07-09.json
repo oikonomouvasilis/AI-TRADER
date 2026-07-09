@@ -1,0 +1,87 @@
+{
+  "day": "2026-07-09",
+  "equity": 99993.2,
+  "candidates": [
+    {
+      "symbol": "SOXS",
+      "price": 3.82,
+      "momentum_pct": 17.9,
+      "avg_dollar_vol": 93513157,
+      "max_day_jump_pct": 19.29,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "MSTU",
+      "price": 1.91,
+      "momentum_pct": 17.59,
+      "avg_dollar_vol": 7091897,
+      "max_day_jump_pct": 15.95,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "OPEN",
+      "price": 5.27,
+      "momentum_pct": 14.07,
+      "avg_dollar_vol": 11470519,
+      "max_day_jump_pct": 10.02,
+      "sector": "Real Estate",
+      "headlines": [
+        "Watching Opendoor Technologies; J Capital Research Issues Report On Co"
+      ]
+    },
+    {
+      "symbol": "BITO",
+      "price": 8.52,
+      "momentum_pct": 6.83,
+      "avg_dollar_vol": 244598180,
+      "max_day_jump_pct": 3.54,
+      "sector": "Unknown",
+      "headlines": [
+        "Strategy: A Good Pivot To Get Through The Bitcoin Winter",
+        "Bitcoin Sentiment Is Dire"
+      ]
+    },
+    {
+      "symbol": "SQQQ",
+      "price": 38.27,
+      "momentum_pct": 5.43,
+      "avg_dollar_vol": 45771374,
+      "max_day_jump_pct": 5.38,
+      "sector": "Unknown",
+      "headlines": [
+        "ValuEngine Weekly Market Summary And Commentary"
+      ]
+    },
+    {
+      "symbol": "TZA",
+      "price": 3.93,
+      "momentum_pct": 3.42,
+      "avg_dollar_vol": 86485371,
+      "max_day_jump_pct": 3.12,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "RIVN",
+      "price": 17.89,
+      "momentum_pct": 3.14,
+      "avg_dollar_vol": 46754840,
+      "max_day_jump_pct": 8.51,
+      "sector": "Automobiles",
+      "headlines": [
+        "BNP Paribas Maintains Outperform on Rivian Automotive, Raises Price Target to $24",
+        "Stock Of The Day: Where Will The Rivian Selloff End?",
+        "Rivian Stock Slips as Fresh Cash Comes With Dilution Concern",
+        "Samsung's Blowout Quarter Triggers a Chip Rout, Then Iran Reignites Overnight",
+        "Nasdaq Dips Over 300 Points as Chip Stocks Fall: Investor Sentiment Weakens, Greed Index In 'Fear' Zone"
+      ]
+    }
+  ],
+  "decisions": [],
+  "rejected": [],
+  "orders": [],
+  "stops": [],
+  "written_at": "2026-07-09T16:13:34.943822+00:00"
+}

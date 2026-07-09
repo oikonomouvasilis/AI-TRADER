@@ -1,19 +1,13 @@
 {
-  "updated_at": "2026-07-08T15:52:43.740353+00:00",
+  "updated_at": "2026-07-09T16:13:35.181083+00:00",
   "account": {
-    "equity": 99993.22,
-    "cash": 99993.22,
-    "buying_power": 399972.88,
+    "equity": 99993.2,
+    "cash": 99993.2,
+    "buying_power": 399972.8,
     "long_market_value": 0.0,
-    "last_equity": 99994.41
+    "last_equity": 99993.2
   },
   "curve": [
-    {
-      "t": "2026-06-09",
-      "equity": 99999.57,
-      "pl": -0.43,
-      "pl_pct": 0.0
-    },
     {
       "t": "2026-06-10",
       "equity": 99999.42,
@@ -127,13 +121,19 @@
       "equity": 99994.41,
       "pl": -1.19,
       "pl_pct": 0.0
+    },
+    {
+      "t": "2026-07-09",
+      "equity": 99993.2,
+      "pl": -1.21,
+      "pl_pct": 0.0
     }
   ],
-  "base_value": 99999.57,
+  "base_value": 99999.42,
   "positions": [],
   "sector_allocation": [],
   "kpis": {
-    "equity": 99993.22,
+    "equity": 99993.2,
     "total_pl": -6.51,
     "total_pl_pct": -0.01,
     "realized_pl": -6.51,
