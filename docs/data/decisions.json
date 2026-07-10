@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-07-09T16:13:35.183475+00:00",
+  "updated_at": "2026-07-10T16:01:05.039077+00:00",
   "days": [
+    {
+      "day": "2026-07-10",
+      "equity": 99993.2,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "BITO",
+          "price": 8.68,
+          "momentum_pct": 6.63,
+          "avg_dollar_vol": 270840550,
+          "max_day_jump_pct": 3.54,
+          "sector": "Unknown",
+          "headlines": [
+            "Beyond ETFs: How Derivatives And Tokenization Are Reshaping Crypto",
+            "Strategy: A Good Pivot To Get Through The Bitcoin Winter",
+            "Bitcoin Sentiment Is Dire"
+          ]
+        },
+        {
+          "symbol": "SOXS",
+          "price": 4.12,
+          "momentum_pct": 6.6,
+          "avg_dollar_vol": 94446530,
+          "max_day_jump_pct": 16.69,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "TZA",
+          "price": 4.01,
+          "momentum_pct": 4.43,
+          "avg_dollar_vol": 84508540,
+          "max_day_jump_pct": 3.12,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "NU",
+          "price": 13.79,
+          "momentum_pct": 3.26,
+          "avg_dollar_vol": 41200639,
+          "max_day_jump_pct": 3.23,
+          "sector": "Banking",
+          "headlines": [
+            "Thursday's session: most active stocks"
+          ]
+        }
+      ],
+      "decisions": [],
+      "rejected": [],
+      "orders": []
+    },
     {
       "day": "2026-07-09",
       "equity": 99993.2,
