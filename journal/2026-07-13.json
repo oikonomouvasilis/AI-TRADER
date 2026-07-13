@@ -1,0 +1,29 @@
+{
+  "day": "2026-07-13",
+  "equity": 99993.2,
+  "candidates": [
+    {
+      "symbol": "SOXS",
+      "price": 4.56,
+      "momentum_pct": 9.35,
+      "avg_dollar_vol": 88257200,
+      "max_day_jump_pct": 15.47,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "TZA",
+      "price": 4.06,
+      "momentum_pct": 5.45,
+      "avg_dollar_vol": 77644946,
+      "max_day_jump_pct": 3.12,
+      "sector": "Unknown",
+      "headlines": []
+    }
+  ],
+  "decisions": [],
+  "rejected": [],
+  "orders": [],
+  "stops": [],
+  "written_at": "2026-07-13T16:09:00.844203+00:00"
+}
