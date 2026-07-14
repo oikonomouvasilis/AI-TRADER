@@ -1,0 +1,74 @@
+{
+  "day": "2026-07-14",
+  "equity": 99993.2,
+  "candidates": [
+    {
+      "symbol": "VMAR",
+      "price": 1.56,
+      "momentum_pct": 6.85,
+      "avg_dollar_vol": 138390,
+      "max_day_jump_pct": 11.43,
+      "sector": "Leisure Products",
+      "headlines": [
+        "Top movers in Tuesday's pre-market session",
+        "Why Vision Marine Technologies Shares Are Trading Higher By Over 60%; Here Are 20 Stocks Moving Premarket",
+        "Which stocks are experiencing notable movement on Monday?"
+      ]
+    },
+    {
+      "symbol": "ETHA",
+      "price": 14.18,
+      "momentum_pct": 4.84,
+      "avg_dollar_vol": 12586432,
+      "max_day_jump_pct": 5.94,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "BMNR",
+      "price": 16.27,
+      "momentum_pct": 4.7,
+      "avg_dollar_vol": 14706129,
+      "max_day_jump_pct": 11.32,
+      "sector": "Technology",
+      "headlines": [
+        "There are notable gap-ups and gap-downs in today's session.",
+        "Bitmine Adds $50M in ETH as Robinhood Unlocks 27 Million Users: What Is Happening?",
+        "Bitcoin, Ethereum, XRP, Dogecoin Consolidate as US-Iran Tensions Escalate: Analyst Says People Will Be 'Surprised' by Upcoming Bull Cycle"
+      ]
+    },
+    {
+      "symbol": "TZA",
+      "price": 4.02,
+      "momentum_pct": 4.42,
+      "avg_dollar_vol": 77417691,
+      "max_day_jump_pct": 3.12,
+      "sector": "Unknown",
+      "headlines": []
+    }
+  ],
+  "decisions": [
+    {
+      "symbol": "BMNR",
+      "target_dollars": 50,
+      "rationale": "Strong momentum with a clear catalyst: Bitmine adding $50M in ETH and Robinhood news."
+    }
+  ],
+  "rejected": [],
+  "orders": [
+    {
+      "symbol": "BMNR",
+      "shares": 3,
+      "entry_price": 16.27,
+      "stop_price": 15.78,
+      "take_profit_price": 17.9,
+      "notional": 48.81,
+      "sector": "Technology",
+      "rationale": "Strong momentum with a clear catalyst: Bitmine adding $50M in ETH and Robinhood news.",
+      "status": "submitted",
+      "order_id": "efff5ac5-c87b-4096-8191-a7ed24fd0f8f"
+    }
+  ],
+  "stops": [],
+  "written_at": "2026-07-14T15:09:58.424277+00:00"
+}
