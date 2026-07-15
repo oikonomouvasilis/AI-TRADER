@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T15:09:58.562903+00:00",
+  "updated_at": "2026-07-15T15:09:55.205484+00:00",
   "fills": [
     {
       "t": "2026-06-08T18:25:43.162492+00:00",
@@ -306,6 +306,15 @@
       "price": 34.96,
       "value": 34.96,
       "order_id": "69eb3c36-45cb-4416-aa01-950b20fe7307"
+    },
+    {
+      "t": "2026-07-14T15:09:59.308566+00:00",
+      "symbol": "BMNR",
+      "side": "buy",
+      "qty": 3.0,
+      "price": 16.28,
+      "value": 48.84,
+      "order_id": "efff5ac5-c87b-4096-8191-a7ed24fd0f8f"
     }
   ],
   "closed": [
@@ -508,5 +517,16 @@
       "sector": "Unknown"
     }
   ],
-  "open": []
+  "open": [
+    {
+      "symbol": "BMNR",
+      "qty": 3.0,
+      "entry_price": 16.28,
+      "current_price": 16.375,
+      "market_value": 49.12,
+      "unrealized_pl": 0.28,
+      "unrealized_plpc": 0.58,
+      "sector": "Technology"
+    }
+  ]
 }

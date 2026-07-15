@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-07-14T15:09:58.604368+00:00",
+  "updated_at": "2026-07-15T15:09:55.254319+00:00",
   "days": [
+    {
+      "day": "2026-07-15",
+      "equity": 99993.48,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "AMC",
+          "price": 2.04,
+          "momentum_pct": 16.62,
+          "avg_dollar_vol": 2547553,
+          "max_day_jump_pct": 11.05,
+          "sector": "Media",
+          "headlines": [
+            "Why Is BlackBerry Stock Surging on Tuesday?",
+            "Why Is AMC Entertainment Stock Surging on Tuesday?",
+            "Jim Cramer Warns Retail Investors: AMC\u2019s Turnaround Play Was Ruined by a 'Heinous' Balance Sheet"
+          ]
+        },
+        {
+          "symbol": "DAMD",
+          "price": 1.63,
+          "momentum_pct": 9.4,
+          "avg_dollar_vol": 3127778,
+          "max_day_jump_pct": 16.78,
+          "sector": "Unknown",
+          "headlines": []
+        }
+      ],
+      "decisions": [],
+      "rejected": [],
+      "orders": []
+    },
     {
       "day": "2026-07-14",
       "equity": 99993.2,

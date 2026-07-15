@@ -1,0 +1,41 @@
+{
+  "day": "2026-07-15",
+  "equity": 99993.48,
+  "candidates": [
+    {
+      "symbol": "AMC",
+      "price": 2.04,
+      "momentum_pct": 16.62,
+      "avg_dollar_vol": 2547553,
+      "max_day_jump_pct": 11.05,
+      "sector": "Media",
+      "headlines": [
+        "Why Is BlackBerry Stock Surging on Tuesday?",
+        "Why Is AMC Entertainment Stock Surging on Tuesday?",
+        "Jim Cramer Warns Retail Investors: AMC\u2019s Turnaround Play Was Ruined by a 'Heinous' Balance Sheet"
+      ]
+    },
+    {
+      "symbol": "DAMD",
+      "price": 1.63,
+      "momentum_pct": 9.4,
+      "avg_dollar_vol": 3127778,
+      "max_day_jump_pct": 16.78,
+      "sector": "Unknown",
+      "headlines": []
+    }
+  ],
+  "decisions": [],
+  "rejected": [],
+  "orders": [],
+  "stops": [
+    {
+      "symbol": "BMNR",
+      "qty": 3,
+      "stop_price": 15.78,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"3\",\"held_for_orders\":\"3\",\"message\":\"insufficient qty available for order (requested: 3, available: 0)\",\"related_orders\":[\"9b4d704b-8656-4d45-9347-febbcc9dc3b2\"],\"symbol\":\"BMNR\"}"
+    }
+  ],
+  "written_at": "2026-07-15T15:09:55.068767+00:00"
+}
