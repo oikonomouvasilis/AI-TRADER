@@ -1,0 +1,43 @@
+{
+  "day": "2026-07-16",
+  "equity": 99991.7,
+  "candidates": [
+    {
+      "symbol": "AMC",
+      "price": 1.98,
+      "momentum_pct": 15.12,
+      "avg_dollar_vol": 2535814,
+      "max_day_jump_pct": 11.05,
+      "sector": "Media",
+      "headlines": [
+        "AMC Stock in the Spotlight: A Roundup of Earnings, Analyst, Technical Signals",
+        "Why Is BlackBerry Stock Surging on Tuesday?",
+        "Why Is AMC Entertainment Stock Surging on Tuesday?"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "symbol": "AMC",
+      "target_dollars": 50,
+      "rationale": "Strong momentum with clear news catalyst. Good volume and within sector limits."
+    }
+  ],
+  "rejected": [],
+  "orders": [
+    {
+      "symbol": "AMC",
+      "shares": 25,
+      "entry_price": 1.98,
+      "stop_price": 1.92,
+      "take_profit_price": 2.18,
+      "notional": 49.5,
+      "sector": "Media",
+      "rationale": "Strong momentum with clear news catalyst. Good volume and within sector limits.",
+      "status": "submitted",
+      "order_id": "707dca3b-d9c2-4278-8652-7361fd756eee"
+    }
+  ],
+  "stops": [],
+  "written_at": "2026-07-16T15:19:37.683215+00:00"
+}
