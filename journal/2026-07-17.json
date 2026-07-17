@@ -1,0 +1,78 @@
+{
+  "day": "2026-07-17",
+  "equity": 99990.19,
+  "candidates": [
+    {
+      "symbol": "DAMD",
+      "price": 1.85,
+      "momentum_pct": 8.82,
+      "avg_dollar_vol": 3744254,
+      "max_day_jump_pct": 11.32,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "SQQQ",
+      "price": 42.93,
+      "momentum_pct": 7.08,
+      "avg_dollar_vol": 48523369,
+      "max_day_jump_pct": 5.69,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "PATH",
+      "price": 12.08,
+      "momentum_pct": 5.96,
+      "avg_dollar_vol": 19584854,
+      "max_day_jump_pct": 3.55,
+      "sector": "Technology",
+      "headlines": [
+        "PATH Stock Down 38%: Genuine Bargain or Value Trap?",
+        "UiPath (PATH) Could Be 10% Undervalued After The Very Group Contract",
+        "Did UiPath's First GAAP Profit and AI Retail Win Just Shift Its (PATH) Investment Narrative?",
+        "Has UiPath (PATH) Fallen Below Fair Value After Its AI Contract?",
+        "Most active stocks in Wednesday's session"
+      ]
+    },
+    {
+      "symbol": "T",
+      "price": 22.3,
+      "momentum_pct": 5.86,
+      "avg_dollar_vol": 53338501,
+      "max_day_jump_pct": 2.66,
+      "sector": "Telecommunication",
+      "headlines": [
+        "3 Stocks Under $50 with Open Questions",
+        "1 Value Stock to Keep an Eye On and 2 We Find Risky",
+        "I Can't Imagine Retiring On Dividends Without These 3 Investments",
+        "Explore the S&P500 index on Thursday and find out which stocks are the most active in today's session.",
+        "AST SpaceMobile Stock Fall Is About More Than SpaceX"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "symbol": "PATH",
+      "target_dollars": 50,
+      "rationale": "Strong momentum with positive news regarding AI contracts and first GAAP profit. Potential undervaluation."
+    }
+  ],
+  "rejected": [],
+  "orders": [
+    {
+      "symbol": "PATH",
+      "shares": 4,
+      "entry_price": 12.08,
+      "stop_price": 11.72,
+      "take_profit_price": 13.29,
+      "notional": 48.32,
+      "sector": "Technology",
+      "rationale": "Strong momentum with positive news regarding AI contracts and first GAAP profit. Potential undervaluation.",
+      "status": "submitted",
+      "order_id": "b1f897f1-4d6e-4711-a413-e54d69494efc"
+    }
+  ],
+  "stops": [],
+  "written_at": "2026-07-17T15:00:37.145141+00:00"
+}
