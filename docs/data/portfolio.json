@@ -1,25 +1,13 @@
 {
-  "updated_at": "2026-07-17T15:00:37.294185+00:00",
+  "updated_at": "2026-07-20T15:31:30.642080+00:00",
   "account": {
-    "equity": 99990.19,
-    "cash": 99990.19,
-    "buying_power": 399912.63,
+    "equity": 99988.94,
+    "cash": 99988.94,
+    "buying_power": 399770.92,
     "long_market_value": 0.0,
-    "last_equity": 99993.94
+    "last_equity": 99990.66
   },
   "curve": [
-    {
-      "t": "2026-06-18",
-      "equity": 99994.18,
-      "pl": -2.1,
-      "pl_pct": 0.0
-    },
-    {
-      "t": "2026-06-19",
-      "equity": 99996.91,
-      "pl": 2.73,
-      "pl_pct": 0.0
-    },
     {
       "t": "2026-06-23",
       "equity": 99998.11,
@@ -127,19 +115,25 @@
       "equity": 99993.94,
       "pl": 2.24,
       "pl_pct": 0.0
+    },
+    {
+      "t": "2026-07-18",
+      "equity": 99990.66,
+      "pl": -3.28,
+      "pl_pct": 0.0
     }
   ],
-  "base_value": 99994.18,
+  "base_value": 99998.11,
   "positions": [],
   "sector_allocation": [],
   "kpis": {
-    "equity": 99990.19,
-    "total_pl": -9.48,
-    "total_pl_pct": -0.0,
-    "realized_pl": -9.48,
+    "equity": 99988.94,
+    "total_pl": -10.71,
+    "total_pl_pct": -0.01,
+    "realized_pl": -10.71,
     "unrealized_pl": 0,
     "open_positions": 0,
-    "num_closed_trades": 20,
-    "win_rate": 20.0
+    "num_closed_trades": 21,
+    "win_rate": 19.0
   }
 }

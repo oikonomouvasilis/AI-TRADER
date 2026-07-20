@@ -1,6 +1,112 @@
 {
-  "updated_at": "2026-07-17T15:00:37.296680+00:00",
+  "updated_at": "2026-07-20T15:31:30.643401+00:00",
   "days": [
+    {
+      "day": "2026-07-20",
+      "equity": 99988.94,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "AMC",
+          "price": 2.29,
+          "momentum_pct": 22.4,
+          "avg_dollar_vol": 3531826,
+          "max_day_jump_pct": 18.91,
+          "sector": "Media",
+          "headlines": [
+            "These stocks are gapping in today's session",
+            "What's going on in today's pre-market session",
+            "AMC Entertainment (NYSE:AMC) Surges 14% on Q2 Earnings Beat and Historic Revenue",
+            "AMC Entertainment, IREN, Hut 8 And Other Big Stocks Moving Higher On Monday",
+            "Earnings Scheduled For July 20, 2026"
+          ]
+        },
+        {
+          "symbol": "MSTU",
+          "price": 1.99,
+          "momentum_pct": 12.43,
+          "avg_dollar_vol": 6194575,
+          "max_day_jump_pct": 12.43,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "ACHR",
+          "price": 5.04,
+          "momentum_pct": 10.88,
+          "avg_dollar_vol": 3669012,
+          "max_day_jump_pct": 13.12,
+          "sector": "Aerospace & Defense",
+          "headlines": [
+            "AMC Entertainment, IREN, Hut 8 And Other Big Stocks Moving Higher On Monday"
+          ]
+        },
+        {
+          "symbol": "DAMD",
+          "price": 1.68,
+          "momentum_pct": 7.01,
+          "avg_dollar_vol": 4516251,
+          "max_day_jump_pct": 11.32,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "BITO",
+          "price": 8.8,
+          "momentum_pct": 4.27,
+          "avg_dollar_vol": 447592347,
+          "max_day_jump_pct": 3.73,
+          "sector": "Unknown",
+          "headlines": [
+            "Whale's Insight: Bitcoin's CPI Rally Is Fake, Built On Borrowed Money",
+            "Weekly Commentary: Sloppy"
+          ]
+        },
+        {
+          "symbol": "SQQQ",
+          "price": 41.63,
+          "momentum_pct": 4.27,
+          "avg_dollar_vol": 53327487,
+          "max_day_jump_pct": 4.87,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "PATH",
+          "price": 12.22,
+          "momentum_pct": 3.04,
+          "avg_dollar_vol": 22997637,
+          "max_day_jump_pct": 0.84,
+          "sector": "Technology",
+          "headlines": [
+            "UiPath, Inc. (PATH) is Attracting Investor Attention: Here is What You Should Know",
+            "U.S. companies pouring swelling cash balances into growth plans - Morgan Stanley"
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "symbol": "AMC",
+          "target_dollars": 46,
+          "rationale": "Strong momentum with clear catalyst: Q2 earnings beat and historic revenue. Good liquidity."
+        }
+      ],
+      "rejected": [],
+      "orders": [
+        {
+          "symbol": "AMC",
+          "shares": 20,
+          "entry_price": 2.29,
+          "stop_price": 2.22,
+          "take_profit_price": 2.52,
+          "notional": 45.8,
+          "sector": "Media",
+          "rationale": "Strong momentum with clear catalyst: Q2 earnings beat and historic revenue. Good liquidity.",
+          "status": "submitted",
+          "order_id": "cb50f8eb-f135-4c4e-b590-7f77f2e58b1a"
+        }
+      ]
+    },
     {
       "day": "2026-07-17",
       "equity": 99990.19,
