@@ -1,6 +1,139 @@
 {
-  "updated_at": "2026-07-20T15:31:30.643401+00:00",
+  "updated_at": "2026-07-21T15:23:57.797874+00:00",
   "days": [
+    {
+      "day": "2026-07-21",
+      "equity": 99993.32,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "MSTU",
+          "price": 2.2,
+          "momentum_pct": 24.29,
+          "avg_dollar_vol": 8549040,
+          "max_day_jump_pct": 12.43,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "ACHR",
+          "price": 5.41,
+          "momentum_pct": 18.79,
+          "avg_dollar_vol": 5584032,
+          "max_day_jump_pct": 18.83,
+          "sector": "Aerospace & Defense",
+          "headlines": [
+            "Stock Market Today: Dow, S&P 500, Nasdaq 100 Futures Rise as Tech Stocks Lead the Rally\u2014Nebius, Archer, IREN in Focus (UPDATED)",
+            "Why Is Archer Aviation Stock Gaining Tuesday?",
+            "Cathie Wood's Ark Bets Big on Mark Zuckerberg, Elon Musk as It Loads Up on Meta and SpaceX \u2014 Trims AMD and Robinhood",
+            "AMC, IREN Ltd., Archer Aviation, Nebius Group and Alibaba: Why These 5 Stocks Are on Investors' Radars Today",
+            "These stocks are the most active in today's session"
+          ]
+        },
+        {
+          "symbol": "ONDS",
+          "price": 7.71,
+          "momentum_pct": 10.47,
+          "avg_dollar_vol": 14379084,
+          "max_day_jump_pct": 11.99,
+          "sector": "Communications",
+          "headlines": [
+            "These stocks are the most active in today's session",
+            "Ondas Stock Climbs After Landing $6.9M Australian Counter-Drone Deal",
+            "Ondas Receives $6.9M Order From The Australian Department Of Defence For Its DTIM Single Operator Counter-sUAS Kits",
+            "Comparative Study: Ondas And Industry Competitors In Communications Equipment Industry"
+          ]
+        },
+        {
+          "symbol": "IREN",
+          "price": 41.91,
+          "momentum_pct": 7.5,
+          "avg_dollar_vol": 67171862,
+          "max_day_jump_pct": 19.74,
+          "sector": "Technology",
+          "headlines": [
+            "AMD: Get Out While You Still Can",
+            "The Bears Are Wrong About IREN, Again",
+            "Stock Market Today: Dow, S&P 500, Nasdaq 100 Futures Rise as Tech Stocks Lead the Rally\u2014Nebius, Archer, IREN in Focus (UPDATED)",
+            "IREN Wasn't Waiting For Another Whale",
+            "Alger Spectra Fund Q2 2026 Portfolio Update"
+          ]
+        },
+        {
+          "symbol": "BITO",
+          "price": 9.05,
+          "momentum_pct": 7.23,
+          "avg_dollar_vol": 452276998,
+          "max_day_jump_pct": 3.73,
+          "sector": "Unknown",
+          "headlines": [
+            "VanEck Mid-July 2026 Bitcoin ChainCheck"
+          ]
+        },
+        {
+          "symbol": "IBIT",
+          "price": 37.77,
+          "momentum_pct": 7.19,
+          "avg_dollar_vol": 57114934,
+          "max_day_jump_pct": 3.79,
+          "sector": "Unknown",
+          "headlines": [
+            "What Happens When The Largest Bitcoin ETF Sells 100,000 BTC?"
+          ]
+        },
+        {
+          "symbol": "NU",
+          "price": 14.13,
+          "momentum_pct": 3.25,
+          "avg_dollar_vol": 46176455,
+          "max_day_jump_pct": 2.94,
+          "sector": "Banking",
+          "headlines": [
+            "These stocks are the most active in today's session",
+            "10 Financials Stocks Whale Activity In Today\u2019s Session"
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "symbol": "ACHR",
+          "target_dollars": 50,
+          "rationale": "Strong momentum with multiple positive headlines, including Cathie Wood's ARK bet. Good volume."
+        },
+        {
+          "symbol": "ONDS",
+          "target_dollars": 50,
+          "rationale": "Solid momentum supported by a significant $6.9M counter-drone deal from Australian DoD."
+        }
+      ],
+      "rejected": [],
+      "orders": [
+        {
+          "symbol": "ACHR",
+          "shares": 9,
+          "entry_price": 5.41,
+          "stop_price": 5.25,
+          "take_profit_price": 5.95,
+          "notional": 48.69,
+          "sector": "Aerospace & Defense",
+          "rationale": "Strong momentum with multiple positive headlines, including Cathie Wood's ARK bet. Good volume.",
+          "status": "submitted",
+          "order_id": "6203b76d-0a6a-4240-ba69-9a5bfdba6f68"
+        },
+        {
+          "symbol": "ONDS",
+          "shares": 6,
+          "entry_price": 7.71,
+          "stop_price": 7.48,
+          "take_profit_price": 8.48,
+          "notional": 46.26,
+          "sector": "Communications",
+          "rationale": "Solid momentum supported by a significant $6.9M counter-drone deal from Australian DoD.",
+          "status": "submitted",
+          "order_id": "c29326f6-b85e-46c1-9de7-5c6d3b1e2c9d"
+        }
+      ]
+    },
     {
       "day": "2026-07-20",
       "equity": 99988.94,
