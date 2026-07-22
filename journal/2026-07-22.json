@@ -1,0 +1,95 @@
+{
+  "day": "2026-07-22",
+  "equity": 99990.42,
+  "candidates": [
+    {
+      "symbol": "ONDS",
+      "price": 8.23,
+      "momentum_pct": 18.06,
+      "avg_dollar_vol": 15403148,
+      "max_day_jump_pct": 11.48,
+      "sector": "Communications",
+      "headlines": [
+        "Tuesday's session: most active stocks",
+        "Why Is Ondas Stock Surging on Tuesday?",
+        "Hasbro, Utz Brands, Park Aerospace And Other Big Stocks Moving Higher On Tuesday",
+        "Understanding Ondas's Position In Communications Equipment Industry Compared To Competitors",
+        "These stocks are the most active in today's session"
+      ]
+    },
+    {
+      "symbol": "MSTU",
+      "price": 2.04,
+      "momentum_pct": 15.25,
+      "avg_dollar_vol": 9499518,
+      "max_day_jump_pct": 12.43,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "IREN",
+      "price": 43.3,
+      "momentum_pct": 11.07,
+      "avg_dollar_vol": 71001597,
+      "max_day_jump_pct": 19.74,
+      "sector": "Technology",
+      "headlines": [
+        "HC Wainwright & Co. Maintains Buy on IREN, Raises Price Target to $90",
+        "Neoclouds Nebius, IREN Tap Massive Hyperscaler AI Capex \u2014 Compute Is The New Oil",
+        "AMD: Get Out While You Still Can",
+        "The Bears Are Wrong About IREN, Again",
+        "Stock Market Today: Dow, S&P 500, Nasdaq 100 Futures Rise as Tech Stocks Lead the Rally\u2014Nebius, Archer, IREN in Focus (UPDATED)"
+      ]
+    },
+    {
+      "symbol": "T",
+      "price": 22.93,
+      "momentum_pct": 6.31,
+      "avg_dollar_vol": 70883623,
+      "max_day_jump_pct": 2.94,
+      "sector": "Telecommunication",
+      "headlines": [
+        "AT&T Second-Quarter Earnings Top Views Amid Strength in Wireless Subscriber Addition",
+        "Does AT&T Stock Follow Its Own Path?",
+        "AT&T Earnings Beat, Revenue Light As Wireless Subscribers Top Estimates",
+        "AT&T CEO Says Elon Musk's Starlink 'Has To Catch Up' As Earnings Beat Eases Investor Concerns \u2013 T Stock Rises Premarket",
+        "Update: US Equity Futures Drop Pre-Bell as Oil Prices Jump Amid Lack of Progress in US-Iran Talks"
+      ]
+    },
+    {
+      "symbol": "BITO",
+      "price": 8.95,
+      "momentum_pct": 6.04,
+      "avg_dollar_vol": 456641662,
+      "max_day_jump_pct": 3.73,
+      "sector": "Unknown",
+      "headlines": [
+        "VanEck Mid-July 2026 Bitcoin ChainCheck"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "symbol": "IREN",
+      "target_dollars": 50,
+      "rationale": "Strong momentum with positive analyst upgrade and AI-related news catalyst. High volume confirms interest."
+    }
+  ],
+  "rejected": [],
+  "orders": [
+    {
+      "symbol": "IREN",
+      "shares": 1,
+      "entry_price": 43.3,
+      "stop_price": 42.0,
+      "take_profit_price": 47.63,
+      "notional": 43.3,
+      "sector": "Technology",
+      "rationale": "Strong momentum with positive analyst upgrade and AI-related news catalyst. High volume confirms interest.",
+      "status": "submitted",
+      "order_id": "5ef294db-ef04-4dae-82a1-085f3ffed4dc"
+    }
+  ],
+  "stops": [],
+  "written_at": "2026-07-22T15:21:44.281444+00:00"
+}

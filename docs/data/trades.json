@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T15:23:57.723709+00:00",
+  "updated_at": "2026-07-22T15:21:44.609149+00:00",
   "fills": [
     {
       "t": "2026-06-08T18:25:43.162492+00:00",
@@ -378,6 +378,42 @@
       "price": 2.53,
       "value": 50.6,
       "order_id": "9b8a2e71-dc9b-4151-be63-30fd69334707"
+    },
+    {
+      "t": "2026-07-21T15:23:58.919710+00:00",
+      "symbol": "ONDS",
+      "side": "buy",
+      "qty": 6.0,
+      "price": 7.72,
+      "value": 46.32,
+      "order_id": "c29326f6-b85e-46c1-9de7-5c6d3b1e2c9d"
+    },
+    {
+      "t": "2026-07-21T15:23:59.746392+00:00",
+      "symbol": "ACHR",
+      "side": "buy",
+      "qty": 9.0,
+      "price": 5.41,
+      "value": 48.69,
+      "order_id": "6203b76d-0a6a-4240-ba69-9a5bfdba6f68"
+    },
+    {
+      "t": "2026-07-21T16:26:17.581051+00:00",
+      "symbol": "ACHR",
+      "side": "sell",
+      "qty": 9.0,
+      "price": 5.25,
+      "value": 47.25,
+      "order_id": "cefb23ab-ffa0-4ccf-962a-bea4451e170c"
+    },
+    {
+      "t": "2026-07-21T18:57:39.796324+00:00",
+      "symbol": "ONDS",
+      "side": "sell",
+      "qty": 6.0,
+      "price": 7.48,
+      "value": 44.88,
+      "order_id": "f341e395-3d87-4436-a5d5-8bcbd49ea8bb"
     }
   ],
   "closed": [
@@ -622,6 +658,28 @@
       "pl": 4.4,
       "pl_pct": 9.52,
       "sector": "Media"
+    },
+    {
+      "symbol": "ACHR",
+      "qty": 9.0,
+      "entry_time": "2026-07-21T15:23:59.746392+00:00",
+      "entry_price": 5.41,
+      "exit_time": "2026-07-21T16:26:17.581051+00:00",
+      "exit_price": 5.25,
+      "pl": -1.44,
+      "pl_pct": -2.96,
+      "sector": "Aerospace & Defense"
+    },
+    {
+      "symbol": "ONDS",
+      "qty": 6.0,
+      "entry_time": "2026-07-21T15:23:58.919710+00:00",
+      "entry_price": 7.72,
+      "exit_time": "2026-07-21T18:57:39.796324+00:00",
+      "exit_price": 7.48,
+      "pl": -1.44,
+      "pl_pct": -3.11,
+      "sector": "Communications"
     }
   ],
   "open": []
