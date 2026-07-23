@@ -1,6 +1,147 @@
 {
-  "updated_at": "2026-07-22T15:21:44.741329+00:00",
+  "updated_at": "2026-07-23T15:34:33.631894+00:00",
   "days": [
+    {
+      "day": "2026-07-23",
+      "equity": 99989.17,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "SQQQ",
+          "price": 43.81,
+          "momentum_pct": 13.41,
+          "avg_dollar_vol": 50597052,
+          "max_day_jump_pct": 6.98,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "SMCI",
+          "price": 31.18,
+          "momentum_pct": 12.85,
+          "avg_dollar_vol": 50773835,
+          "max_day_jump_pct": 19.85,
+          "sector": "Technology",
+          "headlines": [
+            "Stocks making big moves yesterday: Pegasystems, Reddit, AAR, Everforth, and Super Micro",
+            "Dow Jones Futures Fall As Oil Prices Top $90; Google, Tesla Skid On Earnings, Capital Spending",
+            "Super Micro: The AI Boom Is Coming Back Home (Upgrade)",
+            "Super Micro Computer: Mispriced Risk, Underpriced AI Exposure",
+            "Dell Technologies (DELL) Climbs 9.3% on Booming Demand for Nvidia-Powered AI Servers"
+          ]
+        },
+        {
+          "symbol": "CLF",
+          "price": 10.89,
+          "momentum_pct": 11.4,
+          "avg_dollar_vol": 7644180,
+          "max_day_jump_pct": 15.29,
+          "sector": "Metals & Mining",
+          "headlines": [
+            "The market is filled with gapping stocks in Thursday's session.",
+            "Cleveland-Cliffs shares jump as upbeat third-quarter forecast outweighs earnings miss (NYSE:CLF)",
+            "Cleveland-Cliffs NYSE:CLF Surges on Strong Guidance as a Cyclical Steel Recovery Stock",
+            "Cleveland-Cliffs (CLF) Reports Q2 Loss, Tops Revenue Estimates",
+            "Lockheed Martin, Quest Diagnostics, Thermo Fisher Scientific And Other Big Stocks Moving Higher On Thursday"
+          ]
+        },
+        {
+          "symbol": "T",
+          "price": 23.01,
+          "momentum_pct": 8.05,
+          "avg_dollar_vol": 81802585,
+          "max_day_jump_pct": 3.46,
+          "sector": "Telecommunication",
+          "headlines": [
+            "Wolfe upgrades AT&T to Outperform as improving fundamentals outweigh Starlink risk",
+            "Fisk Electric Awarded $29.5 Million Electrical Project for New Commercial Office Building in Florida",
+            "Verizon Was Booted From the Dow \u2013 5 Dividend Giants Got the Same Treatment and Eventually Soared",
+            "Comcast Beat Quarterly Earnings Expectations. Why Broadband Loss Is Still a Problem.",
+            "Here Are Thursday\u2019s Top Wall Street Analyst Research Calls: AT&T, Applied Digital, Autodesk, Duke Energy, Exxon Mobil, JPMorgan Chase & Company, Live Nation Entertainment, and More"
+          ]
+        },
+        {
+          "symbol": "ONDS",
+          "price": 7.83,
+          "momentum_pct": 6.6,
+          "avg_dollar_vol": 16154970,
+          "max_day_jump_pct": 11.48,
+          "sector": "Communications",
+          "headlines": [
+            "Curious about the most active stocks on Wednesday?",
+            "Ondas Expands Military Tech Pipeline with $70M in New Autonomous Orders",
+            "Ondas: The Market Has This Completely Wrong",
+            "Ondas Receives $70M In New Order Throughout Its Defense, Security, Autonomous Technology Platform",
+            "Competitor Analysis: Evaluating Ondas And Competitors In Communications Equipment Industry"
+          ]
+        },
+        {
+          "symbol": "NVD",
+          "price": 4.78,
+          "momentum_pct": 4.6,
+          "avg_dollar_vol": 41773554,
+          "max_day_jump_pct": 5.4,
+          "sector": "Unknown",
+          "headlines": []
+        }
+      ],
+      "decisions": [
+        {
+          "symbol": "SMCI",
+          "target_dollars": 50,
+          "rationale": "Strong momentum with multiple positive headlines regarding AI demand and upgrades."
+        },
+        {
+          "symbol": "CLF",
+          "target_dollars": 50,
+          "rationale": "Significant jump on strong guidance, indicating a potential cyclical recovery in steel."
+        },
+        {
+          "symbol": "T",
+          "target_dollars": 50,
+          "rationale": "Analyst upgrade to Outperform, citing improving fundamentals for AT&T."
+        }
+      ],
+      "rejected": [],
+      "orders": [
+        {
+          "symbol": "SMCI",
+          "shares": 1,
+          "entry_price": 31.18,
+          "stop_price": 30.24,
+          "take_profit_price": 34.3,
+          "notional": 31.18,
+          "sector": "Technology",
+          "rationale": "Strong momentum with multiple positive headlines regarding AI demand and upgrades.",
+          "status": "submitted",
+          "order_id": "efca4f4c-85fd-4374-bef5-551ad42082c9"
+        },
+        {
+          "symbol": "CLF",
+          "shares": 4,
+          "entry_price": 10.89,
+          "stop_price": 10.56,
+          "take_profit_price": 11.98,
+          "notional": 43.56,
+          "sector": "Metals & Mining",
+          "rationale": "Significant jump on strong guidance, indicating a potential cyclical recovery in steel.",
+          "status": "submitted",
+          "order_id": "c2f6213c-357f-4895-acc5-e5a3cc905f92"
+        },
+        {
+          "symbol": "T",
+          "shares": 1,
+          "entry_price": 23.01,
+          "stop_price": 22.32,
+          "take_profit_price": 25.31,
+          "notional": 23.01,
+          "sector": "Telecommunication",
+          "rationale": "Analyst upgrade to Outperform, citing improving fundamentals for AT&T.",
+          "status": "submitted",
+          "order_id": "41894426-5fd1-448a-a154-ec65eaea2640"
+        }
+      ]
+    },
     {
       "day": "2026-07-22",
       "equity": 99990.42,

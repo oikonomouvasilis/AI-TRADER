@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T15:21:44.609149+00:00",
+  "updated_at": "2026-07-23T15:34:33.596823+00:00",
   "fills": [
     {
       "t": "2026-06-08T18:25:43.162492+00:00",
@@ -414,6 +414,24 @@
       "price": 7.48,
       "value": 44.88,
       "order_id": "f341e395-3d87-4436-a5d5-8bcbd49ea8bb"
+    },
+    {
+      "t": "2026-07-22T15:21:45.096986+00:00",
+      "symbol": "IREN",
+      "side": "buy",
+      "qty": 1.0,
+      "price": 43.22,
+      "value": 43.22,
+      "order_id": "5ef294db-ef04-4dae-82a1-085f3ffed4dc"
+    },
+    {
+      "t": "2026-07-22T16:46:55.704022+00:00",
+      "symbol": "IREN",
+      "side": "sell",
+      "qty": 1.0,
+      "price": 41.97,
+      "value": 41.97,
+      "order_id": "6fd5a9d6-3683-4167-b5a1-453001cd2210"
     }
   ],
   "closed": [
@@ -680,6 +698,17 @@
       "pl": -1.44,
       "pl_pct": -3.11,
       "sector": "Communications"
+    },
+    {
+      "symbol": "IREN",
+      "qty": 1.0,
+      "entry_time": "2026-07-22T15:21:45.096986+00:00",
+      "entry_price": 43.22,
+      "exit_time": "2026-07-22T16:46:55.704022+00:00",
+      "exit_price": 41.97,
+      "pl": -1.25,
+      "pl_pct": -2.89,
+      "sector": "Technology"
     }
   ],
   "open": []
