@@ -1,6 +1,126 @@
 {
-  "updated_at": "2026-07-23T15:34:33.631894+00:00",
+  "updated_at": "2026-07-24T15:15:14.511288+00:00",
   "days": [
+    {
+      "day": "2026-07-24",
+      "equity": 99989.95,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "CLF",
+          "price": 11.14,
+          "momentum_pct": 13.21,
+          "avg_dollar_vol": 10202257,
+          "max_day_jump_pct": 15.77,
+          "sector": "Metals & Mining",
+          "headlines": [
+            "Why Fast-paced Mover Cleveland-Cliffs (CLF) Is a Great Choice for Value Investors",
+            "Should You Buy, Sell or Hold NUE Stock Ahead of Q2 Earnings?",
+            "Here Are Friday\u2019s Top Wall Street Analyst Research Calls: Albertsons, Blue Owl Capital, Cleveland-Cliffs, Chime Financial, Digital Realty, Dover, PayPal Holdings, SpaceX, and More",
+            "Barclays Maintains Underweight on Cleveland-Cliffs, Raises Price Target to $10",
+            "Booz Allen Hamilton Posts Upbeat Q1 Earnings, Joins Tenet Healthcare, SS&C Technologies And Other Big Stocks Moving Higher On Friday"
+          ]
+        },
+        {
+          "symbol": "SQQQ",
+          "price": 43.82,
+          "momentum_pct": 12.39,
+          "avg_dollar_vol": 49489784,
+          "max_day_jump_pct": 5.64,
+          "sector": "Unknown",
+          "headlines": [
+            "QUICK SPARK: The First 2x Equal-Weight Nasdaq-100 ETF Has Arrived, Challenging Mega-Cap Dominance"
+          ]
+        },
+        {
+          "symbol": "T",
+          "price": 23.91,
+          "momentum_pct": 11.6,
+          "avg_dollar_vol": 90607650,
+          "max_day_jump_pct": 4.25,
+          "sector": "Telecommunication",
+          "headlines": [
+            "Verizon Earnings Beat But Revenue Light Amid Lower Phone Upgrades",
+            "Verizon Stock Rises After Earnings as Turnaround Plan Gathers Pace",
+            "The Zacks Analyst Blog Highlights GE Aerospace, AT&T, Chubb and Gencor Industries",
+            "ASTS Stock Eyes Worst Month In Over 2 Years \u2014 But 2 Telecom Giants Just Gave Bulls Reasons To Look Past The Selloff",
+            "AMD's Anthropic and OpenAI Deals Power $2 Trillion AI Ambitions"
+          ]
+        },
+        {
+          "symbol": "SMCI",
+          "price": 29.96,
+          "momentum_pct": 11.39,
+          "avg_dollar_vol": 60062667,
+          "max_day_jump_pct": 19.85,
+          "sector": "Technology",
+          "headlines": [
+            "Dell's Big Day Was All About Another Company",
+            "Backlog Mania: Stocks to Watch This Earnings Season",
+            "Super Micro\u2019s 20% surge reveals what AI investors want",
+            "Supermicro Introduces New Server Portfolio with 6th Gen AMD EPYC\u2122 9006 Series CPUs, Delivering 1.7x Generational Performance Improvements",
+            "Stay informed about the most active stocks in the S&P500 index on Thursday's session."
+          ]
+        },
+        {
+          "symbol": "ONDS",
+          "price": 7.81,
+          "momentum_pct": 10.54,
+          "avg_dollar_vol": 15823924,
+          "max_day_jump_pct": 11.48,
+          "sector": "Communications",
+          "headlines": [
+            "Comparing Ondas With Industry Competitors In Communications Equipment Industry",
+            "Curious about the most active stocks on Wednesday?",
+            "Ondas Expands Military Tech Pipeline with $70M in New Autonomous Orders",
+            "Ondas: The Market Has This Completely Wrong",
+            "Ondas Receives $70M In New Order Throughout Its Defense, Security, Autonomous Technology Platform"
+          ]
+        },
+        {
+          "symbol": "SOXS",
+          "price": 49.76,
+          "momentum_pct": 8.27,
+          "avg_dollar_vol": 38697261,
+          "max_day_jump_pct": 13.37,
+          "sector": "Unknown",
+          "headlines": [
+            "SPY, QQQ And SOXL Power ETF Trading To New Record"
+          ]
+        },
+        {
+          "symbol": "PLTD",
+          "price": 8.25,
+          "momentum_pct": 7.42,
+          "avg_dollar_vol": 22975996,
+          "max_day_jump_pct": 6.07,
+          "sector": "Unknown",
+          "headlines": []
+        }
+      ],
+      "decisions": [
+        {
+          "symbol": "ONDS",
+          "target_dollars": 50,
+          "rationale": "Strong news catalyst with $70M in new orders for defense/security autonomous tech. Good momentum."
+        }
+      ],
+      "rejected": [],
+      "orders": [
+        {
+          "symbol": "ONDS",
+          "shares": 6,
+          "entry_price": 7.81,
+          "stop_price": 7.58,
+          "take_profit_price": 8.59,
+          "notional": 46.86,
+          "sector": "Communications",
+          "rationale": "Strong news catalyst with $70M in new orders for defense/security autonomous tech. Good momentum.",
+          "status": "submitted",
+          "order_id": "aee03bb4-d420-4be7-a204-09ed270e1838"
+        }
+      ]
+    },
     {
       "day": "2026-07-23",
       "equity": 99989.17,

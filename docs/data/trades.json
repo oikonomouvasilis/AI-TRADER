@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T15:34:33.596823+00:00",
+  "updated_at": "2026-07-24T15:15:14.340722+00:00",
   "fills": [
     {
       "t": "2026-06-08T18:25:43.162492+00:00",
@@ -432,6 +432,42 @@
       "price": 41.97,
       "value": 41.97,
       "order_id": "6fd5a9d6-3683-4167-b5a1-453001cd2210"
+    },
+    {
+      "t": "2026-07-23T15:34:33.704872+00:00",
+      "symbol": "SMCI",
+      "side": "buy",
+      "qty": 1.0,
+      "price": 31.24,
+      "value": 31.24,
+      "order_id": "efca4f4c-85fd-4374-bef5-551ad42082c9"
+    },
+    {
+      "t": "2026-07-23T15:34:33.891465+00:00",
+      "symbol": "T",
+      "side": "buy",
+      "qty": 1.0,
+      "price": 23.02,
+      "value": 23.02,
+      "order_id": "41894426-5fd1-448a-a154-ec65eaea2640"
+    },
+    {
+      "t": "2026-07-23T15:34:35.947894+00:00",
+      "symbol": "CLF",
+      "side": "buy",
+      "qty": 4.0,
+      "price": 10.9,
+      "value": 43.6,
+      "order_id": "c2f6213c-357f-4895-acc5-e5a3cc905f92"
+    },
+    {
+      "t": "2026-07-24T13:40:33.953617+00:00",
+      "symbol": "SMCI",
+      "side": "sell",
+      "qty": 1.0,
+      "price": 30.25,
+      "value": 30.25,
+      "order_id": "ea908cc9-b986-4296-9041-cc16d5844efe"
     }
   ],
   "closed": [
@@ -709,7 +745,39 @@
       "pl": -1.25,
       "pl_pct": -2.89,
       "sector": "Technology"
+    },
+    {
+      "symbol": "SMCI",
+      "qty": 1.0,
+      "entry_time": "2026-07-23T15:34:33.704872+00:00",
+      "entry_price": 31.24,
+      "exit_time": "2026-07-24T13:40:33.953617+00:00",
+      "exit_price": 30.25,
+      "pl": -0.99,
+      "pl_pct": -3.17,
+      "sector": "Technology"
     }
   ],
-  "open": []
+  "open": [
+    {
+      "symbol": "CLF",
+      "qty": 4.0,
+      "entry_price": 10.9,
+      "current_price": 11.155,
+      "market_value": 44.62,
+      "unrealized_pl": 1.02,
+      "unrealized_plpc": 2.34,
+      "sector": "Metals & Mining"
+    },
+    {
+      "symbol": "T",
+      "qty": 1.0,
+      "entry_price": 23.02,
+      "current_price": 23.92,
+      "market_value": 23.92,
+      "unrealized_pl": 0.9,
+      "unrealized_plpc": 3.91,
+      "sector": "Telecommunication"
+    }
+  ]
 }

@@ -1,19 +1,13 @@
 {
-  "updated_at": "2026-07-23T15:34:33.629772+00:00",
+  "updated_at": "2026-07-24T15:15:14.509331+00:00",
   "account": {
-    "equity": 99989.17,
-    "cash": 99989.17,
-    "buying_power": 99891.28,
-    "long_market_value": 0.0,
-    "last_equity": 0.0
+    "equity": 99990.07,
+    "cash": 99921.53,
+    "buying_power": 399831.04,
+    "long_market_value": 68.54,
+    "last_equity": 99989.28
   },
   "curve": [
-    {
-      "t": "2026-06-24",
-      "equity": 99996.9,
-      "pl": -1.21,
-      "pl_pct": 0.0
-    },
     {
       "t": "2026-06-25",
       "equity": 99997.46,
@@ -127,19 +121,63 @@
       "equity": 99990.42,
       "pl": -1.5,
       "pl_pct": 0.0
+    },
+    {
+      "t": "2026-07-23",
+      "equity": 99989.15,
+      "pl": -1.27,
+      "pl_pct": 0.0
+    },
+    {
+      "t": "2026-07-24",
+      "equity": 99989.28,
+      "pl": 0.13,
+      "pl_pct": 0.0
     }
   ],
-  "base_value": 99996.9,
-  "positions": [],
-  "sector_allocation": [],
+  "base_value": 99997.46,
+  "positions": [
+    {
+      "symbol": "CLF",
+      "qty": 4.0,
+      "entry_price": 10.9,
+      "current_price": 11.155,
+      "market_value": 44.62,
+      "unrealized_pl": 1.02,
+      "unrealized_plpc": 2.34,
+      "sector": "Metals & Mining"
+    },
+    {
+      "symbol": "T",
+      "qty": 1.0,
+      "entry_price": 23.02,
+      "current_price": 23.92,
+      "market_value": 23.92,
+      "unrealized_pl": 0.9,
+      "unrealized_plpc": 3.91,
+      "sector": "Telecommunication"
+    }
+  ],
+  "sector_allocation": [
+    {
+      "sector": "Metals & Mining",
+      "market_value": 44.62,
+      "pct": 65.1
+    },
+    {
+      "sector": "Telecommunication",
+      "market_value": 23.92,
+      "pct": 34.9
+    }
+  ],
   "kpis": {
-    "equity": 99989.17,
-    "total_pl": -10.44,
+    "equity": 99990.07,
+    "total_pl": -9.51,
     "total_pl_pct": -0.01,
-    "realized_pl": -10.44,
-    "unrealized_pl": 0,
-    "open_positions": 0,
-    "num_closed_trades": 25,
-    "win_rate": 20.0
+    "realized_pl": -11.43,
+    "unrealized_pl": 1.92,
+    "open_positions": 2,
+    "num_closed_trades": 26,
+    "win_rate": 19.2
   }
 }
