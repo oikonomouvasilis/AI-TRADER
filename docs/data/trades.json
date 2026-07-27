@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T15:15:14.340722+00:00",
+  "updated_at": "2026-07-27T16:00:58.932927+00:00",
   "fills": [
     {
       "t": "2026-06-08T18:25:43.162492+00:00",
@@ -468,6 +468,24 @@
       "price": 30.25,
       "value": 30.25,
       "order_id": "ea908cc9-b986-4296-9041-cc16d5844efe"
+    },
+    {
+      "t": "2026-07-24T15:15:18.072919+00:00",
+      "symbol": "ONDS",
+      "side": "buy",
+      "qty": 6.0,
+      "price": 7.83,
+      "value": 46.98,
+      "order_id": "aee03bb4-d420-4be7-a204-09ed270e1838"
+    },
+    {
+      "t": "2026-07-24T18:05:35.195963+00:00",
+      "symbol": "CLF",
+      "side": "sell",
+      "qty": 4.0,
+      "price": 11.98,
+      "value": 47.92,
+      "order_id": "a83926ec-8b4e-4c25-bd35-380b7463f8fc"
     }
   ],
   "closed": [
@@ -756,27 +774,38 @@
       "pl": -0.99,
       "pl_pct": -3.17,
       "sector": "Technology"
+    },
+    {
+      "symbol": "CLF",
+      "qty": 4.0,
+      "entry_time": "2026-07-23T15:34:35.947894+00:00",
+      "entry_price": 10.9,
+      "exit_time": "2026-07-24T18:05:35.195963+00:00",
+      "exit_price": 11.98,
+      "pl": 4.32,
+      "pl_pct": 9.91,
+      "sector": "Metals & Mining"
     }
   ],
   "open": [
     {
-      "symbol": "CLF",
-      "qty": 4.0,
-      "entry_price": 10.9,
-      "current_price": 11.155,
-      "market_value": 44.62,
-      "unrealized_pl": 1.02,
-      "unrealized_plpc": 2.34,
-      "sector": "Metals & Mining"
+      "symbol": "ONDS",
+      "qty": 6.0,
+      "entry_price": 7.83,
+      "current_price": 7.72,
+      "market_value": 46.32,
+      "unrealized_pl": -0.66,
+      "unrealized_plpc": -1.41,
+      "sector": "Communications"
     },
     {
       "symbol": "T",
       "qty": 1.0,
       "entry_price": 23.02,
-      "current_price": 23.92,
-      "market_value": 23.92,
-      "unrealized_pl": 0.9,
-      "unrealized_plpc": 3.91,
+      "current_price": 24.415,
+      "market_value": 24.41,
+      "unrealized_pl": 1.4,
+      "unrealized_plpc": 6.06,
       "sector": "Telecommunication"
     }
   ]

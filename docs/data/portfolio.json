@@ -1,31 +1,13 @@
 {
-  "updated_at": "2026-07-24T15:15:14.509331+00:00",
+  "updated_at": "2026-07-27T16:00:58.972077+00:00",
   "account": {
-    "equity": 99990.07,
-    "cash": 99921.53,
-    "buying_power": 399831.04,
-    "long_market_value": 68.54,
-    "last_equity": 99989.28
+    "equity": 99993.19,
+    "cash": 99922.45,
+    "buying_power": 399737.66,
+    "long_market_value": 70.74,
+    "last_equity": 99993.38
   },
   "curve": [
-    {
-      "t": "2026-06-25",
-      "equity": 99997.46,
-      "pl": 0.56,
-      "pl_pct": 0.0
-    },
-    {
-      "t": "2026-06-26",
-      "equity": 99993.67,
-      "pl": -3.79,
-      "pl_pct": 0.0
-    },
-    {
-      "t": "2026-06-27",
-      "equity": 99994.74,
-      "pl": 1.07,
-      "pl_pct": 0.0
-    },
     {
       "t": "2026-06-30",
       "equity": 99998.1,
@@ -133,51 +115,57 @@
       "equity": 99989.28,
       "pl": 0.13,
       "pl_pct": 0.0
+    },
+    {
+      "t": "2026-07-25",
+      "equity": 99993.38,
+      "pl": 4.1,
+      "pl_pct": 0.0
     }
   ],
-  "base_value": 99997.46,
+  "base_value": 99998.1,
   "positions": [
     {
-      "symbol": "CLF",
-      "qty": 4.0,
-      "entry_price": 10.9,
-      "current_price": 11.155,
-      "market_value": 44.62,
-      "unrealized_pl": 1.02,
-      "unrealized_plpc": 2.34,
-      "sector": "Metals & Mining"
+      "symbol": "ONDS",
+      "qty": 6.0,
+      "entry_price": 7.83,
+      "current_price": 7.72,
+      "market_value": 46.32,
+      "unrealized_pl": -0.66,
+      "unrealized_plpc": -1.41,
+      "sector": "Communications"
     },
     {
       "symbol": "T",
       "qty": 1.0,
       "entry_price": 23.02,
-      "current_price": 23.92,
-      "market_value": 23.92,
-      "unrealized_pl": 0.9,
-      "unrealized_plpc": 3.91,
+      "current_price": 24.415,
+      "market_value": 24.41,
+      "unrealized_pl": 1.4,
+      "unrealized_plpc": 6.06,
       "sector": "Telecommunication"
     }
   ],
   "sector_allocation": [
     {
-      "sector": "Metals & Mining",
-      "market_value": 44.62,
-      "pct": 65.1
+      "sector": "Communications",
+      "market_value": 46.32,
+      "pct": 65.5
     },
     {
       "sector": "Telecommunication",
-      "market_value": 23.92,
-      "pct": 34.9
+      "market_value": 24.41,
+      "pct": 34.5
     }
   ],
   "kpis": {
-    "equity": 99990.07,
-    "total_pl": -9.51,
-    "total_pl_pct": -0.01,
-    "realized_pl": -11.43,
-    "unrealized_pl": 1.92,
+    "equity": 99993.19,
+    "total_pl": -6.37,
+    "total_pl_pct": -0.0,
+    "realized_pl": -7.11,
+    "unrealized_pl": 0.74,
     "open_positions": 2,
-    "num_closed_trades": 26,
-    "win_rate": 19.2
+    "num_closed_trades": 27,
+    "win_rate": 22.2
   }
 }

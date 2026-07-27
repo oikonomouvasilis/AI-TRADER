@@ -1,6 +1,120 @@
 {
-  "updated_at": "2026-07-24T15:15:14.511288+00:00",
+  "updated_at": "2026-07-27T16:00:58.974034+00:00",
   "days": [
+    {
+      "day": "2026-07-27",
+      "equity": 99993.2,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "ONDS",
+          "price": 7.74,
+          "momentum_pct": 12.5,
+          "avg_dollar_vol": 16827786,
+          "max_day_jump_pct": 11.48,
+          "sector": "Communications",
+          "headlines": []
+        },
+        {
+          "symbol": "QBTS",
+          "price": 18.82,
+          "momentum_pct": 12.46,
+          "avg_dollar_vol": 13306761,
+          "max_day_jump_pct": 16.03,
+          "sector": "Technology",
+          "headlines": [
+            "D-Wave Quantum Expands Telecom Footprint Through New AT&T Agreement",
+            "D-Wave Quantum: A Lagging Roadmap And Overvalued Stock"
+          ]
+        },
+        {
+          "symbol": "T",
+          "price": 24.4,
+          "momentum_pct": 10.96,
+          "avg_dollar_vol": 107996028,
+          "max_day_jump_pct": 5.12,
+          "sector": "Telecommunication",
+          "headlines": [
+            "Quantum Computing Stocks: D-Wave, AT&T Expand Quantum Agreement",
+            "The D-Wave Quantum Bet: How an Expanded AT&T Deal Is Boosting the Stock",
+            "QBTS Stock Soars As AT&T Expands D-Wave Quantum Partnership After 240X Speed Boost",
+            "Why D-Wave Quantum Stock Is Surging on AT&T Partnership",
+            "Vodafone AGM Highlights Three UK Integration, Dividend Growth and Cash Flow Ambitions"
+          ]
+        },
+        {
+          "symbol": "SQQQ",
+          "price": 45.79,
+          "momentum_pct": 7.26,
+          "avg_dollar_vol": 49430371,
+          "max_day_jump_pct": 5.64,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "NVD",
+          "price": 5.2,
+          "momentum_pct": 5.05,
+          "avg_dollar_vol": 51533581,
+          "max_day_jump_pct": 9.01,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "BMNR",
+          "price": 17.36,
+          "momentum_pct": 4.42,
+          "avg_dollar_vol": 23836710,
+          "max_day_jump_pct": 9.74,
+          "sector": "Technology",
+          "headlines": [
+            "BitMine Nearing Inflection Point as Ethereum Buying Nears Key Target"
+          ]
+        },
+        {
+          "symbol": "DAMD",
+          "price": 1.82,
+          "momentum_pct": 4.0,
+          "avg_dollar_vol": 8169956,
+          "max_day_jump_pct": 14.47,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "NU",
+          "price": 14.51,
+          "momentum_pct": 3.72,
+          "avg_dollar_vol": 47654868,
+          "max_day_jump_pct": 3.02,
+          "sector": "Banking",
+          "headlines": [
+            "SoFi Technologies: Great Execution At A Discount"
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "symbol": "QBTS",
+          "target_dollars": 50,
+          "rationale": "Strong momentum with clear catalyst: AT&T partnership expansion. High avg_dollar_vol supports liquidity."
+        }
+      ],
+      "rejected": [],
+      "orders": [
+        {
+          "symbol": "QBTS",
+          "shares": 2,
+          "entry_price": 18.82,
+          "stop_price": 18.26,
+          "take_profit_price": 20.7,
+          "notional": 37.64,
+          "sector": "Technology",
+          "rationale": "Strong momentum with clear catalyst: AT&T partnership expansion. High avg_dollar_vol supports liquidity.",
+          "status": "submitted",
+          "order_id": "c3d6f38d-4a7f-41a0-9c26-9c687a59de8a"
+        }
+      ]
+    },
     {
       "day": "2026-07-24",
       "equity": 99989.95,
