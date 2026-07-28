@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-27T16:00:58.972077+00:00",
+  "updated_at": "2026-07-28T15:52:51.481087+00:00",
   "account": {
-    "equity": 99993.19,
-    "cash": 99922.45,
-    "buying_power": 399737.66,
-    "long_market_value": 70.74,
-    "last_equity": 99993.38
+    "equity": 99991.81,
+    "cash": 99991.81,
+    "buying_power": 399967.24,
+    "long_market_value": 0.0,
+    "last_equity": 99996.46
   },
   "curve": [
     {
@@ -121,51 +121,25 @@
       "equity": 99993.38,
       "pl": 4.1,
       "pl_pct": 0.0
+    },
+    {
+      "t": "2026-07-28",
+      "equity": 99996.46,
+      "pl": 3.08,
+      "pl_pct": 0.0
     }
   ],
   "base_value": 99998.1,
-  "positions": [
-    {
-      "symbol": "ONDS",
-      "qty": 6.0,
-      "entry_price": 7.83,
-      "current_price": 7.72,
-      "market_value": 46.32,
-      "unrealized_pl": -0.66,
-      "unrealized_plpc": -1.41,
-      "sector": "Communications"
-    },
-    {
-      "symbol": "T",
-      "qty": 1.0,
-      "entry_price": 23.02,
-      "current_price": 24.415,
-      "market_value": 24.41,
-      "unrealized_pl": 1.4,
-      "unrealized_plpc": 6.06,
-      "sector": "Telecommunication"
-    }
-  ],
-  "sector_allocation": [
-    {
-      "sector": "Communications",
-      "market_value": 46.32,
-      "pct": 65.5
-    },
-    {
-      "sector": "Telecommunication",
-      "market_value": 24.41,
-      "pct": 34.5
-    }
-  ],
+  "positions": [],
+  "sector_allocation": [],
   "kpis": {
-    "equity": 99993.19,
-    "total_pl": -6.37,
-    "total_pl_pct": -0.0,
-    "realized_pl": -7.11,
-    "unrealized_pl": 0.74,
-    "open_positions": 2,
-    "num_closed_trades": 27,
-    "win_rate": 22.2
+    "equity": 99991.81,
+    "total_pl": -7.74,
+    "total_pl_pct": -0.01,
+    "realized_pl": -7.74,
+    "unrealized_pl": 0,
+    "open_positions": 0,
+    "num_closed_trades": 30,
+    "win_rate": 23.3
   }
 }

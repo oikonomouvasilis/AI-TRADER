@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T16:00:58.932927+00:00",
+  "updated_at": "2026-07-28T15:52:51.437895+00:00",
   "fills": [
     {
       "t": "2026-06-08T18:25:43.162492+00:00",
@@ -486,6 +486,42 @@
       "price": 11.98,
       "value": 47.92,
       "order_id": "a83926ec-8b4e-4c25-bd35-380b7463f8fc"
+    },
+    {
+      "t": "2026-07-27T16:01:00.169412+00:00",
+      "symbol": "QBTS",
+      "side": "buy",
+      "qty": 2.0,
+      "price": 18.77,
+      "value": 37.54,
+      "order_id": "c3d6f38d-4a7f-41a0-9c26-9c687a59de8a"
+    },
+    {
+      "t": "2026-07-28T13:32:25.719284+00:00",
+      "symbol": "ONDS",
+      "side": "sell",
+      "qty": 6.0,
+      "price": 7.55,
+      "value": 45.3,
+      "order_id": "8d48c072-b75b-4ac8-a1b5-b7cc996af676"
+    },
+    {
+      "t": "2026-07-28T13:33:57.027959+00:00",
+      "symbol": "QBTS",
+      "side": "sell",
+      "qty": 2.0,
+      "price": 18.15,
+      "value": 36.3,
+      "order_id": "cccf904d-4bfd-4fac-870b-a1fc28e06d35"
+    },
+    {
+      "t": "2026-07-28T13:51:52.454454+00:00",
+      "symbol": "T",
+      "side": "sell",
+      "qty": 1.0,
+      "price": 25.31,
+      "value": 25.31,
+      "order_id": "8772308a-5ed1-4956-8de9-74d6f153bca6"
     }
   ],
   "closed": [
@@ -785,28 +821,40 @@
       "pl": 4.32,
       "pl_pct": 9.91,
       "sector": "Metals & Mining"
-    }
-  ],
-  "open": [
+    },
     {
       "symbol": "ONDS",
       "qty": 6.0,
+      "entry_time": "2026-07-24T15:15:18.072919+00:00",
       "entry_price": 7.83,
-      "current_price": 7.72,
-      "market_value": 46.32,
-      "unrealized_pl": -0.66,
-      "unrealized_plpc": -1.41,
+      "exit_time": "2026-07-28T13:32:25.719284+00:00",
+      "exit_price": 7.55,
+      "pl": -1.68,
+      "pl_pct": -3.58,
       "sector": "Communications"
+    },
+    {
+      "symbol": "QBTS",
+      "qty": 2.0,
+      "entry_time": "2026-07-27T16:01:00.169412+00:00",
+      "entry_price": 18.77,
+      "exit_time": "2026-07-28T13:33:57.027959+00:00",
+      "exit_price": 18.15,
+      "pl": -1.24,
+      "pl_pct": -3.3,
+      "sector": "Technology"
     },
     {
       "symbol": "T",
       "qty": 1.0,
+      "entry_time": "2026-07-23T15:34:33.891465+00:00",
       "entry_price": 23.02,
-      "current_price": 24.415,
-      "market_value": 24.41,
-      "unrealized_pl": 1.4,
-      "unrealized_plpc": 6.06,
+      "exit_time": "2026-07-28T13:51:52.454454+00:00",
+      "exit_price": 25.31,
+      "pl": 2.29,
+      "pl_pct": 9.95,
       "sector": "Telecommunication"
     }
-  ]
+  ],
+  "open": []
 }
