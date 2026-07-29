@@ -1,0 +1,132 @@
+{
+  "day": "2026-07-29",
+  "equity": 99991.79,
+  "candidates": [
+    {
+      "symbol": "DAMD",
+      "price": 2.24,
+      "momentum_pct": 28.0,
+      "avg_dollar_vol": 9386727,
+      "max_day_jump_pct": 17.0,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "SQQQ",
+      "price": 48.4,
+      "momentum_pct": 13.38,
+      "avg_dollar_vol": 51574176,
+      "max_day_jump_pct": 5.64,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "F",
+      "price": 15.79,
+      "momentum_pct": 12.67,
+      "avg_dollar_vol": 36592464,
+      "max_day_jump_pct": 5.51,
+      "sector": "Automobiles",
+      "headlines": [
+        "Wednesday's session: gap up and gap down stock in the S&P500 index",
+        "Toyota Runs Out Of Cars",
+        "Apple upgraded, Qualcomm downgraded: Wall Street's top analyst calls",
+        "Ford Jumps 6%, Outstrips GM and Tesla on Q2 Earnings Beat, Raised 2026 Guidance, Citi Upgrade",
+        "Ford beats profit estimates, raises 2026 forecast as shares jump"
+      ]
+    },
+    {
+      "symbol": "NVD",
+      "price": 5.47,
+      "momentum_pct": 10.51,
+      "avg_dollar_vol": 58784942,
+      "max_day_jump_pct": 9.85,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "BSX",
+      "price": 46.87,
+      "momentum_pct": 7.05,
+      "avg_dollar_vol": 58935445,
+      "max_day_jump_pct": 2.78,
+      "sector": "Health Care",
+      "headlines": [
+        "Boston Scientific Q2 2026 earnings: profit forecast cut on Watchman slowdown",
+        "Get insights into the top movers in the S&P500 index of Wednesday's pre-market session.",
+        "Boston Scientific Beats Second-Quarter Expectations as Sales Growth Lifts Shares",
+        "Boston Scientific (BSX) Surpasses Q2 Earnings and Revenue Estimates",
+        "Stocks Mostly Up Pre-Bell Ahead of Fed Rate Decision, Big Tech Earnings"
+      ]
+    },
+    {
+      "symbol": "JBLU",
+      "price": 5.78,
+      "momentum_pct": 5.96,
+      "avg_dollar_vol": 7531582,
+      "max_day_jump_pct": 10.09,
+      "sector": "Airlines",
+      "headlines": [
+        "Check out the stocks that are attracting the most attention and driving market activity.",
+        "JetBlue Airways Corporation (JBLU) Q2 2026 Earnings Call Transcript",
+        "12 Industrials Stocks Moving In Tuesday's Intraday Session",
+        "JetBlue Airways (NASDAQ:JBLU) Posts Narrower Loss and 2028 EPS Target as Turnaround Stock Gains Traction",
+        "JetBlue Airways CEO Says Expecting Low To Mid Single Digit Capacity Growth, Mid Single Digit RASM Growth, Low Single Digit CASMX Fuel Growth In 2027, 2028"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "symbol": "F",
+      "target_dollars": 50,
+      "rationale": "Strong Q2 earnings beat, raised 2026 guidance, and analyst upgrade provide clear positive catalyst."
+    },
+    {
+      "symbol": "BSX",
+      "target_dollars": 50,
+      "rationale": "Beat Q2 earnings and revenue estimates, indicating solid operational performance despite some concerns."
+    },
+    {
+      "symbol": "JBLU",
+      "target_dollars": 50,
+      "rationale": "Narrower loss and 2028 EPS target, with management guidance, suggest a turnaround gaining traction."
+    }
+  ],
+  "rejected": [
+    {
+      "symbol": "JBLU",
+      "target_dollars": 50,
+      "rationale": "Narrower loss and 2028 EPS target, with management guidance, suggest a turnaround gaining traction.",
+      "reason": "no room within limits",
+      "price": 5.78
+    }
+  ],
+  "orders": [
+    {
+      "symbol": "F",
+      "shares": 3,
+      "entry_price": 15.79,
+      "stop_price": 15.32,
+      "take_profit_price": 17.37,
+      "notional": 47.37,
+      "sector": "Automobiles",
+      "rationale": "Strong Q2 earnings beat, raised 2026 guidance, and analyst upgrade provide clear positive catalyst.",
+      "status": "submitted",
+      "order_id": "574940b1-4c98-4c7b-a9dc-b241c62d039e"
+    },
+    {
+      "symbol": "BSX",
+      "shares": 1,
+      "entry_price": 46.87,
+      "stop_price": 45.46,
+      "take_profit_price": 51.56,
+      "notional": 46.87,
+      "sector": "Health Care",
+      "rationale": "Beat Q2 earnings and revenue estimates, indicating solid operational performance despite some concerns.",
+      "status": "submitted",
+      "order_id": "b1609815-9eab-41f6-8292-c3da93d2262a"
+    }
+  ],
+  "stops": [],
+  "written_at": "2026-07-29T15:33:01.139563+00:00"
+}
