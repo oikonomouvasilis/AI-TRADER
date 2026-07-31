@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-07-30T15:34:29.937440+00:00",
+  "updated_at": "2026-07-31T15:38:57.744191+00:00",
   "days": [
+    {
+      "day": "2026-07-31",
+      "equity": 99988.92,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "DAMD",
+          "price": 1.64,
+          "momentum_pct": 15.49,
+          "avg_dollar_vol": 9737371,
+          "max_day_jump_pct": 17.0,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "SQQQ",
+          "price": 44.65,
+          "momentum_pct": 9.04,
+          "avg_dollar_vol": 60058799,
+          "max_day_jump_pct": 6.27,
+          "sector": "Unknown",
+          "headlines": []
+        }
+      ],
+      "decisions": [],
+      "rejected": [],
+      "orders": []
+    },
     {
       "day": "2026-07-30",
       "equity": 99988.92,
