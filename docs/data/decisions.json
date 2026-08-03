@@ -1,6 +1,48 @@
 {
-  "updated_at": "2026-07-31T15:38:57.744191+00:00",
+  "updated_at": "2026-08-03T16:06:39.671578+00:00",
   "days": [
+    {
+      "day": "2026-08-03",
+      "equity": 99988.92,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "AMC",
+          "price": 2.85,
+          "momentum_pct": 13.77,
+          "avg_dollar_vol": 4536785,
+          "max_day_jump_pct": 6.39,
+          "sector": "Media",
+          "headlines": [
+            "Market-Moving News for August 3rd",
+            "Federal Realty Trust: Still Offering Attractive Total Returns, But Don't Aggressively Chase Here"
+          ]
+        },
+        {
+          "symbol": "TSLL",
+          "price": 7.88,
+          "momentum_pct": 8.77,
+          "avg_dollar_vol": 24824794,
+          "max_day_jump_pct": 7.8,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "SOFI",
+          "price": 17.52,
+          "momentum_pct": 3.85,
+          "avg_dollar_vol": 54479376,
+          "max_day_jump_pct": 7.98,
+          "sector": "Financial Services",
+          "headlines": [
+            "SoFi: More Wall St. Games"
+          ]
+        }
+      ],
+      "decisions": [],
+      "rejected": [],
+      "orders": []
+    },
     {
       "day": "2026-07-31",
       "equity": 99988.92,
