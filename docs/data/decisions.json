@@ -1,6 +1,139 @@
 {
-  "updated_at": "2026-08-03T16:06:39.671578+00:00",
+  "updated_at": "2026-08-04T15:59:25.881338+00:00",
   "days": [
+    {
+      "day": "2026-08-04",
+      "equity": 99988.92,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "SNAP",
+          "price": 5.76,
+          "momentum_pct": 27.57,
+          "avg_dollar_vol": 11755534,
+          "max_day_jump_pct": 13.61,
+          "sector": "Media",
+          "headlines": [
+            "Caterpillar, Wayfair, Zebra Technologies, Gartner And Other Big Stocks Moving Higher On Tuesday",
+            "Guggenheim Maintains Neutral on Snap, Raises Price Target to $5.5",
+            "Citizens Reiterates Market Perform on Snapto Market Perform",
+            "Wells Fargo Maintains Equal-Weight on Snap, Raises Price Target to $6",
+            "Snap: The Light At The End Of The Tunnel May Be Here As Profits Soar (Rating Upgrade)"
+          ]
+        },
+        {
+          "symbol": "GRAB",
+          "price": 3.75,
+          "momentum_pct": 12.44,
+          "avg_dollar_vol": 12437015,
+          "max_day_jump_pct": 4.99,
+          "sector": "Road & Rail",
+          "headlines": [
+            "McDonald's Q2: Decent Business, Unconvincing Stock",
+            "Grab Q2: The Super App Is Just Getting Started",
+            "Grab Holdings Limited (GRAB) Q2 2026 Earnings Call Transcript",
+            "Grab Holdings Limited 2026 Q2 - Results - Earnings Call Presentation"
+          ]
+        },
+        {
+          "symbol": "ONDS",
+          "price": 8.83,
+          "momentum_pct": 9.83,
+          "avg_dollar_vol": 11020727,
+          "max_day_jump_pct": 11.8,
+          "sector": "Communications",
+          "headlines": [
+            "Redwire Receives $20M In Follow-On Purchase Orders From Navy And Marine Corps PMA-263 To Deliver Advanced Navigation Stalker UAS Systems"
+          ]
+        },
+        {
+          "symbol": "TSLL",
+          "price": 7.92,
+          "momentum_pct": 9.39,
+          "avg_dollar_vol": 25809670,
+          "max_day_jump_pct": 6.98,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "SOFI",
+          "price": 18.42,
+          "momentum_pct": 9.22,
+          "avg_dollar_vol": 56622446,
+          "max_day_jump_pct": 10.55,
+          "sector": "Financial Services",
+          "headlines": [
+            "Palantir, Snap Inc.,CoreWeave, ON Semiconductor and SoFi Technologies: Why These 5 Stocks Are on Investors' Radars Today",
+            "A Big Splash In The ESG Fixed Income Space",
+            "SoFi Stock Surges Monday: What's Driving the Post-Earnings Rebound?",
+            "SoFi: More Wall St. Games"
+          ]
+        },
+        {
+          "symbol": "NOK",
+          "price": 9.94,
+          "momentum_pct": 7.23,
+          "avg_dollar_vol": 55772280,
+          "max_day_jump_pct": 8.1,
+          "sector": "Communications",
+          "headlines": []
+        },
+        {
+          "symbol": "PFE",
+          "price": 25.57,
+          "momentum_pct": 3.67,
+          "avg_dollar_vol": 58741487,
+          "max_day_jump_pct": 2.45,
+          "sector": "Pharmaceuticals",
+          "headlines": [
+            "Pfizer Hikes 2026 Sales Outlook By $500 Million On Second-Quarter Beat",
+            "NYSE Content Update: ADI to Make NYSE Trading Debut After Spin-Off",
+            "Pfizer Covid Pill Revenue Plunges 95%. Why Earnings Are Lifting the Stock Anyway.",
+            "Pfizer\u2019s (NYSE:PFE) Q2 CY2026: Beats On Revenue",
+            "Pfizer (NYSE:PFE) Beats Q2 Expectations and Raises 2026 Revenue Guidance"
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "symbol": "GRAB",
+          "target_dollars": 50,
+          "rationale": "Strong Q2 earnings with positive sentiment. Clear catalyst for momentum."
+        },
+        {
+          "symbol": "PFE",
+          "target_dollars": 50,
+          "rationale": "Beat Q2 expectations, raised 2026 guidance. Clear positive catalyst."
+        }
+      ],
+      "rejected": [],
+      "orders": [
+        {
+          "symbol": "GRAB",
+          "shares": 13,
+          "entry_price": 3.75,
+          "stop_price": 3.64,
+          "take_profit_price": 4.12,
+          "notional": 48.75,
+          "sector": "Road & Rail",
+          "rationale": "Strong Q2 earnings with positive sentiment. Clear catalyst for momentum.",
+          "status": "submitted",
+          "order_id": "3907d7c7-0bac-48eb-bb79-4193e236a791"
+        },
+        {
+          "symbol": "PFE",
+          "shares": 1,
+          "entry_price": 25.57,
+          "stop_price": 24.8,
+          "take_profit_price": 28.13,
+          "notional": 25.57,
+          "sector": "Pharmaceuticals",
+          "rationale": "Beat Q2 expectations, raised 2026 guidance. Clear positive catalyst.",
+          "status": "submitted",
+          "order_id": "78b01045-4c96-4769-8997-39bf12b60634"
+        }
+      ]
+    },
     {
       "day": "2026-08-03",
       "equity": 99988.92,
