@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-04T15:59:25.878533+00:00",
+  "updated_at": "2026-08-05T15:49:05.986927+00:00",
   "account": {
-    "equity": 99988.92,
-    "cash": 99988.92,
-    "buying_power": 399881.19,
-    "long_market_value": 0.0,
-    "last_equity": 99988.92
+    "equity": 99986.84,
+    "cash": 99877.92,
+    "buying_power": 399769.35,
+    "long_market_value": 108.92,
+    "last_equity": 99988.21
   },
   "curve": [
     {
@@ -133,19 +133,57 @@
       "equity": 99988.92,
       "pl": 0.0,
       "pl_pct": 0.0
+    },
+    {
+      "t": "2026-08-05",
+      "equity": 99988.21,
+      "pl": -0.71,
+      "pl_pct": 0.0
     }
   ],
   "base_value": 99995.6,
-  "positions": [],
-  "sector_allocation": [],
+  "positions": [
+    {
+      "symbol": "ONDS",
+      "qty": 4.0,
+      "entry_price": 8.87,
+      "current_price": 8.865,
+      "market_value": 35.46,
+      "unrealized_pl": -0.02,
+      "unrealized_plpc": -0.06,
+      "sector": "Communications"
+    },
+    {
+      "symbol": "PFE",
+      "qty": 1.0,
+      "entry_price": 25.59,
+      "current_price": 25.425,
+      "market_value": 25.43,
+      "unrealized_pl": -0.17,
+      "unrealized_plpc": -0.65,
+      "sector": "Pharmaceuticals"
+    }
+  ],
+  "sector_allocation": [
+    {
+      "sector": "Communications",
+      "market_value": 35.46,
+      "pct": 58.2
+    },
+    {
+      "sector": "Pharmaceuticals",
+      "market_value": 25.43,
+      "pct": 41.8
+    }
+  ],
   "kpis": {
-    "equity": 99988.92,
-    "total_pl": -10.59,
+    "equity": 99986.84,
+    "total_pl": -12.6,
     "total_pl_pct": -0.01,
-    "realized_pl": -10.59,
-    "unrealized_pl": 0,
-    "open_positions": 0,
-    "num_closed_trades": 32,
-    "win_rate": 21.9
+    "realized_pl": -12.41,
+    "unrealized_pl": -0.19,
+    "open_positions": 2,
+    "num_closed_trades": 33,
+    "win_rate": 21.2
   }
 }

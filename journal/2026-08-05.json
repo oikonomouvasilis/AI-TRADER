@@ -1,0 +1,144 @@
+{
+  "day": "2026-08-05",
+  "equity": 99986.93,
+  "candidates": [
+    {
+      "symbol": "ZETA",
+      "price": 26.84,
+      "momentum_pct": 29.41,
+      "avg_dollar_vol": 11048508,
+      "max_day_jump_pct": 10.77,
+      "sector": "Technology",
+      "headlines": [
+        "Wynn Resorts Posts Upbeat Q2 Earnings, Joins Bloomin' Brands, Shopify, Owens Corning And Other Big Stocks Moving Higher On Wednesday",
+        "Digital Turbine: A Turnaround Story In Mobile Advertising Smashes Its Earnings",
+        "Zeta Global (NYSE:ZETA) Tumbles on EPS Miss Despite Revenue Beat and Raised Guidance",
+        "Zeta Global Holdings Corp. (ZETA) Q2 2026 Earnings Call Transcript",
+        "Zeta Global Holdings Sees Q3 Sales $469.000M-$472.000M vs $461.009M Est"
+      ]
+    },
+    {
+      "symbol": "SNAP",
+      "price": 5.33,
+      "momentum_pct": 18.05,
+      "avg_dollar_vol": 14409424,
+      "max_day_jump_pct": 14.0,
+      "sector": "Media",
+      "headlines": [
+        "Top 3 Tech And Telecom Stocks That May Crash In Q3",
+        "Mizuho Maintains Neutral on Snap, Raises Price Target to $6",
+        "Snap: Too Cheap To Ignore",
+        "Stock Of The Day: Is Snap Breaking Out?",
+        "Snap Inc. 2026 Q2 - Results - Earnings Call Presentation"
+      ]
+    },
+    {
+      "symbol": "GRAB",
+      "price": 3.69,
+      "momentum_pct": 10.64,
+      "avg_dollar_vol": 13745177,
+      "max_day_jump_pct": 4.99,
+      "sector": "Road & Rail",
+      "headlines": [
+        "Grab: Sturdy GMV Acceleration Keeps Shares A 'Buy'",
+        "Grab Delivers Strong GMV, Raises Outlook",
+        "McDonald's Q2: Decent Business, Unconvincing Stock",
+        "Grab Q2: The Super App Is Just Getting Started",
+        "Grab Holdings Raises FY2026 Sales Guidance from $4.040B-$4.100B to $4.100B-$4.150B vs $4.117B Est"
+      ]
+    },
+    {
+      "symbol": "ONDS",
+      "price": 8.85,
+      "momentum_pct": 10.07,
+      "avg_dollar_vol": 11688807,
+      "max_day_jump_pct": 11.8,
+      "sector": "Communications",
+      "headlines": [
+        "Ondas U.S. Unit Mistral Receives $50M+ Order From The U.S. Army For Tactical Lethal Unmanned Systems",
+        "Redwire Receives $20M In Follow-On Purchase Orders From Navy And Marine Corps PMA-263 To Deliver Advanced Navigation Stalker UAS Systems"
+      ]
+    },
+    {
+      "symbol": "TSLL",
+      "price": 7.84,
+      "momentum_pct": 8.29,
+      "avg_dollar_vol": 26495931,
+      "max_day_jump_pct": 6.98,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "EOSE",
+      "price": 3.88,
+      "momentum_pct": 7.77,
+      "avg_dollar_vol": 4157670,
+      "max_day_jump_pct": 15.27,
+      "sector": "Electrical Equipment",
+      "headlines": [
+        "12 Industrials Stocks Moving In Wednesday's Pre-Market Session",
+        "Emerson Electric shares are trading higher after the company reported better-than-expected Q1 adjusted EPS results and raised its FY26 EPS guidance."
+      ]
+    },
+    {
+      "symbol": "NOK",
+      "price": 9.72,
+      "momentum_pct": 4.91,
+      "avg_dollar_vol": 54428114,
+      "max_day_jump_pct": 8.1,
+      "sector": "Communications",
+      "headlines": [
+        "These stocks are making the most noise in today's session."
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "symbol": "GRAB",
+      "target_dollars": 50,
+      "rationale": "Strong GMV acceleration, raised outlook, and positive analyst sentiment provide a clear catalyst."
+    },
+    {
+      "symbol": "ONDS",
+      "target_dollars": 50,
+      "rationale": "Significant $50M+ order from the U.S. Army provides a strong, credible news catalyst."
+    }
+  ],
+  "rejected": [],
+  "orders": [
+    {
+      "symbol": "GRAB",
+      "shares": 13,
+      "entry_price": 3.69,
+      "stop_price": 3.58,
+      "take_profit_price": 4.06,
+      "notional": 47.97,
+      "sector": "Road & Rail",
+      "rationale": "Strong GMV acceleration, raised outlook, and positive analyst sentiment provide a clear catalyst.",
+      "status": "submitted",
+      "order_id": "bb5e1566-0b42-4e3b-9285-4cda50b879de"
+    },
+    {
+      "symbol": "ONDS",
+      "shares": 5,
+      "entry_price": 8.85,
+      "stop_price": 8.58,
+      "take_profit_price": 9.74,
+      "notional": 44.25,
+      "sector": "Communications",
+      "rationale": "Significant $50M+ order from the U.S. Army provides a strong, credible news catalyst.",
+      "status": "submitted",
+      "order_id": "9305d800-8845-409e-b8f8-52d2988488af"
+    }
+  ],
+  "stops": [
+    {
+      "symbol": "PFE",
+      "qty": 1,
+      "stop_price": 24.8,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"1\",\"held_for_orders\":\"1\",\"message\":\"insufficient qty available for order (requested: 1, available: 0)\",\"related_orders\":[\"d830c253-1e5d-421c-93f6-44fec5965e5e\"],\"symbol\":\"PFE\"}"
+    }
+  ],
+  "written_at": "2026-08-05T15:49:05.600617+00:00"
+}

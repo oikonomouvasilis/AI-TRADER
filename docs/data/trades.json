@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T15:59:25.718860+00:00",
+  "updated_at": "2026-08-05T15:49:05.822495+00:00",
   "fills": [
     {
       "t": "2026-06-08T18:25:43.162492+00:00",
@@ -558,6 +558,33 @@
       "price": 15.32,
       "value": 45.96,
       "order_id": "bc60281f-dfb1-4643-876d-1dc13ffb2202"
+    },
+    {
+      "t": "2026-08-04T15:59:26.243846+00:00",
+      "symbol": "PFE",
+      "side": "buy",
+      "qty": 1.0,
+      "price": 25.59,
+      "value": 25.59,
+      "order_id": "78b01045-4c96-4769-8997-39bf12b60634"
+    },
+    {
+      "t": "2026-08-04T15:59:27.918783+00:00",
+      "symbol": "GRAB",
+      "side": "buy",
+      "qty": 13.0,
+      "price": 3.76,
+      "value": 48.88,
+      "order_id": "3907d7c7-0bac-48eb-bb79-4193e236a791"
+    },
+    {
+      "t": "2026-08-05T13:33:09.016890+00:00",
+      "symbol": "GRAB",
+      "side": "sell",
+      "qty": 13.0,
+      "price": 3.62,
+      "value": 47.06,
+      "order_id": "d4dc446e-7d3c-484c-afb9-0558fd7a3437"
     }
   ],
   "closed": [
@@ -912,7 +939,39 @@
       "pl": -1.53,
       "pl_pct": -3.22,
       "sector": "Automobiles"
+    },
+    {
+      "symbol": "GRAB",
+      "qty": 13.0,
+      "entry_time": "2026-08-04T15:59:27.918783+00:00",
+      "entry_price": 3.76,
+      "exit_time": "2026-08-05T13:33:09.016890+00:00",
+      "exit_price": 3.62,
+      "pl": -1.82,
+      "pl_pct": -3.72,
+      "sector": "Road & Rail"
     }
   ],
-  "open": []
+  "open": [
+    {
+      "symbol": "ONDS",
+      "qty": 4.0,
+      "entry_price": 8.87,
+      "current_price": 8.865,
+      "market_value": 35.46,
+      "unrealized_pl": -0.02,
+      "unrealized_plpc": -0.06,
+      "sector": "Communications"
+    },
+    {
+      "symbol": "PFE",
+      "qty": 1.0,
+      "entry_price": 25.59,
+      "current_price": 25.425,
+      "market_value": 25.43,
+      "unrealized_pl": -0.17,
+      "unrealized_plpc": -0.65,
+      "sector": "Pharmaceuticals"
+    }
+  ]
 }
