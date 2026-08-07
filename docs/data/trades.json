@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T15:49:05.822495+00:00",
+  "updated_at": "2026-08-07T14:35:51.647874+00:00",
   "fills": [
     {
       "t": "2026-06-08T18:25:43.162492+00:00",
@@ -585,6 +585,33 @@
       "price": 3.62,
       "value": 47.06,
       "order_id": "d4dc446e-7d3c-484c-afb9-0558fd7a3437"
+    },
+    {
+      "t": "2026-08-05T15:49:05.844954+00:00",
+      "symbol": "GRAB",
+      "side": "buy",
+      "qty": 13.0,
+      "price": 3.7,
+      "value": 48.1,
+      "order_id": "bb5e1566-0b42-4e3b-9285-4cda50b879de"
+    },
+    {
+      "t": "2026-08-05T15:49:06.788080+00:00",
+      "symbol": "ONDS",
+      "side": "buy",
+      "qty": 5.0,
+      "price": 8.87,
+      "value": 44.35,
+      "order_id": "9305d800-8845-409e-b8f8-52d2988488af"
+    },
+    {
+      "t": "2026-08-06T13:31:58.483616+00:00",
+      "symbol": "ONDS",
+      "side": "sell",
+      "qty": 5.0,
+      "price": 8.67,
+      "value": 43.35,
+      "order_id": "5b8f5527-4054-4e2e-bdcb-44d22ccd46fc"
     }
   ],
   "closed": [
@@ -950,27 +977,48 @@
       "pl": -1.82,
       "pl_pct": -3.72,
       "sector": "Road & Rail"
+    },
+    {
+      "symbol": "ONDS",
+      "qty": 5.0,
+      "entry_time": "2026-08-05T15:49:06.788080+00:00",
+      "entry_price": 8.87,
+      "exit_time": "2026-08-06T13:31:58.483616+00:00",
+      "exit_price": 8.67,
+      "pl": -1.0,
+      "pl_pct": -2.25,
+      "sector": "Communications"
     }
   ],
   "open": [
     {
-      "symbol": "ONDS",
-      "qty": 4.0,
-      "entry_price": 8.87,
-      "current_price": 8.865,
-      "market_value": 35.46,
-      "unrealized_pl": -0.02,
-      "unrealized_plpc": -0.06,
-      "sector": "Communications"
+      "symbol": "DV",
+      "qty": 2.0,
+      "entry_price": 13.27,
+      "current_price": 13.265,
+      "market_value": 26.53,
+      "unrealized_pl": -0.01,
+      "unrealized_plpc": -0.04,
+      "sector": "Media"
+    },
+    {
+      "symbol": "GRAB",
+      "qty": 13.0,
+      "entry_price": 3.7,
+      "current_price": 3.695,
+      "market_value": 48.03,
+      "unrealized_pl": -0.07,
+      "unrealized_plpc": -0.14,
+      "sector": "Road & Rail"
     },
     {
       "symbol": "PFE",
       "qty": 1.0,
       "entry_price": 25.59,
-      "current_price": 25.425,
-      "market_value": 25.43,
-      "unrealized_pl": -0.17,
-      "unrealized_plpc": -0.65,
+      "current_price": 26.425,
+      "market_value": 26.43,
+      "unrealized_pl": 0.83,
+      "unrealized_plpc": 3.26,
       "sector": "Pharmaceuticals"
     }
   ]

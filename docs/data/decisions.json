@@ -1,6 +1,154 @@
 {
-  "updated_at": "2026-08-05T15:49:05.989354+00:00",
+  "updated_at": "2026-08-07T14:35:51.814229+00:00",
   "days": [
+    {
+      "day": "2026-08-07",
+      "equity": 99986.81,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "TE",
+          "price": 5.67,
+          "momentum_pct": 52.55,
+          "avg_dollar_vol": 12153577,
+          "max_day_jump_pct": 18.56,
+          "sector": "Electrical Equipment",
+          "headlines": [
+            "Chip Stocks Find Buyers After Earnings Shock Shakes Out AI Trade",
+            "Shares of solar-related stocks are trading lower after President Trump posted on social media that he is considering a \"massive increase of Tariffs on Chinese products coming into the United States of America\" and that there may be other countermeasures.",
+            "T1 Energy: Domestic Premium Does Not Guarantee Operational Success"
+          ]
+        },
+        {
+          "symbol": "SOUN",
+          "price": 7.64,
+          "momentum_pct": 33.57,
+          "avg_dollar_vol": 7833222,
+          "max_day_jump_pct": 10.21,
+          "sector": "Technology",
+          "headlines": [
+            "Thursday's session: most active stocks",
+            "Motorola Solutions Posts Upbeat Q2 Earnings, Joins Insmed, Diodes, Parker-Hannifin And Other Big Stocks Moving Higher On Thursday",
+            "12 Information Technology Stocks Moving In Thursday's Pre-Market Session",
+            "Short Squeeze And Earnings: Why SoundHound AI Stock Spiked Thursday",
+            "Market-Moving news for August 6th"
+          ]
+        },
+        {
+          "symbol": "BTG",
+          "price": 4.66,
+          "momentum_pct": 24.27,
+          "avg_dollar_vol": 5573510,
+          "max_day_jump_pct": 13.8,
+          "sector": "Metals & Mining",
+          "headlines": [
+            "Sunshine Silver Mining Shares Halted On Circuit Breaker To The Upside At $16.41/Share"
+          ]
+        },
+        {
+          "symbol": "MSTU",
+          "price": 2.17,
+          "momentum_pct": 22.25,
+          "avg_dollar_vol": 13569643,
+          "max_day_jump_pct": 15.43,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "TSLL",
+          "price": 8.07,
+          "momentum_pct": 19.91,
+          "avg_dollar_vol": 26996149,
+          "max_day_jump_pct": 6.98,
+          "sector": "Unknown",
+          "headlines": [
+            "QUICK SPARK: Direxion Launches SpaceX 2X Bear ETF as Lock-Up Ends"
+          ]
+        },
+        {
+          "symbol": "SPCH",
+          "price": 7.46,
+          "momentum_pct": 17.68,
+          "avg_dollar_vol": 1604053,
+          "max_day_jump_pct": 19.59,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "DV",
+          "price": 13.26,
+          "momentum_pct": 15.0,
+          "avg_dollar_vol": 2432954,
+          "max_day_jump_pct": 13.14,
+          "sector": "Media",
+          "headlines": [
+            "DoubleVerify (NYSE:DV) Jumps on Nielsen Acquisition and EPS Beat",
+            "12 Communication Services Stocks Moving In Thursday's After-Market Session",
+            "Digital Turbine: A Turnaround Story In Mobile Advertising Smashes Its Earnings"
+          ]
+        },
+        {
+          "symbol": "NOK",
+          "price": 9.38,
+          "momentum_pct": 11.61,
+          "avg_dollar_vol": 45599903,
+          "max_day_jump_pct": 8.1,
+          "sector": "Communications",
+          "headlines": []
+        },
+        {
+          "symbol": "DRAM",
+          "price": 49.31,
+          "momentum_pct": 10.17,
+          "avg_dollar_vol": 150921911,
+          "max_day_jump_pct": 16.22,
+          "sector": "Unknown",
+          "headlines": [
+            "DRAM Was Just the Beginning: Roundhill's AI Playbook Expands Into Neocloud and Photonics",
+            "Back From My Japan Vacation: On-The-Ground Economic Insights And Favorite Stocks"
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "symbol": "SOUN",
+          "target_dollars": 50,
+          "rationale": "Strong momentum with clear news catalyst: 'Short Squeeze And Earnings: Why SoundHound AI Stock Spiked Thursday'."
+        },
+        {
+          "symbol": "DV",
+          "target_dollars": 50,
+          "rationale": "Solid momentum supported by 'DoubleVerify (NYSE:DV) Jumps on Nielsen Acquisition and EPS Beat' news."
+        }
+      ],
+      "rejected": [],
+      "orders": [
+        {
+          "symbol": "SOUN",
+          "shares": 6,
+          "entry_price": 7.64,
+          "stop_price": 7.41,
+          "take_profit_price": 8.4,
+          "notional": 45.84,
+          "sector": "Technology",
+          "rationale": "Strong momentum with clear news catalyst: 'Short Squeeze And Earnings: Why SoundHound AI Stock Spiked Thursday'.",
+          "status": "submitted",
+          "order_id": "e41ead5a-c547-4c59-adfd-f9c5e0e9ac64"
+        },
+        {
+          "symbol": "DV",
+          "shares": 3,
+          "entry_price": 13.26,
+          "stop_price": 12.86,
+          "take_profit_price": 14.59,
+          "notional": 39.78,
+          "sector": "Media",
+          "rationale": "Solid momentum supported by 'DoubleVerify (NYSE:DV) Jumps on Nielsen Acquisition and EPS Beat' news.",
+          "status": "submitted",
+          "order_id": "358b6ce5-6640-4662-bf06-c0a3b284551a"
+        }
+      ]
+    },
     {
       "day": "2026-08-05",
       "equity": 99986.93,
