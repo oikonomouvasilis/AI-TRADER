@@ -1,0 +1,139 @@
+{
+  "day": "2026-08-10",
+  "equity": 99984.77,
+  "candidates": [
+    {
+      "symbol": "ACHR",
+      "price": 6.57,
+      "momentum_pct": 35.74,
+      "avg_dollar_vol": 7711170,
+      "max_day_jump_pct": 17.74,
+      "sector": "Aerospace & Defense",
+      "headlines": [
+        "Wall Street Week Ahead"
+      ]
+    },
+    {
+      "symbol": "SMCI",
+      "price": 32.59,
+      "momentum_pct": 13.79,
+      "avg_dollar_vol": 46905238,
+      "max_day_jump_pct": 10.65,
+      "sector": "Technology",
+      "headlines": [
+        "Stocks Mostly Up Pre-Bell as Traders Assess Middle East Developments, Await Key Inflation Data",
+        "Super Micro Computer Continues Its 3-Month Fall: One Wall Street Bull\u2019s Thesis Predicts 55% Upside From Here",
+        "Earnings Season, Persian Gulf Lull, Lift Wall Street Pre-Bell; Asia, Europe Up",
+        "SMCI, Apple, Intel, Berkshire Hathaway, and More Stocks That Explain Today\u2019s Market",
+        "Inflation Data, Super Micro, Cisco, Rocket Lab, Tapestry, and More to Watch This Week"
+      ]
+    },
+    {
+      "symbol": "ONDS",
+      "price": 9.39,
+      "momentum_pct": 12.59,
+      "avg_dollar_vol": 14638419,
+      "max_day_jump_pct": 6.12,
+      "sector": "Communications",
+      "headlines": []
+    },
+    {
+      "symbol": "MUU",
+      "price": 26.25,
+      "momentum_pct": 9.56,
+      "avg_dollar_vol": 8350045,
+      "max_day_jump_pct": 15.17,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "MSTU",
+      "price": 1.98,
+      "momentum_pct": 9.39,
+      "avg_dollar_vol": 19396678,
+      "max_day_jump_pct": 6.38,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "PFE",
+      "price": 26.94,
+      "momentum_pct": 7.57,
+      "avg_dollar_vol": 64167555,
+      "max_day_jump_pct": 2.08,
+      "sector": "Pharmaceuticals",
+      "headlines": [
+        "Wall Street Week Ahead",
+        "August Buys: 4 IDEAL S&P 500 'Safer' Dividend Dogs",
+        "Novavax (NVAX) Is Up 8.6% After Beating Q2 Estimates And Expanding Big-Pharma Partnerships - What's Changed"
+      ]
+    },
+    {
+      "symbol": "TSLL",
+      "price": 8.16,
+      "momentum_pct": 4.48,
+      "avg_dollar_vol": 30599064,
+      "max_day_jump_pct": 5.67,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "PLUG",
+      "price": 2.15,
+      "momentum_pct": 3.36,
+      "avg_dollar_vol": 3818537,
+      "max_day_jump_pct": 6.31,
+      "sector": "Electrical Equipment",
+      "headlines": [
+        "Wall Street Week Ahead",
+        "Cisco, Tencent Headline Muted Earnings Week"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "symbol": "SMCI",
+      "target_dollars": 50,
+      "rationale": "Positive analyst thesis and market sentiment, strong momentum, within daily and sector limits."
+    }
+  ],
+  "rejected": [],
+  "orders": [
+    {
+      "symbol": "SMCI",
+      "shares": 1,
+      "entry_price": 32.59,
+      "stop_price": 31.61,
+      "take_profit_price": 35.85,
+      "notional": 32.59,
+      "sector": "Technology",
+      "rationale": "Positive analyst thesis and market sentiment, strong momentum, within daily and sector limits.",
+      "status": "submitted",
+      "order_id": "f4ab8881-9f27-476c-a3a0-d6b0611f3650"
+    }
+  ],
+  "stops": [
+    {
+      "symbol": "DV",
+      "qty": 3,
+      "stop_price": 12.86,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"3\",\"held_for_orders\":\"3\",\"message\":\"insufficient qty available for order (requested: 3, available: 0)\",\"related_orders\":[\"4e068a33-8995-4b10-97e7-a75eec63a3ec\"],\"symbol\":\"DV\"}"
+    },
+    {
+      "symbol": "GRAB",
+      "qty": 13,
+      "stop_price": 3.58,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"13\",\"held_for_orders\":\"13\",\"message\":\"insufficient qty available for order (requested: 13, available: 0)\",\"related_orders\":[\"47236a05-6ad7-4d67-bfe4-e7cad0d6f5b0\"],\"symbol\":\"GRAB\"}"
+    },
+    {
+      "symbol": "PFE",
+      "qty": 1,
+      "stop_price": 24.8,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"1\",\"held_for_orders\":\"1\",\"message\":\"insufficient qty available for order (requested: 1, available: 0)\",\"related_orders\":[\"d830c253-1e5d-421c-93f6-44fec5965e5e\"],\"symbol\":\"PFE\"}"
+    }
+  ],
+  "written_at": "2026-08-10T14:40:18.354701+00:00"
+}
