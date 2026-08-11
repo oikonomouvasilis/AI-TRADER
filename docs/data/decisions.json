@@ -1,6 +1,127 @@
 {
-  "updated_at": "2026-08-10T14:40:18.553817+00:00",
+  "updated_at": "2026-08-11T14:39:48.885051+00:00",
   "days": [
+    {
+      "day": "2026-08-11",
+      "equity": 99985.61,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "ACHR",
+          "price": 6.74,
+          "momentum_pct": 39.15,
+          "avg_dollar_vol": 10627058,
+          "max_day_jump_pct": 12.19,
+          "sector": "Aerospace & Defense",
+          "headlines": [
+            "Archer Aviation Inc. (ACHR) Q2 2026 Earnings Call Transcript",
+            "Check out the stocks that are attracting the most attention and driving market activity.",
+            "Archer Aviation Reports Q2 Earnings: CEO Highlights 'Inflection Point' for Company",
+            "Archer Aviation Q2 EPS $(0.34), Inline, Sales $5.000M Beat $1.964M Estimate",
+            "There are notable gap-ups and gap-downs in today's session."
+          ]
+        },
+        {
+          "symbol": "ONDS",
+          "price": 9.41,
+          "momentum_pct": 12.89,
+          "avg_dollar_vol": 14928189,
+          "max_day_jump_pct": 6.12,
+          "sector": "Communications",
+          "headlines": [
+            "Is Michael Burry Right? 3 Top Tech Stocks With 'High' Short Interest",
+            "Ondas Wins NFL Counter-Drone Deal to Protect Jaguars' EverBank Stadium"
+          ]
+        },
+        {
+          "symbol": "SMCI",
+          "price": 31.88,
+          "momentum_pct": 11.31,
+          "avg_dollar_vol": 52045656,
+          "max_day_jump_pct": 10.65,
+          "sector": "Technology",
+          "headlines": [
+            "Wondering what's happening in today's S&P500  pre-market session?",
+            "Super Micro Already Told Us Its Revenue, Its Margins, and Its Orders. Tuesday's Report Has One Number Left.",
+            "What Does Super Micro Computer (SMCI) Winning A Gigawatt AI Data Center Mean?",
+            "Here\u2019s How Much Supermicro Stock Is Expected to Move After Earnings",
+            "Supermicro to report Q4 results in latest test for AI infrastructure company"
+          ]
+        },
+        {
+          "symbol": "TSLL",
+          "price": 8.34,
+          "momentum_pct": 6.79,
+          "avg_dollar_vol": 32864643,
+          "max_day_jump_pct": 5.67,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "MSTU",
+          "price": 1.92,
+          "momentum_pct": 5.8,
+          "avg_dollar_vol": 20403601,
+          "max_day_jump_pct": 6.38,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "PLUG",
+          "price": 2.18,
+          "momentum_pct": 4.56,
+          "avg_dollar_vol": 5842567,
+          "max_day_jump_pct": 6.31,
+          "sector": "Electrical Equipment",
+          "headlines": [
+            "Wall Street Breakfast Podcast: Riot's $9.1B AI Mystery",
+            "Plug Power Inc. (PLUG) Q2 2026 Earnings Call Transcript",
+            "Monday's after hours session: top gainers and losers",
+            "Check out the stocks that are attracting the most attention and driving market activity.",
+            "12 Industrials Stocks Moving In Monday's After-Market Session"
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "symbol": "ONDS",
+          "target_dollars": 47.0,
+          "rationale": "Strong news catalyst (NFL deal) supporting momentum, good volume. Within daily/sector limits."
+        },
+        {
+          "symbol": "ACHR",
+          "target_dollars": 47.0,
+          "rationale": "Positive earnings report and CEO comments indicate an 'inflection point'. Strong momentum."
+        }
+      ],
+      "rejected": [],
+      "orders": [
+        {
+          "symbol": "ONDS",
+          "shares": 4,
+          "entry_price": 9.41,
+          "stop_price": 9.13,
+          "take_profit_price": 10.35,
+          "notional": 37.64,
+          "sector": "Communications",
+          "rationale": "Strong news catalyst (NFL deal) supporting momentum, good volume. Within daily/sector limits.",
+          "status": "submitted",
+          "order_id": "10b67bc3-5e78-4d79-b614-a122d409bfc2"
+        },
+        {
+          "symbol": "ACHR",
+          "shares": 6,
+          "entry_price": 6.74,
+          "stop_price": 6.54,
+          "take_profit_price": 7.41,
+          "notional": 40.44,
+          "sector": "Aerospace & Defense",
+          "rationale": "Positive earnings report and CEO comments indicate an 'inflection point'. Strong momentum.",
+          "status": "submitted",
+          "order_id": "f9d98c67-23b0-45b4-83e6-786d4596225c"
+        }
+      ]
+    },
     {
       "day": "2026-08-10",
       "equity": 99984.77,
