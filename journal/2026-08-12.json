@@ -1,0 +1,138 @@
+{
+  "day": "2026-08-12",
+  "equity": 99984.33,
+  "candidates": [
+    {
+      "symbol": "SMCI",
+      "price": 36.32,
+      "momentum_pct": 26.82,
+      "avg_dollar_vol": 62654425,
+      "max_day_jump_pct": 14.61,
+      "sector": "Technology",
+      "headlines": [
+        "Which S&P500 stocks are moving before the opening bell on Wednesday?",
+        "AI Capex Roars On After Hours as Hormuz Stress Keeps Traders on Edge",
+        "Super Micro Earnings Review: Q4 Results Strengthen The Bull Case",
+        "Super Micro Computer, Inc. (SMCI) Q4 2026 Earnings Call Transcript",
+        "Get insights into the top gainers and losers of Tuesday's after-hours session."
+      ]
+    },
+    {
+      "symbol": "MUU",
+      "price": 29.48,
+      "momentum_pct": 23.04,
+      "avg_dollar_vol": 7988393,
+      "max_day_jump_pct": 15.17,
+      "sector": "Unknown",
+      "headlines": [
+        "Chart Of The Day: About Those Leveraged ETFs And Related Concerns"
+      ]
+    },
+    {
+      "symbol": "ONDS",
+      "price": 9.92,
+      "momentum_pct": 18.94,
+      "avg_dollar_vol": 16103401,
+      "max_day_jump_pct": 6.12,
+      "sector": "Communications",
+      "headlines": [
+        "Ondas Wins Multi-Million-Dollar Israel Contract For Tactical Attack Drones",
+        "JEDI: The New Warfare Paradigm",
+        "This Ondas Analyst Begins Coverage On A Bullish Note; Here Are Top 4 Initiations For Tuesday",
+        "Is Michael Burry Right? 3 Top Tech Stocks With 'High' Short Interest",
+        "Roth Capital Initiates Coverage On Ondas with Buy Rating, Announces Price Target of $13"
+      ]
+    },
+    {
+      "symbol": "NOK",
+      "price": 10.39,
+      "momentum_pct": 11.12,
+      "avg_dollar_vol": 43900873,
+      "max_day_jump_pct": 9.88,
+      "sector": "Communications",
+      "headlines": [
+        "Why Is Nokia Stock Surging on Tuesday?"
+      ]
+    },
+    {
+      "symbol": "IREN",
+      "price": 42.26,
+      "momentum_pct": 6.3,
+      "avg_dollar_vol": 49416537,
+      "max_day_jump_pct": 8.87,
+      "sector": "Technology",
+      "headlines": [
+        "Nvidia's Big Deal Expands The AI Horizon Once Again (Rating Upgrade)",
+        "Canaan Reports Cryptocurrency Treasury Of 1,778 BTC And 3,951 ETH; Delivers 83 BTC In January 2026"
+      ]
+    },
+    {
+      "symbol": "PLUG",
+      "price": 2.21,
+      "momentum_pct": 6.24,
+      "avg_dollar_vol": 6564961,
+      "max_day_jump_pct": 6.31,
+      "sector": "Electrical Equipment",
+      "headlines": [
+        "Which stocks are most active on Tuesday?",
+        "Plug Power Nears Gross Margin Breakeven; Material Handling 'Continues to Be a Bright Spot'",
+        "Why Is Plug Power Stock Surging Tuesday?",
+        "Stock Market Today: Dow, S&P 500, Nasdaq 100 Futures Rise as Trump Demands Compensation From Iran\u2014 Rocket Lab, ASTS SpaceMobile, Plug Power in Focus (UPDATED)",
+        "HC Wainwright & Co. Reiterates Buy on Plug Power, Maintains $7 Price Target"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "symbol": "ONDS",
+      "target_dollars": 50,
+      "rationale": "Strong news catalyst with a multi-million dollar contract and bullish analyst initiation. Good momentum."
+    }
+  ],
+  "rejected": [],
+  "orders": [
+    {
+      "symbol": "ONDS",
+      "shares": 1,
+      "entry_price": 9.92,
+      "stop_price": 9.62,
+      "take_profit_price": 10.91,
+      "notional": 9.92,
+      "sector": "Communications",
+      "rationale": "Strong news catalyst with a multi-million dollar contract and bullish analyst initiation. Good momentum.",
+      "status": "submitted",
+      "order_id": "85bf0c93-9d4c-40c6-9256-c1ce0ea0032c"
+    }
+  ],
+  "stops": [
+    {
+      "symbol": "DV",
+      "qty": 3,
+      "stop_price": 12.86,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"3\",\"held_for_orders\":\"3\",\"message\":\"insufficient qty available for order (requested: 3, available: 0)\",\"related_orders\":[\"4e068a33-8995-4b10-97e7-a75eec63a3ec\"],\"symbol\":\"DV\"}"
+    },
+    {
+      "symbol": "GRAB",
+      "qty": 13,
+      "stop_price": 3.58,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"13\",\"held_for_orders\":\"13\",\"message\":\"insufficient qty available for order (requested: 13, available: 0)\",\"related_orders\":[\"47236a05-6ad7-4d67-bfe4-e7cad0d6f5b0\"],\"symbol\":\"GRAB\"}"
+    },
+    {
+      "symbol": "ONDS",
+      "qty": 4,
+      "stop_price": 9.13,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"4\",\"held_for_orders\":\"4\",\"message\":\"insufficient qty available for order (requested: 4, available: 0)\",\"related_orders\":[\"684f473b-5d7b-4d9e-9a09-370995e94b89\"],\"symbol\":\"ONDS\"}"
+    },
+    {
+      "symbol": "PFE",
+      "qty": 1,
+      "stop_price": 24.8,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"1\",\"held_for_orders\":\"1\",\"message\":\"insufficient qty available for order (requested: 1, available: 0)\",\"related_orders\":[\"d830c253-1e5d-421c-93f6-44fec5965e5e\"],\"symbol\":\"PFE\"}"
+    }
+  ],
+  "written_at": "2026-08-12T14:40:05.579800+00:00"
+}

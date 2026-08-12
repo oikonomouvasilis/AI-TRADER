@@ -1,6 +1,114 @@
 {
-  "updated_at": "2026-08-11T14:39:48.885051+00:00",
+  "updated_at": "2026-08-12T14:40:05.996337+00:00",
   "days": [
+    {
+      "day": "2026-08-12",
+      "equity": 99984.33,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "SMCI",
+          "price": 36.32,
+          "momentum_pct": 26.82,
+          "avg_dollar_vol": 62654425,
+          "max_day_jump_pct": 14.61,
+          "sector": "Technology",
+          "headlines": [
+            "Which S&P500 stocks are moving before the opening bell on Wednesday?",
+            "AI Capex Roars On After Hours as Hormuz Stress Keeps Traders on Edge",
+            "Super Micro Earnings Review: Q4 Results Strengthen The Bull Case",
+            "Super Micro Computer, Inc. (SMCI) Q4 2026 Earnings Call Transcript",
+            "Get insights into the top gainers and losers of Tuesday's after-hours session."
+          ]
+        },
+        {
+          "symbol": "MUU",
+          "price": 29.48,
+          "momentum_pct": 23.04,
+          "avg_dollar_vol": 7988393,
+          "max_day_jump_pct": 15.17,
+          "sector": "Unknown",
+          "headlines": [
+            "Chart Of The Day: About Those Leveraged ETFs And Related Concerns"
+          ]
+        },
+        {
+          "symbol": "ONDS",
+          "price": 9.92,
+          "momentum_pct": 18.94,
+          "avg_dollar_vol": 16103401,
+          "max_day_jump_pct": 6.12,
+          "sector": "Communications",
+          "headlines": [
+            "Ondas Wins Multi-Million-Dollar Israel Contract For Tactical Attack Drones",
+            "JEDI: The New Warfare Paradigm",
+            "This Ondas Analyst Begins Coverage On A Bullish Note; Here Are Top 4 Initiations For Tuesday",
+            "Is Michael Burry Right? 3 Top Tech Stocks With 'High' Short Interest",
+            "Roth Capital Initiates Coverage On Ondas with Buy Rating, Announces Price Target of $13"
+          ]
+        },
+        {
+          "symbol": "NOK",
+          "price": 10.39,
+          "momentum_pct": 11.12,
+          "avg_dollar_vol": 43900873,
+          "max_day_jump_pct": 9.88,
+          "sector": "Communications",
+          "headlines": [
+            "Why Is Nokia Stock Surging on Tuesday?"
+          ]
+        },
+        {
+          "symbol": "IREN",
+          "price": 42.26,
+          "momentum_pct": 6.3,
+          "avg_dollar_vol": 49416537,
+          "max_day_jump_pct": 8.87,
+          "sector": "Technology",
+          "headlines": [
+            "Nvidia's Big Deal Expands The AI Horizon Once Again (Rating Upgrade)",
+            "Canaan Reports Cryptocurrency Treasury Of 1,778 BTC And 3,951 ETH; Delivers 83 BTC In January 2026"
+          ]
+        },
+        {
+          "symbol": "PLUG",
+          "price": 2.21,
+          "momentum_pct": 6.24,
+          "avg_dollar_vol": 6564961,
+          "max_day_jump_pct": 6.31,
+          "sector": "Electrical Equipment",
+          "headlines": [
+            "Which stocks are most active on Tuesday?",
+            "Plug Power Nears Gross Margin Breakeven; Material Handling 'Continues to Be a Bright Spot'",
+            "Why Is Plug Power Stock Surging Tuesday?",
+            "Stock Market Today: Dow, S&P 500, Nasdaq 100 Futures Rise as Trump Demands Compensation From Iran\u2014 Rocket Lab, ASTS SpaceMobile, Plug Power in Focus (UPDATED)",
+            "HC Wainwright & Co. Reiterates Buy on Plug Power, Maintains $7 Price Target"
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "symbol": "ONDS",
+          "target_dollars": 50,
+          "rationale": "Strong news catalyst with a multi-million dollar contract and bullish analyst initiation. Good momentum."
+        }
+      ],
+      "rejected": [],
+      "orders": [
+        {
+          "symbol": "ONDS",
+          "shares": 1,
+          "entry_price": 9.92,
+          "stop_price": 9.62,
+          "take_profit_price": 10.91,
+          "notional": 9.92,
+          "sector": "Communications",
+          "rationale": "Strong news catalyst with a multi-million dollar contract and bullish analyst initiation. Good momentum.",
+          "status": "submitted",
+          "order_id": "85bf0c93-9d4c-40c6-9256-c1ce0ea0032c"
+        }
+      ]
+    },
     {
       "day": "2026-08-11",
       "equity": 99985.61,
