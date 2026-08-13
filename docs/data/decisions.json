@@ -1,6 +1,174 @@
 {
-  "updated_at": "2026-08-12T14:40:05.996337+00:00",
+  "updated_at": "2026-08-13T14:40:19.309611+00:00",
   "days": [
+    {
+      "day": "2026-08-13",
+      "equity": 99981.14,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "SMCI",
+          "price": 41.41,
+          "momentum_pct": 30.67,
+          "avg_dollar_vol": 80314120,
+          "max_day_jump_pct": 18.59,
+          "sector": "Technology",
+          "headlines": [
+            "DELL Stock On Track To Top $500 For First Time As AI Server Boom Gets Fresh Fuel From Lenovo, SMCI",
+            "Korea\u2019s Stock Market Surges Another 3.5% Overnight. Intel, Coherent, and Micron Among Most Active Premarket Stocks in US Trading.",
+            "Cool CPI Lights the Fuse Under AI Hardware as Software Takes a Beating",
+            "Super Micro Guided Fiscal 2027 Revenue $16 Billion Above Wall Street and Missed the Quarter Anyway",
+            "Dow Jones Futures: Cisco, Coherent Are Earnings Losers After Nebius, Lumentum, CoreWeave Lead AI Rally"
+          ]
+        },
+        {
+          "symbol": "IREN",
+          "price": 47.59,
+          "momentum_pct": 16.51,
+          "avg_dollar_vol": 51812908,
+          "max_day_jump_pct": 9.89,
+          "sector": "Technology",
+          "headlines": [
+            "Riot Platforms: The $9.1 Billion Anthropic Deal Changes Everything",
+            "Galaxy Digital shares are trading higher after BTIG reiterated its Buy rating on the stock and maintained a $50 price target.",
+            "Why Is IREN Stock Surging on Wednesday?",
+            "Nebius Group, Astronics, H&R Block, WhiteFiber And Other Big Stocks Moving Higher On Wednesday",
+            "Neocloud Stocks Catch Fire As CoreWeave Doubles Revenue"
+          ]
+        },
+        {
+          "symbol": "MUU",
+          "price": 31.02,
+          "momentum_pct": 12.39,
+          "avg_dollar_vol": 8213514,
+          "max_day_jump_pct": 9.83,
+          "sector": "Unknown",
+          "headlines": [
+            "Chart Of The Day: About Those Leveraged ETFs And Related Concerns"
+          ]
+        },
+        {
+          "symbol": "RIG",
+          "price": 5.75,
+          "momentum_pct": 10.25,
+          "avg_dollar_vol": 17069996,
+          "max_day_jump_pct": 8.84,
+          "sector": "Energy",
+          "headlines": [
+            "Barclays Maintains Overweight on Transocean, Lowers Price Target to $7",
+            "Twilio, Transocean, Blackstone And More On CNBC\u2019s \u2018Final Trades\u2019"
+          ]
+        },
+        {
+          "symbol": "NOK",
+          "price": 10.81,
+          "momentum_pct": 8.86,
+          "avg_dollar_vol": 52963221,
+          "max_day_jump_pct": 9.25,
+          "sector": "Communications",
+          "headlines": [
+            "These stocks are the most active in today's session",
+            "10 Information Technology Stocks With Whale Alerts In Today\u2019s Session",
+            "Why Is Nokia Stock Surging Wednesday?",
+            "Nebius Group, Astronics, H&R Block, WhiteFiber And Other Big Stocks Moving Higher On Wednesday",
+            "Why Is Nokia Stock Surging on Tuesday?"
+          ]
+        },
+        {
+          "symbol": "PLUG",
+          "price": 2.3,
+          "momentum_pct": 6.24,
+          "avg_dollar_vol": 7174159,
+          "max_day_jump_pct": 6.31,
+          "sector": "Electrical Equipment",
+          "headlines": [
+            "Roth Capital Reiterates Buy on Plug Power, Raises Price Target to $5",
+            "Which stocks are most active on Tuesday?",
+            "Plug Power Nears Gross Margin Breakeven; Material Handling 'Continues to Be a Bright Spot'",
+            "Why Is Plug Power Stock Surging Tuesday?",
+            "Stock Market Today: Dow, S&P 500, Nasdaq 100 Futures Rise as Trump Demands Compensation From Iran\u2014 Rocket Lab, ASTS SpaceMobile, Plug Power in Focus (UPDATED)"
+          ]
+        },
+        {
+          "symbol": "ONDS",
+          "price": 9.16,
+          "momentum_pct": 3.5,
+          "avg_dollar_vol": 17655909,
+          "max_day_jump_pct": 4.9,
+          "sector": "Communications",
+          "headlines": [
+            "Ondas Could Swing $634 Million After Earnings",
+            "Ondas Wins Multi-Million-Dollar Israel Contract For Tactical Attack Drones",
+            "JEDI: The New Warfare Paradigm",
+            "This Ondas Analyst Begins Coverage On A Bullish Note; Here Are Top 4 Initiations For Tuesday",
+            "Is Michael Burry Right? 3 Top Tech Stocks With 'High' Short Interest"
+          ]
+        },
+        {
+          "symbol": "TSLL",
+          "price": 8.34,
+          "momentum_pct": 3.35,
+          "avg_dollar_vol": 39917446,
+          "max_day_jump_pct": 5.67,
+          "sector": "Unknown",
+          "headlines": [
+            "Chart Of The Day: About Those Leveraged ETFs And Related Concerns"
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "symbol": "IREN",
+          "target_dollars": 45,
+          "rationale": "Strong momentum with news catalyst, 'Why Is IREN Stock Surging on Wednesday?' and analyst reiteration."
+        },
+        {
+          "symbol": "NOK",
+          "target_dollars": 40,
+          "rationale": "Consistent news mentions and 'Why Is Nokia Stock Surging Wednesday?' indicate positive sentiment."
+        },
+        {
+          "symbol": "PLUG",
+          "target_dollars": 45,
+          "rationale": "Analyst upgrade and positive commentary on gross margin breakeven and material handling."
+        }
+      ],
+      "rejected": [
+        {
+          "symbol": "IREN",
+          "target_dollars": 45,
+          "rationale": "Strong momentum with news catalyst, 'Why Is IREN Stock Surging on Wednesday?' and analyst reiteration.",
+          "reason": "no room within limits",
+          "price": 47.59
+        }
+      ],
+      "orders": [
+        {
+          "symbol": "NOK",
+          "shares": 3,
+          "entry_price": 10.81,
+          "stop_price": 10.49,
+          "take_profit_price": 11.89,
+          "notional": 32.43,
+          "sector": "Communications",
+          "rationale": "Consistent news mentions and 'Why Is Nokia Stock Surging Wednesday?' indicate positive sentiment.",
+          "status": "submitted",
+          "order_id": "e248c1c8-7d70-46b5-92d7-cf2c12a19f7f"
+        },
+        {
+          "symbol": "PLUG",
+          "shares": 19,
+          "entry_price": 2.3,
+          "stop_price": 2.23,
+          "take_profit_price": 2.53,
+          "notional": 43.7,
+          "sector": "Electrical Equipment",
+          "rationale": "Analyst upgrade and positive commentary on gross margin breakeven and material handling.",
+          "status": "submitted",
+          "order_id": "6d0523d8-a313-43ca-82c5-9aca5a537173"
+        }
+      ]
+    },
     {
       "day": "2026-08-12",
       "equity": 99984.33,

@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-12T14:40:05.993843+00:00",
+  "updated_at": "2026-08-13T14:40:19.308222+00:00",
   "account": {
-    "equity": 99984.34,
-    "cash": 99831.06,
-    "buying_power": 399705.58,
-    "long_market_value": 153.28,
-    "last_equity": 99986.63
+    "equity": 99981.06,
+    "cash": 99867.33,
+    "buying_power": 399444.94,
+    "long_market_value": 113.73,
+    "last_equity": 99983.06
   },
   "curve": [
     {
@@ -139,6 +139,12 @@
       "equity": 99986.63,
       "pl": 2.2,
       "pl_pct": 0.0
+    },
+    {
+      "t": "2026-08-13",
+      "equity": 99983.06,
+      "pl": -3.57,
+      "pl_pct": 0.0
     }
   ],
   "base_value": 99993.2,
@@ -147,73 +153,58 @@
       "symbol": "DV",
       "qty": 3.0,
       "entry_price": 13.27,
-      "current_price": 13.325,
-      "market_value": 39.98,
-      "unrealized_pl": 0.17,
-      "unrealized_plpc": 0.41,
+      "current_price": 13.295,
+      "market_value": 39.88,
+      "unrealized_pl": 0.07,
+      "unrealized_plpc": 0.19,
       "sector": "Media"
     },
     {
       "symbol": "GRAB",
       "qty": 13.0,
       "entry_price": 3.7,
-      "current_price": 3.645,
-      "market_value": 47.38,
-      "unrealized_pl": -0.71,
-      "unrealized_plpc": -1.49,
+      "current_price": 3.625,
+      "market_value": 47.12,
+      "unrealized_pl": -0.97,
+      "unrealized_plpc": -2.03,
       "sector": "Road & Rail"
-    },
-    {
-      "symbol": "ONDS",
-      "qty": 4.0,
-      "entry_price": 9.42,
-      "current_price": 9.93,
-      "market_value": 39.72,
-      "unrealized_pl": 2.04,
-      "unrealized_plpc": 5.41,
-      "sector": "Communications"
     },
     {
       "symbol": "PFE",
       "qty": 1.0,
       "entry_price": 25.59,
-      "current_price": 26.2216,
-      "market_value": 26.22,
-      "unrealized_pl": 0.63,
-      "unrealized_plpc": 2.47,
+      "current_price": 26.72,
+      "market_value": 26.72,
+      "unrealized_pl": 1.13,
+      "unrealized_plpc": 4.42,
       "sector": "Pharmaceuticals"
     }
   ],
   "sector_allocation": [
     {
       "sector": "Road & Rail",
-      "market_value": 47.38,
-      "pct": 30.9
+      "market_value": 47.12,
+      "pct": 41.4
     },
     {
       "sector": "Media",
-      "market_value": 39.98,
-      "pct": 26.1
-    },
-    {
-      "sector": "Communications",
-      "market_value": 39.72,
-      "pct": 25.9
+      "market_value": 39.88,
+      "pct": 35.1
     },
     {
       "sector": "Pharmaceuticals",
-      "market_value": 26.22,
-      "pct": 17.1
+      "market_value": 26.72,
+      "pct": 23.5
     }
   ],
   "kpis": {
-    "equity": 99984.34,
-    "total_pl": -15.02,
+    "equity": 99981.06,
+    "total_pl": -18.29,
     "total_pl_pct": -0.01,
-    "realized_pl": -17.15,
-    "unrealized_pl": 2.13,
-    "open_positions": 4,
-    "num_closed_trades": 37,
-    "win_rate": 18.9
+    "realized_pl": -18.52,
+    "unrealized_pl": 0.23,
+    "open_positions": 3,
+    "num_closed_trades": 40,
+    "win_rate": 17.5
   }
 }
