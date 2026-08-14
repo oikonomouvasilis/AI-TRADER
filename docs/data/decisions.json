@@ -1,6 +1,144 @@
 {
-  "updated_at": "2026-08-13T14:40:19.309611+00:00",
+  "updated_at": "2026-08-14T14:34:24.804912+00:00",
   "days": [
+    {
+      "day": "2026-08-14",
+      "equity": 99979.14,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "ACHR",
+          "price": 6.91,
+          "momentum_pct": 33.04,
+          "avg_dollar_vol": 13305384,
+          "max_day_jump_pct": 12.19,
+          "sector": "Aerospace & Defense",
+          "headlines": [
+            "Why Is Archer Aviation Stock Falling on Wednesday?",
+            "What's Going On With Boeing Stock Wednesday?"
+          ]
+        },
+        {
+          "symbol": "SMCI",
+          "price": 39.55,
+          "momentum_pct": 30.5,
+          "avg_dollar_vol": 88628159,
+          "max_day_jump_pct": 18.59,
+          "sector": "Technology",
+          "headlines": [
+            "Super Micro: Market's High Pessimism Suggests Bottom Is In",
+            "These 3 companies just delivered a reality check on AI bubble fears",
+            "Mad Money\u2019s Jim Cramer Says These 6 AI Stocks are Primed to Surge",
+            "SNDK, WDC, MU, SMCI Stock Are The Top S&P 500 Gainers \u2014 Sustained Corporate Demand Anchored By SanDisk's Rosy Outlook Is Aiding Memory Stocks",
+            "Uncover the latest developments among S&P500 stocks in today's session."
+          ]
+        },
+        {
+          "symbol": "MUU",
+          "price": 32.17,
+          "momentum_pct": 16.39,
+          "avg_dollar_vol": 9292581,
+          "max_day_jump_pct": 9.83,
+          "sector": "Unknown",
+          "headlines": [
+            "Chart Of The Day: About Those Leveraged ETFs And Related Concerns"
+          ]
+        },
+        {
+          "symbol": "TSLL",
+          "price": 8.9,
+          "momentum_pct": 14.54,
+          "avg_dollar_vol": 43732585,
+          "max_day_jump_pct": 7.52,
+          "sector": "Unknown",
+          "headlines": [
+            "Chart Of The Day: About Those Leveraged ETFs And Related Concerns"
+          ]
+        },
+        {
+          "symbol": "NOK",
+          "price": 10.65,
+          "momentum_pct": 11.4,
+          "avg_dollar_vol": 53793833,
+          "max_day_jump_pct": 9.25,
+          "sector": "Communications",
+          "headlines": [
+            "Nokia: Rebound After The Purge, But Free Cash Flow Doesn't Justify A Buy Yet",
+            "These stocks are the most active in today's session",
+            "Why Nokia Is Still A Buy After Q2 Earnings Report And Stock Pullback",
+            "Why Is Nokia Stock Surging on Thursday?",
+            "10 Information Technology Stocks With Whale Alerts In Today\u2019s Session"
+          ]
+        },
+        {
+          "symbol": "ONDS",
+          "price": 9.46,
+          "momentum_pct": 6.89,
+          "avg_dollar_vol": 18165198,
+          "max_day_jump_pct": 6.23,
+          "sector": "Communications",
+          "headlines": [
+            "These stocks are the most active in today's session",
+            "White House Says Proclamation Imposes A 15% Ad Valorem Tariff On Drones And Components From European Union, Japan, Liechtenstein, Republic Of Korea, Switzerland, And Taiwan; Proclamation Imposes 10% Ad Valorem Tariff For Drones From United Kingdom; Tariffs Will Take Effect 21 Days After Signing; For Components Of Drones That Are Not Particularly Sensitive, Tariffs Will Take Effect 180 Days After Signing",
+            "White House Says President Trump Signed Proclamation Imposing Tariffs On Drones And Their Parts And Components;  Proclamation Imposes A 100% Ad Valorem Tariff On Drones Of A Certain Size Or With Certain Capabilities That Are Particularly Sensitive For National Security Purposes; Proclamation Imposes A 25% Ad Valorem Tariff On Certain Drones That Are Smaller In Size And Lack Certain Capabilities That Particularly Implicate National Security",
+            "Short Sellers Attack Ondas, Avis Budget, RH: Here Are the 10 Most Shorted Stocks",
+            "Ondas Inc. (ONDS) Q2 2026 Earnings Call Transcript"
+          ]
+        },
+        {
+          "symbol": "NU",
+          "price": 15.43,
+          "momentum_pct": 6.56,
+          "avg_dollar_vol": 43492982,
+          "max_day_jump_pct": 10.97,
+          "sector": "Banking",
+          "headlines": [
+            "Nu Holdings Q2: The First Billion-Dollar Quarter Deserves A Buy Rating",
+            "Nu Holdings Ltd. 2026 Q2 - Results - Earnings Call Presentation",
+            "Nu Holdings Ltd. (NU) Q2 2026 Earnings Call Transcript"
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "symbol": "SMCI",
+          "target_dollars": 50,
+          "rationale": "Strong momentum with positive AI-related news and analyst endorsements. Good volume."
+        },
+        {
+          "symbol": "NU",
+          "target_dollars": 45,
+          "rationale": "Positive earnings news with a 'buy' rating, indicating fundamental strength and potential upside."
+        }
+      ],
+      "rejected": [],
+      "orders": [
+        {
+          "symbol": "SMCI",
+          "shares": 1,
+          "entry_price": 39.55,
+          "stop_price": 38.36,
+          "take_profit_price": 43.51,
+          "notional": 39.55,
+          "sector": "Technology",
+          "rationale": "Strong momentum with positive AI-related news and analyst endorsements. Good volume.",
+          "status": "submitted",
+          "order_id": "f6f825f3-2523-4bfe-bc1d-e3e8f66f34fb"
+        },
+        {
+          "symbol": "NU",
+          "shares": 2,
+          "entry_price": 15.43,
+          "stop_price": 14.97,
+          "take_profit_price": 16.97,
+          "notional": 30.86,
+          "sector": "Banking",
+          "rationale": "Positive earnings news with a 'buy' rating, indicating fundamental strength and potential upside.",
+          "status": "submitted",
+          "order_id": "62e2b61e-3466-4063-9536-3de0c9ff6dc3"
+        }
+      ]
+    },
     {
       "day": "2026-08-13",
       "equity": 99981.14,

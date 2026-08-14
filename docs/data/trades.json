@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T14:40:19.218577+00:00",
+  "updated_at": "2026-08-14T14:34:24.770815+00:00",
   "fills": [
     {
       "t": "2026-06-08T18:25:43.162492+00:00",
@@ -711,6 +711,42 @@
       "price": 9.255,
       "value": 37.02,
       "order_id": "493d5091-f38e-4313-a68a-171a2e701d7b"
+    },
+    {
+      "t": "2026-08-13T14:40:19.589135+00:00",
+      "symbol": "PLUG",
+      "side": "buy",
+      "qty": 19.0,
+      "price": 2.31,
+      "value": 43.89,
+      "order_id": "6d0523d8-a313-43ca-82c5-9aca5a537173"
+    },
+    {
+      "t": "2026-08-13T14:40:19.640418+00:00",
+      "symbol": "NOK",
+      "side": "buy",
+      "qty": 3.0,
+      "price": 10.79,
+      "value": 32.37,
+      "order_id": "e248c1c8-7d70-46b5-92d7-cf2c12a19f7f"
+    },
+    {
+      "t": "2026-08-13T19:47:32.495745+00:00",
+      "symbol": "PLUG",
+      "side": "sell",
+      "qty": 19.0,
+      "price": 2.23,
+      "value": 42.37,
+      "order_id": "8fb5271d-280d-476e-b4fc-40e23b780762"
+    },
+    {
+      "t": "2026-08-14T13:33:32.496811+00:00",
+      "symbol": "NOK",
+      "side": "sell",
+      "qty": 3.0,
+      "price": 10.5467,
+      "value": 31.64,
+      "order_id": "bd2f94a6-8b67-4d27-ae8c-739498c0bca3"
     }
   ],
   "closed": [
@@ -1153,6 +1189,28 @@
       "pl": -0.67,
       "pl_pct": -6.75,
       "sector": "Communications"
+    },
+    {
+      "symbol": "PLUG",
+      "qty": 19.0,
+      "entry_time": "2026-08-13T14:40:19.589135+00:00",
+      "entry_price": 2.31,
+      "exit_time": "2026-08-13T19:47:32.495745+00:00",
+      "exit_price": 2.23,
+      "pl": -1.52,
+      "pl_pct": -3.46,
+      "sector": "Electrical Equipment"
+    },
+    {
+      "symbol": "NOK",
+      "qty": 3.0,
+      "entry_time": "2026-08-13T14:40:19.640418+00:00",
+      "entry_price": 10.79,
+      "exit_time": "2026-08-14T13:33:32.496811+00:00",
+      "exit_price": 10.5467,
+      "pl": -0.73,
+      "pl_pct": -2.26,
+      "sector": "Communications"
     }
   ],
   "open": [
@@ -1160,30 +1218,30 @@
       "symbol": "DV",
       "qty": 3.0,
       "entry_price": 13.27,
-      "current_price": 13.295,
-      "market_value": 39.88,
-      "unrealized_pl": 0.07,
-      "unrealized_plpc": 0.19,
+      "current_price": 13.3,
+      "market_value": 39.9,
+      "unrealized_pl": 0.09,
+      "unrealized_plpc": 0.23,
       "sector": "Media"
     },
     {
       "symbol": "GRAB",
       "qty": 13.0,
       "entry_price": 3.7,
-      "current_price": 3.625,
-      "market_value": 47.12,
-      "unrealized_pl": -0.97,
-      "unrealized_plpc": -2.03,
+      "current_price": 3.66,
+      "market_value": 47.58,
+      "unrealized_pl": -0.52,
+      "unrealized_plpc": -1.08,
       "sector": "Road & Rail"
     },
     {
       "symbol": "PFE",
       "qty": 1.0,
       "entry_price": 25.59,
-      "current_price": 26.72,
-      "market_value": 26.72,
-      "unrealized_pl": 1.13,
-      "unrealized_plpc": 4.42,
+      "current_price": 26.605,
+      "market_value": 26.61,
+      "unrealized_pl": 1.01,
+      "unrealized_plpc": 3.97,
       "sector": "Pharmaceuticals"
     }
   ]
