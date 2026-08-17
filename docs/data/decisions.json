@@ -1,6 +1,118 @@
 {
-  "updated_at": "2026-08-14T14:34:24.804912+00:00",
+  "updated_at": "2026-08-17T14:03:47.830724+00:00",
   "days": [
+    {
+      "day": "2026-08-17",
+      "equity": 99976.41,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "MUU",
+          "price": 35.42,
+          "momentum_pct": 38.09,
+          "avg_dollar_vol": 7711699,
+          "max_day_jump_pct": 9.83,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "SMCI",
+          "price": 38.74,
+          "momentum_pct": 23.18,
+          "avg_dollar_vol": 113718289,
+          "max_day_jump_pct": 18.59,
+          "sector": "Technology",
+          "headlines": [
+            "Super Micro: A Massive Safety Margin Is Priced In",
+            "Dell Stock Rally Pauses, But Supermicro, Lenovo Earnings Point to Upside",
+            "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
+            "What Moved Markets This Week"
+          ]
+        },
+        {
+          "symbol": "NOK",
+          "price": 10.98,
+          "momentum_pct": 20.39,
+          "avg_dollar_vol": 59327486,
+          "max_day_jump_pct": 9.25,
+          "sector": "Communications",
+          "headlines": []
+        },
+        {
+          "symbol": "HIVE",
+          "price": 2.94,
+          "momentum_pct": 12.86,
+          "avg_dollar_vol": 2434569,
+          "max_day_jump_pct": 9.09,
+          "sector": "Technology",
+          "headlines": [
+            "These stocks are moving in today's pre-market session"
+          ]
+        },
+        {
+          "symbol": "SPCH",
+          "price": 10.04,
+          "momentum_pct": 11.8,
+          "avg_dollar_vol": 3914101,
+          "max_day_jump_pct": 19.26,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "KEEL",
+          "price": 3.73,
+          "momentum_pct": 10.04,
+          "avg_dollar_vol": 5216161,
+          "max_day_jump_pct": 7.93,
+          "sector": "Technology",
+          "headlines": []
+        },
+        {
+          "symbol": "PLUG",
+          "price": 2.21,
+          "momentum_pct": 5.74,
+          "avg_dollar_vol": 9295693,
+          "max_day_jump_pct": 5.74,
+          "sector": "Electrical Equipment",
+          "headlines": [
+            "Plug Power Tested a Backup Power System With Microsoft. Here's Why the CEO Says That's Not a Real Pivot Yet.",
+            "Hydrogen Stocks Split: Fuel Cell Pure Plays Surge While Industrial Gas Majors Lag",
+            "Benzinga Bulls and Bears: Riot Platforms, Firefly, Virgin Galactic"
+          ]
+        },
+        {
+          "symbol": "TSLL",
+          "price": 8.59,
+          "momentum_pct": 4.56,
+          "avg_dollar_vol": 50316154,
+          "max_day_jump_pct": 7.52,
+          "sector": "Unknown",
+          "headlines": []
+        }
+      ],
+      "decisions": [
+        {
+          "symbol": "SMCI",
+          "target_dollars": 50,
+          "rationale": "Strong momentum with positive news catalyst from earnings reports and analyst sentiment."
+        }
+      ],
+      "rejected": [],
+      "orders": [
+        {
+          "symbol": "SMCI",
+          "shares": 1,
+          "entry_price": 38.74,
+          "stop_price": 37.58,
+          "take_profit_price": 42.61,
+          "notional": 38.74,
+          "sector": "Technology",
+          "rationale": "Strong momentum with positive news catalyst from earnings reports and analyst sentiment.",
+          "status": "submitted",
+          "order_id": "ba8016f4-0b7e-43dc-b34c-4bbf2b7883ae"
+        }
+      ]
+    },
     {
       "day": "2026-08-14",
       "equity": 99979.14,
