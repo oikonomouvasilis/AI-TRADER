@@ -1,6 +1,117 @@
 {
-  "updated_at": "2026-08-17T14:03:47.830724+00:00",
+  "updated_at": "2026-08-18T14:10:36.345753+00:00",
   "days": [
+    {
+      "day": "2026-08-18",
+      "equity": 99975.72,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "MUU",
+          "price": 31.19,
+          "momentum_pct": 21.6,
+          "avg_dollar_vol": 8792400,
+          "max_day_jump_pct": 9.83,
+          "sector": "Unknown",
+          "headlines": [
+            "Micron Crosses $1,000: Here's How to Amplify the Trade with ETFs"
+          ]
+        },
+        {
+          "symbol": "KORU",
+          "price": 19.7,
+          "momentum_pct": 20.09,
+          "avg_dollar_vol": 7173769,
+          "max_day_jump_pct": 15.12,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "SMCI",
+          "price": 37.44,
+          "momentum_pct": 19.05,
+          "avg_dollar_vol": 109541398,
+          "max_day_jump_pct": 18.59,
+          "sector": "Technology",
+          "headlines": [
+            "Which S&P500 stocks are moving on Monday?",
+            "These S&P500 stocks are the most active in today's session",
+            "These S&P500 stocks are moving in today's session",
+            "QUICK SPARK: OpenAI, Anthropic and SpaceX Fuel Harbor\u2019s New AI ETF Strategy Beyond Big Tech",
+            "Which S&P500 stocks are gapping on Monday?"
+          ]
+        },
+        {
+          "symbol": "NOK",
+          "price": 10.43,
+          "momentum_pct": 14.36,
+          "avg_dollar_vol": 61273240,
+          "max_day_jump_pct": 9.25,
+          "sector": "Communications",
+          "headlines": [
+            "Which stocks are most active on Monday?"
+          ]
+        },
+        {
+          "symbol": "IREN",
+          "price": 43.76,
+          "momentum_pct": 13.05,
+          "avg_dollar_vol": 55005241,
+          "max_day_jump_pct": 9.89,
+          "sector": "Technology",
+          "headlines": [
+            "BitMine Immersion Technologies Discloses ETH Holdings Of 4.976M Tokens, With Total Crypto And Cash Holdings Valued At $12.9B",
+            "Stanley Druckenmiller Just Made a Big Bet on IREN While Dumping Broadcom, Intel and Micron",
+            "IREN Stock: Earnings Could Spark Big Move as Short Interest Reaches 26%"
+          ]
+        },
+        {
+          "symbol": "KEEL",
+          "price": 3.65,
+          "momentum_pct": 7.83,
+          "avg_dollar_vol": 5297833,
+          "max_day_jump_pct": 7.93,
+          "sector": "Technology",
+          "headlines": [
+            "What's Going On With Keel Infrastructure Stock Monday?",
+            "Why HIVE Digital Technologies Shares Are Trading Higher By Over 8%; Here Are 20 Stocks Moving Premarket"
+          ]
+        },
+        {
+          "symbol": "PLUG",
+          "price": 2.18,
+          "momentum_pct": 4.31,
+          "avg_dollar_vol": 8473113,
+          "max_day_jump_pct": 5.74,
+          "sector": "Electrical Equipment",
+          "headlines": [
+            "Plug Power Tested a Backup Power System With Microsoft. Here's Why the CEO Says That's Not a Real Pivot Yet."
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "symbol": "IREN",
+          "target_dollars": 43.76,
+          "rationale": "Strong momentum with clear news catalysts from institutional investment and crypto holdings disclosure."
+        }
+      ],
+      "rejected": [],
+      "orders": [
+        {
+          "symbol": "IREN",
+          "shares": 1,
+          "entry_price": 43.76,
+          "stop_price": 42.45,
+          "take_profit_price": 48.14,
+          "notional": 43.76,
+          "sector": "Technology",
+          "rationale": "Strong momentum with clear news catalysts from institutional investment and crypto holdings disclosure.",
+          "status": "submitted",
+          "order_id": "37a1b78e-0bfe-4f34-8d0a-729e94067a59"
+        }
+      ]
+    },
     {
       "day": "2026-08-17",
       "equity": 99976.41,
