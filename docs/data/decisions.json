@@ -1,6 +1,129 @@
 {
-  "updated_at": "2026-08-18T14:10:36.345753+00:00",
+  "updated_at": "2026-08-19T14:10:46.617661+00:00",
   "days": [
+    {
+      "day": "2026-08-19",
+      "equity": 99975.46,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "RAM",
+          "price": 11.91,
+          "momentum_pct": 19.52,
+          "avg_dollar_vol": 804561,
+          "max_day_jump_pct": 14.9,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "KORU",
+          "price": 18.97,
+          "momentum_pct": 15.64,
+          "avg_dollar_vol": 7858855,
+          "max_day_jump_pct": 15.12,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "MUU",
+          "price": 29.05,
+          "momentum_pct": 13.24,
+          "avg_dollar_vol": 8540646,
+          "max_day_jump_pct": 9.83,
+          "sector": "Unknown",
+          "headlines": [
+            "Micron Crosses $1,000: Here's How to Amplify the Trade with ETFs"
+          ]
+        },
+        {
+          "symbol": "NOK",
+          "price": 10.15,
+          "momentum_pct": 11.35,
+          "avg_dollar_vol": 65101293,
+          "max_day_jump_pct": 9.25,
+          "sector": "Communications",
+          "headlines": [
+            "These stocks are the most active in today's session",
+            "Nokia Plans Near-Total China Exit As Domestic Rivals Gain Ground: Report",
+            "Citadel Advisors and Millennium Boosted Fabrinet Stakes in Q2 as AI Demand Accelerated",
+            "Cisco, Nvidia, Amazon and Nokia: The Customer List Behind Fabrinet's AI Boom",
+            "Which stocks are most active on Monday?"
+          ]
+        },
+        {
+          "symbol": "SOXS",
+          "price": 47.4,
+          "momentum_pct": 4.82,
+          "avg_dollar_vol": 35875961,
+          "max_day_jump_pct": 15.39,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "TSLL",
+          "price": 8.61,
+          "momentum_pct": 4.81,
+          "avg_dollar_vol": 58939401,
+          "max_day_jump_pct": 7.52,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "PFE",
+          "price": 28.3,
+          "momentum_pct": 4.62,
+          "avg_dollar_vol": 50253448,
+          "max_day_jump_pct": 3.82,
+          "sector": "Pharmaceuticals",
+          "headlines": [
+            "AstraZeneca Vs. Bristol-Myers Squibb: Who's The Better Bargain For Investors?",
+            "Curious about the most active S&P500 stocks in today's session?",
+            "The 9% Portfolio That Retires Your Paycheck",
+            "Pfizer: Still Cheap Valuation Meets A Looming Patent Cliff",
+            "These S&P500 stocks are the most active in today's session"
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "symbol": "MUU",
+          "target_dollars": 45,
+          "rationale": "Strong momentum with a clear, positive news catalyst related to Micron's performance and ETFs."
+        },
+        {
+          "symbol": "NOK",
+          "target_dollars": 40,
+          "rationale": "Good momentum with high volume and multiple headlines indicating market activity and AI sector involvement."
+        }
+      ],
+      "rejected": [],
+      "orders": [
+        {
+          "symbol": "MUU",
+          "shares": 1,
+          "entry_price": 29.05,
+          "stop_price": 28.18,
+          "take_profit_price": 31.96,
+          "notional": 29.05,
+          "sector": "Unknown",
+          "rationale": "Strong momentum with a clear, positive news catalyst related to Micron's performance and ETFs.",
+          "status": "submitted",
+          "order_id": "26e83069-2f16-4d61-99d1-262ceff7af16"
+        },
+        {
+          "symbol": "NOK",
+          "shares": 3,
+          "entry_price": 10.15,
+          "stop_price": 9.85,
+          "take_profit_price": 11.17,
+          "notional": 30.45,
+          "sector": "Communications",
+          "rationale": "Good momentum with high volume and multiple headlines indicating market activity and AI sector involvement.",
+          "status": "submitted",
+          "order_id": "96525957-53b1-4ef7-a642-1859ef60ca3f"
+        }
+      ]
+    },
     {
       "day": "2026-08-18",
       "equity": 99975.72,

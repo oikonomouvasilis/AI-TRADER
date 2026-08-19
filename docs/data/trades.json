@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T14:10:36.176004+00:00",
+  "updated_at": "2026-08-19T14:10:46.536767+00:00",
   "fills": [
     {
       "t": "2026-06-08T18:25:43.162492+00:00",
@@ -803,13 +803,40 @@
       "order_id": "7304acc0-859e-4cda-bf79-5811b2e50517"
     },
     {
-      "t": "2026-08-18T13:32:53.035558+00:00",
+      "t": "2026-08-18T13:32:53.035559+00:00",
       "symbol": "SMCI",
       "side": "sell",
       "qty": 1.0,
       "price": 37.62,
       "value": 37.62,
       "order_id": "9918b9f7-c13f-422f-8ece-149622207d2b"
+    },
+    {
+      "t": "2026-08-18T14:10:36.969774+00:00",
+      "symbol": "IREN",
+      "side": "buy",
+      "qty": 1.0,
+      "price": 43.58,
+      "value": 43.58,
+      "order_id": "37a1b78e-0bfe-4f34-8d0a-729e94067a59"
+    },
+    {
+      "t": "2026-08-18T14:53:06.790389+00:00",
+      "symbol": "IREN",
+      "side": "sell",
+      "qty": 1.0,
+      "price": 42.47,
+      "value": 42.47,
+      "order_id": "c9d86531-2095-4039-adc9-2a5ddf8cb55e"
+    },
+    {
+      "t": "2026-08-19T13:51:22.262205+00:00",
+      "symbol": "PFE",
+      "side": "sell",
+      "qty": 1.0,
+      "price": 28.13,
+      "value": 28.13,
+      "order_id": "d830c253-1e5d-421c-93f6-44fec5965e5e"
     }
   ],
   "closed": [
@@ -1313,11 +1340,33 @@
       "qty": 1.0,
       "entry_time": "2026-08-17T14:03:47.615160+00:00",
       "entry_price": 38.59,
-      "exit_time": "2026-08-18T13:32:53.035558+00:00",
+      "exit_time": "2026-08-18T13:32:53.035559+00:00",
       "exit_price": 37.62,
       "pl": -0.97,
       "pl_pct": -2.51,
       "sector": "Technology"
+    },
+    {
+      "symbol": "IREN",
+      "qty": 1.0,
+      "entry_time": "2026-08-18T14:10:36.969774+00:00",
+      "entry_price": 43.58,
+      "exit_time": "2026-08-18T14:53:06.790389+00:00",
+      "exit_price": 42.47,
+      "pl": -1.11,
+      "pl_pct": -2.55,
+      "sector": "Technology"
+    },
+    {
+      "symbol": "PFE",
+      "qty": 1.0,
+      "entry_time": "2026-08-04T15:59:26.243846+00:00",
+      "entry_price": 25.59,
+      "exit_time": "2026-08-19T13:51:22.262205+00:00",
+      "exit_price": 28.13,
+      "pl": 2.54,
+      "pl_pct": 9.93,
+      "sector": "Pharmaceuticals"
     }
   ],
   "open": [
@@ -1325,21 +1374,11 @@
       "symbol": "DV",
       "qty": 3.0,
       "entry_price": 13.27,
-      "current_price": 13.3,
-      "market_value": 39.9,
-      "unrealized_pl": 0.09,
-      "unrealized_plpc": 0.23,
+      "current_price": 13.32,
+      "market_value": 39.96,
+      "unrealized_pl": 0.15,
+      "unrealized_plpc": 0.38,
       "sector": "Media"
-    },
-    {
-      "symbol": "PFE",
-      "qty": 1.0,
-      "entry_price": 25.59,
-      "current_price": 27.3094,
-      "market_value": 27.31,
-      "unrealized_pl": 1.72,
-      "unrealized_plpc": 6.72,
-      "sector": "Pharmaceuticals"
     }
   ]
 }
