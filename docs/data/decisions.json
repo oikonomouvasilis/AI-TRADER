@@ -1,6 +1,225 @@
 {
-  "updated_at": "2026-08-19T14:10:46.617661+00:00",
+  "updated_at": "2026-08-20T14:18:02.216168+00:00",
   "days": [
+    {
+      "day": "2026-08-20",
+      "equity": 99976.59,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "CONL",
+          "price": 5.29,
+          "momentum_pct": 29.66,
+          "avg_dollar_vol": 2163481,
+          "max_day_jump_pct": 19.52,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "BULL",
+          "price": 9.37,
+          "momentum_pct": 23.71,
+          "avg_dollar_vol": 6286171,
+          "max_day_jump_pct": 8.82,
+          "sector": "Financial Services",
+          "headlines": [
+            "Webull Corporation (BULL) Q2 2026 Earnings Call Transcript",
+            "What's going on in today's after hours session",
+            "Webull Corporation 2026 Q2 - Results - Earnings Call Presentation",
+            "Webull Stock Charges Higher on Q2 Double Beat",
+            "CORRECTION: Webull Q2 Adj. EPS $0.12 Beats $0.03 Estimate, Sales $198.831M Beat $181.263M Estimate"
+          ]
+        },
+        {
+          "symbol": "ETHA",
+          "price": 17.2,
+          "momentum_pct": 21.33,
+          "avg_dollar_vol": 30078138,
+          "max_day_jump_pct": 9.99,
+          "sector": "Unknown",
+          "headlines": [
+            "Shares of crypto-related companies are trading higher alongside a rise in Bitcoin prices as Treasury yields decline, improving risk appetite and supporting demand for higher-risk assets. Sentiment is also supported by President Trump\u2019s planned meeting with cryptocurrency executives at the White House, as U.S. financial regulators prepare to advance a framework for certain digital assets.",
+            "Jane Street's Q2 Filing Reveals Nearly $1 Billion Bet on These Bitcoin ETFs \u2014 and a Major Stake in Michael Saylor's MSTR"
+          ]
+        },
+        {
+          "symbol": "BMNR",
+          "price": 21.3,
+          "momentum_pct": 17.59,
+          "avg_dollar_vol": 22906448,
+          "max_day_jump_pct": 10.73,
+          "sector": "Technology",
+          "headlines": [
+            "Ethereum Jumps 8% to $2,080 as Tom Lee Backs Vlad Tenev's 'Global Tokenization Supercycle'",
+            "Strategy, Bitmine, Coinbase Surge Over 12% as CLARITY Act Optimism Builds",
+            "Bitmine Stock Surges Wednesday: What's Driving the Action?",
+            "Shares of crypto-related companies are trading higher alongside a rise in Bitcoin prices as Treasury yields decline, improving risk appetite and supporting demand for higher-risk assets. Sentiment is also supported by President Trump\u2019s planned meeting with cryptocurrency executives at the White House, as U.S. financial regulators prepare to advance a framework for certain digital assets.",
+            "Bitcoin, Ethereum Gain; XRP, Dogecoin Dip as Trump Denies Iran Talks: Analyst Says BTC May 'Resume Its Advance' if This Support Holds"
+          ]
+        },
+        {
+          "symbol": "SMCI",
+          "price": 36.69,
+          "momentum_pct": 15.78,
+          "avg_dollar_vol": 104093075,
+          "max_day_jump_pct": 18.59,
+          "sector": "Technology",
+          "headlines": [
+            "Super Micro Computer: A Strong Quarter Doesn't Fix What Broke The Stock",
+            "What's going on in today's session: S&P500 most active stocks",
+            "Short Sellers Are Losing Big on Palantir \u2014 Here's the Data",
+            "What's Going On With Super Micro Computer Stock Wednesday?",
+            "Curious about the most active S&P500 stocks in today's session?"
+          ]
+        },
+        {
+          "symbol": "KORU",
+          "price": 20.16,
+          "momentum_pct": 14.16,
+          "avg_dollar_vol": 7842851,
+          "max_day_jump_pct": 15.12,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "BITO",
+          "price": 9.69,
+          "momentum_pct": 13.07,
+          "avg_dollar_vol": 78495870,
+          "max_day_jump_pct": 6.02,
+          "sector": "Unknown",
+          "headlines": [
+            "VanEck Mid-August 2026 Bitcoin ChainCheck",
+            "Why AI Is Stealing Crypto's Thunder... And Capital Flow"
+          ]
+        },
+        {
+          "symbol": "IBIT",
+          "price": 40.58,
+          "momentum_pct": 12.88,
+          "avg_dollar_vol": 85066091,
+          "max_day_jump_pct": 6.0,
+          "sector": "Unknown",
+          "headlines": [
+            "Ten Stocks Trending on Discord for Thursday November 17, 2022: ARDX, DLO, NVDA, CTMX, INM, HUDI, BABA, AAPL, TGT, GLBL",
+            "Shares of crypto-related companies are trading higher alongside a rise in Bitcoin prices as Treasury yields decline, improving risk appetite and supporting demand for higher-risk assets. Sentiment is also supported by President Trump\u2019s planned meeting with cryptocurrency executives at the White House, as U.S. financial regulators prepare to advance a framework for certain digital assets.",
+            "Bitcoin ETFs See $486M Inflows in 2 Days: Could This Be the Best Week Since January?",
+            "Bitcoin's Investment Case Hasn't Changed, BlackRock Says, Backs up to 2% Portfolio Allocation"
+          ]
+        },
+        {
+          "symbol": "MARA",
+          "price": 10.49,
+          "momentum_pct": 8.48,
+          "avg_dollar_vol": 13473322,
+          "max_day_jump_pct": 8.76,
+          "sector": "Technology",
+          "headlines": [
+            "Riot\u2019s Relative Strength Stands Out in a Brutal Bitcoin Mining Earnings Season",
+            "Shares of crypto-related companies are trading higher alongside a rise in Bitcoin prices as Treasury yields decline, improving risk appetite and supporting demand for higher-risk assets. Sentiment is also supported by President Trump\u2019s planned meeting with cryptocurrency executives at the White House, as U.S. financial regulators prepare to advance a framework for certain digital assets.",
+            "Bitcoin ETFs See $486M Inflows in 2 Days: Could This Be the Best Week Since January?",
+            "Watching Keel Infrastructure; Hearing Zacks Technical Analysis & Zacks Rank Buys Stock"
+          ]
+        },
+        {
+          "symbol": "SOXS",
+          "price": 47.22,
+          "momentum_pct": 7.22,
+          "avg_dollar_vol": 39159832,
+          "max_day_jump_pct": 15.39,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "NOK",
+          "price": 10.06,
+          "momentum_pct": 6.34,
+          "avg_dollar_vol": 68643060,
+          "max_day_jump_pct": 9.25,
+          "sector": "Communications",
+          "headlines": [
+            "Which stocks are most active on Wednesday?",
+            "These stocks are the most active in today's session",
+            "Nokia Plans Near-Total China Exit As Domestic Rivals Gain Ground: Report",
+            "Citadel Advisors and Millennium Boosted Fabrinet Stakes in Q2 as AI Demand Accelerated",
+            "Cisco, Nvidia, Amazon and Nokia: The Customer List Behind Fabrinet's AI Boom"
+          ]
+        },
+        {
+          "symbol": "TSLL",
+          "price": 8.72,
+          "momentum_pct": 5.0,
+          "avg_dollar_vol": 60904892,
+          "max_day_jump_pct": 8.68,
+          "sector": "Unknown",
+          "headlines": []
+        }
+      ],
+      "decisions": [
+        {
+          "symbol": "BULL",
+          "target_dollars": 50,
+          "rationale": "Strong Q2 earnings beat and positive sentiment. Good momentum with clear catalyst."
+        },
+        {
+          "symbol": "ETHA",
+          "target_dollars": 50,
+          "rationale": "Crypto-related stock benefiting from rising Bitcoin, declining yields, and Trump meeting news."
+        },
+        {
+          "symbol": "BMNR",
+          "target_dollars": 50,
+          "rationale": "Crypto-related stock with strong momentum, supported by Bitcoin rise and regulatory optimism."
+        },
+        {
+          "symbol": "IBIT",
+          "target_dollars": 50,
+          "rationale": "Bitcoin ETF with significant inflows and positive sentiment from BlackRock and Trump news."
+        }
+      ],
+      "rejected": [
+        {
+          "symbol": "BMNR",
+          "target_dollars": 50,
+          "rationale": "Crypto-related stock with strong momentum, supported by Bitcoin rise and regulatory optimism.",
+          "reason": "no room within limits",
+          "price": 21.3
+        },
+        {
+          "symbol": "IBIT",
+          "target_dollars": 50,
+          "rationale": "Bitcoin ETF with significant inflows and positive sentiment from BlackRock and Trump news.",
+          "reason": "no room within limits",
+          "price": 40.58
+        }
+      ],
+      "orders": [
+        {
+          "symbol": "BULL",
+          "shares": 5,
+          "entry_price": 9.37,
+          "stop_price": 9.09,
+          "take_profit_price": 10.31,
+          "notional": 46.85,
+          "sector": "Financial Services",
+          "rationale": "Strong Q2 earnings beat and positive sentiment. Good momentum with clear catalyst.",
+          "status": "submitted",
+          "order_id": "8d522e14-06cd-4359-a75e-2915607ba35a"
+        },
+        {
+          "symbol": "ETHA",
+          "shares": 2,
+          "entry_price": 17.2,
+          "stop_price": 16.68,
+          "take_profit_price": 18.92,
+          "notional": 34.4,
+          "sector": "Unknown",
+          "rationale": "Crypto-related stock benefiting from rising Bitcoin, declining yields, and Trump meeting news.",
+          "status": "submitted",
+          "order_id": "d5478d62-943e-40af-9eb6-d49908a6cc08"
+        }
+      ]
+    },
     {
       "day": "2026-08-19",
       "equity": 99975.46,

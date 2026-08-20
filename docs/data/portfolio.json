@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-19T14:10:46.614746+00:00",
+  "updated_at": "2026-08-20T14:18:02.213244+00:00",
   "account": {
-    "equity": 99975.46,
-    "cash": 99905.08,
-    "buying_power": 399703.32,
-    "long_market_value": 70.38,
-    "last_equity": 99974.43
+    "equity": 99976.64,
+    "cash": 99829.32,
+    "buying_power": 399610.9,
+    "long_market_value": 147.32,
+    "last_equity": 99976.25
   },
   "curve": [
     {
@@ -139,10 +139,26 @@
       "equity": 99974.43,
       "pl": -1.51,
       "pl_pct": 0.0
+    },
+    {
+      "t": "2026-08-20",
+      "equity": 99976.25,
+      "pl": 1.82,
+      "pl_pct": 0.0
     }
   ],
   "base_value": 99991.92,
   "positions": [
+    {
+      "symbol": "BULL",
+      "qty": 5.0,
+      "entry_price": 9.37,
+      "current_price": 9.3602,
+      "market_value": 46.8,
+      "unrealized_pl": -0.05,
+      "unrealized_plpc": -0.1,
+      "sector": "Financial Services"
+    },
     {
       "symbol": "DV",
       "qty": 3.0,
@@ -152,22 +168,57 @@
       "unrealized_pl": 0.15,
       "unrealized_plpc": 0.38,
       "sector": "Media"
+    },
+    {
+      "symbol": "MUU",
+      "qty": 1.0,
+      "entry_price": 28.88,
+      "current_price": 30.38,
+      "market_value": 30.38,
+      "unrealized_pl": 1.5,
+      "unrealized_plpc": 5.19,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "NOK",
+      "qty": 3.0,
+      "entry_price": 10.14,
+      "current_price": 10.06,
+      "market_value": 30.18,
+      "unrealized_pl": -0.24,
+      "unrealized_plpc": -0.79,
+      "sector": "Communications"
     }
   ],
   "sector_allocation": [
     {
+      "sector": "Financial Services",
+      "market_value": 46.8,
+      "pct": 31.8
+    },
+    {
       "sector": "Media",
       "market_value": 39.96,
-      "pct": 100.0
+      "pct": 27.1
+    },
+    {
+      "sector": "Unknown",
+      "market_value": 30.38,
+      "pct": 20.6
+    },
+    {
+      "sector": "Communications",
+      "market_value": 30.18,
+      "pct": 20.5
     }
   ],
   "kpis": {
-    "equity": 99975.46,
-    "total_pl": -23.77,
+    "equity": 99976.64,
+    "total_pl": -22.56,
     "total_pl_pct": -0.02,
     "realized_pl": -23.92,
-    "unrealized_pl": 0.15,
-    "open_positions": 1,
+    "unrealized_pl": 1.36,
+    "open_positions": 4,
     "num_closed_trades": 48,
     "win_rate": 16.7
   }

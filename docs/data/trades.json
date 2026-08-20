@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T14:10:46.536767+00:00",
+  "updated_at": "2026-08-20T14:18:02.139817+00:00",
   "fills": [
     {
       "t": "2026-06-08T18:25:43.162492+00:00",
@@ -837,6 +837,24 @@
       "price": 28.13,
       "value": 28.13,
       "order_id": "d830c253-1e5d-421c-93f6-44fec5965e5e"
+    },
+    {
+      "t": "2026-08-19T14:10:46.504800+00:00",
+      "symbol": "NOK",
+      "side": "buy",
+      "qty": 3.0,
+      "price": 10.14,
+      "value": 30.42,
+      "order_id": "96525957-53b1-4ef7-a642-1859ef60ca3f"
+    },
+    {
+      "t": "2026-08-19T14:10:46.663205+00:00",
+      "symbol": "MUU",
+      "side": "buy",
+      "qty": 1.0,
+      "price": 28.88,
+      "value": 28.88,
+      "order_id": "26e83069-2f16-4d61-99d1-262ceff7af16"
     }
   ],
   "closed": [
@@ -1371,6 +1389,16 @@
   ],
   "open": [
     {
+      "symbol": "BULL",
+      "qty": 5.0,
+      "entry_price": 9.37,
+      "current_price": 9.3602,
+      "market_value": 46.8,
+      "unrealized_pl": -0.05,
+      "unrealized_plpc": -0.1,
+      "sector": "Financial Services"
+    },
+    {
       "symbol": "DV",
       "qty": 3.0,
       "entry_price": 13.27,
@@ -1379,6 +1407,26 @@
       "unrealized_pl": 0.15,
       "unrealized_plpc": 0.38,
       "sector": "Media"
+    },
+    {
+      "symbol": "MUU",
+      "qty": 1.0,
+      "entry_price": 28.88,
+      "current_price": 30.38,
+      "market_value": 30.38,
+      "unrealized_pl": 1.5,
+      "unrealized_plpc": 5.19,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "NOK",
+      "qty": 3.0,
+      "entry_price": 10.14,
+      "current_price": 10.06,
+      "market_value": 30.18,
+      "unrealized_pl": -0.24,
+      "unrealized_plpc": -0.79,
+      "sector": "Communications"
     }
   ]
 }
