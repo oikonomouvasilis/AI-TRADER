@@ -1,6 +1,174 @@
 {
-  "updated_at": "2026-08-20T14:18:02.216168+00:00",
+  "updated_at": "2026-08-21T14:16:27.386500+00:00",
   "days": [
+    {
+      "day": "2026-08-21",
+      "equity": 99978.64,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "CONL",
+          "price": 6.36,
+          "momentum_pct": 54.93,
+          "avg_dollar_vol": 2740871,
+          "max_day_jump_pct": 19.52,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "BITX",
+          "price": 17.14,
+          "momentum_pct": 45.75,
+          "avg_dollar_vol": 5061414,
+          "max_day_jump_pct": 12.3,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "ETHA",
+          "price": 17.98,
+          "momentum_pct": 26.93,
+          "avg_dollar_vol": 39633764,
+          "max_day_jump_pct": 10.59,
+          "sector": "Unknown",
+          "headlines": [
+            "Cryptocurrencies: Bitcoin Up 9% This Week",
+            "Ethereum's Target Is $4,000 or $10,000, Says Trader Who Predicted The Breakout",
+            "Shares of crypto-linked companies are trading higher amid a rise in Bitcoin after President Trump urged Congress to pass the Clarity Act and said the Commodity Futures Trading Commission Chair Michael Selig is working to bring Hyperliquid to the U.S.",
+            "StablecoinX shares are trading higher after the company launched its flagship infrastructure software platform, StablecoinX Harness.",
+            "Shares of crypto-related companies are trading higher alongside a rise in Bitcoin prices as Treasury yields decline, improving risk appetite and supporting demand for higher-risk assets. Sentiment is also supported by President Trump\u2019s planned meeting with cryptocurrency executives at the White House, as U.S. financial regulators prepare to advance a framework for certain digital assets."
+          ]
+        },
+        {
+          "symbol": "BMNR",
+          "price": 22.19,
+          "momentum_pct": 24.04,
+          "avg_dollar_vol": 28488117,
+          "max_day_jump_pct": 10.73,
+          "sector": "Technology",
+          "headlines": [
+            "10 Information Technology Stocks Whale Activity In Today\u2019s Session",
+            "Bessent's Bond Rescue Fizzles, Walmart Craters 9%: Stock Market Today",
+            "Shares of crypto-linked companies are trading higher amid a rise in Bitcoin after President Trump urged Congress to pass the Clarity Act and said the Commodity Futures Trading Commission Chair Michael Selig is working to bring Hyperliquid to the U.S.",
+            "StablecoinX shares are trading higher after the company launched its flagship infrastructure software platform, StablecoinX Harness.",
+            "Bitmine Immersion Stock Moves Higher as Ethereum and Bitcoin Rally"
+          ]
+        },
+        {
+          "symbol": "MARA",
+          "price": 11.88,
+          "momentum_pct": 23.17,
+          "avg_dollar_vol": 16278156,
+          "max_day_jump_pct": 15.44,
+          "sector": "Technology",
+          "headlines": [
+            "MARA Holdings Stock Surges Thursday: What's Driving the Action?",
+            "Deere, Coinbase Global, Nordson And Other Big Stocks Moving Higher On Wednesday",
+            "Shares of crypto-linked companies are trading higher amid a rise in Bitcoin after President Trump urged Congress to pass the Clarity Act and said the Commodity Futures Trading Commission Chair Michael Selig is working to bring Hyperliquid to the U.S.",
+            "StablecoinX shares are trading higher after the company launched its flagship infrastructure software platform, StablecoinX Harness.",
+            "Riot\u2019s Relative Strength Stands Out in a Brutal Bitcoin Mining Earnings Season"
+          ]
+        },
+        {
+          "symbol": "BITO",
+          "price": 10.39,
+          "momentum_pct": 21.52,
+          "avg_dollar_vol": 84000320,
+          "max_day_jump_pct": 6.11,
+          "sector": "Unknown",
+          "headlines": [
+            "Cryptocurrencies: Bitcoin Up 9% This Week",
+            "VanEck Mid-August 2026 Bitcoin ChainCheck"
+          ]
+        },
+        {
+          "symbol": "IBIT",
+          "price": 43.55,
+          "momentum_pct": 21.41,
+          "avg_dollar_vol": 107057419,
+          "max_day_jump_pct": 6.16,
+          "sector": "Unknown",
+          "headlines": [
+            "Bitcoin's Bear Is Ready For Hibernation",
+            "Cryptocurrencies: Bitcoin Up 9% This Week",
+            "Bitcoin Reclaims $70K: Why Falling Treasury Yields Could Supercharge Spot BTC ETFs",
+            "Shares of crypto-linked companies are trading higher amid a rise in Bitcoin after President Trump urged Congress to pass the Clarity Act and said the Commodity Futures Trading Commission Chair Michael Selig is working to bring Hyperliquid to the U.S.",
+            "StablecoinX shares are trading higher after the company launched its flagship infrastructure software platform, StablecoinX Harness."
+          ]
+        },
+        {
+          "symbol": "TSLL",
+          "price": 9.56,
+          "momentum_pct": 18.83,
+          "avg_dollar_vol": 61495204,
+          "max_day_jump_pct": 8.68,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "SOXS",
+          "price": 47.76,
+          "momentum_pct": 16.6,
+          "avg_dollar_vol": 40370695,
+          "max_day_jump_pct": 15.39,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "SQQQ",
+          "price": 39.53,
+          "momentum_pct": 5.95,
+          "avg_dollar_vol": 58277501,
+          "max_day_jump_pct": 5.15,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "SOFI",
+          "price": 18.97,
+          "momentum_pct": 5.8,
+          "avg_dollar_vol": 23028670,
+          "max_day_jump_pct": 5.95,
+          "sector": "Financial Services",
+          "headlines": [
+            "Figure's Take Rate Is Shrinking By Design",
+            "The Options Market Puts PayPal Stock Between The High Forties And The High Seventies",
+            "Webull Q2 Earnings Call Highlights",
+            "Cramer Warns Fintech Bulls: These Three Stocks Are Priced for Perfection",
+            "SoFi (SOFI) Stock Looks Rich On Fair Value Yet Strong On Returns"
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "symbol": "ETHA",
+          "target_dollars": 35,
+          "rationale": "Strong crypto momentum with multiple positive headlines, including Trump's support for digital assets."
+        },
+        {
+          "symbol": "IBIT",
+          "target_dollars": 43,
+          "rationale": "Significant Bitcoin rally and positive news, including Trump's meeting with crypto executives."
+        }
+      ],
+      "rejected": [
+        {
+          "symbol": "ETHA",
+          "target_dollars": 35,
+          "rationale": "Strong crypto momentum with multiple positive headlines, including Trump's support for digital assets.",
+          "reason": "no room within limits",
+          "price": 17.98
+        },
+        {
+          "symbol": "IBIT",
+          "target_dollars": 43,
+          "rationale": "Significant Bitcoin rally and positive news, including Trump's meeting with crypto executives.",
+          "reason": "no room within limits",
+          "price": 43.55
+        }
+      ],
+      "orders": []
+    },
     {
       "day": "2026-08-20",
       "equity": 99976.59,

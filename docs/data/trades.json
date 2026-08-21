@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T14:18:02.139817+00:00",
+  "updated_at": "2026-08-21T14:16:27.182564+00:00",
   "fills": [
     {
       "t": "2026-06-08T18:25:43.162492+00:00",
@@ -855,6 +855,42 @@
       "price": 28.88,
       "value": 28.88,
       "order_id": "26e83069-2f16-4d61-99d1-262ceff7af16"
+    },
+    {
+      "t": "2026-08-20T14:18:02.046398+00:00",
+      "symbol": "BULL",
+      "side": "buy",
+      "qty": 5.0,
+      "price": 9.37,
+      "value": 46.85,
+      "order_id": "8d522e14-06cd-4359-a75e-2915607ba35a"
+    },
+    {
+      "t": "2026-08-20T14:18:05.109056+00:00",
+      "symbol": "ETHA",
+      "side": "buy",
+      "qty": 2.0,
+      "price": 17.175,
+      "value": 34.35,
+      "order_id": "d5478d62-943e-40af-9eb6-d49908a6cc08"
+    },
+    {
+      "t": "2026-08-20T14:27:41.853485+00:00",
+      "symbol": "BULL",
+      "side": "sell",
+      "qty": 5.0,
+      "price": 9.076,
+      "value": 45.38,
+      "order_id": "f9ba4523-1cd2-48b6-a711-7f50ad1be441"
+    },
+    {
+      "t": "2026-08-20T19:55:57.870024+00:00",
+      "symbol": "MUU",
+      "side": "sell",
+      "qty": 1.0,
+      "price": 31.96,
+      "value": 31.96,
+      "order_id": "a9d7a870-f806-4f87-a5a0-77dd4743b3a3"
     }
   ],
   "closed": [
@@ -1385,47 +1421,59 @@
       "pl": 2.54,
       "pl_pct": 9.93,
       "sector": "Pharmaceuticals"
-    }
-  ],
-  "open": [
+    },
     {
       "symbol": "BULL",
       "qty": 5.0,
+      "entry_time": "2026-08-20T14:18:02.046398+00:00",
       "entry_price": 9.37,
-      "current_price": 9.3602,
-      "market_value": 46.8,
-      "unrealized_pl": -0.05,
-      "unrealized_plpc": -0.1,
+      "exit_time": "2026-08-20T14:27:41.853485+00:00",
+      "exit_price": 9.076,
+      "pl": -1.47,
+      "pl_pct": -3.14,
       "sector": "Financial Services"
-    },
-    {
-      "symbol": "DV",
-      "qty": 3.0,
-      "entry_price": 13.27,
-      "current_price": 13.32,
-      "market_value": 39.96,
-      "unrealized_pl": 0.15,
-      "unrealized_plpc": 0.38,
-      "sector": "Media"
     },
     {
       "symbol": "MUU",
       "qty": 1.0,
+      "entry_time": "2026-08-19T14:10:46.663205+00:00",
       "entry_price": 28.88,
-      "current_price": 30.38,
-      "market_value": 30.38,
-      "unrealized_pl": 1.5,
-      "unrealized_plpc": 5.19,
+      "exit_time": "2026-08-20T19:55:57.870024+00:00",
+      "exit_price": 31.96,
+      "pl": 3.08,
+      "pl_pct": 10.66,
+      "sector": "Unknown"
+    }
+  ],
+  "open": [
+    {
+      "symbol": "DV",
+      "qty": 3.0,
+      "entry_price": 13.27,
+      "current_price": 13.3,
+      "market_value": 39.9,
+      "unrealized_pl": 0.09,
+      "unrealized_plpc": 0.23,
+      "sector": "Media"
+    },
+    {
+      "symbol": "ETHA",
+      "qty": 2.0,
+      "entry_price": 17.175,
+      "current_price": 17.965,
+      "market_value": 35.93,
+      "unrealized_pl": 1.58,
+      "unrealized_plpc": 4.6,
       "sector": "Unknown"
     },
     {
       "symbol": "NOK",
       "qty": 3.0,
       "entry_price": 10.14,
-      "current_price": 10.06,
-      "market_value": 30.18,
-      "unrealized_pl": -0.24,
-      "unrealized_plpc": -0.79,
+      "current_price": 10.15,
+      "market_value": 30.45,
+      "unrealized_pl": 0.03,
+      "unrealized_plpc": 0.1,
       "sector": "Communications"
     }
   ]
