@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T14:16:27.182564+00:00",
+  "updated_at": "2026-08-24T14:22:06.639487+00:00",
   "fills": [
     {
       "t": "2026-06-08T18:25:43.162492+00:00",
@@ -891,6 +891,24 @@
       "price": 31.96,
       "value": 31.96,
       "order_id": "a9d7a870-f806-4f87-a5a0-77dd4743b3a3"
+    },
+    {
+      "t": "2026-08-24T13:39:05.959629+00:00",
+      "symbol": "NOK",
+      "side": "sell",
+      "qty": 3.0,
+      "price": 9.86,
+      "value": 29.58,
+      "order_id": "f812b65a-cabd-457d-831d-27c972bbd620"
+    },
+    {
+      "t": "2026-08-24T14:10:58.414723+00:00",
+      "symbol": "ETHA",
+      "side": "sell",
+      "qty": 2.0,
+      "price": 18.92,
+      "value": 37.84,
+      "order_id": "6df175e9-2273-4868-a014-5e11cebe62be"
     }
   ],
   "closed": [
@@ -1443,6 +1461,28 @@
       "pl": 3.08,
       "pl_pct": 10.66,
       "sector": "Unknown"
+    },
+    {
+      "symbol": "NOK",
+      "qty": 3.0,
+      "entry_time": "2026-08-19T14:10:46.504800+00:00",
+      "entry_price": 10.14,
+      "exit_time": "2026-08-24T13:39:05.959629+00:00",
+      "exit_price": 9.86,
+      "pl": -0.84,
+      "pl_pct": -2.76,
+      "sector": "Communications"
+    },
+    {
+      "symbol": "ETHA",
+      "qty": 2.0,
+      "entry_time": "2026-08-20T14:18:05.109056+00:00",
+      "entry_price": 17.175,
+      "exit_time": "2026-08-24T14:10:58.414723+00:00",
+      "exit_price": 18.92,
+      "pl": 3.49,
+      "pl_pct": 10.16,
+      "sector": "Unknown"
     }
   ],
   "open": [
@@ -1450,31 +1490,11 @@
       "symbol": "DV",
       "qty": 3.0,
       "entry_price": 13.27,
-      "current_price": 13.3,
-      "market_value": 39.9,
-      "unrealized_pl": 0.09,
-      "unrealized_plpc": 0.23,
+      "current_price": 13.315,
+      "market_value": 39.95,
+      "unrealized_pl": 0.14,
+      "unrealized_plpc": 0.34,
       "sector": "Media"
-    },
-    {
-      "symbol": "ETHA",
-      "qty": 2.0,
-      "entry_price": 17.175,
-      "current_price": 17.965,
-      "market_value": 35.93,
-      "unrealized_pl": 1.58,
-      "unrealized_plpc": 4.6,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "NOK",
-      "qty": 3.0,
-      "entry_price": 10.14,
-      "current_price": 10.15,
-      "market_value": 30.45,
-      "unrealized_pl": 0.03,
-      "unrealized_plpc": 0.1,
-      "sector": "Communications"
     }
   ]
 }

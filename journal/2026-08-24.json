@@ -1,0 +1,160 @@
+{
+  "day": "2026-08-24",
+  "equity": 99979.65,
+  "candidates": [
+    {
+      "symbol": "CONL",
+      "price": 6.46,
+      "momentum_pct": 54.92,
+      "avg_dollar_vol": 3848698,
+      "max_day_jump_pct": 19.52,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "SNDQ",
+      "price": 17.86,
+      "momentum_pct": 46.21,
+      "avg_dollar_vol": 6434166,
+      "max_day_jump_pct": 19.91,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "ETHA",
+      "price": 18.96,
+      "momentum_pct": 31.85,
+      "avg_dollar_vol": 56719362,
+      "max_day_jump_pct": 10.59,
+      "sector": "Unknown",
+      "headlines": [
+        "ETHA: Ethereum Outperforms Amid Dualing Bullish Catalysts, More Gains Likely"
+      ]
+    },
+    {
+      "symbol": "BMNR",
+      "price": 23.98,
+      "momentum_pct": 28.06,
+      "avg_dollar_vol": 38216112,
+      "max_day_jump_pct": 10.73,
+      "sector": "Technology",
+      "headlines": [
+        "Tom Lee's BitMine Stock Surges as Ethereum DCA Strategy Finally Pays Off"
+      ]
+    },
+    {
+      "symbol": "IBIT",
+      "price": 44.88,
+      "momentum_pct": 23.25,
+      "avg_dollar_vol": 158691055,
+      "max_day_jump_pct": 6.16,
+      "sector": "Unknown",
+      "headlines": [
+        "Retirees Have A Dollar Problem, Here's The Trade"
+      ]
+    },
+    {
+      "symbol": "BITO",
+      "price": 10.69,
+      "momentum_pct": 23.16,
+      "avg_dollar_vol": 105923359,
+      "max_day_jump_pct": 6.11,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "MARA",
+      "price": 11.69,
+      "momentum_pct": 20.34,
+      "avg_dollar_vol": 20767960,
+      "max_day_jump_pct": 15.44,
+      "sector": "Technology",
+      "headlines": []
+    },
+    {
+      "symbol": "NVD",
+      "price": 4.53,
+      "momentum_pct": 15.56,
+      "avg_dollar_vol": 30148768,
+      "max_day_jump_pct": 5.23,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "SQQQ",
+      "price": 40.56,
+      "momentum_pct": 11.37,
+      "avg_dollar_vol": 52750008,
+      "max_day_jump_pct": 5.15,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "VALE",
+      "price": 15.0,
+      "momentum_pct": 9.13,
+      "avg_dollar_vol": 19357242,
+      "max_day_jump_pct": 2.85,
+      "sector": "Metals & Mining",
+      "headlines": []
+    },
+    {
+      "symbol": "TSLL",
+      "price": 9.34,
+      "momentum_pct": 8.48,
+      "avg_dollar_vol": 62747367,
+      "max_day_jump_pct": 10.14,
+      "sector": "Unknown",
+      "headlines": []
+    }
+  ],
+  "decisions": [
+    {
+      "symbol": "ETHA",
+      "target_dollars": 50,
+      "rationale": "Strong momentum with a clear bullish catalyst from Ethereum's performance and outlook."
+    },
+    {
+      "symbol": "BMNR",
+      "target_dollars": 50,
+      "rationale": "Good momentum supported by news of BitMine's strategy paying off, linked to Ethereum."
+    }
+  ],
+  "rejected": [],
+  "orders": [
+    {
+      "symbol": "ETHA",
+      "shares": 2,
+      "entry_price": 18.96,
+      "stop_price": 18.39,
+      "take_profit_price": 20.86,
+      "notional": 37.92,
+      "sector": "Unknown",
+      "rationale": "Strong momentum with a clear bullish catalyst from Ethereum's performance and outlook.",
+      "status": "submitted",
+      "order_id": "6e13c528-25a9-4581-aebe-d8a6dae4b7bd"
+    },
+    {
+      "symbol": "BMNR",
+      "shares": 2,
+      "entry_price": 23.98,
+      "stop_price": 23.26,
+      "take_profit_price": 26.38,
+      "notional": 47.96,
+      "sector": "Technology",
+      "rationale": "Good momentum supported by news of BitMine's strategy paying off, linked to Ethereum.",
+      "status": "submitted",
+      "order_id": "ba6b0e21-9e81-420d-b56e-bf97cc2b1042"
+    }
+  ],
+  "stops": [
+    {
+      "symbol": "DV",
+      "qty": 3,
+      "stop_price": 12.86,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"3\",\"held_for_orders\":\"3\",\"message\":\"insufficient qty available for order (requested: 3, available: 0)\",\"related_orders\":[\"4e068a33-8995-4b10-97e7-a75eec63a3ec\"],\"symbol\":\"DV\"}"
+    }
+  ],
+  "written_at": "2026-08-24T14:22:06.515420+00:00"
+}
