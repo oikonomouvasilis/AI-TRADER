@@ -1,6 +1,173 @@
 {
-  "updated_at": "2026-08-24T14:22:06.668684+00:00",
+  "updated_at": "2026-08-25T14:24:30.879447+00:00",
   "days": [
+    {
+      "day": "2026-08-25",
+      "equity": 99980.97,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "CONL",
+          "price": 6.03,
+          "momentum_pct": 44.6,
+          "avg_dollar_vol": 3960714,
+          "max_day_jump_pct": 19.52,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "SNDQ",
+          "price": 16.9,
+          "momentum_pct": 38.35,
+          "avg_dollar_vol": 6168238,
+          "max_day_jump_pct": 18.05,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "BMNR",
+          "price": 25.04,
+          "momentum_pct": 33.66,
+          "avg_dollar_vol": 43357367,
+          "max_day_jump_pct": 10.73,
+          "sector": "Technology",
+          "headlines": [
+            "Memory Stocks Slide as Trump Threatens 50% Tariffs on Canadian Autos, Steel in 2027: Stock Market Today",
+            "Bitmine Buys $81 Million In Ethereum as BMNR Surges 4%: What's Going On?",
+            "Bitmine Immersion Technologies Stock Climbs Monday: What's Driving the Action?",
+            "Bitcoin, Ethereum Gain, XRP, Dogecoin Slide as Crypto Market Takes a Breather: Analyst Predicts 'Little Dip' Before BTC Hits 'New Highs'",
+            "Tom Lee Named BMNR, MSTR, COIN as Top Picks for Fresh Crypto Bull Run"
+          ]
+        },
+        {
+          "symbol": "ETHA",
+          "price": 18.66,
+          "momentum_pct": 29.76,
+          "avg_dollar_vol": 56851209,
+          "max_day_jump_pct": 10.59,
+          "sector": "Unknown",
+          "headlines": [
+            "ETHA: Ethereum Outperforms Amid Dualing Bullish Catalysts, More Gains Likely"
+          ]
+        },
+        {
+          "symbol": "SOXS",
+          "price": 49.42,
+          "momentum_pct": 28.9,
+          "avg_dollar_vol": 43642192,
+          "max_day_jump_pct": 15.39,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "IBIT",
+          "price": 44.78,
+          "momentum_pct": 22.99,
+          "avg_dollar_vol": 167316836,
+          "max_day_jump_pct": 6.16,
+          "sector": "Unknown",
+          "headlines": [
+            "Rep. Rashida Tlaib Opposed Crypto Bill. But Her Retirement Accounts Held Bitcoin and Ethereum ETFs",
+            "Solana Company Announces $8M Registered Direct Offering Of 3,076,922 Shares At $2.60/Share",
+            "Scott Bessent Lit the Match. Bitcoin ETFs Are Turning the Digital Gold Trade Back On",
+            "Bitcoin's 7-Sigma Move Signals a Big \u2018Macro Transition\u2019",
+            "Retirees Have A Dollar Problem, Here's The Trade"
+          ]
+        },
+        {
+          "symbol": "BITO",
+          "price": 10.67,
+          "momentum_pct": 22.93,
+          "avg_dollar_vol": 110054907,
+          "max_day_jump_pct": 6.11,
+          "sector": "Unknown",
+          "headlines": [
+            "Can Bitcoin's Long-Term Catalysts Overcome Recent Headwinds?",
+            "Whale's Insight: Bitcoin Roars Back - The Next Bull Cycle May Have Begun"
+          ]
+        },
+        {
+          "symbol": "DAMD",
+          "price": 1.65,
+          "momentum_pct": 13.4,
+          "avg_dollar_vol": 4272353,
+          "max_day_jump_pct": 8.59,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "NVD",
+          "price": 4.36,
+          "momentum_pct": 11.22,
+          "avg_dollar_vol": 31873195,
+          "max_day_jump_pct": 6.04,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "RZLV",
+          "price": 2.88,
+          "momentum_pct": 10.77,
+          "avg_dollar_vol": 867829,
+          "max_day_jump_pct": 18.52,
+          "sector": "Technology",
+          "headlines": []
+        },
+        {
+          "symbol": "SQQQ",
+          "price": 39.72,
+          "momentum_pct": 9.06,
+          "avg_dollar_vol": 51842261,
+          "max_day_jump_pct": 5.15,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "TSLL",
+          "price": 9.2,
+          "momentum_pct": 6.79,
+          "avg_dollar_vol": 60439412,
+          "max_day_jump_pct": 10.14,
+          "sector": "Unknown",
+          "headlines": []
+        }
+      ],
+      "decisions": [
+        {
+          "symbol": "ETHA",
+          "target_dollars": 37,
+          "rationale": "Strong momentum with clear bullish catalysts and Ethereum outperformance news. Good value."
+        },
+        {
+          "symbol": "BITO",
+          "target_dollars": 50,
+          "rationale": "Solid momentum supported by news of Bitcoin's potential bull cycle and long-term catalysts."
+        }
+      ],
+      "rejected": [
+        {
+          "symbol": "ETHA",
+          "target_dollars": 37,
+          "rationale": "Strong momentum with clear bullish catalysts and Ethereum outperformance news. Good value.",
+          "reason": "no room within limits",
+          "price": 18.66
+        }
+      ],
+      "orders": [
+        {
+          "symbol": "BITO",
+          "shares": 4,
+          "entry_price": 10.67,
+          "stop_price": 10.35,
+          "take_profit_price": 11.74,
+          "notional": 42.68,
+          "sector": "Unknown",
+          "rationale": "Solid momentum supported by news of Bitcoin's potential bull cycle and long-term catalysts.",
+          "status": "submitted",
+          "order_id": "6713e42f-4133-4292-85a6-5e45822b93c9"
+        }
+      ]
+    },
     {
       "day": "2026-08-24",
       "equity": 99979.65,

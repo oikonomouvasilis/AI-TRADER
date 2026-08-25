@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T14:22:06.639487+00:00",
+  "updated_at": "2026-08-25T14:24:30.698805+00:00",
   "fills": [
     {
       "t": "2026-06-08T18:25:43.162492+00:00",
@@ -909,6 +909,24 @@
       "price": 18.92,
       "value": 37.84,
       "order_id": "6df175e9-2273-4868-a014-5e11cebe62be"
+    },
+    {
+      "t": "2026-08-24T14:22:06.857922+00:00",
+      "symbol": "BMNR",
+      "side": "buy",
+      "qty": 2.0,
+      "price": 24.04,
+      "value": 48.08,
+      "order_id": "ba6b0e21-9e81-420d-b56e-bf97cc2b1042"
+    },
+    {
+      "t": "2026-08-24T14:22:07.751761+00:00",
+      "symbol": "ETHA",
+      "side": "buy",
+      "qty": 2.0,
+      "price": 18.98,
+      "value": 37.96,
+      "order_id": "6e13c528-25a9-4581-aebe-d8a6dae4b7bd"
     }
   ],
   "closed": [
@@ -1487,14 +1505,34 @@
   ],
   "open": [
     {
+      "symbol": "BMNR",
+      "qty": 2.0,
+      "entry_price": 24.04,
+      "current_price": 25.0601,
+      "market_value": 50.12,
+      "unrealized_pl": 2.04,
+      "unrealized_plpc": 4.24,
+      "sector": "Technology"
+    },
+    {
       "symbol": "DV",
       "qty": 3.0,
       "entry_price": 13.27,
-      "current_price": 13.315,
-      "market_value": 39.95,
-      "unrealized_pl": 0.14,
-      "unrealized_plpc": 0.34,
+      "current_price": 13.305,
+      "market_value": 39.91,
+      "unrealized_pl": 0.1,
+      "unrealized_plpc": 0.26,
       "sector": "Media"
+    },
+    {
+      "symbol": "ETHA",
+      "qty": 2.0,
+      "entry_price": 18.98,
+      "current_price": 18.65,
+      "market_value": 37.3,
+      "unrealized_pl": -0.66,
+      "unrealized_plpc": -1.74,
+      "sector": "Unknown"
     }
   ]
 }
