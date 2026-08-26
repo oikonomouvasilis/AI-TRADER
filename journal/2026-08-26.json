@@ -1,0 +1,172 @@
+{
+  "day": "2026-08-26",
+  "equity": 99980.36,
+  "candidates": [
+    {
+      "symbol": "SOXS",
+      "price": 49.35,
+      "momentum_pct": 28.72,
+      "avg_dollar_vol": 40959570,
+      "max_day_jump_pct": 15.39,
+      "sector": "Unknown",
+      "headlines": [
+        "Leveraged Single-Stock ETF Closures Went From 3 To 63 In A Year As Money Piles Into Nvidia Bets"
+      ]
+    },
+    {
+      "symbol": "IBIT",
+      "price": 44.49,
+      "momentum_pct": 22.21,
+      "avg_dollar_vol": 159013762,
+      "max_day_jump_pct": 6.16,
+      "sector": "Unknown",
+      "headlines": [
+        "ARKB: The ETF Flow Cycle Matters More Than The Bitcoin Price Cycle",
+        "Don't Sleep On Software",
+        "Wintermute: Bitcoin, XRP, Gold Benefited From 'Debasement Board' Last Week",
+        "Bitcoin's Rebound May Be Running On ETF Flows, Not Leverage",
+        "Rep. Rashida Tlaib Opposed Crypto Bill. But Her Retirement Accounts Held Bitcoin and Ethereum ETFs"
+      ]
+    },
+    {
+      "symbol": "BITO",
+      "price": 10.6,
+      "momentum_pct": 22.12,
+      "avg_dollar_vol": 108714975,
+      "max_day_jump_pct": 6.11,
+      "sector": "Unknown",
+      "headlines": [
+        "Can Bitcoin's Long-Term Catalysts Overcome Recent Headwinds?",
+        "Whale's Insight: Bitcoin Roars Back - The Next Bull Cycle May Have Begun"
+      ]
+    },
+    {
+      "symbol": "NVD",
+      "price": 4.45,
+      "momentum_pct": 13.52,
+      "avg_dollar_vol": 33617963,
+      "max_day_jump_pct": 6.04,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "SQQQ",
+      "price": 39.6,
+      "momentum_pct": 8.73,
+      "avg_dollar_vol": 50199518,
+      "max_day_jump_pct": 5.15,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "SNAP",
+      "price": 5.51,
+      "momentum_pct": 6.27,
+      "avg_dollar_vol": 12225320,
+      "max_day_jump_pct": 6.96,
+      "sector": "Media",
+      "headlines": [
+        "New Zealand Introducing Online Safety Bill To Ban Under-16 Users From Accessing Social Media"
+      ]
+    },
+    {
+      "symbol": "TSLL",
+      "price": 9.01,
+      "momentum_pct": 4.65,
+      "avg_dollar_vol": 57746892,
+      "max_day_jump_pct": 10.14,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "SMR",
+      "price": 9.55,
+      "momentum_pct": 3.97,
+      "avg_dollar_vol": 9296380,
+      "max_day_jump_pct": 8.35,
+      "sector": "Electrical Equipment",
+      "headlines": [
+        "Reported Earlier, Standard Nuclear TRISO Fuel Producer, Prices Initial Public Offering Of 10M Class A Shares At $15.00 Per Share",
+        "NuScale Power Deploys Nuclear-Specific AI Tools To Support Its Engineering And Knowledge-Management Functions"
+      ]
+    },
+    {
+      "symbol": "SOFI",
+      "price": 18.98,
+      "momentum_pct": 3.52,
+      "avg_dollar_vol": 25361815,
+      "max_day_jump_pct": 5.59,
+      "sector": "Financial Services",
+      "headlines": [
+        "SoFi: The Everything App Thesis Is Playing Out",
+        "Sofi Stock Is Trending: A Key Level Just Came Into Play"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "symbol": "IBIT",
+      "target_dollars": 50,
+      "rationale": "Strong momentum with multiple positive headlines supporting Bitcoin ETF flows. Good liquidity."
+    },
+    {
+      "symbol": "BITO",
+      "target_dollars": 50,
+      "rationale": "Solid momentum and positive news regarding Bitcoin's bull cycle. Already a position, adding to strength."
+    }
+  ],
+  "rejected": [
+    {
+      "symbol": "BITO",
+      "target_dollars": 50,
+      "rationale": "Solid momentum and positive news regarding Bitcoin's bull cycle. Already a position, adding to strength.",
+      "reason": "no room within limits",
+      "price": 10.6
+    }
+  ],
+  "orders": [
+    {
+      "symbol": "IBIT",
+      "shares": 1,
+      "entry_price": 44.49,
+      "stop_price": 43.16,
+      "take_profit_price": 48.94,
+      "notional": 44.49,
+      "sector": "Unknown",
+      "rationale": "Strong momentum with multiple positive headlines supporting Bitcoin ETF flows. Good liquidity.",
+      "status": "submitted",
+      "order_id": "aa328500-ab1d-4d0e-a008-8a917993c5c0"
+    }
+  ],
+  "stops": [
+    {
+      "symbol": "BITO",
+      "qty": 4,
+      "stop_price": 10.35,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"4\",\"held_for_orders\":\"4\",\"message\":\"insufficient qty available for order (requested: 4, available: 0)\",\"related_orders\":[\"6da63cb4-5b3f-4974-86bf-2f79d0839356\"],\"symbol\":\"BITO\"}"
+    },
+    {
+      "symbol": "BMNR",
+      "qty": 2,
+      "stop_price": 23.26,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"2\",\"held_for_orders\":\"2\",\"message\":\"insufficient qty available for order (requested: 2, available: 0)\",\"related_orders\":[\"5eb37091-0373-4966-967d-eefb95cb23a8\"],\"symbol\":\"BMNR\"}"
+    },
+    {
+      "symbol": "DV",
+      "qty": 3,
+      "stop_price": 12.86,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"3\",\"held_for_orders\":\"3\",\"message\":\"insufficient qty available for order (requested: 3, available: 0)\",\"related_orders\":[\"4e068a33-8995-4b10-97e7-a75eec63a3ec\"],\"symbol\":\"DV\"}"
+    },
+    {
+      "symbol": "ETHA",
+      "qty": 2,
+      "stop_price": 18.39,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"2\",\"held_for_orders\":\"2\",\"message\":\"insufficient qty available for order (requested: 2, available: 0)\",\"related_orders\":[\"6c3be671-9d97-448e-815d-04baf0343cc3\"],\"symbol\":\"ETHA\"}"
+    }
+  ],
+  "written_at": "2026-08-26T14:21:43.964325+00:00"
+}

@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-25T14:24:30.875964+00:00",
+  "updated_at": "2026-08-26T14:21:44.171585+00:00",
   "account": {
-    "equity": 99980.97,
-    "cash": 99853.63,
-    "buying_power": 399728.33,
-    "long_market_value": 127.34,
-    "last_equity": 99979.13
+    "equity": 99980.3,
+    "cash": 99810.9,
+    "buying_power": 399673.43,
+    "long_market_value": 169.4,
+    "last_equity": 99980.34
   },
   "curve": [
     {
@@ -133,18 +133,34 @@
       "equity": 99979.13,
       "pl": -0.19,
       "pl_pct": 0.0
+    },
+    {
+      "t": "2026-08-26",
+      "equity": 99980.34,
+      "pl": 1.21,
+      "pl_pct": 0.0
     }
   ],
   "base_value": 99996.46,
   "positions": [
     {
+      "symbol": "BITO",
+      "qty": 4.0,
+      "entry_price": 10.68,
+      "current_price": 10.5914,
+      "market_value": 42.37,
+      "unrealized_pl": -0.35,
+      "unrealized_plpc": -0.83,
+      "sector": "Unknown"
+    },
+    {
       "symbol": "BMNR",
       "qty": 2.0,
       "entry_price": 24.04,
-      "current_price": 25.0601,
-      "market_value": 50.12,
-      "unrealized_pl": 2.04,
-      "unrealized_plpc": 4.24,
+      "current_price": 25.015,
+      "market_value": 50.03,
+      "unrealized_pl": 1.95,
+      "unrealized_plpc": 4.06,
       "sector": "Technology"
     },
     {
@@ -161,37 +177,37 @@
       "symbol": "ETHA",
       "qty": 2.0,
       "entry_price": 18.98,
-      "current_price": 18.65,
-      "market_value": 37.3,
-      "unrealized_pl": -0.66,
-      "unrealized_plpc": -1.74,
+      "current_price": 18.545,
+      "market_value": 37.09,
+      "unrealized_pl": -0.87,
+      "unrealized_plpc": -2.29,
       "sector": "Unknown"
     }
   ],
   "sector_allocation": [
     {
+      "sector": "Unknown",
+      "market_value": 79.46,
+      "pct": 46.9
+    },
+    {
       "sector": "Technology",
-      "market_value": 50.12,
-      "pct": 39.4
+      "market_value": 50.03,
+      "pct": 29.5
     },
     {
       "sector": "Media",
       "market_value": 39.91,
-      "pct": 31.3
-    },
-    {
-      "sector": "Unknown",
-      "market_value": 37.3,
-      "pct": 29.3
+      "pct": 23.6
     }
   ],
   "kpis": {
-    "equity": 99980.97,
-    "total_pl": -18.18,
+    "equity": 99980.3,
+    "total_pl": -18.83,
     "total_pl_pct": -0.02,
     "realized_pl": -19.66,
-    "unrealized_pl": 1.48,
-    "open_positions": 3,
+    "unrealized_pl": 0.83,
+    "open_positions": 4,
     "num_closed_trades": 52,
     "win_rate": 19.2
   }
