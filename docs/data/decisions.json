@@ -1,6 +1,87 @@
 {
-  "updated_at": "2026-08-26T14:21:44.175070+00:00",
+  "updated_at": "2026-08-31T19:37:18.790632+00:00",
   "days": [
+    {
+      "day": "2026-08-31",
+      "equity": 99983.55,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "PURR",
+          "price": 12.24,
+          "momentum_pct": 15.04,
+          "avg_dollar_vol": 21759887,
+          "max_day_jump_pct": 11.51,
+          "sector": "Biotechnology",
+          "headlines": [
+            "Tom Lee Says Markets Could 'Rally Very Strongly' in September, Touts Fed Surprise",
+            "Hyperliquid Strategies: The Toll Road And The Tender Offer"
+          ]
+        },
+        {
+          "symbol": "PATH",
+          "price": 18.55,
+          "momentum_pct": 12.01,
+          "avg_dollar_vol": 22805937,
+          "max_day_jump_pct": 9.34,
+          "sector": "Technology",
+          "headlines": [
+            "UiPath: Maybe Not That Great Ahead Of Earnings"
+          ]
+        },
+        {
+          "symbol": "TSLL",
+          "price": 9.96,
+          "momentum_pct": 10.3,
+          "avg_dollar_vol": 48753922,
+          "max_day_jump_pct": 10.79,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "TSLG",
+          "price": 4.95,
+          "momentum_pct": 10.24,
+          "avg_dollar_vol": 25261285,
+          "max_day_jump_pct": 10.74,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "BMNR",
+          "price": 25.05,
+          "momentum_pct": 3.75,
+          "avg_dollar_vol": 54255868,
+          "max_day_jump_pct": 5.34,
+          "sector": "Technology",
+          "headlines": [
+            "Bitmine Buys 53,501 ETH: What Does It Mean for BMNR?"
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "symbol": "BMNR",
+          "target_dollars": 50,
+          "rationale": "Strong news catalyst (ETH purchase) supporting current momentum in the technology sector."
+        }
+      ],
+      "rejected": [],
+      "orders": [
+        {
+          "symbol": "BMNR",
+          "shares": 1,
+          "entry_price": 25.05,
+          "stop_price": 24.3,
+          "take_profit_price": 27.56,
+          "notional": 25.05,
+          "sector": "Technology",
+          "rationale": "Strong news catalyst (ETH purchase) supporting current momentum in the technology sector.",
+          "status": "submitted",
+          "order_id": "77765f75-bc5e-42dc-8965-a48dad0d2454"
+        }
+      ]
+    },
     {
       "day": "2026-08-26",
       "equity": 99980.36,
