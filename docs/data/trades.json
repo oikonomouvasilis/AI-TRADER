@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T19:37:18.760137+00:00",
+  "updated_at": "2026-09-01T17:25:52.764446+00:00",
   "fills": [
     {
       "t": "2026-06-08T18:25:43.162492+00:00",
@@ -963,6 +963,24 @@
       "price": 26.385,
       "value": 52.77,
       "order_id": "5eb37091-0373-4966-967d-eefb95cb23a8"
+    },
+    {
+      "t": "2026-08-31T19:37:18.854581+00:00",
+      "symbol": "BMNR",
+      "side": "buy",
+      "qty": 1.0,
+      "price": 25.03,
+      "value": 25.03,
+      "order_id": "77765f75-bc5e-42dc-8965-a48dad0d2454"
+    },
+    {
+      "t": "2026-09-01T13:33:56.222283+00:00",
+      "symbol": "BMNR",
+      "side": "sell",
+      "qty": 1.0,
+      "price": 24.29,
+      "value": 24.29,
+      "order_id": "e4fd45e9-2df2-4670-b4f1-02b1818d70aa"
     }
   ],
   "closed": [
@@ -1559,6 +1577,17 @@
       "pl": 4.69,
       "pl_pct": 9.75,
       "sector": "Technology"
+    },
+    {
+      "symbol": "BMNR",
+      "qty": 1.0,
+      "entry_time": "2026-08-31T19:37:18.854581+00:00",
+      "entry_price": 25.03,
+      "exit_time": "2026-09-01T13:33:56.222283+00:00",
+      "exit_price": 24.29,
+      "pl": -0.74,
+      "pl_pct": -2.96,
+      "sector": "Technology"
     }
   ],
   "open": [
@@ -1566,30 +1595,30 @@
       "symbol": "BITO",
       "qty": 4.0,
       "entry_price": 10.68,
-      "current_price": 10.67,
-      "market_value": 42.68,
-      "unrealized_pl": -0.04,
-      "unrealized_plpc": -0.09,
+      "current_price": 10.425,
+      "market_value": 41.7,
+      "unrealized_pl": -1.02,
+      "unrealized_plpc": -2.39,
       "sector": "Unknown"
     },
     {
       "symbol": "DV",
       "qty": 3.0,
       "entry_price": 13.27,
-      "current_price": 13.38,
-      "market_value": 40.14,
-      "unrealized_pl": 0.33,
-      "unrealized_plpc": 0.83,
+      "current_price": 13.36,
+      "market_value": 40.08,
+      "unrealized_pl": 0.27,
+      "unrealized_plpc": 0.68,
       "sector": "Media"
     },
     {
       "symbol": "IBIT",
       "qty": 1.0,
       "entry_price": 44.48,
-      "current_price": 44.805,
-      "market_value": 44.8,
-      "unrealized_pl": 0.33,
-      "unrealized_plpc": 0.73,
+      "current_price": 43.86,
+      "market_value": 43.86,
+      "unrealized_pl": -0.62,
+      "unrealized_plpc": -1.39,
       "sector": "Unknown"
     }
   ]

@@ -1,19 +1,13 @@
 {
-  "updated_at": "2026-08-31T19:37:18.787890+00:00",
+  "updated_at": "2026-09-01T17:25:52.947080+00:00",
   "account": {
-    "equity": 99983.52,
-    "cash": 99855.89,
-    "buying_power": 399755.87,
-    "long_market_value": 127.63,
-    "last_equity": 99981.73
+    "equity": 99980.78,
+    "cash": 99855.14,
+    "buying_power": 399735.96,
+    "long_market_value": 125.64,
+    "last_equity": 99983.56
   },
   "curve": [
-    {
-      "t": "2026-08-01",
-      "equity": 99988.92,
-      "pl": 0.0,
-      "pl_pct": 0.0
-    },
     {
       "t": "2026-08-04",
       "equity": 99988.92,
@@ -133,6 +127,12 @@
       "equity": 99981.73,
       "pl": -2.59,
       "pl_pct": 0.0
+    },
+    {
+      "t": "2026-09-01",
+      "equity": 99983.56,
+      "pl": 1.83,
+      "pl_pct": 0.0
     }
   ],
   "base_value": 99988.92,
@@ -141,53 +141,53 @@
       "symbol": "BITO",
       "qty": 4.0,
       "entry_price": 10.68,
-      "current_price": 10.67,
-      "market_value": 42.68,
-      "unrealized_pl": -0.04,
-      "unrealized_plpc": -0.09,
+      "current_price": 10.425,
+      "market_value": 41.7,
+      "unrealized_pl": -1.02,
+      "unrealized_plpc": -2.39,
       "sector": "Unknown"
     },
     {
       "symbol": "DV",
       "qty": 3.0,
       "entry_price": 13.27,
-      "current_price": 13.38,
-      "market_value": 40.14,
-      "unrealized_pl": 0.33,
-      "unrealized_plpc": 0.83,
+      "current_price": 13.36,
+      "market_value": 40.08,
+      "unrealized_pl": 0.27,
+      "unrealized_plpc": 0.68,
       "sector": "Media"
     },
     {
       "symbol": "IBIT",
       "qty": 1.0,
       "entry_price": 44.48,
-      "current_price": 44.805,
-      "market_value": 44.8,
-      "unrealized_pl": 0.33,
-      "unrealized_plpc": 0.73,
+      "current_price": 43.86,
+      "market_value": 43.86,
+      "unrealized_pl": -0.62,
+      "unrealized_plpc": -1.39,
       "sector": "Unknown"
     }
   ],
   "sector_allocation": [
     {
       "sector": "Unknown",
-      "market_value": 87.48,
-      "pct": 68.5
+      "market_value": 85.56,
+      "pct": 68.1
     },
     {
       "sector": "Media",
-      "market_value": 40.14,
-      "pct": 31.5
+      "market_value": 40.08,
+      "pct": 31.9
     }
   ],
   "kpis": {
-    "equity": 99983.52,
-    "total_pl": -15.55,
+    "equity": 99980.78,
+    "total_pl": -18.28,
     "total_pl_pct": -0.01,
-    "realized_pl": -16.17,
-    "unrealized_pl": 0.62,
+    "realized_pl": -16.91,
+    "unrealized_pl": -1.37,
     "open_positions": 3,
-    "num_closed_trades": 54,
-    "win_rate": 20.4
+    "num_closed_trades": 55,
+    "win_rate": 20.0
   }
 }
