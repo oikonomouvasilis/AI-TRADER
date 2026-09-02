@@ -1,0 +1,111 @@
+{
+  "day": "2026-09-02",
+  "equity": 99979.54,
+  "candidates": [
+    {
+      "symbol": "BBD",
+      "price": 3.43,
+      "momentum_pct": 8.89,
+      "avg_dollar_vol": 8523608,
+      "max_day_jump_pct": 3.49,
+      "sector": "Banking",
+      "headlines": []
+    },
+    {
+      "symbol": "PATH",
+      "price": 17.88,
+      "momentum_pct": 7.91,
+      "avg_dollar_vol": 21485717,
+      "max_day_jump_pct": 9.34,
+      "sector": "Technology",
+      "headlines": [
+        "Samsara or UiPath: Which Stock Has a Clear Path to Profits?",
+        "UiPath (PATH) Reports Q2: Everything You Need To Know Ahead Of Earnings",
+        "GitLab Inc. (GTLB) Beats Q2 Earnings and Revenue Estimates",
+        "UiPath to Participate in the Citi 2026 Global TMT Conference",
+        "UiPath vs. ServiceNow: 1 Stock Is the Better Buy in the Enterprise AI Automation Battle"
+      ]
+    },
+    {
+      "symbol": "RIG",
+      "price": 6.12,
+      "momentum_pct": 6.06,
+      "avg_dollar_vol": 11052772,
+      "max_day_jump_pct": 3.46,
+      "sector": "Energy",
+      "headlines": []
+    },
+    {
+      "symbol": "SNXX",
+      "price": 13.77,
+      "momentum_pct": 5.64,
+      "avg_dollar_vol": 15045538,
+      "max_day_jump_pct": 11.19,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "PLTD",
+      "price": 5.41,
+      "momentum_pct": 4.14,
+      "avg_dollar_vol": 13242191,
+      "max_day_jump_pct": 6.71,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "NU",
+      "price": 15.25,
+      "momentum_pct": 3.39,
+      "avg_dollar_vol": 31493802,
+      "max_day_jump_pct": 5.5,
+      "sector": "Banking",
+      "headlines": [
+        "Curious about the most active stocks on Tuesday?",
+        "9 Financials Stocks With Whale Alerts In Today\u2019s Session",
+        "These stocks are the most active in today's session"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "symbol": "PATH",
+      "target_dollars": 50,
+      "rationale": "Strong momentum with clear news catalyst (Citi conference, AI automation battle). Good volume."
+    }
+  ],
+  "rejected": [
+    {
+      "symbol": "PATH",
+      "target_dollars": 50,
+      "rationale": "Strong momentum with clear news catalyst (Citi conference, AI automation battle). Good volume.",
+      "reason": "no room within limits",
+      "price": 17.88
+    }
+  ],
+  "orders": [],
+  "stops": [
+    {
+      "symbol": "DV",
+      "qty": 3,
+      "stop_price": 12.86,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"3\",\"held_for_orders\":\"3\",\"message\":\"insufficient qty available for order (requested: 3, available: 0)\",\"related_orders\":[\"4e068a33-8995-4b10-97e7-a75eec63a3ec\"],\"symbol\":\"DV\"}"
+    },
+    {
+      "symbol": "IBIT",
+      "qty": 1,
+      "stop_price": 43.16,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"1\",\"held_for_orders\":\"1\",\"message\":\"insufficient qty available for order (requested: 1, available: 0)\",\"related_orders\":[\"bd625dc4-40b4-4d80-9957-23dd7b34d09b\"],\"symbol\":\"IBIT\"}"
+    },
+    {
+      "symbol": "PATH",
+      "qty": 2,
+      "stop_price": 17.62,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"2\",\"held_for_orders\":\"2\",\"message\":\"insufficient qty available for order (requested: 2, available: 0)\",\"related_orders\":[\"45ff97af-d73e-4e89-8748-65cbdaddaa2c\"],\"symbol\":\"PATH\"}"
+    }
+  ],
+  "written_at": "2026-09-02T17:18:20.529716+00:00"
+}

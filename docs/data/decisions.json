@@ -1,6 +1,94 @@
 {
-  "updated_at": "2026-09-01T17:25:52.949259+00:00",
+  "updated_at": "2026-09-02T17:18:20.827491+00:00",
   "days": [
+    {
+      "day": "2026-09-02",
+      "equity": 99979.54,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "BBD",
+          "price": 3.43,
+          "momentum_pct": 8.89,
+          "avg_dollar_vol": 8523608,
+          "max_day_jump_pct": 3.49,
+          "sector": "Banking",
+          "headlines": []
+        },
+        {
+          "symbol": "PATH",
+          "price": 17.88,
+          "momentum_pct": 7.91,
+          "avg_dollar_vol": 21485717,
+          "max_day_jump_pct": 9.34,
+          "sector": "Technology",
+          "headlines": [
+            "Samsara or UiPath: Which Stock Has a Clear Path to Profits?",
+            "UiPath (PATH) Reports Q2: Everything You Need To Know Ahead Of Earnings",
+            "GitLab Inc. (GTLB) Beats Q2 Earnings and Revenue Estimates",
+            "UiPath to Participate in the Citi 2026 Global TMT Conference",
+            "UiPath vs. ServiceNow: 1 Stock Is the Better Buy in the Enterprise AI Automation Battle"
+          ]
+        },
+        {
+          "symbol": "RIG",
+          "price": 6.12,
+          "momentum_pct": 6.06,
+          "avg_dollar_vol": 11052772,
+          "max_day_jump_pct": 3.46,
+          "sector": "Energy",
+          "headlines": []
+        },
+        {
+          "symbol": "SNXX",
+          "price": 13.77,
+          "momentum_pct": 5.64,
+          "avg_dollar_vol": 15045538,
+          "max_day_jump_pct": 11.19,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "PLTD",
+          "price": 5.41,
+          "momentum_pct": 4.14,
+          "avg_dollar_vol": 13242191,
+          "max_day_jump_pct": 6.71,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "NU",
+          "price": 15.25,
+          "momentum_pct": 3.39,
+          "avg_dollar_vol": 31493802,
+          "max_day_jump_pct": 5.5,
+          "sector": "Banking",
+          "headlines": [
+            "Curious about the most active stocks on Tuesday?",
+            "9 Financials Stocks With Whale Alerts In Today\u2019s Session",
+            "These stocks are the most active in today's session"
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "symbol": "PATH",
+          "target_dollars": 50,
+          "rationale": "Strong momentum with clear news catalyst (Citi conference, AI automation battle). Good volume."
+        }
+      ],
+      "rejected": [
+        {
+          "symbol": "PATH",
+          "target_dollars": 50,
+          "rationale": "Strong momentum with clear news catalyst (Citi conference, AI automation battle). Good volume.",
+          "reason": "no room within limits",
+          "price": 17.88
+        }
+      ],
+      "orders": []
+    },
     {
       "day": "2026-09-01",
       "equity": 99980.79,

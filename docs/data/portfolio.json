@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-01T17:25:52.947080+00:00",
+  "updated_at": "2026-09-02T17:18:20.824092+00:00",
   "account": {
-    "equity": 99980.78,
-    "cash": 99855.14,
-    "buying_power": 399735.96,
-    "long_market_value": 125.64,
-    "last_equity": 99983.56
+    "equity": 99979.55,
+    "cash": 99860.13,
+    "buying_power": 399774.9,
+    "long_market_value": 119.42,
+    "last_equity": 99980.25
   },
   "curve": [
     {
@@ -133,20 +133,16 @@
       "equity": 99983.56,
       "pl": 1.83,
       "pl_pct": 0.0
+    },
+    {
+      "t": "2026-09-02",
+      "equity": 99980.25,
+      "pl": -3.31,
+      "pl_pct": 0.0
     }
   ],
   "base_value": 99988.92,
   "positions": [
-    {
-      "symbol": "BITO",
-      "qty": 4.0,
-      "entry_price": 10.68,
-      "current_price": 10.425,
-      "market_value": 41.7,
-      "unrealized_pl": -1.02,
-      "unrealized_plpc": -2.39,
-      "sector": "Unknown"
-    },
     {
       "symbol": "DV",
       "qty": 3.0,
@@ -161,33 +157,48 @@
       "symbol": "IBIT",
       "qty": 1.0,
       "entry_price": 44.48,
-      "current_price": 43.86,
-      "market_value": 43.86,
-      "unrealized_pl": -0.62,
-      "unrealized_plpc": -1.39,
+      "current_price": 43.62,
+      "market_value": 43.62,
+      "unrealized_pl": -0.86,
+      "unrealized_plpc": -1.93,
       "sector": "Unknown"
+    },
+    {
+      "symbol": "PATH",
+      "qty": 2.0,
+      "entry_price": 18.19,
+      "current_price": 17.8599,
+      "market_value": 35.72,
+      "unrealized_pl": -0.66,
+      "unrealized_plpc": -1.81,
+      "sector": "Technology"
     }
   ],
   "sector_allocation": [
     {
       "sector": "Unknown",
-      "market_value": 85.56,
-      "pct": 68.1
+      "market_value": 43.62,
+      "pct": 36.5
     },
     {
       "sector": "Media",
       "market_value": 40.08,
-      "pct": 31.9
+      "pct": 33.6
+    },
+    {
+      "sector": "Technology",
+      "market_value": 35.72,
+      "pct": 29.9
     }
   ],
   "kpis": {
-    "equity": 99980.78,
-    "total_pl": -18.28,
+    "equity": 99979.55,
+    "total_pl": -19.48,
     "total_pl_pct": -0.01,
-    "realized_pl": -16.91,
-    "unrealized_pl": -1.37,
+    "realized_pl": -18.23,
+    "unrealized_pl": -1.25,
     "open_positions": 3,
-    "num_closed_trades": 55,
-    "win_rate": 20.0
+    "num_closed_trades": 56,
+    "win_rate": 19.6
   }
 }
