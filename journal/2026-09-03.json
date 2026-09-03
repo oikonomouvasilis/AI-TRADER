@@ -1,0 +1,82 @@
+{
+  "day": "2026-09-03",
+  "equity": 99983.14,
+  "candidates": [
+    {
+      "symbol": "SPCH",
+      "price": 10.23,
+      "momentum_pct": 17.99,
+      "avg_dollar_vol": 1598077,
+      "max_day_jump_pct": 13.86,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "TSLL",
+      "price": 10.71,
+      "momentum_pct": 17.82,
+      "avg_dollar_vol": 51395763,
+      "max_day_jump_pct": 14.42,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "TSLG",
+      "price": 5.32,
+      "momentum_pct": 17.7,
+      "avg_dollar_vol": 26800584,
+      "max_day_jump_pct": 14.41,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "SNXX",
+      "price": 14.06,
+      "momentum_pct": 9.54,
+      "avg_dollar_vol": 14887656,
+      "max_day_jump_pct": 11.19,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "BMNR",
+      "price": 25.87,
+      "momentum_pct": 4.23,
+      "avg_dollar_vol": 44924529,
+      "max_day_jump_pct": 12.19,
+      "sector": "Technology",
+      "headlines": [
+        "Bitcoin, Ethereum, XRP, Dogecoin Retreat Amid Trump's Iran Warning: Analyst Says BTC Mirroring 2023 Bottoming Pattern, 'Decisive Breakout' Could Follow",
+        "10 Information Technology Stocks With Whale Alerts In Today\u2019s Session",
+        "Bitmine Immersion: A Better Way To Play The Crypto Bull Market"
+      ]
+    }
+  ],
+  "decisions": [],
+  "rejected": [],
+  "orders": [],
+  "stops": [
+    {
+      "symbol": "DV",
+      "qty": 3,
+      "stop_price": 12.86,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"3\",\"held_for_orders\":\"3\",\"message\":\"insufficient qty available for order (requested: 3, available: 0)\",\"related_orders\":[\"4e068a33-8995-4b10-97e7-a75eec63a3ec\"],\"symbol\":\"DV\"}"
+    },
+    {
+      "symbol": "IBIT",
+      "qty": 1,
+      "stop_price": 43.16,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"1\",\"held_for_orders\":\"1\",\"message\":\"insufficient qty available for order (requested: 1, available: 0)\",\"related_orders\":[\"bd625dc4-40b4-4d80-9957-23dd7b34d09b\"],\"symbol\":\"IBIT\"}"
+    },
+    {
+      "symbol": "PATH",
+      "qty": 2,
+      "stop_price": 17.62,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"2\",\"held_for_orders\":\"2\",\"message\":\"insufficient qty available for order (requested: 2, available: 0)\",\"related_orders\":[\"45ff97af-d73e-4e89-8748-65cbdaddaa2c\"],\"symbol\":\"PATH\"}"
+    }
+  ],
+  "written_at": "2026-09-03T17:10:18.254811+00:00"
+}

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T17:18:20.746458+00:00",
+  "updated_at": "2026-09-03T17:10:18.421218+00:00",
   "fills": [
     {
       "t": "2026-06-08T18:25:43.162492+00:00",
@@ -1624,30 +1624,30 @@
       "symbol": "DV",
       "qty": 3.0,
       "entry_price": 13.27,
-      "current_price": 13.36,
-      "market_value": 40.08,
-      "unrealized_pl": 0.27,
-      "unrealized_plpc": 0.68,
+      "current_price": 13.355,
+      "market_value": 40.06,
+      "unrealized_pl": 0.26,
+      "unrealized_plpc": 0.64,
       "sector": "Media"
     },
     {
       "symbol": "IBIT",
       "qty": 1.0,
       "entry_price": 44.48,
-      "current_price": 43.62,
-      "market_value": 43.62,
-      "unrealized_pl": -0.86,
-      "unrealized_plpc": -1.93,
+      "current_price": 45.91,
+      "market_value": 45.91,
+      "unrealized_pl": 1.43,
+      "unrealized_plpc": 3.21,
       "sector": "Unknown"
     },
     {
       "symbol": "PATH",
       "qty": 2.0,
       "entry_price": 18.19,
-      "current_price": 17.8599,
-      "market_value": 35.72,
-      "unrealized_pl": -0.66,
-      "unrealized_plpc": -1.81,
+      "current_price": 18.515,
+      "market_value": 37.03,
+      "unrealized_pl": 0.65,
+      "unrealized_plpc": 1.79,
       "sector": "Technology"
     }
   ]

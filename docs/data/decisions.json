@@ -1,6 +1,65 @@
 {
-  "updated_at": "2026-09-02T17:18:20.827491+00:00",
+  "updated_at": "2026-09-03T17:10:18.450298+00:00",
   "days": [
+    {
+      "day": "2026-09-03",
+      "equity": 99983.14,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "SPCH",
+          "price": 10.23,
+          "momentum_pct": 17.99,
+          "avg_dollar_vol": 1598077,
+          "max_day_jump_pct": 13.86,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "TSLL",
+          "price": 10.71,
+          "momentum_pct": 17.82,
+          "avg_dollar_vol": 51395763,
+          "max_day_jump_pct": 14.42,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "TSLG",
+          "price": 5.32,
+          "momentum_pct": 17.7,
+          "avg_dollar_vol": 26800584,
+          "max_day_jump_pct": 14.41,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "SNXX",
+          "price": 14.06,
+          "momentum_pct": 9.54,
+          "avg_dollar_vol": 14887656,
+          "max_day_jump_pct": 11.19,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "BMNR",
+          "price": 25.87,
+          "momentum_pct": 4.23,
+          "avg_dollar_vol": 44924529,
+          "max_day_jump_pct": 12.19,
+          "sector": "Technology",
+          "headlines": [
+            "Bitcoin, Ethereum, XRP, Dogecoin Retreat Amid Trump's Iran Warning: Analyst Says BTC Mirroring 2023 Bottoming Pattern, 'Decisive Breakout' Could Follow",
+            "10 Information Technology Stocks With Whale Alerts In Today\u2019s Session",
+            "Bitmine Immersion: A Better Way To Play The Crypto Bull Market"
+          ]
+        }
+      ],
+      "decisions": [],
+      "rejected": [],
+      "orders": []
+    },
     {
       "day": "2026-09-02",
       "equity": 99979.54,
