@@ -1,0 +1,69 @@
+{
+  "day": "2026-09-04",
+  "equity": 99977.23,
+  "candidates": [
+    {
+      "symbol": "MUU",
+      "price": 33.56,
+      "momentum_pct": 13.55,
+      "avg_dollar_vol": 6669990,
+      "max_day_jump_pct": 9.33,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "SMCI",
+      "price": 40.54,
+      "momentum_pct": 8.35,
+      "avg_dollar_vol": 44772506,
+      "max_day_jump_pct": 7.05,
+      "sector": "Technology",
+      "headlines": [
+        "Hardware & Infrastructure Stocks Q2 Teardown: Super Micro (NASDAQ:SMCI) Vs The Rest",
+        "NTAP Q1 Earnings Beat Estimates on Hybrid, Public Cloud Revenue Growth",
+        "SMCI Rises 29% Year to Date: Time to Buy, Sell or Hold the Stock?",
+        "HPE Cannot Build AI Servers Fast Enough. Is the Stock Still Cheap?",
+        "Dell Is Now Up 20% in a Month: Take Profits, or Buy More?"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "symbol": "SMCI",
+      "target_dollars": 50,
+      "rationale": "Strong momentum with supportive headlines on AI server demand and sector growth. Good volume."
+    }
+  ],
+  "rejected": [],
+  "orders": [
+    {
+      "symbol": "SMCI",
+      "shares": 1,
+      "entry_price": 40.54,
+      "stop_price": 39.32,
+      "take_profit_price": 44.59,
+      "notional": 40.54,
+      "sector": "Technology",
+      "rationale": "Strong momentum with supportive headlines on AI server demand and sector growth. Good volume.",
+      "status": "submitted",
+      "order_id": "7a7b07d2-dfd5-4437-ae19-169189f76668"
+    }
+  ],
+  "stops": [
+    {
+      "symbol": "DV",
+      "qty": 3,
+      "stop_price": 12.86,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"3\",\"held_for_orders\":\"3\",\"message\":\"insufficient qty available for order (requested: 3, available: 0)\",\"related_orders\":[\"4e068a33-8995-4b10-97e7-a75eec63a3ec\"],\"symbol\":\"DV\"}"
+    },
+    {
+      "symbol": "IBIT",
+      "qty": 1,
+      "stop_price": 43.16,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"1\",\"held_for_orders\":\"1\",\"message\":\"insufficient qty available for order (requested: 1, available: 0)\",\"related_orders\":[\"bd625dc4-40b4-4d80-9957-23dd7b34d09b\"],\"symbol\":\"IBIT\"}"
+    }
+  ],
+  "written_at": "2026-09-04T17:02:53.278697+00:00"
+}

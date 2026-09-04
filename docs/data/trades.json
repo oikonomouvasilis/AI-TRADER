@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T17:10:18.421218+00:00",
+  "updated_at": "2026-09-04T17:02:53.612971+00:00",
   "fills": [
     {
       "t": "2026-06-08T18:25:43.162492+00:00",
@@ -999,6 +999,15 @@
       "price": 10.35,
       "value": 41.4,
       "order_id": "8669b996-30bd-4c15-b0c5-15a31ede1fbe"
+    },
+    {
+      "t": "2026-09-04T13:33:52.557604+00:00",
+      "symbol": "PATH",
+      "side": "sell",
+      "qty": 2.0,
+      "price": 15.945,
+      "value": 31.89,
+      "order_id": "3e135619-f780-410c-8399-a44841a6750f"
     }
   ],
   "closed": [
@@ -1617,6 +1626,17 @@
       "pl": -1.32,
       "pl_pct": -3.09,
       "sector": "Unknown"
+    },
+    {
+      "symbol": "PATH",
+      "qty": 2.0,
+      "entry_time": "2026-09-01T17:25:54.182685+00:00",
+      "entry_price": 18.19,
+      "exit_time": "2026-09-04T13:33:52.557604+00:00",
+      "exit_price": 15.945,
+      "pl": -4.49,
+      "pl_pct": -12.34,
+      "sector": "Technology"
     }
   ],
   "open": [
@@ -1624,31 +1644,21 @@
       "symbol": "DV",
       "qty": 3.0,
       "entry_price": 13.27,
-      "current_price": 13.355,
-      "market_value": 40.06,
-      "unrealized_pl": 0.26,
-      "unrealized_plpc": 0.64,
+      "current_price": 13.36,
+      "market_value": 40.08,
+      "unrealized_pl": 0.27,
+      "unrealized_plpc": 0.68,
       "sector": "Media"
     },
     {
       "symbol": "IBIT",
       "qty": 1.0,
       "entry_price": 44.48,
-      "current_price": 45.91,
-      "market_value": 45.91,
-      "unrealized_pl": 1.43,
-      "unrealized_plpc": 3.21,
-      "sector": "Unknown"
-    },
-    {
-      "symbol": "PATH",
-      "qty": 2.0,
-      "entry_price": 18.19,
-      "current_price": 18.515,
-      "market_value": 37.03,
+      "current_price": 45.125,
+      "market_value": 45.12,
       "unrealized_pl": 0.65,
-      "unrealized_plpc": 1.79,
-      "sector": "Technology"
+      "unrealized_plpc": 1.45,
+      "sector": "Unknown"
     }
   ]
 }

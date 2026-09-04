@@ -1,6 +1,59 @@
 {
-  "updated_at": "2026-09-03T17:10:18.450298+00:00",
+  "updated_at": "2026-09-04T17:02:53.778423+00:00",
   "days": [
+    {
+      "day": "2026-09-04",
+      "equity": 99977.23,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "MUU",
+          "price": 33.56,
+          "momentum_pct": 13.55,
+          "avg_dollar_vol": 6669990,
+          "max_day_jump_pct": 9.33,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "SMCI",
+          "price": 40.54,
+          "momentum_pct": 8.35,
+          "avg_dollar_vol": 44772506,
+          "max_day_jump_pct": 7.05,
+          "sector": "Technology",
+          "headlines": [
+            "Hardware & Infrastructure Stocks Q2 Teardown: Super Micro (NASDAQ:SMCI) Vs The Rest",
+            "NTAP Q1 Earnings Beat Estimates on Hybrid, Public Cloud Revenue Growth",
+            "SMCI Rises 29% Year to Date: Time to Buy, Sell or Hold the Stock?",
+            "HPE Cannot Build AI Servers Fast Enough. Is the Stock Still Cheap?",
+            "Dell Is Now Up 20% in a Month: Take Profits, or Buy More?"
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "symbol": "SMCI",
+          "target_dollars": 50,
+          "rationale": "Strong momentum with supportive headlines on AI server demand and sector growth. Good volume."
+        }
+      ],
+      "rejected": [],
+      "orders": [
+        {
+          "symbol": "SMCI",
+          "shares": 1,
+          "entry_price": 40.54,
+          "stop_price": 39.32,
+          "take_profit_price": 44.59,
+          "notional": 40.54,
+          "sector": "Technology",
+          "rationale": "Strong momentum with supportive headlines on AI server demand and sector growth. Good volume.",
+          "status": "submitted",
+          "order_id": "7a7b07d2-dfd5-4437-ae19-169189f76668"
+        }
+      ]
+    },
     {
       "day": "2026-09-03",
       "equity": 99983.14,
