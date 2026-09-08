@@ -1,6 +1,145 @@
 {
-  "updated_at": "2026-09-04T17:02:53.778423+00:00",
+  "updated_at": "2026-09-08T17:26:53.223349+00:00",
   "days": [
+    {
+      "day": "2026-09-08",
+      "equity": 99975.3,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "EOSE",
+          "price": 4.46,
+          "momentum_pct": 38.94,
+          "avg_dollar_vol": 3927959,
+          "max_day_jump_pct": 19.64,
+          "sector": "Electrical Equipment",
+          "headlines": [
+            "Roivant Sciences, Pharvaris, IonQ And Other Big Stocks Moving Higher On Tuesday"
+          ]
+        },
+        {
+          "symbol": "IREN",
+          "price": 48.1,
+          "momentum_pct": 29.46,
+          "avg_dollar_vol": 42834547,
+          "max_day_jump_pct": 7.68,
+          "sector": "Technology",
+          "headlines": [
+            "IREN\u2019s 2GW Sweetwater Hub Conditionally Included In Electric Reliability Council Of Texas Batch Zero Process As Base Load",
+            "IREN Jumps 23% as Its AI Business Starts to Take Over the Story",
+            "Heavy, Unusual Put Options Volume in IREN after Bitcoin Rises Last Week",
+            "IREN\u2019s AI Pricing Is Exploding \u2014 Why the Neocloud\u2019s $2.6 Billion Contract Base Could Scale Dramatically",
+            "10 Information Technology Stocks Whale Activity In Today\u2019s Session"
+          ]
+        },
+        {
+          "symbol": "KEEL",
+          "price": 3.83,
+          "momentum_pct": 21.94,
+          "avg_dollar_vol": 4676629,
+          "max_day_jump_pct": 10.36,
+          "sector": "Technology",
+          "headlines": []
+        },
+        {
+          "symbol": "SMR",
+          "price": 11.12,
+          "momentum_pct": 19.89,
+          "avg_dollar_vol": 9992736,
+          "max_day_jump_pct": 14.76,
+          "sector": "Electrical Equipment",
+          "headlines": [
+            "NuScale Power (SMR) Could Be 90% Undervalued After Commercialization Progress",
+            "What Is NuScale Power (SMR) Trying To Gain From Nuclear Specific AI?",
+            "NuScale Power Stock Will Spike 23.7% Over the Next 11 Months According to This Wall Street Analyst",
+            "BWX Technologies Already Builds Reactors for the Navy. Why Is It Still the Cheapest Nuclear Stock?",
+            "NuScale Stock Is Down 83% -- Bargain or Trap? The Honest Answer Will Surprise You."
+          ]
+        },
+        {
+          "symbol": "MARA",
+          "price": 11.81,
+          "momentum_pct": 9.8,
+          "avg_dollar_vol": 11416834,
+          "max_day_jump_pct": 10.6,
+          "sector": "Technology",
+          "headlines": [
+            "APLD Slides 36% in 3 Months: Should Investors Exit or Hold the Stock?",
+            "Strategy Is Down More Than 50% in 12 Months. One Analyst Thinks the Stock Is About to Triple"
+          ]
+        },
+        {
+          "symbol": "NOK",
+          "price": 10.85,
+          "momentum_pct": 7.11,
+          "avg_dollar_vol": 29713704,
+          "max_day_jump_pct": 8.07,
+          "sector": "Communications",
+          "headlines": [
+            "Nokia Takes the Guesswork Out of AI-Era Networks With New Live Testing Hub"
+          ]
+        },
+        {
+          "symbol": "NU",
+          "price": 15.37,
+          "momentum_pct": 5.6,
+          "avg_dollar_vol": 35599399,
+          "max_day_jump_pct": 6.47,
+          "sector": "Banking",
+          "headlines": [
+            "Brazilian Banks Expand Crypto Offerings as Regulation Takes Hold"
+          ]
+        },
+        {
+          "symbol": "PLUG",
+          "price": 2.29,
+          "momentum_pct": 5.53,
+          "avg_dollar_vol": 3374578,
+          "max_day_jump_pct": 5.77,
+          "sector": "Electrical Equipment",
+          "headlines": []
+        }
+      ],
+      "decisions": [
+        {
+          "symbol": "IREN",
+          "target_dollars": 50,
+          "rationale": "Strong momentum with clear catalysts from AI business and ERCOT inclusion. High volume supports move."
+        },
+        {
+          "symbol": "SMR",
+          "target_dollars": 50,
+          "rationale": "Good momentum with positive news on commercialization and AI. Sector is within limits."
+        }
+      ],
+      "rejected": [],
+      "orders": [
+        {
+          "symbol": "IREN",
+          "shares": 1,
+          "entry_price": 48.1,
+          "stop_price": 46.66,
+          "take_profit_price": 52.91,
+          "notional": 48.1,
+          "sector": "Technology",
+          "rationale": "Strong momentum with clear catalysts from AI business and ERCOT inclusion. High volume supports move.",
+          "status": "submitted",
+          "order_id": "5be0c533-ad25-4224-9e86-f2ee8d4dc587"
+        },
+        {
+          "symbol": "SMR",
+          "shares": 4,
+          "entry_price": 11.12,
+          "stop_price": 10.79,
+          "take_profit_price": 12.23,
+          "notional": 44.48,
+          "sector": "Electrical Equipment",
+          "rationale": "Good momentum with positive news on commercialization and AI. Sector is within limits.",
+          "status": "submitted",
+          "order_id": "e221429d-19d2-430f-a507-3b44b447a45b"
+        }
+      ]
+    },
     {
       "day": "2026-09-04",
       "equity": 99977.23,

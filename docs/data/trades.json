@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T17:02:53.612971+00:00",
+  "updated_at": "2026-09-08T17:26:53.099440+00:00",
   "fills": [
     {
       "t": "2026-06-08T18:25:43.162492+00:00",
@@ -1001,13 +1001,31 @@
       "order_id": "8669b996-30bd-4c15-b0c5-15a31ede1fbe"
     },
     {
-      "t": "2026-09-04T13:33:52.557604+00:00",
+      "t": "2026-09-04T13:33:52.557605+00:00",
       "symbol": "PATH",
       "side": "sell",
       "qty": 2.0,
       "price": 15.945,
       "value": 31.89,
       "order_id": "3e135619-f780-410c-8399-a44841a6750f"
+    },
+    {
+      "t": "2026-09-04T17:02:54.009674+00:00",
+      "symbol": "SMCI",
+      "side": "buy",
+      "qty": 1.0,
+      "price": 40.54,
+      "value": 40.54,
+      "order_id": "7a7b07d2-dfd5-4437-ae19-169189f76668"
+    },
+    {
+      "t": "2026-09-04T19:05:52.924167+00:00",
+      "symbol": "SMCI",
+      "side": "sell",
+      "qty": 1.0,
+      "price": 39.33,
+      "value": 39.33,
+      "order_id": "d784c835-eb69-4ab0-bf68-558ddbc3020e"
     }
   ],
   "closed": [
@@ -1632,10 +1650,21 @@
       "qty": 2.0,
       "entry_time": "2026-09-01T17:25:54.182685+00:00",
       "entry_price": 18.19,
-      "exit_time": "2026-09-04T13:33:52.557604+00:00",
+      "exit_time": "2026-09-04T13:33:52.557605+00:00",
       "exit_price": 15.945,
       "pl": -4.49,
       "pl_pct": -12.34,
+      "sector": "Technology"
+    },
+    {
+      "symbol": "SMCI",
+      "qty": 1.0,
+      "entry_time": "2026-09-04T17:02:54.009674+00:00",
+      "entry_price": 40.54,
+      "exit_time": "2026-09-04T19:05:52.924167+00:00",
+      "exit_price": 39.33,
+      "pl": -1.21,
+      "pl_pct": -2.98,
       "sector": "Technology"
     }
   ],
@@ -1644,20 +1673,20 @@
       "symbol": "DV",
       "qty": 3.0,
       "entry_price": 13.27,
-      "current_price": 13.36,
-      "market_value": 40.08,
-      "unrealized_pl": 0.27,
-      "unrealized_plpc": 0.68,
+      "current_price": 13.355,
+      "market_value": 40.06,
+      "unrealized_pl": 0.26,
+      "unrealized_plpc": 0.64,
       "sector": "Media"
     },
     {
       "symbol": "IBIT",
       "qty": 1.0,
       "entry_price": 44.48,
-      "current_price": 45.125,
-      "market_value": 45.12,
-      "unrealized_pl": 0.65,
-      "unrealized_plpc": 1.45,
+      "current_price": 44.455,
+      "market_value": 44.45,
+      "unrealized_pl": -0.03,
+      "unrealized_plpc": -0.06,
       "sector": "Unknown"
     }
   ]
