@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T17:26:53.099440+00:00",
+  "updated_at": "2026-09-09T17:15:22.249825+00:00",
   "fills": [
     {
       "t": "2026-06-08T18:25:43.162492+00:00",
@@ -1026,6 +1026,42 @@
       "price": 39.33,
       "value": 39.33,
       "order_id": "d784c835-eb69-4ab0-bf68-558ddbc3020e"
+    },
+    {
+      "t": "2026-09-08T17:26:53.478959+00:00",
+      "symbol": "IREN",
+      "side": "buy",
+      "qty": 1.0,
+      "price": 48.14,
+      "value": 48.14,
+      "order_id": "5be0c533-ad25-4224-9e86-f2ee8d4dc587"
+    },
+    {
+      "t": "2026-09-08T17:26:53.604049+00:00",
+      "symbol": "SMR",
+      "side": "buy",
+      "qty": 4.0,
+      "price": 11.14,
+      "value": 44.56,
+      "order_id": "e221429d-19d2-430f-a507-3b44b447a45b"
+    },
+    {
+      "t": "2026-09-09T13:35:25.250157+00:00",
+      "symbol": "IREN",
+      "side": "sell",
+      "qty": 1.0,
+      "price": 46.72,
+      "value": 46.72,
+      "order_id": "fea20d26-bf55-48f0-b5c7-32a0c45f62dc"
+    },
+    {
+      "t": "2026-09-09T15:03:44.968333+00:00",
+      "symbol": "SMR",
+      "side": "sell",
+      "qty": 4.0,
+      "price": 10.78,
+      "value": 43.12,
+      "order_id": "382f059d-6cec-4038-aa52-da4fd1ce8744"
     }
   ],
   "closed": [
@@ -1666,6 +1702,28 @@
       "pl": -1.21,
       "pl_pct": -2.98,
       "sector": "Technology"
+    },
+    {
+      "symbol": "IREN",
+      "qty": 1.0,
+      "entry_time": "2026-09-08T17:26:53.478959+00:00",
+      "entry_price": 48.14,
+      "exit_time": "2026-09-09T13:35:25.250157+00:00",
+      "exit_price": 46.72,
+      "pl": -1.42,
+      "pl_pct": -2.95,
+      "sector": "Technology"
+    },
+    {
+      "symbol": "SMR",
+      "qty": 4.0,
+      "entry_time": "2026-09-08T17:26:53.604049+00:00",
+      "entry_price": 11.14,
+      "exit_time": "2026-09-09T15:03:44.968333+00:00",
+      "exit_price": 10.78,
+      "pl": -1.44,
+      "pl_pct": -3.23,
+      "sector": "Electrical Equipment"
     }
   ],
   "open": [
@@ -1683,11 +1741,21 @@
       "symbol": "IBIT",
       "qty": 1.0,
       "entry_price": 44.48,
-      "current_price": 44.455,
-      "market_value": 44.45,
-      "unrealized_pl": -0.03,
-      "unrealized_plpc": -0.06,
+      "current_price": 44.655,
+      "market_value": 44.66,
+      "unrealized_pl": 0.17,
+      "unrealized_plpc": 0.39,
       "sector": "Unknown"
+    },
+    {
+      "symbol": "NU",
+      "qty": 3.0,
+      "entry_price": 15.18,
+      "current_price": 15.1769,
+      "market_value": 45.53,
+      "unrealized_pl": -0.01,
+      "unrealized_plpc": -0.02,
+      "sector": "Banking"
     }
   ]
 }

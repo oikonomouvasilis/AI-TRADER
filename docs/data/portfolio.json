@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-08T17:26:53.219596+00:00",
+  "updated_at": "2026-09-09T17:15:22.414572+00:00",
   "account": {
-    "equity": 99975.3,
-    "cash": 99890.78,
-    "buying_power": 399707.06,
-    "long_market_value": 84.52,
-    "last_equity": 99976.09
+    "equity": 99972.62,
+    "cash": 99842.37,
+    "buying_power": 399734.18,
+    "long_market_value": 130.25,
+    "last_equity": 99974.16
   },
   "curve": [
     {
@@ -127,6 +127,12 @@
       "equity": 99976.09,
       "pl": -6.88,
       "pl_pct": -0.01
+    },
+    {
+      "t": "2026-09-09",
+      "equity": 99974.16,
+      "pl": -1.93,
+      "pl_pct": 0.0
     }
   ],
   "base_value": 99984.43,
@@ -145,33 +151,48 @@
       "symbol": "IBIT",
       "qty": 1.0,
       "entry_price": 44.48,
-      "current_price": 44.455,
-      "market_value": 44.45,
-      "unrealized_pl": -0.03,
-      "unrealized_plpc": -0.06,
+      "current_price": 44.655,
+      "market_value": 44.66,
+      "unrealized_pl": 0.17,
+      "unrealized_plpc": 0.39,
       "sector": "Unknown"
+    },
+    {
+      "symbol": "NU",
+      "qty": 3.0,
+      "entry_price": 15.18,
+      "current_price": 15.1769,
+      "market_value": 45.53,
+      "unrealized_pl": -0.01,
+      "unrealized_plpc": -0.02,
+      "sector": "Banking"
     }
   ],
   "sector_allocation": [
     {
+      "sector": "Banking",
+      "market_value": 45.53,
+      "pct": 35.0
+    },
+    {
       "sector": "Unknown",
-      "market_value": 44.45,
-      "pct": 52.6
+      "market_value": 44.66,
+      "pct": 34.3
     },
     {
       "sector": "Media",
       "market_value": 40.06,
-      "pct": 47.4
+      "pct": 30.8
     }
   ],
   "kpis": {
-    "equity": 99975.3,
-    "total_pl": -23.7,
+    "equity": 99972.62,
+    "total_pl": -26.37,
     "total_pl_pct": -0.01,
-    "realized_pl": -23.93,
-    "unrealized_pl": 0.23,
-    "open_positions": 2,
-    "num_closed_trades": 58,
-    "win_rate": 19.0
+    "realized_pl": -26.79,
+    "unrealized_pl": 0.42,
+    "open_positions": 3,
+    "num_closed_trades": 60,
+    "win_rate": 18.3
   }
 }

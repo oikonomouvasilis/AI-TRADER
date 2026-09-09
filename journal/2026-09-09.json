@@ -1,0 +1,98 @@
+{
+  "day": "2026-09-09",
+  "equity": 99972.63,
+  "candidates": [
+    {
+      "symbol": "PCG",
+      "price": 14.42,
+      "momentum_pct": 8.63,
+      "avg_dollar_vol": 92511123,
+      "max_day_jump_pct": 5.91,
+      "sector": "Utilities",
+      "headlines": [
+        "Consumer Watchdog Alert Calls Out PG&E's Bailout And PG&E CEO's Misrepresentation",
+        "Which S&P500 stocks are the most active on Tuesday?",
+        "PG&E (PCG) and Edison (EIX) Sink After California Wildfire Liability Deal Falls Apart",
+        "Is PG&E Corporation Stock Underperforming the Nasdaq?"
+      ]
+    },
+    {
+      "symbol": "ITUB",
+      "price": 8.15,
+      "momentum_pct": 7.24,
+      "avg_dollar_vol": 15249080,
+      "max_day_jump_pct": 5.14,
+      "sector": "Banking",
+      "headlines": [
+        "NU Holdings AI Push: Can NuFormer Strengthen Its Competitive Edge?",
+        "Brazilian Banks Expand Crypto Offerings as Regulation Takes Hold"
+      ]
+    },
+    {
+      "symbol": "NOK",
+      "price": 10.85,
+      "momentum_pct": 7.11,
+      "avg_dollar_vol": 32966374,
+      "max_day_jump_pct": 6.13,
+      "sector": "Communications",
+      "headlines": [
+        "What's Going On With Nokia Stock Wednesday?",
+        "Curious about the most active stocks on Tuesday?",
+        "European Equities Traded in the US as American Depositary Receipts Fall in Tuesday Trading",
+        "Changes in Nokia Corporation's own shares",
+        "Beyond the China Retreat: Whether Nokia\u2019s Surge Was Built on Substance"
+      ]
+    },
+    {
+      "symbol": "NU",
+      "price": 15.18,
+      "momentum_pct": 4.3,
+      "avg_dollar_vol": 36524924,
+      "max_day_jump_pct": 6.47,
+      "sector": "Banking",
+      "headlines": [
+        "NU Holdings AI Push: Can NuFormer Strengthen Its Competitive Edge?",
+        "Brazilian Banks Expand Crypto Offerings as Regulation Takes Hold"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "symbol": "NU",
+      "target_dollars": 50,
+      "rationale": "Strong AI catalyst for NU Holdings, good momentum, and positive sector news for Brazilian banks."
+    }
+  ],
+  "rejected": [],
+  "orders": [
+    {
+      "symbol": "NU",
+      "shares": 3,
+      "entry_price": 15.18,
+      "stop_price": 14.72,
+      "take_profit_price": 16.7,
+      "notional": 45.54,
+      "sector": "Banking",
+      "rationale": "Strong AI catalyst for NU Holdings, good momentum, and positive sector news for Brazilian banks.",
+      "status": "submitted",
+      "order_id": "5ca0b67d-d415-4100-ba48-af2c2a9a200a"
+    }
+  ],
+  "stops": [
+    {
+      "symbol": "DV",
+      "qty": 3,
+      "stop_price": 12.86,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"3\",\"held_for_orders\":\"3\",\"message\":\"insufficient qty available for order (requested: 3, available: 0)\",\"related_orders\":[\"4e068a33-8995-4b10-97e7-a75eec63a3ec\"],\"symbol\":\"DV\"}"
+    },
+    {
+      "symbol": "IBIT",
+      "qty": 1,
+      "stop_price": 43.16,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"1\",\"held_for_orders\":\"1\",\"message\":\"insufficient qty available for order (requested: 1, available: 0)\",\"related_orders\":[\"bd625dc4-40b4-4d80-9957-23dd7b34d09b\"],\"symbol\":\"IBIT\"}"
+    }
+  ],
+  "written_at": "2026-09-09T17:15:21.883719+00:00"
+}

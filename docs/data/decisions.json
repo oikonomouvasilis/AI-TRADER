@@ -1,6 +1,88 @@
 {
-  "updated_at": "2026-09-08T17:26:53.223349+00:00",
+  "updated_at": "2026-09-09T17:15:22.418552+00:00",
   "days": [
+    {
+      "day": "2026-09-09",
+      "equity": 99972.63,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "PCG",
+          "price": 14.42,
+          "momentum_pct": 8.63,
+          "avg_dollar_vol": 92511123,
+          "max_day_jump_pct": 5.91,
+          "sector": "Utilities",
+          "headlines": [
+            "Consumer Watchdog Alert Calls Out PG&E's Bailout And PG&E CEO's Misrepresentation",
+            "Which S&P500 stocks are the most active on Tuesday?",
+            "PG&E (PCG) and Edison (EIX) Sink After California Wildfire Liability Deal Falls Apart",
+            "Is PG&E Corporation Stock Underperforming the Nasdaq?"
+          ]
+        },
+        {
+          "symbol": "ITUB",
+          "price": 8.15,
+          "momentum_pct": 7.24,
+          "avg_dollar_vol": 15249080,
+          "max_day_jump_pct": 5.14,
+          "sector": "Banking",
+          "headlines": [
+            "NU Holdings AI Push: Can NuFormer Strengthen Its Competitive Edge?",
+            "Brazilian Banks Expand Crypto Offerings as Regulation Takes Hold"
+          ]
+        },
+        {
+          "symbol": "NOK",
+          "price": 10.85,
+          "momentum_pct": 7.11,
+          "avg_dollar_vol": 32966374,
+          "max_day_jump_pct": 6.13,
+          "sector": "Communications",
+          "headlines": [
+            "What's Going On With Nokia Stock Wednesday?",
+            "Curious about the most active stocks on Tuesday?",
+            "European Equities Traded in the US as American Depositary Receipts Fall in Tuesday Trading",
+            "Changes in Nokia Corporation's own shares",
+            "Beyond the China Retreat: Whether Nokia\u2019s Surge Was Built on Substance"
+          ]
+        },
+        {
+          "symbol": "NU",
+          "price": 15.18,
+          "momentum_pct": 4.3,
+          "avg_dollar_vol": 36524924,
+          "max_day_jump_pct": 6.47,
+          "sector": "Banking",
+          "headlines": [
+            "NU Holdings AI Push: Can NuFormer Strengthen Its Competitive Edge?",
+            "Brazilian Banks Expand Crypto Offerings as Regulation Takes Hold"
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "symbol": "NU",
+          "target_dollars": 50,
+          "rationale": "Strong AI catalyst for NU Holdings, good momentum, and positive sector news for Brazilian banks."
+        }
+      ],
+      "rejected": [],
+      "orders": [
+        {
+          "symbol": "NU",
+          "shares": 3,
+          "entry_price": 15.18,
+          "stop_price": 14.72,
+          "take_profit_price": 16.7,
+          "notional": 45.54,
+          "sector": "Banking",
+          "rationale": "Strong AI catalyst for NU Holdings, good momentum, and positive sector news for Brazilian banks.",
+          "status": "submitted",
+          "order_id": "5ca0b67d-d415-4100-ba48-af2c2a9a200a"
+        }
+      ]
+    },
     {
       "day": "2026-09-08",
       "equity": 99975.3,
