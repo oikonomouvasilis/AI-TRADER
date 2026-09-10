@@ -1,6 +1,107 @@
 {
-  "updated_at": "2026-09-09T17:15:22.418552+00:00",
+  "updated_at": "2026-09-10T17:09:05.138313+00:00",
   "days": [
+    {
+      "day": "2026-09-10",
+      "equity": 99971.61,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "CIFR",
+          "price": 15.96,
+          "momentum_pct": 9.28,
+          "avg_dollar_vol": 28352747,
+          "max_day_jump_pct": 14.44,
+          "sector": "Technology",
+          "headlines": [
+            "Cipher Digital Inc. (CIFR) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+            "What's Going On With Cipher Digital Stock Wednesday?",
+            "Crypto Mining Stocks Rally While Bitcoin Slips: Cipher Mining Jumps 8%, MARA Climbs 6%",
+            "Global Data Center Market Projected to Reach $517 Billion By 2030",
+            "Rosenblatt keeps Cipher at $30 as 2.5 GW generation plan targets ERCOT bottleneck"
+          ]
+        },
+        {
+          "symbol": "NOK",
+          "price": 10.71,
+          "momentum_pct": 7.91,
+          "avg_dollar_vol": 35367018,
+          "max_day_jump_pct": 6.13,
+          "sector": "Communications",
+          "headlines": [
+            "Nokia Unveils Cognitive Operations To Bring AI Intelligence Into Fields",
+            "These stocks are the most active in today's session",
+            "European Equities Traded in the US as American Depositary Receipts Decline in Wednesday Trading",
+            "SCTE TechExpo 2026 Brings the Executives & Technologists Shaping Content and Connectivity to Atlanta \u2014 Sept. 29\u2013Oct. 1",
+            "NOK Stock Eyes Third Winning Session Amid Google $15B AI Bet, Euro Stoxx 50 Return"
+          ]
+        },
+        {
+          "symbol": "NU",
+          "price": 15.16,
+          "momentum_pct": 4.91,
+          "avg_dollar_vol": 37707653,
+          "max_day_jump_pct": 6.47,
+          "sector": "Banking",
+          "headlines": [
+            "NU Holdings AI Push: Can NuFormer Strengthen Its Competitive Edge?"
+          ]
+        },
+        {
+          "symbol": "TSLL",
+          "price": 9.76,
+          "momentum_pct": 4.72,
+          "avg_dollar_vol": 45438138,
+          "max_day_jump_pct": 11.0,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "TSLG",
+          "price": 4.85,
+          "momentum_pct": 4.53,
+          "avg_dollar_vol": 20006101,
+          "max_day_jump_pct": 10.97,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "ONDS",
+          "price": 7.36,
+          "momentum_pct": 4.47,
+          "avg_dollar_vol": 10121840,
+          "max_day_jump_pct": 8.16,
+          "sector": "Communications",
+          "headlines": [
+            "Nvidia, FAA Join Palantir\u2019s AI Expansion as Cyber Push Takes Off",
+            "Drone Stocks Slide as Risk-Off Sentiment Hits High-Beta Names: AeroVironment Sinks 4%, Red Cat Drops 3%, Ondas Eases",
+            "Unusual Machines Just Doubled in a Month: Take Profits, or Buy More?"
+          ]
+        }
+      ],
+      "decisions": [
+        {
+          "symbol": "CIFR",
+          "target_dollars": 50,
+          "rationale": "Strong crypto mining rally despite Bitcoin dip, positive analyst coverage, and data center market growth."
+        }
+      ],
+      "rejected": [],
+      "orders": [
+        {
+          "symbol": "CIFR",
+          "shares": 3,
+          "entry_price": 15.96,
+          "stop_price": 15.48,
+          "take_profit_price": 17.56,
+          "notional": 47.88,
+          "sector": "Technology",
+          "rationale": "Strong crypto mining rally despite Bitcoin dip, positive analyst coverage, and data center market growth.",
+          "status": "submitted",
+          "order_id": "79a53809-0242-423c-8c0c-2fcc6568262b"
+        }
+      ]
+    },
     {
       "day": "2026-09-09",
       "equity": 99972.63,
