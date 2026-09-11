@@ -1,19 +1,13 @@
 {
-  "updated_at": "2026-09-10T17:09:05.134154+00:00",
+  "updated_at": "2026-09-11T17:10:28.207253+00:00",
   "account": {
-    "equity": 99971.61,
-    "cash": 99842.34,
-    "buying_power": 399683.4,
-    "long_market_value": 129.27,
-    "last_equity": 99971.62
+    "equity": 99974.79,
+    "cash": 99838.55,
+    "buying_power": 399520.62,
+    "long_market_value": 136.24,
+    "last_equity": 99971.09
   },
   "curve": [
-    {
-      "t": "2026-08-11",
-      "equity": 99984.43,
-      "pl": -4.22,
-      "pl_pct": 0.0
-    },
     {
       "t": "2026-08-12",
       "equity": 99986.63,
@@ -139,66 +133,72 @@
       "equity": 99971.62,
       "pl": -2.54,
       "pl_pct": 0.0
+    },
+    {
+      "t": "2026-09-11",
+      "equity": 99971.09,
+      "pl": -0.53,
+      "pl_pct": 0.0
     }
   ],
-  "base_value": 99984.43,
+  "base_value": 99986.63,
   "positions": [
+    {
+      "symbol": "CIFR",
+      "qty": 3.0,
+      "entry_price": 15.97,
+      "current_price": 17.3514,
+      "market_value": 52.05,
+      "unrealized_pl": 4.14,
+      "unrealized_plpc": 8.65,
+      "sector": "Technology"
+    },
     {
       "symbol": "DV",
       "qty": 3.0,
       "entry_price": 13.27,
-      "current_price": 13.37,
-      "market_value": 40.11,
-      "unrealized_pl": 0.3,
-      "unrealized_plpc": 0.75,
+      "current_price": 13.385,
+      "market_value": 40.16,
+      "unrealized_pl": 0.34,
+      "unrealized_plpc": 0.87,
       "sector": "Media"
     },
     {
       "symbol": "IBIT",
       "qty": 1.0,
       "entry_price": 44.48,
-      "current_price": 43.665,
-      "market_value": 43.66,
-      "unrealized_pl": -0.81,
-      "unrealized_plpc": -1.83,
+      "current_price": 44.03,
+      "market_value": 44.03,
+      "unrealized_pl": -0.45,
+      "unrealized_plpc": -1.01,
       "sector": "Unknown"
-    },
-    {
-      "symbol": "NU",
-      "qty": 3.0,
-      "entry_price": 15.18,
-      "current_price": 15.165,
-      "market_value": 45.49,
-      "unrealized_pl": -0.04,
-      "unrealized_plpc": -0.1,
-      "sector": "Banking"
     }
   ],
   "sector_allocation": [
     {
-      "sector": "Banking",
-      "market_value": 45.49,
-      "pct": 35.2
+      "sector": "Technology",
+      "market_value": 52.05,
+      "pct": 38.2
     },
     {
       "sector": "Unknown",
-      "market_value": 43.66,
-      "pct": 33.8
+      "market_value": 44.03,
+      "pct": 32.3
     },
     {
       "sector": "Media",
-      "market_value": 40.11,
-      "pct": 31.0
+      "market_value": 40.16,
+      "pct": 29.5
     }
   ],
   "kpis": {
-    "equity": 99971.61,
-    "total_pl": -27.34,
+    "equity": 99974.79,
+    "total_pl": -24.17,
     "total_pl_pct": -0.01,
-    "realized_pl": -26.79,
-    "unrealized_pl": -0.55,
+    "realized_pl": -28.2,
+    "unrealized_pl": 4.03,
     "open_positions": 3,
-    "num_closed_trades": 60,
-    "win_rate": 18.3
+    "num_closed_trades": 61,
+    "win_rate": 18.0
   }
 }

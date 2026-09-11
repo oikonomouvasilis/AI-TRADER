@@ -1,6 +1,149 @@
 {
-  "updated_at": "2026-09-10T17:09:05.138313+00:00",
+  "updated_at": "2026-09-11T17:10:28.211320+00:00",
   "days": [
+    {
+      "day": "2026-09-11",
+      "equity": 99974.83,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "MARA",
+          "price": 12.22,
+          "momentum_pct": 16.71,
+          "avg_dollar_vol": 13364644,
+          "max_day_jump_pct": 10.6,
+          "sector": "Technology",
+          "headlines": [
+            "Why Marathon Digital Holdings, Inc. (MARA) Dipped More Than Broader Market Today",
+            "Crypto Mining Stocks Fall Harder Than Bitcoin on a Risk-Off Tape: Cipher Mining Sinks 6%, MARA and Riot Drop 4%",
+            "Marathon Digital Holdings, Inc. (MARA) is Attracting Investor Attention: Here is What You Should Know",
+            "Why Is MARA Stock Falling on Thursday?"
+          ]
+        },
+        {
+          "symbol": "NOK",
+          "price": 10.98,
+          "momentum_pct": 11.64,
+          "avg_dollar_vol": 37012035,
+          "max_day_jump_pct": 6.13,
+          "sector": "Communications",
+          "headlines": [
+            "What's Going On With Nokia Stock Friday?",
+            "The Private LTE/5G Network Market - 4th Edition Now Available \u2014 See Why Nokia, AWS, and Microsoft Are Making Radically Different Bets as the Market Races Toward $12 Billion",
+            "Rajant and Nokia Announce Collaboration to Deliver Integrated Networking Technology and Distributed Edge AI Platform for Mission-Critical Enterprises",
+            "Can Ciena Convert Its $8.5B Backlog Despite Supply Constraints?",
+            "Nokia launches AI and edge platform to help mining and construction industries, public safety, and defense organizations run safer, more resilient field operations"
+          ]
+        },
+        {
+          "symbol": "BMNR",
+          "price": 25.54,
+          "momentum_pct": 10.73,
+          "avg_dollar_vol": 36529785,
+          "max_day_jump_pct": 14.66,
+          "sector": "Technology",
+          "headlines": [
+            "Bitmine Just Made Its Largest Ethereum Purchase Since June. Here's Why That Matters For Ethereum Investors.",
+            "Frequency Electronics, ACV Auctions, HP And Other Big Stocks Moving Higher On Friday",
+            "XYZ Stock Upgraded To \u2018Buy,\u2019 Cantor Raises Targets On Crypto Plays, Sees Bear-Market Bottom",
+            "Cantor Fitzgerald Maintains Overweight on BitMine Immersion, Raises Price Target to $63.6",
+            "Bitcoin, Ethereum, XRP, Dogecoin Dip: Top Analyst Says BTC Whales 'Staying on Sidelines' as CPI Data, Fed Move on Interest Rates Loom"
+          ]
+        },
+        {
+          "symbol": "ETHA",
+          "price": 19.45,
+          "momentum_pct": 7.76,
+          "avg_dollar_vol": 44837214,
+          "max_day_jump_pct": 5.32,
+          "sector": "Unknown",
+          "headlines": [
+            "Crypto ETFs in 2026: Bitcoin, Ethereum and the Altcoin Wave Explained"
+          ]
+        },
+        {
+          "symbol": "SMCI",
+          "price": 39.02,
+          "momentum_pct": 5.46,
+          "avg_dollar_vol": 56772569,
+          "max_day_jump_pct": 4.54,
+          "sector": "Technology",
+          "headlines": [
+            "SMCI or NTAP: Which Is the Better Value Stock Right Now?",
+            "Hewlett Packard Enterprise and Dell Surge 11% as Oracle\u2019s Capex Guidance Lifts AI Server Demand, Super Micro Climbs 7%",
+            "Can HPE Sustain Its AI Infrastructure Momentum Amid the Capex Cycle?",
+            "Frequency Electronics, ACV Auctions, HP And Other Big Stocks Moving Higher On Friday",
+            "Super Micro's $60 Billion Rerating"
+          ]
+        },
+        {
+          "symbol": "NVD",
+          "price": 3.96,
+          "momentum_pct": 4.21,
+          "avg_dollar_vol": 49347614,
+          "max_day_jump_pct": 4.72,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "TSLL",
+          "price": 9.7,
+          "momentum_pct": 3.63,
+          "avg_dollar_vol": 41439813,
+          "max_day_jump_pct": 11.0,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "TSLG",
+          "price": 4.81,
+          "momentum_pct": 3.44,
+          "avg_dollar_vol": 19512730,
+          "max_day_jump_pct": 10.97,
+          "sector": "Unknown",
+          "headlines": []
+        }
+      ],
+      "decisions": [
+        {
+          "symbol": "NOK",
+          "target_dollars": 50,
+          "rationale": "Nokia's new AI/edge platform and collaboration with Rajant indicate strong innovation and market expansion."
+        },
+        {
+          "symbol": "SMCI",
+          "target_dollars": 50,
+          "rationale": "Strong momentum driven by AI server demand and positive analyst sentiment for its infrastructure."
+        }
+      ],
+      "rejected": [],
+      "orders": [
+        {
+          "symbol": "NOK",
+          "shares": 4,
+          "entry_price": 10.98,
+          "stop_price": 10.65,
+          "take_profit_price": 12.08,
+          "notional": 43.92,
+          "sector": "Communications",
+          "rationale": "Nokia's new AI/edge platform and collaboration with Rajant indicate strong innovation and market expansion.",
+          "status": "submitted",
+          "order_id": "65fa4854-ee6d-42a4-82d4-9fbea33fd7ab"
+        },
+        {
+          "symbol": "SMCI",
+          "shares": 1,
+          "entry_price": 39.02,
+          "stop_price": 37.85,
+          "take_profit_price": 42.92,
+          "notional": 39.02,
+          "sector": "Technology",
+          "rationale": "Strong momentum driven by AI server demand and positive analyst sentiment for its infrastructure.",
+          "status": "submitted",
+          "order_id": "474aee9c-8ba8-4e1d-bf3d-44e8561981ce"
+        }
+      ]
+    },
     {
       "day": "2026-09-10",
       "equity": 99971.61,
