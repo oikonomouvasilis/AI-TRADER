@@ -1,31 +1,13 @@
 {
-  "updated_at": "2026-09-11T17:10:28.207253+00:00",
+  "updated_at": "2026-09-14T18:51:01.538189+00:00",
   "account": {
-    "equity": 99974.79,
-    "cash": 99838.55,
-    "buying_power": 399520.62,
-    "long_market_value": 136.24,
-    "last_equity": 99971.09
+    "equity": 99965.36,
+    "cash": 99879.86,
+    "buying_power": 399689.28,
+    "long_market_value": 85.5,
+    "last_equity": 99974.69
   },
   "curve": [
-    {
-      "t": "2026-08-12",
-      "equity": 99986.63,
-      "pl": 2.2,
-      "pl_pct": 0.0
-    },
-    {
-      "t": "2026-08-13",
-      "equity": 99983.06,
-      "pl": -3.57,
-      "pl_pct": 0.0
-    },
-    {
-      "t": "2026-08-14",
-      "equity": 99979.89,
-      "pl": -3.17,
-      "pl_pct": 0.0
-    },
     {
       "t": "2026-08-15",
       "equity": 99978.58,
@@ -139,66 +121,57 @@
       "equity": 99971.09,
       "pl": -0.53,
       "pl_pct": 0.0
+    },
+    {
+      "t": "2026-09-12",
+      "equity": 99974.69,
+      "pl": 3.6,
+      "pl_pct": 0.0
     }
   ],
-  "base_value": 99986.63,
+  "base_value": 99978.58,
   "positions": [
-    {
-      "symbol": "CIFR",
-      "qty": 3.0,
-      "entry_price": 15.97,
-      "current_price": 17.3514,
-      "market_value": 52.05,
-      "unrealized_pl": 4.14,
-      "unrealized_plpc": 8.65,
-      "sector": "Technology"
-    },
     {
       "symbol": "DV",
       "qty": 3.0,
       "entry_price": 13.27,
-      "current_price": 13.385,
-      "market_value": 40.16,
-      "unrealized_pl": 0.34,
-      "unrealized_plpc": 0.87,
+      "current_price": 13.54,
+      "market_value": 40.62,
+      "unrealized_pl": 0.81,
+      "unrealized_plpc": 2.04,
       "sector": "Media"
     },
     {
       "symbol": "IBIT",
       "qty": 1.0,
       "entry_price": 44.48,
-      "current_price": 44.03,
-      "market_value": 44.03,
-      "unrealized_pl": -0.45,
-      "unrealized_plpc": -1.01,
+      "current_price": 44.88,
+      "market_value": 44.88,
+      "unrealized_pl": 0.4,
+      "unrealized_plpc": 0.9,
       "sector": "Unknown"
     }
   ],
   "sector_allocation": [
     {
-      "sector": "Technology",
-      "market_value": 52.05,
-      "pct": 38.2
-    },
-    {
       "sector": "Unknown",
-      "market_value": 44.03,
-      "pct": 32.3
+      "market_value": 44.88,
+      "pct": 52.5
     },
     {
       "sector": "Media",
-      "market_value": 40.16,
-      "pct": 29.5
+      "market_value": 40.62,
+      "pct": 47.5
     }
   ],
   "kpis": {
-    "equity": 99974.79,
-    "total_pl": -24.17,
+    "equity": 99965.36,
+    "total_pl": -33.56,
     "total_pl_pct": -0.01,
-    "realized_pl": -28.2,
-    "unrealized_pl": 4.03,
-    "open_positions": 3,
-    "num_closed_trades": 61,
-    "win_rate": 18.0
+    "realized_pl": -34.77,
+    "unrealized_pl": 1.21,
+    "open_positions": 2,
+    "num_closed_trades": 64,
+    "win_rate": 17.2
   }
 }

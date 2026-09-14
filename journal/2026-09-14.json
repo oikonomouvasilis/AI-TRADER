@@ -1,0 +1,101 @@
+{
+  "day": "2026-09-14",
+  "equity": 99965.37,
+  "candidates": [
+    {
+      "symbol": "NVD",
+      "price": 4.21,
+      "momentum_pct": 12.27,
+      "avg_dollar_vol": 42428126,
+      "max_day_jump_pct": 5.25,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "PATH",
+      "price": 14.66,
+      "momentum_pct": 4.75,
+      "avg_dollar_vol": 27990645,
+      "max_day_jump_pct": 6.65,
+      "sector": "Technology",
+      "headlines": [
+        "C3.ai Jumps 7% as Software Rally Lifts Beaten-Down AI Names; UiPath Climbs 8%, SoundHound AI Gains 5%",
+        "Off-Quarter Software Companies' Revenue Outperformance Decelerates Slightly Sequentially, RBC Says",
+        "1 of Wall Street\u2019s Favorite Stocks for Long-Term Investors and 2 We Ignore",
+        "UiPath Positioned as a Leader in the Gartner Magic Quadrant for Intelligent Document Processing for Second Straight Year",
+        "CrowdStrike vs. UiPath: Which Technology Stock Is a Better Buy in 2026?"
+      ]
+    },
+    {
+      "symbol": "BMNR",
+      "price": 25.64,
+      "momentum_pct": 3.41,
+      "avg_dollar_vol": 34042047,
+      "max_day_jump_pct": 3.47,
+      "sector": "Technology",
+      "headlines": [
+        "Bitmine Immersion Technologies Consensus Price Target Increased by 68.35% to $47.74",
+        "Bitmine Buys 27,180 ETH, Tom Lee Predicts Large Move Ahead",
+        "Bitmine Immersion Technologies Reports Total Crytpo Plus Moonshot Investment Holdings Of $15.8B, Including 5.96M ETH Tokens, Total Cash & Marketable Securities Of $549M And Other Crypto Holdings",
+        "Tom Lee Explains Ethereum's Killer Application as ETH Bucks Market Downturn",
+        "Bitcoin, Ethereum, XRP, Dogecoin Dip as Senate Prepares to Vote on CLARITY: Analyst Sees BTC Rallying to $90,000, but Only If..."
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "symbol": "PATH",
+      "target_dollars": 50,
+      "rationale": "Strong sector rally and positive Gartner recognition provide clear momentum catalyst."
+    },
+    {
+      "symbol": "BMNR",
+      "target_dollars": 50,
+      "rationale": "Significant price target increase and large ETH holdings provide strong value and momentum."
+    }
+  ],
+  "rejected": [],
+  "orders": [
+    {
+      "symbol": "PATH",
+      "shares": 3,
+      "entry_price": 14.66,
+      "stop_price": 14.22,
+      "take_profit_price": 16.13,
+      "notional": 43.98,
+      "sector": "Technology",
+      "rationale": "Strong sector rally and positive Gartner recognition provide clear momentum catalyst.",
+      "status": "submitted",
+      "order_id": "32d8a9ac-0677-45a2-bce4-343e34b6fa3f"
+    },
+    {
+      "symbol": "BMNR",
+      "shares": 1,
+      "entry_price": 25.64,
+      "stop_price": 24.87,
+      "take_profit_price": 28.2,
+      "notional": 25.64,
+      "sector": "Technology",
+      "rationale": "Significant price target increase and large ETH holdings provide strong value and momentum.",
+      "status": "submitted",
+      "order_id": "b33bc6ac-ce0b-4a09-b968-5fa39888df50"
+    }
+  ],
+  "stops": [
+    {
+      "symbol": "DV",
+      "qty": 3,
+      "stop_price": 12.86,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"3\",\"held_for_orders\":\"3\",\"message\":\"insufficient qty available for order (requested: 3, available: 0)\",\"related_orders\":[\"4e068a33-8995-4b10-97e7-a75eec63a3ec\"],\"symbol\":\"DV\"}"
+    },
+    {
+      "symbol": "IBIT",
+      "qty": 1,
+      "stop_price": 43.16,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"1\",\"held_for_orders\":\"1\",\"message\":\"insufficient qty available for order (requested: 1, available: 0)\",\"related_orders\":[\"bd625dc4-40b4-4d80-9957-23dd7b34d09b\"],\"symbol\":\"IBIT\"}"
+    }
+  ],
+  "written_at": "2026-09-14T18:51:01.228933+00:00"
+}

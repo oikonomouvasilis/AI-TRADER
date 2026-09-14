@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T17:10:28.057362+00:00",
+  "updated_at": "2026-09-14T18:51:01.447003+00:00",
   "fills": [
     {
       "t": "2026-06-08T18:25:43.162492+00:00",
@@ -1089,6 +1089,51 @@
       "price": 14.71,
       "value": 44.13,
       "order_id": "6c3b2c59-3b1d-4ef9-900c-c8ea9be164bd"
+    },
+    {
+      "t": "2026-09-11T17:10:28.437669+00:00",
+      "symbol": "SMCI",
+      "side": "buy",
+      "qty": 1.0,
+      "price": 39.0,
+      "value": 39.0,
+      "order_id": "474aee9c-8ba8-4e1d-bf3d-44e8561981ce"
+    },
+    {
+      "t": "2026-09-11T17:10:28.439441+00:00",
+      "symbol": "NOK",
+      "side": "buy",
+      "qty": 4.0,
+      "price": 11.0,
+      "value": 44.0,
+      "order_id": "65fa4854-ee6d-42a4-82d4-9fbea33fd7ab"
+    },
+    {
+      "t": "2026-09-14T13:32:39.473847+00:00",
+      "symbol": "CIFR",
+      "side": "sell",
+      "qty": 3.0,
+      "price": 15.73,
+      "value": 47.19,
+      "order_id": "26e57c8d-18de-41ab-86ab-24c2976c0b03"
+    },
+    {
+      "t": "2026-09-14T13:33:39.995138+00:00",
+      "symbol": "SMCI",
+      "side": "sell",
+      "qty": 1.0,
+      "price": 37.04,
+      "value": 37.04,
+      "order_id": "db8a286c-c1be-4951-b90e-baead0121415"
+    },
+    {
+      "t": "2026-09-14T13:34:13.548431+00:00",
+      "symbol": "NOK",
+      "side": "sell",
+      "qty": 4.0,
+      "price": 10.0275,
+      "value": 40.11,
+      "order_id": "87121401-7b94-4104-8593-159487d940f3"
     }
   ],
   "closed": [
@@ -1762,37 +1807,60 @@
       "pl": -1.41,
       "pl_pct": -3.1,
       "sector": "Banking"
+    },
+    {
+      "symbol": "CIFR",
+      "qty": 3.0,
+      "entry_time": "2026-09-10T17:09:05.896448+00:00",
+      "entry_price": 15.97,
+      "exit_time": "2026-09-14T13:32:39.473847+00:00",
+      "exit_price": 15.73,
+      "pl": -0.72,
+      "pl_pct": -1.5,
+      "sector": "Technology"
+    },
+    {
+      "symbol": "SMCI",
+      "qty": 1.0,
+      "entry_time": "2026-09-11T17:10:28.437669+00:00",
+      "entry_price": 39.0,
+      "exit_time": "2026-09-14T13:33:39.995138+00:00",
+      "exit_price": 37.04,
+      "pl": -1.96,
+      "pl_pct": -5.03,
+      "sector": "Technology"
+    },
+    {
+      "symbol": "NOK",
+      "qty": 4.0,
+      "entry_time": "2026-09-11T17:10:28.439441+00:00",
+      "entry_price": 11.0,
+      "exit_time": "2026-09-14T13:34:13.548431+00:00",
+      "exit_price": 10.0275,
+      "pl": -3.89,
+      "pl_pct": -8.84,
+      "sector": "Communications"
     }
   ],
   "open": [
     {
-      "symbol": "CIFR",
-      "qty": 3.0,
-      "entry_price": 15.97,
-      "current_price": 17.3514,
-      "market_value": 52.05,
-      "unrealized_pl": 4.14,
-      "unrealized_plpc": 8.65,
-      "sector": "Technology"
-    },
-    {
       "symbol": "DV",
       "qty": 3.0,
       "entry_price": 13.27,
-      "current_price": 13.385,
-      "market_value": 40.16,
-      "unrealized_pl": 0.34,
-      "unrealized_plpc": 0.87,
+      "current_price": 13.54,
+      "market_value": 40.62,
+      "unrealized_pl": 0.81,
+      "unrealized_plpc": 2.04,
       "sector": "Media"
     },
     {
       "symbol": "IBIT",
       "qty": 1.0,
       "entry_price": 44.48,
-      "current_price": 44.03,
-      "market_value": 44.03,
-      "unrealized_pl": -0.45,
-      "unrealized_plpc": -1.01,
+      "current_price": 44.88,
+      "market_value": 44.88,
+      "unrealized_pl": 0.4,
+      "unrealized_plpc": 0.9,
       "sector": "Unknown"
     }
   ]
