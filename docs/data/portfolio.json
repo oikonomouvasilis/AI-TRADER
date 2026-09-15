@@ -1,19 +1,13 @@
 {
-  "updated_at": "2026-09-14T18:51:01.538189+00:00",
+  "updated_at": "2026-09-15T17:45:21.095730+00:00",
   "account": {
-    "equity": 99965.36,
-    "cash": 99879.86,
-    "buying_power": 399689.28,
-    "long_market_value": 85.5,
-    "last_equity": 99974.69
+    "equity": 99961.26,
+    "cash": 99920.79,
+    "buying_power": 399796.48,
+    "long_market_value": 40.47,
+    "last_equity": 99965.36
   },
   "curve": [
-    {
-      "t": "2026-08-15",
-      "equity": 99978.58,
-      "pl": -1.31,
-      "pl_pct": 0.0
-    },
     {
       "t": "2026-08-18",
       "equity": 99975.94,
@@ -127,51 +121,42 @@
       "equity": 99974.69,
       "pl": 3.6,
       "pl_pct": 0.0
+    },
+    {
+      "t": "2026-09-15",
+      "equity": 99965.36,
+      "pl": -9.33,
+      "pl_pct": -0.01
     }
   ],
-  "base_value": 99978.58,
+  "base_value": 99975.94,
   "positions": [
     {
       "symbol": "DV",
       "qty": 3.0,
       "entry_price": 13.27,
-      "current_price": 13.54,
-      "market_value": 40.62,
-      "unrealized_pl": 0.81,
-      "unrealized_plpc": 2.04,
+      "current_price": 13.49,
+      "market_value": 40.47,
+      "unrealized_pl": 0.66,
+      "unrealized_plpc": 1.66,
       "sector": "Media"
-    },
-    {
-      "symbol": "IBIT",
-      "qty": 1.0,
-      "entry_price": 44.48,
-      "current_price": 44.88,
-      "market_value": 44.88,
-      "unrealized_pl": 0.4,
-      "unrealized_plpc": 0.9,
-      "sector": "Unknown"
     }
   ],
   "sector_allocation": [
     {
-      "sector": "Unknown",
-      "market_value": 44.88,
-      "pct": 52.5
-    },
-    {
       "sector": "Media",
-      "market_value": 40.62,
-      "pct": 47.5
+      "market_value": 40.47,
+      "pct": 100.0
     }
   ],
   "kpis": {
-    "equity": 99965.36,
-    "total_pl": -33.56,
+    "equity": 99961.26,
+    "total_pl": -37.66,
     "total_pl_pct": -0.01,
-    "realized_pl": -34.77,
-    "unrealized_pl": 1.21,
-    "open_positions": 2,
-    "num_closed_trades": 64,
-    "win_rate": 17.2
+    "realized_pl": -38.32,
+    "unrealized_pl": 0.66,
+    "open_positions": 1,
+    "num_closed_trades": 67,
+    "win_rate": 16.4
   }
 }

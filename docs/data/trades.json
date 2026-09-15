@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T18:51:01.447003+00:00",
+  "updated_at": "2026-09-15T17:45:21.068639+00:00",
   "fills": [
     {
       "t": "2026-06-08T18:25:43.162492+00:00",
@@ -1127,13 +1127,58 @@
       "order_id": "db8a286c-c1be-4951-b90e-baead0121415"
     },
     {
-      "t": "2026-09-14T13:34:13.548431+00:00",
+      "t": "2026-09-14T13:34:13.548432+00:00",
       "symbol": "NOK",
       "side": "sell",
       "qty": 4.0,
       "price": 10.0275,
       "value": 40.11,
       "order_id": "87121401-7b94-4104-8593-159487d940f3"
+    },
+    {
+      "t": "2026-09-14T18:51:02.339336+00:00",
+      "symbol": "BMNR",
+      "side": "buy",
+      "qty": 1.0,
+      "price": 25.62,
+      "value": 25.62,
+      "order_id": "b33bc6ac-ce0b-4a09-b968-5fa39888df50"
+    },
+    {
+      "t": "2026-09-14T18:51:02.349520+00:00",
+      "symbol": "PATH",
+      "side": "buy",
+      "qty": 3.0,
+      "price": 14.64,
+      "value": 43.92,
+      "order_id": "32d8a9ac-0677-45a2-bce4-343e34b6fa3f"
+    },
+    {
+      "t": "2026-09-15T13:31:36.555719+00:00",
+      "symbol": "BMNR",
+      "side": "sell",
+      "qty": 1.0,
+      "price": 24.62,
+      "value": 24.62,
+      "order_id": "8c1f25e1-2d73-4d7c-b478-37e4aa86c512"
+    },
+    {
+      "t": "2026-09-15T13:38:38.209518+00:00",
+      "symbol": "IBIT",
+      "side": "sell",
+      "qty": 1.0,
+      "price": 43.19,
+      "value": 43.19,
+      "order_id": "b02d1356-c069-4a10-bce1-a850126f63f8"
+    },
+    {
+      "t": "2026-09-15T14:44:42.137725+00:00",
+      "symbol": "PATH",
+      "side": "sell",
+      "qty": 3.0,
+      "price": 14.22,
+      "value": 42.66,
+      "order_id": "660a638f-ef95-4790-8d0a-a3766345238a"
     }
   ],
   "closed": [
@@ -1366,7 +1411,7 @@
       "exit_price": 11.72,
       "pl": -1.23,
       "pl_pct": -2.56,
-      "sector": "Technology"
+      "sector": "Unknown"
     },
     {
       "symbol": "AMC",
@@ -1762,7 +1807,7 @@
       "exit_price": 15.945,
       "pl": -4.49,
       "pl_pct": -12.34,
-      "sector": "Technology"
+      "sector": "Unknown"
     },
     {
       "symbol": "SMCI",
@@ -1835,11 +1880,44 @@
       "qty": 4.0,
       "entry_time": "2026-09-11T17:10:28.439441+00:00",
       "entry_price": 11.0,
-      "exit_time": "2026-09-14T13:34:13.548431+00:00",
+      "exit_time": "2026-09-14T13:34:13.548432+00:00",
       "exit_price": 10.0275,
       "pl": -3.89,
       "pl_pct": -8.84,
       "sector": "Communications"
+    },
+    {
+      "symbol": "BMNR",
+      "qty": 1.0,
+      "entry_time": "2026-09-14T18:51:02.339336+00:00",
+      "entry_price": 25.62,
+      "exit_time": "2026-09-15T13:31:36.555719+00:00",
+      "exit_price": 24.62,
+      "pl": -1.0,
+      "pl_pct": -3.9,
+      "sector": "Technology"
+    },
+    {
+      "symbol": "IBIT",
+      "qty": 1.0,
+      "entry_time": "2026-08-26T14:21:44.315005+00:00",
+      "entry_price": 44.48,
+      "exit_time": "2026-09-15T13:38:38.209518+00:00",
+      "exit_price": 43.19,
+      "pl": -1.29,
+      "pl_pct": -2.9,
+      "sector": "Unknown"
+    },
+    {
+      "symbol": "PATH",
+      "qty": 3.0,
+      "entry_time": "2026-09-14T18:51:02.349520+00:00",
+      "entry_price": 14.64,
+      "exit_time": "2026-09-15T14:44:42.137725+00:00",
+      "exit_price": 14.22,
+      "pl": -1.26,
+      "pl_pct": -2.87,
+      "sector": "Unknown"
     }
   ],
   "open": [
@@ -1847,21 +1925,11 @@
       "symbol": "DV",
       "qty": 3.0,
       "entry_price": 13.27,
-      "current_price": 13.54,
-      "market_value": 40.62,
-      "unrealized_pl": 0.81,
-      "unrealized_plpc": 2.04,
+      "current_price": 13.49,
+      "market_value": 40.47,
+      "unrealized_pl": 0.66,
+      "unrealized_plpc": 1.66,
       "sector": "Media"
-    },
-    {
-      "symbol": "IBIT",
-      "qty": 1.0,
-      "entry_price": 44.48,
-      "current_price": 44.88,
-      "market_value": 44.88,
-      "unrealized_pl": 0.4,
-      "unrealized_plpc": 0.9,
-      "sector": "Unknown"
     }
   ]
 }

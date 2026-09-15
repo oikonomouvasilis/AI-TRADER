@@ -1,0 +1,55 @@
+{
+  "day": "2026-09-15",
+  "equity": 99961.26,
+  "candidates": [
+    {
+      "symbol": "NVD",
+      "price": 4.24,
+      "momentum_pct": 13.07,
+      "avg_dollar_vol": 44277315,
+      "max_day_jump_pct": 6.5,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "SNAP",
+      "price": 5.88,
+      "momentum_pct": 8.29,
+      "avg_dollar_vol": 10856756,
+      "max_day_jump_pct": 4.05,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "PATH",
+      "price": 14.6,
+      "momentum_pct": 4.25,
+      "avg_dollar_vol": 27285040,
+      "max_day_jump_pct": 6.62,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "QID",
+      "price": 14.75,
+      "momentum_pct": 3.98,
+      "avg_dollar_vol": 47434571,
+      "max_day_jump_pct": 2.17,
+      "sector": "Unknown",
+      "headlines": []
+    }
+  ],
+  "decisions": [],
+  "rejected": [],
+  "orders": [],
+  "stops": [
+    {
+      "symbol": "DV",
+      "qty": 3,
+      "stop_price": 12.86,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"3\",\"held_for_orders\":\"3\",\"message\":\"insufficient qty available for order (requested: 3, available: 0)\",\"related_orders\":[\"4e068a33-8995-4b10-97e7-a75eec63a3ec\"],\"symbol\":\"DV\"}"
+    }
+  ],
+  "written_at": "2026-09-15T17:45:20.888325+00:00"
+}
