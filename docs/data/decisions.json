@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-09-16T17:43:28.012687+00:00",
+  "updated_at": "2026-09-17T17:44:02.128091+00:00",
   "days": [
+    {
+      "day": "2026-09-17",
+      "equity": 99961.22,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "SNAP",
+          "price": 5.76,
+          "momentum_pct": 6.27,
+          "avg_dollar_vol": 13973221,
+          "max_day_jump_pct": 4.05,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "NVD",
+          "price": 3.94,
+          "momentum_pct": 5.07,
+          "avg_dollar_vol": 47673866,
+          "max_day_jump_pct": 6.5,
+          "sector": "Unknown",
+          "headlines": []
+        }
+      ],
+      "decisions": [],
+      "rejected": [],
+      "orders": []
+    },
     {
       "day": "2026-09-16",
       "equity": 99961.23,
