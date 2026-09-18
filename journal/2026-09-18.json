@@ -1,0 +1,73 @@
+{
+  "day": "2026-09-18",
+  "equity": 99961.17,
+  "candidates": [
+    {
+      "symbol": "MARA",
+      "price": 12.93,
+      "momentum_pct": 8.43,
+      "avg_dollar_vol": 16842251,
+      "max_day_jump_pct": 10.94,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "BMNR",
+      "price": 25.61,
+      "momentum_pct": 5.72,
+      "avg_dollar_vol": 39619648,
+      "max_day_jump_pct": 7.27,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "ETHA",
+      "price": 19.56,
+      "momentum_pct": 5.22,
+      "avg_dollar_vol": 56863482,
+      "max_day_jump_pct": 5.96,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "IBIT",
+      "price": 45.79,
+      "momentum_pct": 3.39,
+      "avg_dollar_vol": 116934582,
+      "max_day_jump_pct": 5.71,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "BITO",
+      "price": 10.86,
+      "momentum_pct": 3.38,
+      "avg_dollar_vol": 95984674,
+      "max_day_jump_pct": 5.64,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "NVD",
+      "price": 3.93,
+      "momentum_pct": 3.15,
+      "avg_dollar_vol": 46255230,
+      "max_day_jump_pct": 6.5,
+      "sector": "Unknown",
+      "headlines": []
+    }
+  ],
+  "decisions": [],
+  "rejected": [],
+  "orders": [],
+  "stops": [
+    {
+      "symbol": "DV",
+      "qty": 3,
+      "stop_price": 12.86,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"3\",\"held_for_orders\":\"3\",\"message\":\"insufficient qty available for order (requested: 3, available: 0)\",\"related_orders\":[\"4e068a33-8995-4b10-97e7-a75eec63a3ec\"],\"symbol\":\"DV\"}"
+    }
+  ],
+  "written_at": "2026-09-18T17:10:52.361327+00:00"
+}
