@@ -1,6 +1,97 @@
 {
-  "updated_at": "2026-09-18T17:10:52.585971+00:00",
+  "updated_at": "2026-09-21T18:53:30.251468+00:00",
   "days": [
+    {
+      "day": "2026-09-21",
+      "equity": 99961.13,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "BTBT",
+          "price": 1.85,
+          "momentum_pct": 22.04,
+          "avg_dollar_vol": 1859708,
+          "max_day_jump_pct": 12.01,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "AMC",
+          "price": 2.98,
+          "momentum_pct": 19.88,
+          "avg_dollar_vol": 2463753,
+          "max_day_jump_pct": 11.38,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "MARA",
+          "price": 13.47,
+          "momentum_pct": 17.03,
+          "avg_dollar_vol": 20185536,
+          "max_day_jump_pct": 13.65,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "NOK",
+          "price": 10.96,
+          "momentum_pct": 13.58,
+          "avg_dollar_vol": 58773811,
+          "max_day_jump_pct": 4.64,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "WBD",
+          "price": 30.8,
+          "momentum_pct": 9.51,
+          "avg_dollar_vol": 102277078,
+          "max_day_jump_pct": 10.69,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "TSLL",
+          "price": 10.22,
+          "momentum_pct": 9.19,
+          "avg_dollar_vol": 34634836,
+          "max_day_jump_pct": 6.24,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "TSLG",
+          "price": 5.07,
+          "momentum_pct": 9.03,
+          "avg_dollar_vol": 28487338,
+          "max_day_jump_pct": 6.07,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "IBIT",
+          "price": 48.72,
+          "momentum_pct": 8.92,
+          "avg_dollar_vol": 145999230,
+          "max_day_jump_pct": 6.22,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "BITO",
+          "price": 11.55,
+          "momentum_pct": 8.81,
+          "avg_dollar_vol": 114582554,
+          "max_day_jump_pct": 6.18,
+          "sector": "Unknown",
+          "headlines": []
+        }
+      ],
+      "decisions": [],
+      "rejected": [],
+      "orders": []
+    },
     {
       "day": "2026-09-18",
       "equity": 99961.17,
