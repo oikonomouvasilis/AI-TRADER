@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T18:53:30.170962+00:00",
+  "updated_at": "2026-09-22T17:44:46.071607+00:00",
   "fills": [
     {
       "t": "2026-06-08T18:25:43.162492+00:00",
@@ -1224,7 +1224,7 @@
       "exit_price": 15.43,
       "pl": -0.08,
       "pl_pct": -0.52,
-      "sector": "Airlines"
+      "sector": "Unknown"
     },
     {
       "symbol": "QS",
@@ -1279,7 +1279,7 @@
       "exit_price": 17.04,
       "pl": 1.53,
       "pl_pct": 9.86,
-      "sector": "Airlines"
+      "sector": "Unknown"
     },
     {
       "symbol": "AAL",
@@ -1290,7 +1290,7 @@
       "exit_price": 17.04,
       "pl": 1.12,
       "pl_pct": 7.04,
-      "sector": "Airlines"
+      "sector": "Unknown"
     },
     {
       "symbol": "KUST",
@@ -1367,7 +1367,7 @@
       "exit_price": 17.15,
       "pl": -1.02,
       "pl_pct": -2.89,
-      "sector": "Airlines"
+      "sector": "Unknown"
     },
     {
       "symbol": "IBIT",
@@ -1444,7 +1444,7 @@
       "exit_price": 7.48,
       "pl": -1.44,
       "pl_pct": -3.11,
-      "sector": "Communications"
+      "sector": "Unknown"
     },
     {
       "symbol": "IREN",
@@ -1488,7 +1488,7 @@
       "exit_price": 7.55,
       "pl": -1.68,
       "pl_pct": -3.58,
-      "sector": "Communications"
+      "sector": "Unknown"
     },
     {
       "symbol": "QBTS",
@@ -1543,7 +1543,7 @@
       "exit_price": 3.62,
       "pl": -1.82,
       "pl_pct": -3.72,
-      "sector": "Road & Rail"
+      "sector": "Unknown"
     },
     {
       "symbol": "ONDS",
@@ -1554,7 +1554,7 @@
       "exit_price": 8.67,
       "pl": -1.0,
       "pl_pct": -2.25,
-      "sector": "Communications"
+      "sector": "Unknown"
     },
     {
       "symbol": "SOUN",
@@ -1598,7 +1598,7 @@
       "exit_price": 9.21,
       "pl": -0.21,
       "pl_pct": -2.23,
-      "sector": "Communications"
+      "sector": "Unknown"
     },
     {
       "symbol": "ONDS",
@@ -1609,7 +1609,7 @@
       "exit_price": 9.255,
       "pl": -0.49,
       "pl_pct": -1.73,
-      "sector": "Communications"
+      "sector": "Unknown"
     },
     {
       "symbol": "ONDS",
@@ -1620,7 +1620,7 @@
       "exit_price": 9.255,
       "pl": -0.67,
       "pl_pct": -6.75,
-      "sector": "Communications"
+      "sector": "Unknown"
     },
     {
       "symbol": "PLUG",
@@ -1675,7 +1675,7 @@
       "exit_price": 3.58,
       "pl": -1.56,
       "pl_pct": -3.24,
-      "sector": "Road & Rail"
+      "sector": "Unknown"
     },
     {
       "symbol": "SMCI",
@@ -1925,10 +1925,10 @@
       "symbol": "DV",
       "qty": 3.0,
       "entry_price": 13.27,
-      "current_price": 13.445,
-      "market_value": 40.34,
-      "unrealized_pl": 0.53,
-      "unrealized_plpc": 1.32,
+      "current_price": 13.395,
+      "market_value": 40.19,
+      "unrealized_pl": 0.38,
+      "unrealized_plpc": 0.94,
       "sector": "Media"
     }
   ]

@@ -1,0 +1,100 @@
+{
+  "day": "2026-09-22",
+  "equity": 99960.98,
+  "candidates": [
+    {
+      "symbol": "MARA",
+      "price": 13.81,
+      "momentum_pct": 20.03,
+      "avg_dollar_vol": 19606870,
+      "max_day_jump_pct": 13.65,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "TSLG",
+      "price": 5.13,
+      "momentum_pct": 10.32,
+      "avg_dollar_vol": 28521140,
+      "max_day_jump_pct": 6.07,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "NOK",
+      "price": 10.6,
+      "momentum_pct": 9.84,
+      "avg_dollar_vol": 61069416,
+      "max_day_jump_pct": 4.64,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "TSLL",
+      "price": 10.26,
+      "momentum_pct": 9.62,
+      "avg_dollar_vol": 35319911,
+      "max_day_jump_pct": 5.93,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "BITO",
+      "price": 11.63,
+      "momentum_pct": 9.56,
+      "avg_dollar_vol": 117035484,
+      "max_day_jump_pct": 6.46,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "WBD",
+      "price": 30.8,
+      "momentum_pct": 9.53,
+      "avg_dollar_vol": 107497506,
+      "max_day_jump_pct": 10.71,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "GRAB",
+      "price": 3.21,
+      "momentum_pct": 6.47,
+      "avg_dollar_vol": 14319860,
+      "max_day_jump_pct": 10.5,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "ONDS",
+      "price": 7.55,
+      "momentum_pct": 4.72,
+      "avg_dollar_vol": 13449094,
+      "max_day_jump_pct": 2.23,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "AAL",
+      "price": 13.54,
+      "momentum_pct": 3.4,
+      "avg_dollar_vol": 30016828,
+      "max_day_jump_pct": 4.82,
+      "sector": "Unknown",
+      "headlines": []
+    }
+  ],
+  "decisions": [],
+  "rejected": [],
+  "orders": [],
+  "stops": [
+    {
+      "symbol": "DV",
+      "qty": 3,
+      "stop_price": 12.86,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"3\",\"held_for_orders\":\"3\",\"message\":\"insufficient qty available for order (requested: 3, available: 0)\",\"related_orders\":[\"4e068a33-8995-4b10-97e7-a75eec63a3ec\"],\"symbol\":\"DV\"}"
+    }
+  ],
+  "written_at": "2026-09-22T17:44:45.846169+00:00"
+}
