@@ -1,6 +1,88 @@
 {
-  "updated_at": "2026-09-23T17:57:10.139449+00:00",
+  "updated_at": "2026-09-24T17:56:21.701174+00:00",
   "days": [
+    {
+      "day": "2026-09-24",
+      "equity": 99960.93,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "TSLG",
+          "price": 5.18,
+          "momentum_pct": 12.85,
+          "avg_dollar_vol": 30204539,
+          "max_day_jump_pct": 6.07,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "TSLL",
+          "price": 10.35,
+          "momentum_pct": 12.07,
+          "avg_dollar_vol": 39412394,
+          "max_day_jump_pct": 5.93,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "BITO",
+          "price": 11.29,
+          "momentum_pct": 10.47,
+          "avg_dollar_vol": 119098845,
+          "max_day_jump_pct": 6.46,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "UNG",
+          "price": 11.63,
+          "momentum_pct": 10.39,
+          "avg_dollar_vol": 27463824,
+          "max_day_jump_pct": 7.14,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "GRAB",
+          "price": 3.12,
+          "momentum_pct": 7.41,
+          "avg_dollar_vol": 17298507,
+          "max_day_jump_pct": 8.78,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "ONDS",
+          "price": 7.7,
+          "momentum_pct": 6.43,
+          "avg_dollar_vol": 14546923,
+          "max_day_jump_pct": 4.67,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "NOK",
+          "price": 10.38,
+          "momentum_pct": 5.65,
+          "avg_dollar_vol": 56995133,
+          "max_day_jump_pct": 4.64,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "AAL",
+          "price": 13.45,
+          "momentum_pct": 5.41,
+          "avg_dollar_vol": 29915202,
+          "max_day_jump_pct": 4.82,
+          "sector": "Unknown",
+          "headlines": []
+        }
+      ],
+      "decisions": [],
+      "rejected": [],
+      "orders": []
+    },
     {
       "day": "2026-09-23",
       "equity": 99960.96,
