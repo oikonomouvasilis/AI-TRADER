@@ -1,0 +1,91 @@
+{
+  "day": "2026-09-25",
+  "equity": 99960.96,
+  "candidates": [
+    {
+      "symbol": "SMCI",
+      "price": 43.48,
+      "momentum_pct": 17.99,
+      "avg_dollar_vol": 73525086,
+      "max_day_jump_pct": 9.46,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "GRAB",
+      "price": 3.17,
+      "momentum_pct": 10.65,
+      "avg_dollar_vol": 17811081,
+      "max_day_jump_pct": 8.78,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "BITO",
+      "price": 11.24,
+      "momentum_pct": 10.09,
+      "avg_dollar_vol": 112337922,
+      "max_day_jump_pct": 6.46,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "AAL",
+      "price": 13.82,
+      "momentum_pct": 8.73,
+      "avg_dollar_vol": 31164522,
+      "max_day_jump_pct": 4.82,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "TSLG",
+      "price": 5.01,
+      "momentum_pct": 8.21,
+      "avg_dollar_vol": 30489780,
+      "max_day_jump_pct": 6.07,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "UNG",
+      "price": 11.18,
+      "momentum_pct": 7.97,
+      "avg_dollar_vol": 29720650,
+      "max_day_jump_pct": 6.26,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "TSLL",
+      "price": 10.01,
+      "momentum_pct": 7.52,
+      "avg_dollar_vol": 44192631,
+      "max_day_jump_pct": 5.93,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "ONDS",
+      "price": 7.71,
+      "momentum_pct": 6.72,
+      "avg_dollar_vol": 14731189,
+      "max_day_jump_pct": 4.67,
+      "sector": "Unknown",
+      "headlines": []
+    }
+  ],
+  "decisions": [],
+  "rejected": [],
+  "orders": [],
+  "stops": [
+    {
+      "symbol": "DV",
+      "qty": 3,
+      "stop_price": 12.86,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"3\",\"held_for_orders\":\"3\",\"message\":\"insufficient qty available for order (requested: 3, available: 0)\",\"related_orders\":[\"4e068a33-8995-4b10-97e7-a75eec63a3ec\"],\"symbol\":\"DV\"}"
+    }
+  ],
+  "written_at": "2026-09-25T18:03:19.079750+00:00"
+}

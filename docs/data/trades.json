@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T17:56:21.549460+00:00",
+  "updated_at": "2026-09-25T18:03:19.327419+00:00",
   "fills": [
     {
       "t": "2026-06-08T18:25:43.162492+00:00",
@@ -1246,7 +1246,7 @@
       "exit_price": 35.52,
       "pl": -1.12,
       "pl_pct": -3.06,
-      "sector": "Technology"
+      "sector": "Unknown"
     },
     {
       "symbol": "SMCI",
@@ -1257,7 +1257,7 @@
       "exit_price": 33.22,
       "pl": -1.03,
       "pl_pct": -3.01,
-      "sector": "Technology"
+      "sector": "Unknown"
     },
     {
       "symbol": "KEEL",
@@ -1466,7 +1466,7 @@
       "exit_price": 30.25,
       "pl": -0.99,
       "pl_pct": -3.17,
-      "sector": "Technology"
+      "sector": "Unknown"
     },
     {
       "symbol": "CLF",
@@ -1576,7 +1576,7 @@
       "exit_price": 31.63,
       "pl": -0.98,
       "pl_pct": -3.01,
-      "sector": "Technology"
+      "sector": "Unknown"
     },
     {
       "symbol": "ACHR",
@@ -1653,7 +1653,7 @@
       "exit_price": 38.57,
       "pl": -1.03,
       "pl_pct": -2.6,
-      "sector": "Technology"
+      "sector": "Unknown"
     },
     {
       "symbol": "NU",
@@ -1686,7 +1686,7 @@
       "exit_price": 37.62,
       "pl": -0.97,
       "pl_pct": -2.51,
-      "sector": "Technology"
+      "sector": "Unknown"
     },
     {
       "symbol": "IREN",
@@ -1818,7 +1818,7 @@
       "exit_price": 39.33,
       "pl": -1.21,
       "pl_pct": -2.98,
-      "sector": "Technology"
+      "sector": "Unknown"
     },
     {
       "symbol": "IREN",
@@ -1873,7 +1873,7 @@
       "exit_price": 37.04,
       "pl": -1.96,
       "pl_pct": -5.03,
-      "sector": "Technology"
+      "sector": "Unknown"
     },
     {
       "symbol": "NOK",
@@ -1925,10 +1925,10 @@
       "symbol": "DV",
       "qty": 3.0,
       "entry_price": 13.27,
-      "current_price": 13.385,
-      "market_value": 40.16,
-      "unrealized_pl": 0.34,
-      "unrealized_plpc": 0.87,
+      "current_price": 13.39,
+      "market_value": 40.17,
+      "unrealized_pl": 0.36,
+      "unrealized_plpc": 0.9,
       "sector": "Media"
     }
   ]
