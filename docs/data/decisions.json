@@ -1,6 +1,43 @@
 {
-  "updated_at": "2026-09-25T18:03:19.439510+00:00",
+  "updated_at": "2026-09-29T18:51:07.021905+00:00",
   "days": [
+    {
+      "day": "2026-09-29",
+      "equity": 99960.92,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "MSTZ",
+          "price": 2.69,
+          "momentum_pct": 17.72,
+          "avg_dollar_vol": 7027061,
+          "max_day_jump_pct": 6.07,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "CCL",
+          "price": 25.18,
+          "momentum_pct": 12.84,
+          "avg_dollar_vol": 48025457,
+          "max_day_jump_pct": 13.7,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "GRAB",
+          "price": 3.12,
+          "momentum_pct": 7.57,
+          "avg_dollar_vol": 21190085,
+          "max_day_jump_pct": 8.78,
+          "sector": "Unknown",
+          "headlines": []
+        }
+      ],
+      "decisions": [],
+      "rejected": [],
+      "orders": []
+    },
     {
       "day": "2026-09-25",
       "equity": 99960.96,
