@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-09-29T18:51:07.021905+00:00",
+  "updated_at": "2026-09-30T18:33:06.974277+00:00",
   "days": [
+    {
+      "day": "2026-09-30",
+      "equity": 99961.25,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "MSTZ",
+          "price": 2.71,
+          "momentum_pct": 18.6,
+          "avg_dollar_vol": 6756431,
+          "max_day_jump_pct": 6.07,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "GRAB",
+          "price": 3.12,
+          "momentum_pct": 7.4,
+          "avg_dollar_vol": 20766706,
+          "max_day_jump_pct": 8.78,
+          "sector": "Unknown",
+          "headlines": []
+        }
+      ],
+      "decisions": [],
+      "rejected": [],
+      "orders": []
+    },
     {
       "day": "2026-09-29",
       "equity": 99960.92,
