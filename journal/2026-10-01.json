@@ -1,0 +1,28 @@
+{
+  "day": "2026-10-01",
+  "equity": 99961.25,
+  "candidates": [
+    {
+      "symbol": "MSTZ",
+      "price": 2.51,
+      "momentum_pct": 8.89,
+      "avg_dollar_vol": 7162243,
+      "max_day_jump_pct": 6.07,
+      "sector": "Unknown",
+      "headlines": []
+    }
+  ],
+  "decisions": [],
+  "rejected": [],
+  "orders": [],
+  "stops": [
+    {
+      "symbol": "DV",
+      "qty": 3,
+      "stop_price": 12.86,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"3\",\"held_for_orders\":\"3\",\"message\":\"insufficient qty available for order (requested: 3, available: 0)\",\"related_orders\":[\"4e068a33-8995-4b10-97e7-a75eec63a3ec\"],\"symbol\":\"DV\"}"
+    }
+  ],
+  "written_at": "2026-10-01T19:00:51.988622+00:00"
+}

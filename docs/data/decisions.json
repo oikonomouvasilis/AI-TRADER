@@ -1,6 +1,25 @@
 {
-  "updated_at": "2026-09-30T18:33:06.974277+00:00",
+  "updated_at": "2026-10-01T19:00:52.652690+00:00",
   "days": [
+    {
+      "day": "2026-10-01",
+      "equity": 99961.25,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "MSTZ",
+          "price": 2.51,
+          "momentum_pct": 8.89,
+          "avg_dollar_vol": 7162243,
+          "max_day_jump_pct": 6.07,
+          "sector": "Unknown",
+          "headlines": []
+        }
+      ],
+      "decisions": [],
+      "rejected": [],
+      "orders": []
+    },
     {
       "day": "2026-09-30",
       "equity": 99961.25,
