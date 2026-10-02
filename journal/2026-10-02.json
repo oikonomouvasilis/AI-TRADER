@@ -1,0 +1,37 @@
+{
+  "day": "2026-10-02",
+  "equity": 99961.26,
+  "candidates": [
+    {
+      "symbol": "MSTZ",
+      "price": 2.61,
+      "momentum_pct": 6.75,
+      "avg_dollar_vol": 7429654,
+      "max_day_jump_pct": 5.24,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "BBD",
+      "price": 3.61,
+      "momentum_pct": 4.49,
+      "avg_dollar_vol": 7105354,
+      "max_day_jump_pct": 4.6,
+      "sector": "Unknown",
+      "headlines": []
+    }
+  ],
+  "decisions": [],
+  "rejected": [],
+  "orders": [],
+  "stops": [
+    {
+      "symbol": "DV",
+      "qty": 3,
+      "stop_price": 12.86,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"3\",\"held_for_orders\":\"3\",\"message\":\"insufficient qty available for order (requested: 3, available: 0)\",\"related_orders\":[\"4e068a33-8995-4b10-97e7-a75eec63a3ec\"],\"symbol\":\"DV\"}"
+    }
+  ],
+  "written_at": "2026-10-02T18:40:13.553271+00:00"
+}

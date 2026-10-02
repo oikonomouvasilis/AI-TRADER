@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-10-01T19:00:52.652690+00:00",
+  "updated_at": "2026-10-02T18:40:13.946281+00:00",
   "days": [
+    {
+      "day": "2026-10-02",
+      "equity": 99961.26,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "MSTZ",
+          "price": 2.61,
+          "momentum_pct": 6.75,
+          "avg_dollar_vol": 7429654,
+          "max_day_jump_pct": 5.24,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "BBD",
+          "price": 3.61,
+          "momentum_pct": 4.49,
+          "avg_dollar_vol": 7105354,
+          "max_day_jump_pct": 4.6,
+          "sector": "Unknown",
+          "headlines": []
+        }
+      ],
+      "decisions": [],
+      "rejected": [],
+      "orders": []
+    },
     {
       "day": "2026-10-01",
       "equity": 99961.25,
