@@ -1,6 +1,97 @@
 {
-  "updated_at": "2026-10-02T18:40:13.946281+00:00",
+  "updated_at": "2026-10-06T19:02:10.395977+00:00",
   "days": [
+    {
+      "day": "2026-10-06",
+      "equity": 99961.25,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "BBD",
+          "price": 4.54,
+          "momentum_pct": 35.58,
+          "avg_dollar_vol": 16409410,
+          "max_day_jump_pct": 18.82,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "NU",
+          "price": 15.59,
+          "momentum_pct": 27.58,
+          "avg_dollar_vol": 95911534,
+          "max_day_jump_pct": 13.18,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "RXRX",
+          "price": 4.61,
+          "momentum_pct": 24.63,
+          "avg_dollar_vol": 9107834,
+          "max_day_jump_pct": 15.98,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "EWZ",
+          "price": 43.04,
+          "momentum_pct": 18.8,
+          "avg_dollar_vol": 132641604,
+          "max_day_jump_pct": 12.54,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "TSLL",
+          "price": 10.29,
+          "momentum_pct": 12.52,
+          "avg_dollar_vol": 54522349,
+          "max_day_jump_pct": 9.14,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "TSLG",
+          "price": 5.15,
+          "momentum_pct": 12.45,
+          "avg_dollar_vol": 48011552,
+          "max_day_jump_pct": 9.26,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "NOK",
+          "price": 10.88,
+          "momentum_pct": 7.67,
+          "avg_dollar_vol": 33270509,
+          "max_day_jump_pct": 6.62,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "VALE",
+          "price": 14.2,
+          "momentum_pct": 4.49,
+          "avg_dollar_vol": 41804978,
+          "max_day_jump_pct": 2.98,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "XLU",
+          "price": 40.94,
+          "momentum_pct": 4.28,
+          "avg_dollar_vol": 132238742,
+          "max_day_jump_pct": 2.44,
+          "sector": "Unknown",
+          "headlines": []
+        }
+      ],
+      "decisions": [],
+      "rejected": [],
+      "orders": []
+    },
     {
       "day": "2026-10-02",
       "equity": 99961.26,
