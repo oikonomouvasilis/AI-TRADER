@@ -1,0 +1,91 @@
+{
+  "day": "2026-10-07",
+  "equity": 99961.28,
+  "candidates": [
+    {
+      "symbol": "BBD",
+      "price": 4.34,
+      "momentum_pct": 29.75,
+      "avg_dollar_vol": 19637457,
+      "max_day_jump_pct": 18.82,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "NU",
+      "price": 15.59,
+      "momentum_pct": 27.54,
+      "avg_dollar_vol": 96797244,
+      "max_day_jump_pct": 13.18,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "HTZ",
+      "price": 2.09,
+      "momentum_pct": 22.94,
+      "avg_dollar_vol": 1956444,
+      "max_day_jump_pct": 15.73,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "EWZ",
+      "price": 42.5,
+      "momentum_pct": 17.31,
+      "avg_dollar_vol": 131712158,
+      "max_day_jump_pct": 12.54,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "TSLL",
+      "price": 10.14,
+      "momentum_pct": 10.88,
+      "avg_dollar_vol": 55045377,
+      "max_day_jump_pct": 9.14,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "TSLG",
+      "price": 5.07,
+      "momentum_pct": 10.7,
+      "avg_dollar_vol": 48807283,
+      "max_day_jump_pct": 9.26,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "LPCN",
+      "price": 2.24,
+      "momentum_pct": 5.41,
+      "avg_dollar_vol": 216754,
+      "max_day_jump_pct": 7.69,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "NOK",
+      "price": 10.63,
+      "momentum_pct": 5.25,
+      "avg_dollar_vol": 32962873,
+      "max_day_jump_pct": 7.65,
+      "sector": "Unknown",
+      "headlines": []
+    }
+  ],
+  "decisions": [],
+  "rejected": [],
+  "orders": [],
+  "stops": [
+    {
+      "symbol": "DV",
+      "qty": 3,
+      "stop_price": 12.86,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"3\",\"held_for_orders\":\"3\",\"message\":\"insufficient qty available for order (requested: 3, available: 0)\",\"related_orders\":[\"4e068a33-8995-4b10-97e7-a75eec63a3ec\"],\"symbol\":\"DV\"}"
+    }
+  ],
+  "written_at": "2026-10-07T19:30:08.171023+00:00"
+}
