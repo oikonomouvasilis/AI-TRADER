@@ -1,6 +1,52 @@
 {
-  "updated_at": "2026-10-07T19:30:08.857280+00:00",
+  "updated_at": "2026-10-08T19:24:24.015794+00:00",
   "days": [
+    {
+      "day": "2026-10-08",
+      "equity": 99961.28,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "BBD",
+          "price": 4.25,
+          "momentum_pct": 26.26,
+          "avg_dollar_vol": 22852225,
+          "max_day_jump_pct": 18.82,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "NU",
+          "price": 15.44,
+          "momentum_pct": 24.92,
+          "avg_dollar_vol": 87947083,
+          "max_day_jump_pct": 13.18,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "TSLG",
+          "price": 4.95,
+          "momentum_pct": 10.99,
+          "avg_dollar_vol": 48576858,
+          "max_day_jump_pct": 9.26,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "CMG",
+          "price": 32.88,
+          "momentum_pct": 3.09,
+          "avg_dollar_vol": 43653865,
+          "max_day_jump_pct": 6.87,
+          "sector": "Unknown",
+          "headlines": []
+        }
+      ],
+      "decisions": [],
+      "rejected": [],
+      "orders": []
+    },
     {
       "day": "2026-10-07",
       "equity": 99961.28,
