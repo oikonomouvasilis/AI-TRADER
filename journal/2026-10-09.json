@@ -1,0 +1,109 @@
+{
+  "day": "2026-10-09",
+  "equity": 99961.32,
+  "candidates": [
+    {
+      "symbol": "NU",
+      "price": 15.88,
+      "momentum_pct": 25.34,
+      "avg_dollar_vol": 88388975,
+      "max_day_jump_pct": 13.18,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "BBD",
+      "price": 4.29,
+      "momentum_pct": 21.7,
+      "avg_dollar_vol": 26061318,
+      "max_day_jump_pct": 18.82,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "ITUB",
+      "price": 10.12,
+      "momentum_pct": 18.36,
+      "avg_dollar_vol": 43804931,
+      "max_day_jump_pct": 15.55,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "TSLG",
+      "price": 5.25,
+      "momentum_pct": 16.67,
+      "avg_dollar_vol": 48876031,
+      "max_day_jump_pct": 9.26,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "TSLL",
+      "price": 10.49,
+      "momentum_pct": 16.56,
+      "avg_dollar_vol": 51392602,
+      "max_day_jump_pct": 9.14,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "EWZ",
+      "price": 43.35,
+      "momentum_pct": 16.36,
+      "avg_dollar_vol": 156186890,
+      "max_day_jump_pct": 12.54,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "SNAP",
+      "price": 6.26,
+      "momentum_pct": 16.13,
+      "avg_dollar_vol": 10524974,
+      "max_day_jump_pct": 6.82,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "PCG",
+      "price": 13.07,
+      "momentum_pct": 7.0,
+      "avg_dollar_vol": 30912652,
+      "max_day_jump_pct": 3.44,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "SOXS",
+      "price": 34.52,
+      "momentum_pct": 4.12,
+      "avg_dollar_vol": 56483362,
+      "max_day_jump_pct": 10.28,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "NIO",
+      "price": 3.56,
+      "momentum_pct": 3.64,
+      "avg_dollar_vol": 4534109,
+      "max_day_jump_pct": 4.71,
+      "sector": "Unknown",
+      "headlines": []
+    }
+  ],
+  "decisions": [],
+  "rejected": [],
+  "orders": [],
+  "stops": [
+    {
+      "symbol": "DV",
+      "qty": 3,
+      "stop_price": 12.86,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"3\",\"held_for_orders\":\"3\",\"message\":\"insufficient qty available for order (requested: 3, available: 0)\",\"related_orders\":[\"4e068a33-8995-4b10-97e7-a75eec63a3ec\"],\"symbol\":\"DV\"}"
+    }
+  ],
+  "written_at": "2026-10-09T18:58:02.304919+00:00"
+}
