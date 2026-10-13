@@ -1,0 +1,73 @@
+{
+  "day": "2026-10-13",
+  "equity": 99961.43,
+  "candidates": [
+    {
+      "symbol": "SOXS",
+      "price": 37.66,
+      "momentum_pct": 27.15,
+      "avg_dollar_vol": 57273127,
+      "max_day_jump_pct": 10.28,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "SNAP",
+      "price": 6.5,
+      "momentum_pct": 15.88,
+      "avg_dollar_vol": 12881668,
+      "max_day_jump_pct": 6.31,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "MSTZ",
+      "price": 2.71,
+      "momentum_pct": 15.32,
+      "avg_dollar_vol": 11524528,
+      "max_day_jump_pct": 13.62,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "NVD",
+      "price": 3.63,
+      "momentum_pct": 9.34,
+      "avg_dollar_vol": 41755266,
+      "max_day_jump_pct": 5.97,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "SQQQ",
+      "price": 34.02,
+      "momentum_pct": 5.5,
+      "avg_dollar_vol": 38784630,
+      "max_day_jump_pct": 4.11,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "QID",
+      "price": 13.1,
+      "momentum_pct": 3.64,
+      "avg_dollar_vol": 28128069,
+      "max_day_jump_pct": 2.82,
+      "sector": "Unknown",
+      "headlines": []
+    }
+  ],
+  "decisions": [],
+  "rejected": [],
+  "orders": [],
+  "stops": [
+    {
+      "symbol": "DV",
+      "qty": 3,
+      "stop_price": 12.86,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"3\",\"held_for_orders\":\"3\",\"message\":\"insufficient qty available for order (requested: 3, available: 0)\",\"related_orders\":[\"4e068a33-8995-4b10-97e7-a75eec63a3ec\"],\"symbol\":\"DV\"}"
+    }
+  ],
+  "written_at": "2026-10-13T19:56:43.988813+00:00"
+}
