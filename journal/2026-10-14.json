@@ -1,0 +1,64 @@
+{
+  "day": "2026-10-14",
+  "equity": 99961.35,
+  "candidates": [
+    {
+      "symbol": "SOXS",
+      "price": 42.3,
+      "momentum_pct": 42.85,
+      "avg_dollar_vol": 59671836,
+      "max_day_jump_pct": 12.99,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "MSTZ",
+      "price": 3.03,
+      "momentum_pct": 28.94,
+      "avg_dollar_vol": 11684667,
+      "max_day_jump_pct": 13.62,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "NVD",
+      "price": 3.86,
+      "momentum_pct": 16.27,
+      "avg_dollar_vol": 41862463,
+      "max_day_jump_pct": 6.93,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "SQQQ",
+      "price": 36.07,
+      "momentum_pct": 11.84,
+      "avg_dollar_vol": 39661213,
+      "max_day_jump_pct": 6.09,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "RWM",
+      "price": 14.81,
+      "momentum_pct": 4.78,
+      "avg_dollar_vol": 44179135,
+      "max_day_jump_pct": 2.21,
+      "sector": "Unknown",
+      "headlines": []
+    }
+  ],
+  "decisions": [],
+  "rejected": [],
+  "orders": [],
+  "stops": [
+    {
+      "symbol": "DV",
+      "qty": 3,
+      "stop_price": 12.86,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"3\",\"held_for_orders\":\"3\",\"message\":\"insufficient qty available for order (requested: 3, available: 0)\",\"related_orders\":[\"4e068a33-8995-4b10-97e7-a75eec63a3ec\"],\"symbol\":\"DV\"}"
+    }
+  ],
+  "written_at": "2026-10-14T18:09:29.600740+00:00"
+}
