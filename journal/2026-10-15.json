@@ -1,0 +1,82 @@
+{
+  "day": "2026-10-15",
+  "equity": 99961.34,
+  "candidates": [
+    {
+      "symbol": "SOXS",
+      "price": 45.89,
+      "momentum_pct": 54.82,
+      "avg_dollar_vol": 67709232,
+      "max_day_jump_pct": 13.65,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "NVD",
+      "price": 3.99,
+      "momentum_pct": 20.91,
+      "avg_dollar_vol": 46476442,
+      "max_day_jump_pct": 6.09,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "MSTZ",
+      "price": 2.83,
+      "momentum_pct": 20.43,
+      "avg_dollar_vol": 13376779,
+      "max_day_jump_pct": 13.62,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "SQQQ",
+      "price": 36.88,
+      "momentum_pct": 15.87,
+      "avg_dollar_vol": 45277612,
+      "max_day_jump_pct": 5.82,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "CCC",
+      "price": 7.62,
+      "momentum_pct": 14.51,
+      "avg_dollar_vol": 11629047,
+      "max_day_jump_pct": 7.97,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "OPK",
+      "price": 1.56,
+      "momentum_pct": 7.19,
+      "avg_dollar_vol": 402632,
+      "max_day_jump_pct": 14.65,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "RWM",
+      "price": 14.68,
+      "momentum_pct": 3.09,
+      "avg_dollar_vol": 46367156,
+      "max_day_jump_pct": 2.0,
+      "sector": "Unknown",
+      "headlines": []
+    }
+  ],
+  "decisions": [],
+  "rejected": [],
+  "orders": [],
+  "stops": [
+    {
+      "symbol": "DV",
+      "qty": 3,
+      "stop_price": 12.86,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"3\",\"held_for_orders\":\"3\",\"message\":\"insufficient qty available for order (requested: 3, available: 0)\",\"related_orders\":[\"4e068a33-8995-4b10-97e7-a75eec63a3ec\"],\"symbol\":\"DV\"}"
+    }
+  ],
+  "written_at": "2026-10-15T17:52:22.926475+00:00"
+}
