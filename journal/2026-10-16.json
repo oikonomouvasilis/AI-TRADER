@@ -1,0 +1,64 @@
+{
+  "day": "2026-10-16",
+  "equity": 99961.28,
+  "candidates": [
+    {
+      "symbol": "SOXS",
+      "price": 47.59,
+      "momentum_pct": 55.32,
+      "avg_dollar_vol": 71867148,
+      "max_day_jump_pct": 13.65,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "NVD",
+      "price": 4.05,
+      "momentum_pct": 20.9,
+      "avg_dollar_vol": 53621382,
+      "max_day_jump_pct": 6.09,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "SQQQ",
+      "price": 38.49,
+      "momentum_pct": 19.98,
+      "avg_dollar_vol": 51954742,
+      "max_day_jump_pct": 6.53,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "MSTZ",
+      "price": 3.17,
+      "momentum_pct": 18.73,
+      "avg_dollar_vol": 14344376,
+      "max_day_jump_pct": 18.28,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "CCC",
+      "price": 7.62,
+      "momentum_pct": 16.41,
+      "avg_dollar_vol": 18128744,
+      "max_day_jump_pct": 7.97,
+      "sector": "Unknown",
+      "headlines": []
+    }
+  ],
+  "decisions": [],
+  "rejected": [],
+  "orders": [],
+  "stops": [
+    {
+      "symbol": "DV",
+      "qty": 3,
+      "stop_price": 12.86,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"3\",\"held_for_orders\":\"3\",\"message\":\"insufficient qty available for order (requested: 3, available: 0)\",\"related_orders\":[\"4e068a33-8995-4b10-97e7-a75eec63a3ec\"],\"symbol\":\"DV\"}"
+    }
+  ],
+  "written_at": "2026-10-16T17:40:45.359404+00:00"
+}
