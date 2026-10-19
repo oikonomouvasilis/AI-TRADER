@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T17:40:45.731438+00:00",
+  "updated_at": "2026-10-19T19:27:27.698836+00:00",
   "fills": [
     {
       "t": "2026-06-08T18:25:43.162492+00:00",
@@ -1477,7 +1477,7 @@
       "exit_price": 11.98,
       "pl": 4.32,
       "pl_pct": 9.91,
-      "sector": "Metals & Mining"
+      "sector": "Unknown"
     },
     {
       "symbol": "ONDS",
@@ -1925,10 +1925,10 @@
       "symbol": "DV",
       "qty": 3.0,
       "entry_price": 13.27,
-      "current_price": 13.495,
-      "market_value": 40.48,
-      "unrealized_pl": 0.68,
-      "unrealized_plpc": 1.7,
+      "current_price": 13.505,
+      "market_value": 40.52,
+      "unrealized_pl": 0.7,
+      "unrealized_plpc": 1.77,
       "sector": "Media"
     }
   ]

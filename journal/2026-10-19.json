@@ -1,0 +1,82 @@
+{
+  "day": "2026-10-19",
+  "equity": 99961.31,
+  "candidates": [
+    {
+      "symbol": "SOXS",
+      "price": 45.55,
+      "momentum_pct": 22.31,
+      "avg_dollar_vol": 75912944,
+      "max_day_jump_pct": 13.65,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "MSTZ",
+      "price": 3.18,
+      "momentum_pct": 18.66,
+      "avg_dollar_vol": 13957452,
+      "max_day_jump_pct": 19.03,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "CLF",
+      "price": 14.4,
+      "momentum_pct": 11.71,
+      "avg_dollar_vol": 16401254,
+      "max_day_jump_pct": 18.57,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "SQQQ",
+      "price": 37.17,
+      "momentum_pct": 10.56,
+      "avg_dollar_vol": 56243861,
+      "max_day_jump_pct": 7.61,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "NVD",
+      "price": 3.95,
+      "momentum_pct": 7.63,
+      "avg_dollar_vol": 75676824,
+      "max_day_jump_pct": 6.09,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "QID",
+      "price": 13.91,
+      "momentum_pct": 7.08,
+      "avg_dollar_vol": 39050931,
+      "max_day_jump_pct": 5.02,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "RIG",
+      "price": 5.88,
+      "momentum_pct": 4.72,
+      "avg_dollar_vol": 16842717,
+      "max_day_jump_pct": 4.72,
+      "sector": "Unknown",
+      "headlines": []
+    }
+  ],
+  "decisions": [],
+  "rejected": [],
+  "orders": [],
+  "stops": [
+    {
+      "symbol": "DV",
+      "qty": 3,
+      "stop_price": 12.86,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"3\",\"held_for_orders\":\"3\",\"message\":\"insufficient qty available for order (requested: 3, available: 0)\",\"related_orders\":[\"4e068a33-8995-4b10-97e7-a75eec63a3ec\"],\"symbol\":\"DV\"}"
+    }
+  ],
+  "written_at": "2026-10-19T19:27:27.325709+00:00"
+}

@@ -1,6 +1,79 @@
 {
-  "updated_at": "2026-10-16T17:40:45.860175+00:00",
+  "updated_at": "2026-10-19T19:27:27.831060+00:00",
   "days": [
+    {
+      "day": "2026-10-19",
+      "equity": 99961.31,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "SOXS",
+          "price": 45.55,
+          "momentum_pct": 22.31,
+          "avg_dollar_vol": 75912944,
+          "max_day_jump_pct": 13.65,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "MSTZ",
+          "price": 3.18,
+          "momentum_pct": 18.66,
+          "avg_dollar_vol": 13957452,
+          "max_day_jump_pct": 19.03,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "CLF",
+          "price": 14.4,
+          "momentum_pct": 11.71,
+          "avg_dollar_vol": 16401254,
+          "max_day_jump_pct": 18.57,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "SQQQ",
+          "price": 37.17,
+          "momentum_pct": 10.56,
+          "avg_dollar_vol": 56243861,
+          "max_day_jump_pct": 7.61,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "NVD",
+          "price": 3.95,
+          "momentum_pct": 7.63,
+          "avg_dollar_vol": 75676824,
+          "max_day_jump_pct": 6.09,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "QID",
+          "price": 13.91,
+          "momentum_pct": 7.08,
+          "avg_dollar_vol": 39050931,
+          "max_day_jump_pct": 5.02,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "RIG",
+          "price": 5.88,
+          "momentum_pct": 4.72,
+          "avg_dollar_vol": 16842717,
+          "max_day_jump_pct": 4.72,
+          "sector": "Unknown",
+          "headlines": []
+        }
+      ],
+      "decisions": [],
+      "rejected": [],
+      "orders": []
+    },
     {
       "day": "2026-10-16",
       "equity": 99961.28,
