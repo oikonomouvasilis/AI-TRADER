@@ -1,0 +1,73 @@
+{
+  "day": "2026-10-21",
+  "equity": 99961.47,
+  "candidates": [
+    {
+      "symbol": "SOXS",
+      "price": 44.07,
+      "momentum_pct": 18.34,
+      "avg_dollar_vol": 68964936,
+      "max_day_jump_pct": 13.65,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "SQQQ",
+      "price": 36.26,
+      "momentum_pct": 7.85,
+      "avg_dollar_vol": 54551609,
+      "max_day_jump_pct": 7.61,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "SSPC",
+      "price": 7.54,
+      "momentum_pct": 4.65,
+      "avg_dollar_vol": 1759123,
+      "max_day_jump_pct": 8.19,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "NVD",
+      "price": 3.83,
+      "momentum_pct": 4.36,
+      "avg_dollar_vol": 77216612,
+      "max_day_jump_pct": 6.09,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "TSLL",
+      "price": 10.54,
+      "momentum_pct": 3.84,
+      "avg_dollar_vol": 47314402,
+      "max_day_jump_pct": 7.46,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "TSLG",
+      "price": 5.27,
+      "momentum_pct": 3.64,
+      "avg_dollar_vol": 44450584,
+      "max_day_jump_pct": 7.4,
+      "sector": "Unknown",
+      "headlines": []
+    }
+  ],
+  "decisions": [],
+  "rejected": [],
+  "orders": [],
+  "stops": [
+    {
+      "symbol": "DV",
+      "qty": 3,
+      "stop_price": 12.86,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"3\",\"held_for_orders\":\"3\",\"message\":\"insufficient qty available for order (requested: 3, available: 0)\",\"related_orders\":[\"4e068a33-8995-4b10-97e7-a75eec63a3ec\"],\"symbol\":\"DV\"}"
+    }
+  ],
+  "written_at": "2026-10-21T18:14:34.180594+00:00"
+}

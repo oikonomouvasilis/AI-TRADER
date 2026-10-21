@@ -1,6 +1,70 @@
 {
-  "updated_at": "2026-10-20T18:05:56.079127+00:00",
+  "updated_at": "2026-10-21T18:14:34.452596+00:00",
   "days": [
+    {
+      "day": "2026-10-21",
+      "equity": 99961.47,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "SOXS",
+          "price": 44.07,
+          "momentum_pct": 18.34,
+          "avg_dollar_vol": 68964936,
+          "max_day_jump_pct": 13.65,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "SQQQ",
+          "price": 36.26,
+          "momentum_pct": 7.85,
+          "avg_dollar_vol": 54551609,
+          "max_day_jump_pct": 7.61,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "SSPC",
+          "price": 7.54,
+          "momentum_pct": 4.65,
+          "avg_dollar_vol": 1759123,
+          "max_day_jump_pct": 8.19,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "NVD",
+          "price": 3.83,
+          "momentum_pct": 4.36,
+          "avg_dollar_vol": 77216612,
+          "max_day_jump_pct": 6.09,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "TSLL",
+          "price": 10.54,
+          "momentum_pct": 3.84,
+          "avg_dollar_vol": 47314402,
+          "max_day_jump_pct": 7.46,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "TSLG",
+          "price": 5.27,
+          "momentum_pct": 3.64,
+          "avg_dollar_vol": 44450584,
+          "max_day_jump_pct": 7.4,
+          "sector": "Unknown",
+          "headlines": []
+        }
+      ],
+      "decisions": [],
+      "rejected": [],
+      "orders": []
+    },
     {
       "day": "2026-10-20",
       "equity": 99961.38,
