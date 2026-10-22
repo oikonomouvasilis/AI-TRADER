@@ -1,6 +1,61 @@
 {
-  "updated_at": "2026-10-21T18:14:34.452596+00:00",
+  "updated_at": "2026-10-22T18:08:45.291850+00:00",
   "days": [
+    {
+      "day": "2026-10-22",
+      "equity": 99961.44,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "SQQQ",
+          "price": 39.63,
+          "momentum_pct": 16.56,
+          "avg_dollar_vol": 60441902,
+          "max_day_jump_pct": 8.66,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "NVD",
+          "price": 4.15,
+          "momentum_pct": 14.96,
+          "avg_dollar_vol": 86758315,
+          "max_day_jump_pct": 8.92,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "QID",
+          "price": 14.53,
+          "momentum_pct": 11.0,
+          "avg_dollar_vol": 45215113,
+          "max_day_jump_pct": 5.79,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "HTZ",
+          "price": 2.1,
+          "momentum_pct": 8.55,
+          "avg_dollar_vol": 2137269,
+          "max_day_jump_pct": 8.05,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "MSTZ",
+          "price": 2.79,
+          "momentum_pct": 3.33,
+          "avg_dollar_vol": 13300882,
+          "max_day_jump_pct": 19.03,
+          "sector": "Unknown",
+          "headlines": []
+        }
+      ],
+      "decisions": [],
+      "rejected": [],
+      "orders": []
+    },
     {
       "day": "2026-10-21",
       "equity": 99961.47,
