@@ -1,6 +1,52 @@
 {
-  "updated_at": "2026-10-22T18:08:45.291850+00:00",
+  "updated_at": "2026-10-23T17:57:15.461734+00:00",
   "days": [
+    {
+      "day": "2026-10-23",
+      "equity": 99961.44,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "RIG",
+          "price": 6.49,
+          "momentum_pct": 16.22,
+          "avg_dollar_vol": 20953927,
+          "max_day_jump_pct": 6.66,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "SQQQ",
+          "price": 39.46,
+          "momentum_pct": 9.67,
+          "avg_dollar_vol": 64400972,
+          "max_day_jump_pct": 8.58,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "INFY",
+          "price": 12.53,
+          "momentum_pct": 9.1,
+          "avg_dollar_vol": 31653289,
+          "max_day_jump_pct": 5.57,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "NVD",
+          "price": 4.16,
+          "momentum_pct": 8.62,
+          "avg_dollar_vol": 96441238,
+          "max_day_jump_pct": 8.92,
+          "sector": "Unknown",
+          "headlines": []
+        }
+      ],
+      "decisions": [],
+      "rejected": [],
+      "orders": []
+    },
     {
       "day": "2026-10-22",
       "equity": 99961.44,
