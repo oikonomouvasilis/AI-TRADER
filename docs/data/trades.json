@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T17:57:15.319023+00:00",
+  "updated_at": "2026-10-26T19:31:34.782904+00:00",
   "fills": [
     {
       "t": "2026-06-08T18:25:43.162492+00:00",
@@ -1925,10 +1925,10 @@
       "symbol": "DV",
       "qty": 3.0,
       "entry_price": 13.27,
-      "current_price": 13.55,
-      "market_value": 40.65,
-      "unrealized_pl": 0.84,
-      "unrealized_plpc": 2.11,
+      "current_price": 13.54,
+      "market_value": 40.62,
+      "unrealized_pl": 0.81,
+      "unrealized_plpc": 2.04,
       "sector": "Media"
     }
   ]

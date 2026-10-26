@@ -1,0 +1,46 @@
+{
+  "day": "2026-10-26",
+  "equity": 99961.41,
+  "candidates": [
+    {
+      "symbol": "TSLL",
+      "price": 10.88,
+      "momentum_pct": 13.63,
+      "avg_dollar_vol": 52904719,
+      "max_day_jump_pct": 11.59,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "TSLG",
+      "price": 5.44,
+      "momentum_pct": 13.57,
+      "avg_dollar_vol": 54177871,
+      "max_day_jump_pct": 11.7,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "AAL",
+      "price": 12.21,
+      "momentum_pct": 4.58,
+      "avg_dollar_vol": 35476232,
+      "max_day_jump_pct": 3.72,
+      "sector": "Unknown",
+      "headlines": []
+    }
+  ],
+  "decisions": [],
+  "rejected": [],
+  "orders": [],
+  "stops": [
+    {
+      "symbol": "DV",
+      "qty": 3,
+      "stop_price": 12.86,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"3\",\"held_for_orders\":\"3\",\"message\":\"insufficient qty available for order (requested: 3, available: 0)\",\"related_orders\":[\"4e068a33-8995-4b10-97e7-a75eec63a3ec\"],\"symbol\":\"DV\"}"
+    }
+  ],
+  "written_at": "2026-10-26T19:31:34.398545+00:00"
+}

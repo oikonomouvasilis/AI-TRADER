@@ -1,6 +1,43 @@
 {
-  "updated_at": "2026-10-23T17:57:15.461734+00:00",
+  "updated_at": "2026-10-26T19:31:34.929365+00:00",
   "days": [
+    {
+      "day": "2026-10-26",
+      "equity": 99961.41,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "TSLL",
+          "price": 10.88,
+          "momentum_pct": 13.63,
+          "avg_dollar_vol": 52904719,
+          "max_day_jump_pct": 11.59,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "TSLG",
+          "price": 5.44,
+          "momentum_pct": 13.57,
+          "avg_dollar_vol": 54177871,
+          "max_day_jump_pct": 11.7,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "AAL",
+          "price": 12.21,
+          "momentum_pct": 4.58,
+          "avg_dollar_vol": 35476232,
+          "max_day_jump_pct": 3.72,
+          "sector": "Unknown",
+          "headlines": []
+        }
+      ],
+      "decisions": [],
+      "rejected": [],
+      "orders": []
+    },
     {
       "day": "2026-10-23",
       "equity": 99961.44,
