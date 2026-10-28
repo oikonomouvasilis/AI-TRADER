@@ -1,0 +1,64 @@
+{
+  "day": "2026-10-28",
+  "equity": 99961.49,
+  "candidates": [
+    {
+      "symbol": "TSLL",
+      "price": 11.43,
+      "momentum_pct": 19.37,
+      "avg_dollar_vol": 50906387,
+      "max_day_jump_pct": 10.36,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "SOFI",
+      "price": 16.98,
+      "momentum_pct": 18.82,
+      "avg_dollar_vol": 34195725,
+      "max_day_jump_pct": 13.45,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "TSLG",
+      "price": 5.69,
+      "momentum_pct": 18.79,
+      "avg_dollar_vol": 49764602,
+      "max_day_jump_pct": 10.57,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "STLA",
+      "price": 4.73,
+      "momentum_pct": 10.0,
+      "avg_dollar_vol": 9471544,
+      "max_day_jump_pct": 13.84,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "AAL",
+      "price": 12.56,
+      "momentum_pct": 7.58,
+      "avg_dollar_vol": 32386620,
+      "max_day_jump_pct": 3.72,
+      "sector": "Unknown",
+      "headlines": []
+    }
+  ],
+  "decisions": [],
+  "rejected": [],
+  "orders": [],
+  "stops": [
+    {
+      "symbol": "DV",
+      "qty": 3,
+      "stop_price": 12.86,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"3\",\"held_for_orders\":\"3\",\"message\":\"insufficient qty available for order (requested: 3, available: 0)\",\"related_orders\":[\"4e068a33-8995-4b10-97e7-a75eec63a3ec\"],\"symbol\":\"DV\"}"
+    }
+  ],
+  "written_at": "2026-10-28T19:04:15.207873+00:00"
+}
