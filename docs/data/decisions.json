@@ -1,6 +1,52 @@
 {
-  "updated_at": "2026-10-28T19:04:15.674219+00:00",
+  "updated_at": "2026-10-29T19:11:11.847725+00:00",
   "days": [
+    {
+      "day": "2026-10-29",
+      "equity": 99961.49,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "PURR",
+          "price": 11.88,
+          "momentum_pct": 29.99,
+          "avg_dollar_vol": 9500726,
+          "max_day_jump_pct": 19.11,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "SOFI",
+          "price": 17.54,
+          "momentum_pct": 19.41,
+          "avg_dollar_vol": 38594110,
+          "max_day_jump_pct": 13.45,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "NCLH",
+          "price": 18.36,
+          "momentum_pct": 17.25,
+          "avg_dollar_vol": 22390897,
+          "max_day_jump_pct": 14.08,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "AAL",
+          "price": 12.91,
+          "momentum_pct": 6.6,
+          "avg_dollar_vol": 33916138,
+          "max_day_jump_pct": 3.4,
+          "sector": "Unknown",
+          "headlines": []
+        }
+      ],
+      "decisions": [],
+      "rejected": [],
+      "orders": []
+    },
     {
       "day": "2026-10-28",
       "equity": 99961.49,
