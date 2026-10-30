@@ -1,19 +1,13 @@
 {
-  "updated_at": "2026-10-29T19:11:11.842383+00:00",
+  "updated_at": "2026-10-30T18:49:10.787191+00:00",
   "account": {
     "equity": 99961.49,
     "cash": 99920.79,
     "buying_power": 399797.11,
     "long_market_value": 40.7,
-    "last_equity": 99961.38
+    "last_equity": 99961.5
   },
   "curve": [
-    {
-      "t": "2026-09-30",
-      "equity": 99960.99,
-      "pl": 0.0,
-      "pl_pct": 0.0
-    },
     {
       "t": "2026-10-01",
       "equity": 99961.26,
@@ -139,9 +133,15 @@
       "equity": 99961.38,
       "pl": -0.03,
       "pl_pct": 0.0
+    },
+    {
+      "t": "2026-10-30",
+      "equity": 99961.5,
+      "pl": 0.12,
+      "pl_pct": 0.0
     }
   ],
-  "base_value": 99960.99,
+  "base_value": 99961.26,
   "positions": [
     {
       "symbol": "DV",
