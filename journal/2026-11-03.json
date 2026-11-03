@@ -1,0 +1,109 @@
+{
+  "day": "2026-11-03",
+  "equity": 99961.47,
+  "candidates": [
+    {
+      "symbol": "RKT",
+      "price": 13.85,
+      "momentum_pct": 20.5,
+      "avg_dollar_vol": 37435027,
+      "max_day_jump_pct": 7.83,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "SOFI",
+      "price": 16.69,
+      "momentum_pct": 15.42,
+      "avg_dollar_vol": 46341086,
+      "max_day_jump_pct": 13.45,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "GRAB",
+      "price": 3.1,
+      "momentum_pct": 14.42,
+      "avg_dollar_vol": 9325099,
+      "max_day_jump_pct": 7.84,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "PLTD",
+      "price": 5.05,
+      "momentum_pct": 13.23,
+      "avg_dollar_vol": 15962221,
+      "max_day_jump_pct": 6.54,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "SQQQ",
+      "price": 42.92,
+      "momentum_pct": 11.7,
+      "avg_dollar_vol": 60823801,
+      "max_day_jump_pct": 10.49,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "NVD",
+      "price": 4.35,
+      "momentum_pct": 8.89,
+      "avg_dollar_vol": 118012219,
+      "max_day_jump_pct": 8.33,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "QID",
+      "price": 15.36,
+      "momentum_pct": 7.94,
+      "avg_dollar_vol": 64041132,
+      "max_day_jump_pct": 7.02,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "AAL",
+      "price": 12.8,
+      "momentum_pct": 5.05,
+      "avg_dollar_vol": 25735373,
+      "max_day_jump_pct": 3.73,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "MSTZ",
+      "price": 3.07,
+      "momentum_pct": 4.42,
+      "avg_dollar_vol": 10416430,
+      "max_day_jump_pct": 15.79,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "CIFR",
+      "price": 7.99,
+      "momentum_pct": 3.83,
+      "avg_dollar_vol": 19393163,
+      "max_day_jump_pct": 16.39,
+      "sector": "Unknown",
+      "headlines": []
+    }
+  ],
+  "decisions": [],
+  "rejected": [],
+  "orders": [],
+  "stops": [
+    {
+      "symbol": "DV",
+      "qty": 3,
+      "stop_price": 12.86,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"3\",\"held_for_orders\":\"3\",\"message\":\"insufficient qty available for order (requested: 3, available: 0)\",\"related_orders\":[\"4e068a33-8995-4b10-97e7-a75eec63a3ec\"],\"symbol\":\"DV\"}"
+    }
+  ],
+  "written_at": "2026-11-03T20:16:17.262839+00:00"
+}
