@@ -1,6 +1,97 @@
 {
-  "updated_at": "2026-11-03T20:16:17.643562+00:00",
+  "updated_at": "2026-11-04T20:31:26.330655+00:00",
   "days": [
+    {
+      "day": "2026-11-04",
+      "equity": 99961.52,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "RIOT",
+          "price": 15.7,
+          "momentum_pct": 24.46,
+          "avg_dollar_vol": 26175397,
+          "max_day_jump_pct": 18.46,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "GRAB",
+          "price": 3.37,
+          "momentum_pct": 24.4,
+          "avg_dollar_vol": 10798379,
+          "max_day_jump_pct": 8.54,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "FTCI",
+          "price": 1.52,
+          "momentum_pct": 16.92,
+          "avg_dollar_vol": 236676,
+          "max_day_jump_pct": 8.63,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "PLTD",
+          "price": 5.13,
+          "momentum_pct": 15.02,
+          "avg_dollar_vol": 17718383,
+          "max_day_jump_pct": 6.54,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "NVD",
+          "price": 4.53,
+          "momentum_pct": 13.39,
+          "avg_dollar_vol": 121176300,
+          "max_day_jump_pct": 8.33,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "STLA",
+          "price": 4.63,
+          "momentum_pct": 13.2,
+          "avg_dollar_vol": 10940795,
+          "max_day_jump_pct": 13.12,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "AAL",
+          "price": 13.66,
+          "momentum_pct": 12.06,
+          "avg_dollar_vol": 28788642,
+          "max_day_jump_pct": 6.47,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "SQQQ",
+          "price": 41.26,
+          "momentum_pct": 7.38,
+          "avg_dollar_vol": 64022296,
+          "max_day_jump_pct": 10.49,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "PLUG",
+          "price": 1.44,
+          "momentum_pct": 5.13,
+          "avg_dollar_vol": 2801436,
+          "max_day_jump_pct": 8.33,
+          "sector": "Unknown",
+          "headlines": []
+        }
+      ],
+      "decisions": [],
+      "rejected": [],
+      "orders": []
+    },
     {
       "day": "2026-11-03",
       "equity": 99961.47,
