@@ -1,6 +1,70 @@
 {
-  "updated_at": "2026-11-04T20:31:26.330655+00:00",
+  "updated_at": "2026-11-05T20:48:27.879648+00:00",
   "days": [
+    {
+      "day": "2026-11-05",
+      "equity": 99961.43,
+      "note": null,
+      "candidates": [
+        {
+          "symbol": "NVD",
+          "price": 5.43,
+          "momentum_pct": 38.52,
+          "avg_dollar_vol": 116382710,
+          "max_day_jump_pct": 17.66,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "SQQQ",
+          "price": 48.84,
+          "momentum_pct": 32.25,
+          "avg_dollar_vol": 78247609,
+          "max_day_jump_pct": 17.46,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "GRAB",
+          "price": 3.48,
+          "momentum_pct": 28.18,
+          "avg_dollar_vol": 13946298,
+          "max_day_jump_pct": 8.54,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "MSTZ",
+          "price": 3.21,
+          "momentum_pct": 11.28,
+          "avg_dollar_vol": 9338058,
+          "max_day_jump_pct": 17.18,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "SPDN",
+          "price": 8.83,
+          "momentum_pct": 4.56,
+          "avg_dollar_vol": 38527598,
+          "max_day_jump_pct": 4.0,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "RWM",
+          "price": 14.78,
+          "momentum_pct": 3.14,
+          "avg_dollar_vol": 87821325,
+          "max_day_jump_pct": 4.45,
+          "sector": "Unknown",
+          "headlines": []
+        }
+      ],
+      "decisions": [],
+      "rejected": [],
+      "orders": []
+    },
     {
       "day": "2026-11-04",
       "equity": 99961.52,

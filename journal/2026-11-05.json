@@ -1,0 +1,73 @@
+{
+  "day": "2026-11-05",
+  "equity": 99961.43,
+  "candidates": [
+    {
+      "symbol": "NVD",
+      "price": 5.43,
+      "momentum_pct": 38.52,
+      "avg_dollar_vol": 116382710,
+      "max_day_jump_pct": 17.66,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "SQQQ",
+      "price": 48.84,
+      "momentum_pct": 32.25,
+      "avg_dollar_vol": 78247609,
+      "max_day_jump_pct": 17.46,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "GRAB",
+      "price": 3.48,
+      "momentum_pct": 28.18,
+      "avg_dollar_vol": 13946298,
+      "max_day_jump_pct": 8.54,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "MSTZ",
+      "price": 3.21,
+      "momentum_pct": 11.28,
+      "avg_dollar_vol": 9338058,
+      "max_day_jump_pct": 17.18,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "SPDN",
+      "price": 8.83,
+      "momentum_pct": 4.56,
+      "avg_dollar_vol": 38527598,
+      "max_day_jump_pct": 4.0,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "RWM",
+      "price": 14.78,
+      "momentum_pct": 3.14,
+      "avg_dollar_vol": 87821325,
+      "max_day_jump_pct": 4.45,
+      "sector": "Unknown",
+      "headlines": []
+    }
+  ],
+  "decisions": [],
+  "rejected": [],
+  "orders": [],
+  "stops": [
+    {
+      "symbol": "DV",
+      "qty": 3,
+      "stop_price": 12.86,
+      "status": "error",
+      "error": "{\"available\":\"0\",\"code\":40310000,\"existing_qty\":\"3\",\"held_for_orders\":\"3\",\"message\":\"insufficient qty available for order (requested: 3, available: 0)\",\"related_orders\":[\"4e068a33-8995-4b10-97e7-a75eec63a3ec\"],\"symbol\":\"DV\"}"
+    }
+  ],
+  "written_at": "2026-11-05T20:48:27.428482+00:00"
+}
