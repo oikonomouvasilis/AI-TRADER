@@ -1,6 +1,61 @@
 {
-  "updated_at": "2026-11-05T20:48:27.879648+00:00",
+  "updated_at": "2026-11-06T20:03:43.869843+00:00",
   "days": [
+    {
+      "day": "2026-11-06",
+      "equity": 99961.47,
+      "note": "agent_unavailable: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Developer instruction is not enabled for api version v1. Use api version v1beta instead.', 'status': 'INVALID_ARGUMENT'}}",
+      "candidates": [
+        {
+          "symbol": "SQQQ",
+          "price": 47.01,
+          "momentum_pct": 29.61,
+          "avg_dollar_vol": 84182706,
+          "max_day_jump_pct": 19.02,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "NVD",
+          "price": 5.09,
+          "momentum_pct": 26.77,
+          "avg_dollar_vol": 111156093,
+          "max_day_jump_pct": 18.2,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "GRAB",
+          "price": 3.42,
+          "momentum_pct": 24.77,
+          "avg_dollar_vol": 15971508,
+          "max_day_jump_pct": 8.54,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "AAL",
+          "price": 13.18,
+          "momentum_pct": 4.77,
+          "avg_dollar_vol": 32516034,
+          "max_day_jump_pct": 6.24,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "SPDN",
+          "price": 8.8,
+          "momentum_pct": 4.63,
+          "avg_dollar_vol": 45916738,
+          "max_day_jump_pct": 4.36,
+          "sector": "Unknown",
+          "headlines": []
+        }
+      ],
+      "decisions": [],
+      "rejected": [],
+      "orders": []
+    },
     {
       "day": "2026-11-05",
       "equity": 99961.43,
