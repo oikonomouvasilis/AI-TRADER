@@ -1,0 +1,83 @@
+{
+  "day": "2026-11-10",
+  "equity": 99961.49,
+  "candidates": [
+    {
+      "symbol": "NVD",
+      "price": 6.28,
+      "momentum_pct": 38.02,
+      "avg_dollar_vol": 87349731,
+      "max_day_jump_pct": 18.2,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "TTD",
+      "price": 15.39,
+      "momentum_pct": 22.63,
+      "avg_dollar_vol": 19719671,
+      "max_day_jump_pct": 15.62,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "GRAB",
+      "price": 3.33,
+      "momentum_pct": 15.85,
+      "avg_dollar_vol": 21678355,
+      "max_day_jump_pct": 8.54,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "WULF",
+      "price": 12.43,
+      "momentum_pct": 13.72,
+      "avg_dollar_vol": 41148122,
+      "max_day_jump_pct": 14.73,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "MARA",
+      "price": 7.25,
+      "momentum_pct": 12.67,
+      "avg_dollar_vol": 9105585,
+      "max_day_jump_pct": 11.66,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "MSTZ",
+      "price": 3.69,
+      "momentum_pct": 12.16,
+      "avg_dollar_vol": 8775526,
+      "max_day_jump_pct": 18.46,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "AAL",
+      "price": 14.07,
+      "momentum_pct": 7.65,
+      "avg_dollar_vol": 35213725,
+      "max_day_jump_pct": 7.52,
+      "sector": "Unknown",
+      "headlines": []
+    },
+    {
+      "symbol": "PLUG",
+      "price": 1.36,
+      "momentum_pct": 3.41,
+      "avg_dollar_vol": 3163469,
+      "max_day_jump_pct": 8.33,
+      "sector": "Unknown",
+      "headlines": []
+    }
+  ],
+  "decisions": [],
+  "orders": [],
+  "stops": [],
+  "note": "agent_unavailable: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Developer instruction is not enabled for api version v1. Use api version v1beta instead.', 'status': 'INVALID_ARGUMENT'}}",
+  "written_at": "2026-11-10T20:35:17.654807+00:00"
+}
