@@ -1,6 +1,43 @@
 {
-  "updated_at": "2026-11-10T20:35:18.211244+00:00",
+  "updated_at": "2026-11-13T20:38:23.148039+00:00",
   "days": [
+    {
+      "day": "2026-11-13",
+      "equity": 99961.46,
+      "note": "agent_unavailable: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Developer instruction is not enabled for api version v1. Use api version v1beta instead.', 'status': 'INVALID_ARGUMENT'}}",
+      "candidates": [
+        {
+          "symbol": "MSTZ",
+          "price": 4.22,
+          "momentum_pct": 54.48,
+          "avg_dollar_vol": 10802398,
+          "max_day_jump_pct": 18.46,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "NVD",
+          "price": 6.73,
+          "momentum_pct": 45.83,
+          "avg_dollar_vol": 58180779,
+          "max_day_jump_pct": 18.2,
+          "sector": "Unknown",
+          "headlines": []
+        },
+        {
+          "symbol": "NU",
+          "price": 13.06,
+          "momentum_pct": 9.02,
+          "avg_dollar_vol": 60916084,
+          "max_day_jump_pct": 10.72,
+          "sector": "Unknown",
+          "headlines": []
+        }
+      ],
+      "decisions": [],
+      "rejected": [],
+      "orders": []
+    },
     {
       "day": "2026-11-10",
       "equity": 99961.49,

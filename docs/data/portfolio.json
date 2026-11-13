@@ -1,19 +1,13 @@
 {
-  "updated_at": "2026-11-10T20:35:18.205295+00:00",
+  "updated_at": "2026-11-13T20:38:23.142570+00:00",
   "account": {
-    "equity": 99961.49,
+    "equity": 99961.46,
     "cash": 99920.79,
-    "buying_power": 399797.11,
-    "long_market_value": 40.7,
-    "last_equity": 99961.47
+    "buying_power": 399797.02,
+    "long_market_value": 40.67,
+    "last_equity": 99961.5
   },
   "curve": [
-    {
-      "t": "2026-10-13",
-      "equity": 99961.35,
-      "pl": 0.09,
-      "pl_pct": 0.0
-    },
     {
       "t": "2026-10-14",
       "equity": 99961.47,
@@ -133,34 +127,52 @@
       "equity": 99961.47,
       "pl": 0.0,
       "pl_pct": 0.0
+    },
+    {
+      "t": "2026-11-11",
+      "equity": 99961.5,
+      "pl": 0.03,
+      "pl_pct": 0.0
+    },
+    {
+      "t": "2026-11-12",
+      "equity": 99961.5,
+      "pl": 0.0,
+      "pl_pct": 0.0
+    },
+    {
+      "t": "2026-11-13",
+      "equity": 99961.5,
+      "pl": 0.0,
+      "pl_pct": 0.0
     }
   ],
-  "base_value": 99961.35,
+  "base_value": 99961.47,
   "positions": [
     {
       "symbol": "DV",
       "qty": 3.0,
       "entry_price": 13.27,
-      "current_price": 13.565,
-      "market_value": 40.7,
-      "unrealized_pl": 0.89,
-      "unrealized_plpc": 2.22,
+      "current_price": 13.555,
+      "market_value": 40.66,
+      "unrealized_pl": 0.85,
+      "unrealized_plpc": 2.15,
       "sector": "Media"
     }
   ],
   "sector_allocation": [
     {
       "sector": "Media",
-      "market_value": 40.7,
+      "market_value": 40.66,
       "pct": 100.0
     }
   ],
   "kpis": {
-    "equity": 99961.49,
-    "total_pl": -37.43,
-    "total_pl_pct": 0.0,
+    "equity": 99961.46,
+    "total_pl": -37.47,
+    "total_pl_pct": -0.0,
     "realized_pl": -38.32,
-    "unrealized_pl": 0.89,
+    "unrealized_pl": 0.85,
     "open_positions": 1,
     "num_closed_trades": 67,
     "win_rate": 16.4
